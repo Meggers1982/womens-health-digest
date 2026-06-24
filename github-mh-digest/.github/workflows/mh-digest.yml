@@ -1,0 +1,112 @@
+name: Mental Health Research Digest
+
+on:
+  # Runs every Monday at 9:00 AM ET (14:00 UTC)
+  schedule:
+    - cron: '0 14 * * 1'
+
+  # Manual trigger — optionally override a single category+chunk
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Category to run (leave blank for all)'
+        required: false
+        default: ''
+      chunk_index:
+        description: 'Chunk index to run (1-based, leave blank for all)'
+        required: false
+        default: ''
+
+jobs:
+  digest:
+    name: "${{ matrix.category }} ${{ matrix.chunk_total > 1 && format('({0}/{1})', matrix.chunk_index, matrix.chunk_total) || '' }}"
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    # On manual dispatch with a specific category, only run that job
+    if: |
+      github.event_name == 'schedule' ||
+      github.event.inputs.category == '' ||
+      (github.event.inputs.category == matrix.category &&
+       (github.event.inputs.chunk_index == '' || github.event.inputs.chunk_index == matrix.chunk_index))
+
+    strategy:
+      fail-fast: false   # one job failing won't cancel the others
+      matrix:
+        include:
+          # ── Psychology (135 journals → 3 chunks of ~45) ──────────────────
+          - category: Psychology
+            chunk_index: "1"
+            chunk_total: 3
+          - category: Psychology
+            chunk_index: "2"
+            chunk_total: 3
+          - category: Psychology
+            chunk_index: "3"
+            chunk_total: 3
+
+          # ── Psychiatry (111 journals → 2 chunks of ~55) ──────────────────
+          - category: Psychiatry
+            chunk_index: "1"
+            chunk_total: 2
+          - category: Psychiatry
+            chunk_index: "2"
+            chunk_total: 2
+
+          # ── Behavioral Sciences (88 journals → 2 chunks of ~44) ──────────
+          - category: Behavioral Sciences
+            chunk_index: "1"
+            chunk_total: 2
+          - category: Behavioral Sciences
+            chunk_index: "2"
+            chunk_total: 2
+
+          # ── Smaller categories — single runs ─────────────────────────────
+          - category: Brain
+            chunk_index: "1"
+            chunk_total: 1
+
+          - category: Neurology
+            chunk_index: "1"
+            chunk_total: 1
+
+          - category: Psychophysiology
+            chunk_index: "1"
+            chunk_total: 1
+
+          - category: Psychopharmacology
+            chunk_index: "1"
+            chunk_total: 1
+
+          - category: Social Sciences
+            chunk_index: "1"
+            chunk_total: 1
+
+          - category: Substance-Related Disorders
+            chunk_index: "1"
+            chunk_total: 1
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SERPAPI_KEY:       ${{ secrets.SERPAPI_KEY }}
+          RESEND_API_KEY:    ${{ secrets.RESEND_API_KEY }}
+          FROM_EMAIL:        ${{ secrets.FROM_EMAIL }}
+          RECIPIENT_EMAIL:   meagan.lea.morris@gmail.com
+          CATEGORIES:        ${{ matrix.category }}
+          CHUNK_INDEX:       ${{ matrix.chunk_index }}
+          CHUNK_TOTAL:       ${{ matrix.chunk_total }}
+          TOPIC_FOCUS:       ""
+        run: python scripts/mh_digest.py
