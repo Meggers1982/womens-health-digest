@@ -1,83 +1,24 @@
-name: Mental Health Research Digest
+name: Women's Health Research Digest
 
 on:
   # Runs every morning at 7:00 AM ET (12:00 UTC)
   schedule:
     - cron: '0 12 * * *'
 
-  # Manual trigger — optionally override a single category+chunk
+  # Manual trigger
   workflow_dispatch:
     inputs:
       category:
         description: 'Category to run (leave blank for all)'
         required: false
         default: ''
-      chunk_index:
-        description: 'Chunk index to run (1-based, leave blank for all)'
-        required: false
-        default: ''
 
 jobs:
-  # ── Matrix jobs: one per category/chunk ─────────────────────────────────
+  # ── Single job: Women's Health & Menopause ───────────────────────────────
   digest:
-    name: "${{ matrix.category }} ${{ matrix.chunk_total > 1 && format('({0}/{1})', matrix.chunk_index, matrix.chunk_total) || '' }}"
+    name: "Womens Health & Menopause"
     runs-on: ubuntu-latest
     timeout-minutes: 20
-    strategy:
-      fail-fast: false   # one job failing won't cancel the others
-      matrix:
-        include:
-          # ── Psychology (135 journals → 3 chunks of ~45) ──────────────────
-          - category: Psychology
-            chunk_index: "1"
-            chunk_total: 3
-          - category: Psychology
-            chunk_index: "2"
-            chunk_total: 3
-          - category: Psychology
-            chunk_index: "3"
-            chunk_total: 3
-
-          # ── Psychiatry (111 journals → 2 chunks of ~55) ──────────────────
-          - category: Psychiatry
-            chunk_index: "1"
-            chunk_total: 2
-          - category: Psychiatry
-            chunk_index: "2"
-            chunk_total: 2
-
-          # ── Behavioral Sciences (88 journals → 2 chunks of ~44) ──────────
-          - category: Behavioral Sciences
-            chunk_index: "1"
-            chunk_total: 2
-          - category: Behavioral Sciences
-            chunk_index: "2"
-            chunk_total: 2
-
-          # ── Smaller categories — single runs ─────────────────────────────
-          - category: Brain
-            chunk_index: "1"
-            chunk_total: 1
-
-          - category: Neurology
-            chunk_index: "1"
-            chunk_total: 1
-
-          - category: Psychophysiology
-            chunk_index: "1"
-            chunk_total: 1
-
-          - category: Psychopharmacology
-            chunk_index: "1"
-            chunk_total: 1
-
-          - category: Social Sciences
-            chunk_index: "1"
-            chunk_total: 1
-
-          - category: Substance-Related Disorders
-            chunk_index: "1"
-            chunk_total: 1
 
     steps:
       - name: Checkout repository
@@ -98,24 +39,24 @@ jobs:
           SERPAPI_KEY:       ${{ secrets.SERPAPI_KEY }}
           RESEND_API_KEY:    ${{ secrets.RESEND_API_KEY }}
           RECIPIENT_EMAIL:   meagan.lea.morris@gmail.com
-          CATEGORIES:        ${{ matrix.category }}
-          CHUNK_INDEX:       ${{ matrix.chunk_index }}
-          CHUNK_TOTAL:       ${{ matrix.chunk_total }}
+          CATEGORIES:        "Womens Health & Menopause"
+          CHUNK_INDEX:       "1"
+          CHUNK_TOTAL:       "1"
           TOPIC_FOCUS:       ""
           FILTER_CATEGORY:   ${{ github.event.inputs.category }}
-          DASHBOARD_URL:     https://meggers1982.github.io/new-scientist-story-ideas/
+          DASHBOARD_URL:     ${{ vars.DASHBOARD_URL }}
         run: python scripts/mh_digest.py
 
       - name: Upload results artifact
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: results-${{ matrix.category }}-${{ matrix.chunk_index }}
+          name: results-womens-health-1
           path: /tmp/results.json
           if-no-files-found: ignore
           retention-days: 1
 
-  # ── Deploy job: merge all artifacts → data/results.json → GitHub Pages ──
+  # ── Deploy job: merge artifact → data/results.json → GitHub Pages ────────
   deploy:
     name: "Merge & deploy dashboard"
     runs-on: ubuntu-latest
@@ -151,7 +92,7 @@ jobs:
         env:
           RESEND_API_KEY:  ${{ secrets.RESEND_API_KEY }}
           RECIPIENT_EMAIL: meagan.lea.morris@gmail.com
-          DASHBOARD_URL:   https://meggers1982.github.io/new-scientist-story-ideas/
+          DASHBOARD_URL:   ${{ vars.DASHBOARD_URL }}
         run: python scripts/merge_results.py
 
       - name: Commit and push updated results
