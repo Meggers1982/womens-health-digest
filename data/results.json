@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-24T20:56:22.862790+00:00",
-  "total_studies": 112,
-  "new_this_run": 0,
+  "last_updated": "2026-06-24T21:09:42.312549+00:00",
+  "total_studies": 119,
+  "new_this_run": 7,
   "studies": [
     {
       "pmid": "42339841",
@@ -273,6 +273,36 @@
       "status": "new"
     },
     {
+      "pmid": "42333959",
+      "headline": "A minimally invasive procedure saved one woman's fertility after catastrophic postpartum bleeding \u2014 and it's still underused",
+      "journal": "International Journal of Gynaecology and Obstetrics",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1002/ijgo.71168",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This is a case report describing a 36-year-old woman (Para-3) in Bangladesh who experienced recurrent severe secondary postpartum hemorrhage (PPH) 40 days after a cesarean delivery of twins, complicated by a suspected arteriovenous malformation (AVM) at the cesarean scar site. After 11 units of blood transfusion and failed conservative management, she underwent bilateral uterine artery embolization (UAE) using coils, which successfully controlled the bleeding. The case report highlights UAE as a minimally invasive, fertility-preserving alternative to hysterectomy for women with secondary PPH caused by AVM, and references a published success rate of 85% for UAE in secondary PPH \u2014 though this figure is not derived from the case itself.",
+      "why_it_matters": "Postpartum hemorrhage is a leading cause of maternal mortality worldwide, and secondary PPH \u2014 which occurs days to weeks after delivery \u2014 is less well recognized than immediate postpartum bleeding; this case illustrates that a fertility-preserving intervention exists that may be underutilized, which is particularly significant for younger women who wish to have more children.",
+      "caveats": "small sample (N=1 \u2014 single case report), single-center, observational design",
+      "fact_check_note": "This is a single case report (N=1), not a clinical trial or cohort study. The 85% success rate cited in the abstract refers to UAE in secondary PPH generally and is drawn from prior literature, not this case. Summary and caveats accurately reflect the study design. No primary new data beyond the single case.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Directly relevant to maternal health and fertility preservation, but as a single case report (N=1) it carries very limited evidentiary weight and is difficult to pitch to mainstream outlets without broader context from the existing literature.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Postpartum Hemorrhage Doesn't Always Happen Right After Birth \u2014 And a Little-Known Procedure Can Treat It Without Hysterectomy",
+          "hook": "A woman in Bangladesh suffered life-threatening hemorrhage 40 days after giving birth \u2014 and a minimally invasive procedure that preserved her fertility stopped the bleeding when nothing else worked.",
+          "why_it_fits": "General health outlets covering maternal mortality and postpartum care would find the 'hidden danger after birth' framing timely, especially given growing media focus on maternal mortality rates.",
+          "pitch_angle": "Most people think postpartum hemorrhage happens in the delivery room \u2014 but secondary PPH can strike weeks later and is far less recognized by patients and even some clinicians. This case report from Bangladesh spotlights uterine artery embolization (UAE) as a fertility-sparing option when bleeding returns and conventional treatments fail, and it's a jumping-off point for a broader reported piece on why UAE remains underused and what women should know about late postpartum bleeding. A journalist would need to supplement this single case with expert commentary and epidemiological data.",
+          "caveats_to_flag": "This is a single case report with no comparative data; the 85% success rate cited comes from prior literature, not this study. Journalists should seek out systematic reviews or larger series on UAE for secondary PPH to provide appropriate context."
+        }
+      ],
+      "run_date": "2026-06-24",
+      "category": "all",
+      "chunk": "1/1",
+      "status": "new"
+    },
+    {
       "pmid": "42330032",
       "headline": "One in eight opioid patients gives inconsistent answers about past suicide attempts \u2014 and clinicians may be missing it",
       "journal": "Journal of Dual Diagnosis",
@@ -381,6 +411,74 @@
       "status": "new"
     },
     {
+      "pmid": "42332673",
+      "headline": "A blood test in the first trimester may predict severe preeclampsia months before symptoms appear",
+      "journal": "BMC Pregnancy and Childbirth",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1186/s12884-026-09532-0",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used targeted metabolomic analysis of first-trimester plasma samples to identify eicosanoid biomarkers that may predict severe preeclampsia before symptoms develop. Within a prospective cohort of 5,809 pregnant women, a nested case-control study compared 45 women who later developed severe preeclampsia with 41 controls who had uncomplicated pregnancies. Ten eicosanoid metabolites differed significantly between groups; a ratio of two specific metabolites (14-HDoHE/19,20-EDP) was identified as the strongest predictive marker. Adding this ratio to an existing screening algorithm improved predictive accuracy, raising the area under the curve from 0.77 to 0.87.",
+      "why_it_matters": "Preeclampsia is a leading cause of maternal and infant mortality worldwide, and severe cases are notoriously difficult to predict early; a first-trimester blood-based metabolic signal could give clinicians a much longer window for monitoring and intervention planning. The study also suggests specific biological pathways \u2014 including the COX pathway already targeted by low-dose aspirin \u2014 as potential prevention targets.",
+      "caveats": "small sample (N=86 in the nested case-control analysis), single-center, observational design",
+      "fact_check_note": "The abstract states the nested case-control drew from a prospective cohort of 5,809 women but the analytical sample was 45 cases and 41 controls (N=86). Summary accurately reflects this distinction. No sex-disaggregated caveat applied as this is a study conducted exclusively in pregnant women.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "Directly addresses a serious women's-only pregnancy complication with a novel early-detection finding, strong clinical hook, and a large parent cohort \u2014 docked for small nested case-control sample and single-center design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A Simple Blood Test Taken Early in Pregnancy Could Flag Severe Preeclampsia Months in Advance",
+          "hook": "Researchers found that measuring specific fat-derived molecules in first-trimester blood may predict severe preeclampsia far earlier than current screening methods allow.",
+          "why_it_fits": "Prevention readers skew toward women planning families or supporting pregnant loved ones and are highly engaged with disease-prevention angles tied to actionable science.",
+          "pitch_angle": "Severe preeclampsia strikes without warning and remains a top cause of maternal death globally. A new study suggests that measuring a ratio of two eicosanoid metabolites in first-trimester blood could substantially sharpen existing screening tools. The finding also points to familiar prevention pathways \u2014 including low-dose aspirin \u2014 giving the story a practical wellness hook alongside the science.",
+          "caveats_to_flag": "The nested case-control had only 86 participants; findings are preliminary and require validation in larger, more diverse populations before any clinical application."
+        },
+        {
+          "publication_type": "General health",
+          "headline": "Researchers Identify First-Trimester Blood Signature That May Predict the Most Dangerous Form of Preeclampsia",
+          "hook": "A metabolic fingerprint detectable in the first trimester \u2014 long before any symptoms emerge \u2014 was associated with severe preeclampsia in a new study.",
+          "why_it_fits": "General health outlets covering maternal health and obstetric innovation would find the metabolomics angle and the potential to improve on existing algorithms newsworthy for a broad audience.",
+          "pitch_angle": "Scientists analyzing blood samples collected as early as the first trimester found that women who later developed severe preeclampsia had a distinct eicosanoid metabolic profile \u2014 specifically an elevated ratio of 14-HDoHE to 19,20-EDP. Adding this biomarker to an established screening algorithm improved predictive accuracy from 77% to 87%. The study is small but draws from a prospective cohort of nearly 6,000 pregnant women, lending it more weight than its nested sample size alone suggests.",
+          "caveats_to_flag": "Nested case-control of only 86 women; single-center study conducted in China; results need replication before clinical translation."
+        }
+      ],
+      "run_date": "2026-06-24",
+      "category": "all",
+      "chunk": "1/1",
+      "status": "new"
+    },
+    {
+      "pmid": "42332050",
+      "headline": "A Specific Ventilation Strategy at Birth May Lower Rates of Serious Brain Bleeds in the Tiniest Premature Babies",
+      "journal": "Journal of Perinatology",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1038/s41372-026-02751-5",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a sub-analysis of the VentFirst multi-center randomized trial, examining head ultrasound findings in 548 infants born before 29 weeks' gestation who survived to their first ultrasound. Any grade of intraventricular hemorrhage (IVH) was found in 31% of infants, and severe IVH (grade III/IV) in 8%. Logistic regression identified lower gestational age, twin gestation, and low 1-minute Apgar score as risk factors for severe IVH. Compared with a contemporaneous population in the Vermont Oxford Network, infants in the VentFirst trial had lower odds of any IVH and severe IVH, which the authors suggest may reflect optimized delivery room conditions.",
+      "why_it_matters": "For women who deliver extremely preterm infants \u2014 including those carrying twins, who are at elevated risk \u2014 understanding how delivery room ventilation approaches may influence devastating brain injuries could inform conversations with care teams about birth planning.",
+      "caveats": "secondary analysis, no female-specific breakdown",
+      "fact_check_note": "Abstract confirms N=548, multi-center RCT sub-analysis design, and the specific risk factors and IVH rates cited. The comparison to Vermont Oxford Network is explicitly described as a contemporaneous cohort comparison. No sex-disaggregated data on neonates reported. No small-sample, self-report, or industry funding flags identified in the abstract.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Reasonably sized multi-center RCT sub-analysis with a relevant finding for mothers of preterm infants, but the women's health hook is indirect and there are no female-specific outcome breakdowns.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "How Babies Are Helped to Breathe in Their First Seconds May Protect Their Brains, New Study Suggests",
+          "hook": "Premature infants enrolled in a trial using a specific first-breath ventilation strategy had lower rates of serious brain bleeds than similar babies born during the same period.",
+          "why_it_fits": "Parents of preterm babies \u2014 disproportionately mothers who have experienced preterm labor, twin pregnancies, or high-risk deliveries \u2014 are intensely interested in any intervention that might protect their newborn's developing brain.",
+          "pitch_angle": "Intraventricular hemorrhage is one of the most feared complications of extreme prematurity, and twins are at heightened risk. A sub-analysis of the VentFirst randomized trial involving 548 very preterm infants found that those in the trial had lower odds of any brain bleed compared to a similar national population, suggesting that how delivery teams manage a baby's airway in the first moments of life may matter more than previously appreciated. Experts caution the finding needs further study before changing standard practice.",
+          "caveats_to_flag": "This is a secondary analysis, not a primary outcome of the trial; comparisons to the Vermont Oxford Network are observational in nature; results may reflect selection effects from trial participation."
+        }
+      ],
+      "run_date": "2026-06-24",
+      "category": "all",
+      "chunk": "1/1",
+      "status": "new"
+    },
+    {
       "pmid": "42323721",
       "headline": "Stigma in the clinic pushes Black and Latine LGBTQ+ people away from HIV prevention \u2014 but good care pulls them back",
       "journal": "Culture, Health & Sexuality",
@@ -404,6 +502,36 @@
       },
       "run_date": "2026-06-24",
       "category": "Social Sciences",
+      "chunk": "1/1",
+      "status": "new"
+    },
+    {
+      "pmid": "42323733",
+      "headline": "A first-trimester genetic screen may catch a rare but serious pregnancy complication that can cause newborns to bleed",
+      "journal": "Prenatal Diagnosis",
+      "pubdate": "2026 Jun 21",
+      "doi": "10.1002/pd.70203",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Argentina conducted a prospective cohort study in which 200 pregnant women were genotyped in the first trimester for eight human platelet antigens (HPAs) to identify pregnancies at risk for fetal and neonatal alloimmune thrombocytopenia (FNAIT), a rare condition in which maternal antibodies attack fetal platelets and can cause life-threatening bleeding in the newborn. Five pregnancies (2.5%) were identified as at-risk; two neonates required compatible platelet transfusions after birth. Early detection allowed clinical teams to prepare for and deliver timely transfusion support, and researchers concluded that first-trimester HPA screening is feasible and clinically useful even in populations with a low prevalence of the highest-risk genotype (HPA-1a-negative).",
+      "why_it_matters": "FNAIT is often undetected until a newborn presents with dangerous bleeding; this study suggests that screening all pregnant women for platelet antigen incompatibilities in the first trimester \u2014 not just those with a known family history \u2014 could help prevent serious neonatal harm. The finding is particularly relevant for obstetric care in lower-resource settings where FNAIT awareness is limited.",
+      "caveats": "small sample (N=200), single-center, observational design, short follow-up",
+      "fact_check_note": "Abstract states 200 screened pregnancies with five identified as at-risk and two neonates requiring transfusions. Summary accurately reflects these figures. Described as a prospective cohort study in the abstract; this is reflected in the summary.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly relevant to pregnant women's health with a clear clinical benefit angle, but the small single-center sample and low public awareness of FNAIT limit broad mainstream appeal; best suited to specialty or obstetric-focused outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Most Parents Have Never Heard of This Pregnancy Complication \u2014 A New First-Trimester Screen Could Catch It Early",
+          "hook": "A rare but serious condition causes some newborns to be born with dangerously low platelet counts \u2014 and a simple genetic test done in the first trimester may be able to flag it months before birth.",
+          "why_it_fits": "General health outlets covering prenatal care and maternal-infant health would find the 'unknown risk in pregnancy' framing compelling for readers who are pregnant, planning pregnancy, or supporting loved ones through it.",
+          "pitch_angle": "Fetal and neonatal alloimmune thrombocytopenia (FNAIT) is one of the leading causes of severe bleeding in fetuses and newborns, yet it often goes undetected until a baby is already in crisis. A small but promising prospective study from Argentina found that genotyping pregnant women for platelet antigen incompatibilities in the first trimester successfully identified at-risk pregnancies and allowed for timely intervention. The story offers a 'what your doctor may not be testing for' angle with real stakes for expectant parents.",
+          "caveats_to_flag": "Study enrolled only 200 women at a single center in Argentina; findings need replication in larger and more diverse populations before screening could be broadly recommended."
+        }
+      ],
+      "run_date": "2026-06-24",
+      "category": "all",
       "chunk": "1/1",
       "status": "new"
     },
@@ -830,6 +958,36 @@
       "run_date": "2026-06-24",
       "category": "Psychology",
       "chunk": "2/3",
+      "status": "new"
+    },
+    {
+      "pmid": "42321853",
+      "headline": "CAR-T cell therapy for ovarian cancer keeps hitting a wall \u2014 here's what scientists are trying next",
+      "journal": "Journal of Ovarian Research",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1186/s13048-026-02149-z",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This is a comprehensive narrative review examining why CAR-T cell immunotherapy \u2014 highly effective in blood cancers \u2014 has so far failed to achieve similar results in ovarian cancer. The authors systematically analyze the immunosuppressive tumor microenvironment (TME) of ovarian cancer, identifying cellular and molecular mechanisms that inhibit CAR-T cell infiltration and persistence. The review evaluates emerging strategies including next-generation CAR engineering, combination therapies, and TME-modulating technologies as potential paths forward. No new clinical trial data or patient cohort is presented; this is a literature synthesis.",
+      "why_it_matters": "Ovarian cancer carries an approximately 30% five-year survival rate for advanced disease, and new therapeutic approaches are urgently needed; understanding why a promising therapy keeps failing \u2014 and what scientists are doing about it \u2014 is directly relevant to the millions of women living with or at risk for this disease.",
+      "caveats": "No primary data \u2014 review article only, no female-specific breakdown of trial outcomes presented, no patient cohort",
+      "fact_check_note": "The abstract does not present original data or a study sample. This is a review article, not a primary study. Summary and caveats reflect this accurately. The 30% five-year survival figure is cited directly from the abstract.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Directly addresses a lethal women's-only cancer with a timely immunotherapy angle, but as a review article with no new primary data it scores lower on methodological rigor and offers limited novel findings for journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Cancer Immunotherapy That Transformed Leukemia Treatment Keeps Failing in Ovarian Cancer \u2014 Scientists Think They Know Why",
+          "hook": "CAR-T cell therapy has revolutionized blood cancer treatment, but the immunosuppressive environment inside ovarian tumors has so far blocked similar success \u2014 and researchers are now mapping exactly how to overcome it.",
+          "why_it_fits": "General health and women's health outlets regularly cover immunotherapy advances, and the contrast between CAR-T's success in blood cancers and its failure in ovarian cancer offers a compelling, accessible narrative frame.",
+          "pitch_angle": "With a five-year survival rate of just 30% for advanced ovarian cancer, new treatment strategies are desperately needed. A new review in the Journal of Ovarian Research lays out why CAR-T cell therapy \u2014 a form of immunotherapy that has transformed treatment of certain leukemias and lymphomas \u2014 hasn't yet cracked ovarian cancer, and surveys the most promising next-generation approaches being tested. The story has both a science-of-the-body angle and a patient-urgency hook.",
+          "caveats_to_flag": "This is a narrative review, not a clinical trial or new data; findings reflect the current state of the literature, not a single new discovery. No specific trial results for women patients are broken out."
+        }
+      ],
+      "run_date": "2026-06-24",
+      "category": "all",
+      "chunk": "1/1",
       "status": "new"
     },
     {
@@ -1355,6 +1513,74 @@
       },
       "run_date": "2026-06-24",
       "category": "Substance-Related Disorders",
+      "chunk": "1/1",
+      "status": "new"
+    },
+    {
+      "pmid": "42307002",
+      "headline": "A Simple Six-Point Bedside Score Predicts Which Newborns With a Rare Diaphragm Defect Are Most at Risk of Death",
+      "journal": "Journal of Neonatal-Perinatal Medicine",
+      "pubdate": "2026 Jun 17",
+      "doi": "10.1177/19345798261459415",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a 21-year retrospective cohort study at a single tertiary-care NICU in Chennai, India, reviewing 66 newborns admitted within 6 hours of birth with isolated congenital diaphragmatic hernia (CDH). Using oxygenation index on day one, inotrope requirement, and preoperative pneumothorax, they derived a novel bedside mortality risk score (NCMRS-6). The score demonstrated excellent discriminatory ability (AUC 0.964), with a threshold of four or more points yielding 92.3% sensitivity and 90.4% specificity for identifying newborns who did not survive to discharge.",
+      "why_it_matters": "For pregnant women and families facing a CDH diagnosis, early and accurate risk stratification tools may help clinicians communicate prognosis and guide the intensity of care decisions in the critical first hours of life.",
+      "caveats": "small sample (N<100), observational design, single-center, short follow-up, no female-specific breakdown",
+      "fact_check_note": "Abstract confirms N=66; 52 (78.8%) survived to discharge. No sex-disaggregated outcomes reported for the neonates. All figures verified against abstract.",
+      "excluded": false,
+      "relevance_score": 3,
+      "relevance_score_reason": "Neonatal clinical tool study with no women's health framing, very small single-center sample, and no female-specific data; limited pitch potential for women's health journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Doctors Can Now Predict in Hours Which Babies With a Rare Birth Defect Are Most Likely to Survive",
+          "hook": "A six-point bedside checklist assessed in a newborn's first day of life correctly identified risk of death with over 90% accuracy in a rare but life-threatening diaphragm defect.",
+          "why_it_fits": "Parents and families navigating a prenatal CDH diagnosis seek concrete, understandable information about survival odds and what to expect in the NICU.",
+          "pitch_angle": "Congenital diaphragmatic hernia affects roughly 1 in 2,500 births and carries high mortality. A 21-year study from India suggests a simple six-point score calculated from routine measurements in a baby's first day could reliably flag the highest-risk infants. While the tool needs external validation, it represents a step toward standardizing prognostic conversations between clinicians and families.",
+          "caveats_to_flag": "Only 66 patients at one hospital over 21 years; not yet externally validated; results may not generalize across healthcare systems."
+        }
+      ],
+      "run_date": "2026-06-24",
+      "category": "all",
+      "chunk": "1/1",
+      "status": "new"
+    },
+    {
+      "pmid": "42309804",
+      "headline": "New First-Trimester Growth Charts Give Doctors a More Precise Map of What's Normal in Early Pregnancy",
+      "journal": "Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec (Epub 2026 Jun 17)",
+      "doi": "10.1080/14767058.2026.2684885",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using data from 3,464 ultrasound assessments in 1,609 pregnant women enrolled in the population-based Generation R Study (Rotterdam, Netherlands), researchers constructed detailed first-trimester reference centiles for crown-to-rump length, yolk sac, gestational sac, and amniotic sac measurements from 6 to nearly 13 weeks of gestation. Measurements were taken at approximately 7, 9, and 11 weeks in a dedicated research setting. The resulting charts provide 5th through 95th percentile reference ranges intended for use in both clinical and population-based settings, with the authors noting the centiles are most reliable between 6+0 and 12+6 weeks.",
+      "why_it_matters": "Accurate reference charts for early pregnancy structures help clinicians identify abnormal development sooner, which may be particularly valuable for women at risk of miscarriage or early pregnancy complications \u2014 conditions that disproportionately affect women with little warning.",
+      "caveats": "single-center, observational design",
+      "fact_check_note": "Abstract confirms N=1,609 pregnant women with 3,464 ultrasounds; population-based longitudinal cohort design verified. The study is from a single urban, high-income, Western population (Rotterdam), which the authors themselves flag as a limitation for generalizability. No self-report, short follow-up, or industry funding flags identified in the abstract.",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "Directly relevant to pregnant women's health with a solid sample size and population-based design; produces a clinically useful tool for early pregnancy monitoring, though the single-center Western population limits broader applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Just Built a More Detailed Roadmap for What Early Pregnancy Should Look Like \u2014 Week by Week",
+          "hook": "A new set of precise growth charts now shows exactly how a developing embryo and its surrounding structures should look between six and thirteen weeks \u2014 data that could help doctors spot problems far earlier.",
+          "why_it_fits": "Women in early pregnancy \u2014 especially those who have experienced or fear miscarriage \u2014 will recognize the anxiety of that first ultrasound and the question of whether what the doctor is seeing is 'normal.'",
+          "pitch_angle": "Most pregnancy growth charts focus on the second and third trimesters, leaving clinicians with relatively coarse benchmarks for the earliest and most vulnerable weeks of fetal development. A large Dutch population study followed over 1,600 pregnant women with serial ultrasounds, generating precise percentile charts for embryo size and four key surrounding structures from six to nearly thirteen weeks. The researchers say these charts could improve early detection of abnormal pregnancies, though they caution the data come from a single Western city and may not fully apply to more diverse populations.",
+          "caveats_to_flag": "Derived from a single urban Dutch cohort; may not generalize to other ethnic or socioeconomic populations; observational design cannot establish causal links between early measurements and outcomes."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Your First Ultrasound Could Soon Tell Doctors a Lot More \u2014 Thanks to New Early-Pregnancy Reference Data",
+          "hook": "Researchers have created the most detailed week-by-week growth benchmarks yet for the first trimester, potentially giving doctors an earlier and clearer signal when something may be wrong.",
+          "why_it_fits": "Prevention readers are health-proactive women who want to understand the science behind routine prenatal care and how it is evolving.",
+          "pitch_angle": "Early pregnancy loss affects roughly 10\u201320% of known pregnancies, yet the reference standards doctors use to evaluate first-trimester ultrasounds have been limited. A new study from the Netherlands tracked more than 1,600 women with multiple early ultrasounds to create precise normal-range charts for embryo length and the fluid-filled structures surrounding it. Early evidence suggests more granular benchmarks could help clinicians distinguish normal variation from early warning signs \u2014 though the charts will need validation in more diverse populations before widespread clinical adoption.",
+          "caveats_to_flag": "Single-center study from Rotterdam; centile charts require external validation in diverse populations before broad clinical use; study does not report pregnancy outcome data linked to chart deviations."
+        }
+      ],
+      "run_date": "2026-06-24",
+      "category": "all",
       "chunk": "1/1",
       "status": "new"
     },
