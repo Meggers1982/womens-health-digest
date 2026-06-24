@@ -1,4 +1,4 @@
-name: Women's Health Research Digest
+name: Research Digest
 
 on:
   # Runs every morning at 7:00 AM ET (12:00 UTC)
@@ -14,8 +14,8 @@ on:
         default: ''
 
 jobs:
-  # ── Single job: Women's Health & Menopause ───────────────────────────────
-  digest:
+  # ── Women's Health & Menopause ───────────────────────────────────────────
+  digest-womens-health:
     name: "Womens Health & Menopause"
     runs-on: ubuntu-latest
     timeout-minutes: 20
@@ -56,11 +56,53 @@ jobs:
           if-no-files-found: ignore
           retention-days: 1
 
-  # ── Deploy job: merge artifact → data/results.json → GitHub Pages ────────
+  # ── Fitness & Sports Medicine ────────────────────────────────────────────
+  digest-fitness:
+    name: "Fitness & Sports Medicine"
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SERPAPI_KEY:       ${{ secrets.SERPAPI_KEY }}
+          RESEND_API_KEY:    ${{ secrets.RESEND_API_KEY }}
+          RECIPIENT_EMAIL:   meagan.lea.morris@gmail.com
+          CATEGORIES:        "all"
+          CHUNK_INDEX:       "1"
+          CHUNK_TOTAL:       "1"
+          TOPIC_FOCUS:       ""
+          FILTER_CATEGORY:   ${{ github.event.inputs.category }}
+          DASHBOARD_URL:     ${{ vars.DASHBOARD_URL }}
+        run: python scripts/fitness_digest.py
+
+      - name: Upload results artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: results-fitness-1
+          path: /tmp/results.json
+          if-no-files-found: ignore
+          retention-days: 1
+
+  # ── Deploy job: merge artifacts → data/results.json → GitHub Pages ───────
   deploy:
     name: "Merge & deploy dashboard"
     runs-on: ubuntu-latest
-    needs: digest
+    needs: [digest-womens-health, digest-fitness]
     if: always()
     permissions:
       contents: write
