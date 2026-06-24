@@ -97,7 +97,7 @@ def send_summary_email(new_count: int, total: int, timestamp: str):
     html = f"""<!DOCTYPE html>
 <html>
 <body style="font-family:Georgia,serif;max-width:500px;margin:auto;padding:24px;color:#222;">
-<h2 style="color:#1a1a2e;">Mental Health Research Digest</h2>
+<h2 style="color:#1a1a2e;">Women's Health Research Digest</h2>
 <p>Today's digest is ready. <strong>{new_count} new {'study' if new_count == 1 else 'studies'}</strong> added
 across all categories ({total} total in dashboard).</p>
 <p>
@@ -106,7 +106,7 @@ across all categories ({total} total in dashboard).</p>
   View Dashboard →</a>
 </p>
 <p style="font-size:0.85em;color:#888;margin-top:2em;">
-  Mental Health &amp; Brain Science Research Digest · PubMed + Claude + SERPAPI
+  Women's Health Research Digest · PubMed + Claude + SERPAPI
 </p>
 </body>
 </html>"""
