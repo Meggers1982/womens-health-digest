@@ -51,7 +51,24 @@ RESULTS_PATH     = Path("/tmp/results.json")
 CSV_PATH = Path(__file__).parent.parent / "data" / "Womens Health & Menopause.csv"
 
 ALL_CATEGORIES = [
-    "Womens Health & Menopause",
+    "Women's Health",
+    "Gynecology",
+    "Obstetrics",
+    "Reproductive Medicine",
+    "Family Planning Services",
+    "Endocrinology",
+    "Perinatology",
+    "Metabolism",
+    "Urology",
+    "Teratology",
+    "Neoplasms",
+    "Psychiatry",
+    "Nursing",
+    "Pathology",
+    "Pediatrics",
+    "Vascular Diseases",
+    "Orthopedics",
+    # Excluding: Veterinary Medicine, Zoology (animal-only journals)
 ]
 
 DAYS_BACK          = 7
