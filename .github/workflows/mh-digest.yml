@@ -146,5 +146,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update research digest results [skip ci]"
+            git pull --rebase origin main
             git push
           fi
