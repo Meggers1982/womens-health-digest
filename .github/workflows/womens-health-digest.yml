@@ -2,7 +2,7 @@ name: Women's Health Research Digest
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 11 * * *'
   workflow_dispatch:
     inputs:
       category:
@@ -133,3 +133,52 @@ jobs:
             git commit -m "chore: update women's health digest results [skip ci]"
             git push
           fi
+
+      - name: Publish results to shared dashboard
+        env:
+          DASHBOARD_REPO_TOKEN: ${ secrets.DASHBOARD_REPO_TOKEN }
+          DASHBOARD_REPO: Meggers1982/research-digest-dashboard
+          DASHBOARD_FILE: data/womens-health.json
+          SOURCE_ID: womens-health
+          SOURCE_LABEL: Women's Health
+        run: |
+          git clone "https://x-access-token:${DASHBOARD_REPO_TOKEN}@github.com/${DASHBOARD_REPO}.git" /tmp/research-digest-dashboard
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          source = json.loads(Path("data/results.json").read_text())
+          if isinstance(source, list):
+              source = {"last_updated": "", "total_studies": len(source), "studies": source}
+
+          source["source_id"] = os.environ["SOURCE_ID"]
+          source["source_label"] = os.environ["SOURCE_LABEL"]
+          source["total_studies"] = len(source.get("studies", []))
+
+          out = Path("/tmp/research-digest-dashboard") / os.environ["DASHBOARD_FILE"]
+          out.parent.mkdir(parents=True, exist_ok=True)
+          out.write_text(json.dumps(source, indent=2) + "\n")
+          PY
+          cd /tmp/research-digest-dashboard
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$DASHBOARD_FILE"
+          if git diff --cached --quiet; then
+            echo "No dashboard changes"
+          else
+            git commit -m "Update ${SOURCE_LABEL} digest results"
+            pushed=false
+            for attempt in 1 2 3; do
+              if git pull --rebase origin main && git push; then
+                pushed=true
+                break
+              fi
+              sleep $((attempt * 5))
+            done
+            if [ "$pushed" != "true" ]; then
+              echo "Failed to publish dashboard update"
+              exit 1
+            fi
+          fi
+
