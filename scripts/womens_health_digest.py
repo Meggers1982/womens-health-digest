@@ -276,7 +276,7 @@ def fetch_doi_content(doi: str) -> str:
         headers = {
             "User-Agent": (
                 "Mozilla/5.0 (compatible; research-digest-bot/1.0; "
-                "+https://github.com/Meggers1982/aging-longevity-digest)"
+                "+https://github.com/Meggers1982/womens-health-digest)"
             ),
             "Accept": "text/html,application/xhtml+xml",
         }
@@ -401,7 +401,7 @@ Rules for content:
 - For endocrinology: be clear about which hormones and conditions are studied (PCOS, thyroid, menopause, HRT) — never conflate them
 - For psychiatry: flag whether findings are specific to women or from mixed-sex samples without female-specific analysis
 - For nutrition: note whether dietary patterns or supplements were studied, and in what population
-- Animal and cell studies are not automatically excluded — they may be scientifically significant — but must be clearly labeled and scored lower
+- Animal-only and cell-only studies should already be excluded by screening; if any slip through, clearly label and score lower
 - Never use: breakthrough, cure, reverses, eliminates, proven to prevent
 - Always use: suggests, found that, associated with, early evidence indicates
 - No causal language for observational studies
@@ -438,7 +438,7 @@ Studies:
         print(f"  JSON parse error in process_batch: {e}")
         return [{"pmid": s["pmid"], "headline": s["title"], "journal": s["journal"],
                  "pubdate": s["pubdate"], "doi": s.get("doi", ""),
-                 "groundbreaking": "Relevant aging or longevity finding", "media_coverage": media_note,
+                 "groundbreaking": "Relevant women's health finding", "media_coverage": media_note,
                  "summary": "", "why_it_matters": "", "caveats": "",
                  "fact_check_note": "", "excluded": False,
                  "relevance_score": 5, "relevance_score_reason": "",
