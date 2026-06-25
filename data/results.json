@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25T13:42:12.378973+00:00",
+  "last_updated": "2026-06-25T14:00:57.359656+00:00",
   "total_studies": 126,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "studies": [
     {
       "pmid": "42342027",
@@ -65,35 +65,35 @@
     },
     {
       "pmid": "42332673",
-      "headline": "A simple blood test in early pregnancy may dramatically improve detection of severe preeclampsia before symptoms appear",
+      "headline": "A Simple First-Trimester Blood Test May Predict Severe Preeclampsia Months Before It Strikes",
       "journal": "BMC Pregnancy and Childbirth",
       "pubdate": "2026 Jun 22",
       "doi": "10.1186/s12884-026-09532-0",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a nested case-control study drawn from a prospective cohort of 5,809 pregnant women, researchers analyzed first-trimester blood samples from 45 women who later developed severe preeclampsia and 41 controls with uncomplicated pregnancies, using advanced metabolomic analysis to measure 40 types of eicosanoid molecules. Ten eicosanoids differed significantly between the groups, and a ratio of two specific molecules (14-HDoHE/19,20-EDP) emerged as the strongest predictive marker. When this metabolite ratio was added to an established preeclampsia screening algorithm, the model's predictive accuracy improved from an AUC of 0.77 to 0.87 \u2014 a statistically significant gain \u2014 with 73% sensitivity and 85% specificity.",
-      "why_it_matters": "Severe preeclampsia is a leading cause of maternal and fetal death worldwide, and current first-trimester screening tools miss a substantial proportion of cases; early identification could open a window for preventive interventions such as low-dose aspirin. These findings suggest that measuring specific fat-derived molecules in a routine early pregnancy blood draw may one day help identify women at highest risk months before symptoms emerge.",
-      "caveats": "small sample (N<100 in case-control analysis: 45 cases, 41 controls), single-center, observational design",
-      "fact_check_note": "Abstract confirms the nested case-control analysis included 45 severe preeclampsia cases and 41 controls drawn from a larger prospective cohort of 5,809 women \u2014 the N<100 caveat applies to the analytical sample, not the parent cohort. AUC improvement from 0.77 to 0.87 and p=0.008 are confirmed in the abstract. No errors in summary required correction.",
+      "summary": "Researchers used targeted metabolomic analysis of first-trimester blood samples to identify eicosanoid markers that could predict severe preeclampsia before symptoms appear. The nested case-control study drew from a prospective cohort of 5,809 pregnant women, comparing 45 who later developed severe preeclampsia with 41 uncomplicated-pregnancy controls. A ratio of two fatty-acid metabolites (14-HDoHE/19,20-EDP) emerged as the strongest predictive marker; adding it to an existing clinical screening algorithm improved predictive accuracy (AUC) from 0.77 to 0.87. The combined model achieved 73% sensitivity and 85% specificity for severe preeclampsia.",
+      "why_it_matters": "Severe preeclampsia is a leading cause of maternal and infant death worldwide, and most cases go undetected until late in pregnancy; early metabolic markers like these could eventually allow higher-risk women to be identified and monitored more closely in the first trimester.",
+      "caveats": "small sample (N<100 in case-control analysis), single-center, observational design, secondary analysis",
+      "fact_check_note": "The cohort from which the nested study was drawn is N=5,809, but the actual analyzed case-control sample is N=86 (45 cases, 41 controls) \u2014 this is clearly stated in the abstract and reflected accurately in the summary. No corrections needed beyond ensuring both figures are represented.",
       "excluded": false,
       "relevance_score": 8,
-      "relevance_score_reason": "Directly addresses a serious women's-only condition (preeclampsia) with a novel predictive biomarker angle, clear lifestyle/clinical relevance, and a prospective cohort design \u2014 tempered by the very small case-control analytical sample (N=86 total).",
+      "relevance_score_reason": "Directly addresses a serious pregnancy complication affecting women exclusively, with a first-trimester screening angle that carries a strong lifestyle and prenatal-care hook, though the very small analytic sample (N=86) and observational nested design are significant caveats that limit the score.",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Could a Blood Test in Your First Trimester Predict a Dangerous Pregnancy Complication Months Early?",
-          "hook": "Scientists found that measuring specific fat-derived molecules in first-trimester blood could flag women at risk of severe preeclampsia with dramatically better accuracy than current screening tools.",
-          "why_it_fits": "Readers planning pregnancies or in early pregnancy are highly motivated by actionable information that could protect their health during a vulnerable period.",
-          "pitch_angle": "Preeclampsia \u2014 a dangerous spike in blood pressure during pregnancy \u2014 can strike without warning and is a leading cause of maternal death globally. A new study suggests that a panel of molecules called eicosanoids, measurable in a standard blood draw as early as the first trimester, could predict severe preeclampsia months before it develops. Adding this metabolite ratio to existing screening tools pushed predictive accuracy from 77% to 87% \u2014 potentially identifying thousands more women who could benefit from preventive aspirin therapy. The research is early and small, but the implications for prenatal care could be significant.",
-          "caveats_to_flag": "The case-control sample was small (45 cases, 41 controls), the study was conducted at limited centers in China, and the findings require validation in larger and more diverse populations before clinical adoption."
+          "publication_type": "Prevention",
+          "headline": "Doctors May Soon Detect Dangerous Pregnancy Complications in the First Trimester \u2014 From a Single Blood Test",
+          "hook": "A new analysis suggests that measuring specific fatty-acid molecules in first-trimester blood could flag women at risk for severe preeclampsia months before the condition typically becomes detectable.",
+          "why_it_fits": "Prevention readers skew toward women in their 30s\u201350s who are invested in proactive health monitoring for themselves and their families, and preeclampsia risk is a topic with strong search and reader engagement.",
+          "pitch_angle": "Preeclampsia affects up to 8% of pregnancies and can be life-threatening, yet it's usually caught only after blood pressure spikes in the second half of pregnancy. A new study found that a ratio of two fatty-acid metabolites, measurable from a standard blood draw as early as the first trimester, significantly improved the accuracy of existing screening tools. If validated in larger trials, this kind of metabolic fingerprinting could help personalize prenatal care from the very start of pregnancy.",
+          "caveats_to_flag": "The case-control analysis included only 86 women drawn from one Chinese hospital system; results need replication in larger, more diverse populations before clinical use."
         },
         {
-          "publication_type": "Prevention",
-          "headline": "Early Pregnancy Blood Markers Could Catch a Deadly Complication Before It Starts",
-          "hook": "A new study found that fat-derived molecules in first-trimester blood may predict severe preeclampsia with 87% accuracy \u2014 and point toward aspirin as an early preventive strategy.",
-          "why_it_fits": "Prevention readers are invested in disease-interception science and practical steps women can discuss with their OBs.",
-          "pitch_angle": "Preeclampsia affects up to 8% of pregnancies and can have lasting cardiovascular consequences for women well beyond delivery. Researchers analyzing first-trimester blood samples found that an imbalance in specific inflammatory lipid molecules \u2014 eicosanoids \u2014 could distinguish women who would later develop severe preeclampsia from those who wouldn't, with meaningful accuracy. The study also provides biological evidence supporting early aspirin use for high-risk women, a recommendation already endorsed by some guidelines but underutilized. While the research needs replication, it offers a compelling glimpse at a future where dangerous pregnancy complications are caught \u2014 and countered \u2014 in the first three months.",
-          "caveats_to_flag": "Study was small (86 total participants in the case-control analysis), conducted in China (generalizability uncertain), and observational in design \u2014 it cannot yet change clinical practice."
+          "publication_type": "General health",
+          "headline": "Your First Prenatal Blood Draw Might One Day Predict a Deadly Complication \u2014 Here's the Science",
+          "hook": "Researchers found that two little-known fatty-acid molecules in first-trimester blood could predict severe preeclampsia with 73% sensitivity \u2014 and adding them to existing screening tools meaningfully sharpened accuracy.",
+          "why_it_fits": "Health-beat journalists covering maternal mortality and the maternal health crisis will find the mechanistic angle (eicosanoid pathways, aspirin connection) compelling for science-forward outlets.",
+          "pitch_angle": "Severe preeclampsia is a major driver of maternal mortality in the U.S. and globally, yet prevention efforts are hampered by the inability to identify high-risk pregnancies early. This nested case-control study identified a metabolic ratio in first-trimester plasma that, when added to an established clinical algorithm, raised its predictive AUC from 0.77 to 0.87 \u2014 a clinically meaningful jump. The same pathways implicated also help explain why low-dose aspirin, already recommended for high-risk pregnancies, may work as a preventive measure.",
+          "caveats_to_flag": "Small analytic sample (N=86), single-center design in China, and nested case-control methodology mean findings are hypothesis-generating, not practice-changing yet."
         }
       ],
       "run_date": "2026-06-25",
@@ -103,27 +103,27 @@
     },
     {
       "pmid": "42332050",
-      "headline": "A specific ventilation-first approach at birth may lower brain bleed risk in extremely preterm infants",
+      "headline": "Ventilating Extremely Preterm Babies at Birth May Lower Their Risk of Dangerous Brain Bleeds",
       "journal": "Journal of Perinatology",
       "pubdate": "2026 Jun 22",
       "doi": "10.1038/s41372-026-02751-5",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a sub-analysis of the VentFirst multi-center randomized trial, examining head ultrasound findings from 548 infants born before 29 weeks' gestation who survived to their first scan. Any grade of intraventricular hemorrhage (IVH) \u2014 bleeding in the brain \u2014 was found in 31% of infants, while severe IVH occurred in 8%. Infants in the VentFirst cohort had lower odds of both any IVH and severe IVH compared to a similar population in the Vermont Oxford Network, suggesting that optimized delivery room ventilation conditions may contribute to better neurological outcomes.",
-      "why_it_matters": "For parents of extremely preterm infants \u2014 who are disproportionately affected by pregnancy complications \u2014 understanding that delivery room practices may influence the risk of serious brain bleeds could shape conversations with care teams. This finding also speaks to the broader stakes of birth-room decision-making for pregnant people at risk of very preterm delivery.",
-      "caveats": "secondary analysis, single gestational-age stratum (under 29 weeks), no female-specific breakdown of infant outcomes",
-      "fact_check_note": "Abstract confirms N=548 infants, multi-center RCT sub-analysis, severe IVH rate of 8%, any IVH rate of 31%. No female-specific breakdown of infant outcomes is noted as this study concerns neonates, not the birthing parent, though the perinatal context is relevant to maternal health coverage.",
+      "summary": "Researchers analyzed head ultrasound data from 548 infants born before 29 weeks' gestation who were enrolled in the multi-center VentFirst randomized trial, which tested a specific approach to immediate ventilation at birth. Any grade of intraventricular hemorrhage (IVH \u2014 bleeding in the brain) was found in 31% of infants, while severe IVH occurred in 8%; lower gestational age, twin gestation, and a low 1-minute Apgar score were associated with higher risk of severe IVH. Importantly, IVH rates in the VentFirst cohort were lower than in a comparable group from the Vermont Oxford Network, suggesting that the optimized delivery approach used in the trial may contribute to better outcomes.",
+      "why_it_matters": "Intraventricular hemorrhage is one of the most feared complications of extreme prematurity, with lasting effects on a child's neurological development; findings like these are relevant to pregnant women at risk of preterm birth and the clinicians who counsel them about delivery planning.",
+      "caveats": "secondary analysis, no female-specific breakdown, short follow-up",
+      "fact_check_note": "The abstract describes this as a sub-analysis of the VentFirst RCT, which is accurately characterized as a secondary analysis. N=548 is confirmed from the abstract. No sex-disaggregated data on infant outcomes are reported, which is flagged as a caveat. No other corrections needed.",
       "excluded": false,
       "relevance_score": 5,
-      "relevance_score_reason": "Perinatal relevance for pregnant women exists, but the study focuses on neonatal outcomes rather than maternal health, has no sex-disaggregated data for the birthing parent, and is a secondary analysis \u2014 limiting its direct women's health journalism hook.",
+      "relevance_score_reason": "Relevant to women facing preterm birth, but the study focuses on neonatal outcomes rather than maternal health directly, lacks any female-specific or maternal data breakdown, and is a secondary analysis of a trial \u2014 limiting its standalone pitch strength for women's health outlets.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "How the First Breath Taken in the Delivery Room May Protect Premature Babies' Brains",
-          "hook": "Babies born before 29 weeks in a trial using a 'ventilation-first' approach had lower odds of serious brain bleeds than comparable infants in a national registry.",
-          "why_it_fits": "Parents of premature infants \u2014 and pregnant people at risk of very preterm birth \u2014 actively seek information on delivery room practices that could affect their baby's neurological outcomes.",
-          "pitch_angle": "A sub-analysis of a randomized trial found that extremely preterm infants born under a ventilation-first delivery protocol had lower rates of intraventricular hemorrhage \u2014 a potentially devastating brain bleed \u2014 than similar infants in a large national database. While researchers can't definitively attribute the difference to the protocol alone, the findings suggest delivery room conditions matter more than previously appreciated. For expectant parents navigating high-risk pregnancies, this research raises important questions about what optimized preterm birth care looks like.",
-          "caveats_to_flag": "This is a secondary analysis of trial data, not a direct randomized comparison on IVH as a primary endpoint. The comparison group was a registry population, not a concurrent control arm. Results should not be interpreted as definitive proof of causation."
+          "headline": "A Change in How Doctors Ventilate Premature Babies at Birth May Protect Their Developing Brains",
+          "hook": "A new analysis from a multi-center trial suggests that an optimized ventilation approach at delivery is associated with lower rates of dangerous brain bleeds in babies born before 29 weeks.",
+          "why_it_fits": "Parents of preterm infants and pregnant women at risk of preterm birth are a significant health-media audience, and brain bleed risk in premature babies is a topic that generates high emotional engagement.",
+          "pitch_angle": "Intraventricular hemorrhage \u2014 bleeding in the brain's fluid-filled spaces \u2014 affects nearly one in three extremely premature infants and can cause lifelong neurological problems. A sub-analysis of the VentFirst randomized trial found that IVH rates in its 548 enrolled infants were lower than in a comparable national database group, with gestational age, twins, and Apgar score emerging as key risk predictors. The findings suggest that how clinicians manage the first moments of a preterm baby's life may meaningfully shape brain-bleed risk.",
+          "caveats_to_flag": "This is a secondary analysis of trial data, not a primary outcome study; IVH reduction was not the trial's primary endpoint, and the comparison to the Vermont Oxford Network is observational in nature."
         }
       ],
       "run_date": "2026-06-25",
