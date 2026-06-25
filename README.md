@@ -1,6 +1,6 @@
-# Mental Health & Brain Science Research Digest
+# Women's Health & Fitness Research Digest
 
-A GitHub Actions workflow that searches a curated list of mental health and brain science journals on PubMed, filters out widely covered stories, runs two Claude passes (writer + fact-checker/editor), and publishes results to a GitHub Pages dashboard — **https://meggers1982.github.io/new-scientist-story-ideas/**
+A GitHub Actions workflow that searches curated PubMed journal lists across two domains — **Women's Health & Menopause** and **Fitness & Sports Medicine** — filters out widely covered stories, runs two Claude passes (writer + fact-checker/editor), and publishes results to a GitHub Pages dashboard.
 
 ---
 
@@ -11,22 +11,21 @@ A GitHub Actions workflow that searches a curated list of mental health and brai
 3. **SERPAPI media filter** — Checks Google News and skips any study with 3+ news results
 4. **Abstract fetch** — Retrieves full abstracts for shortlisted studies
 5. **Claude pass 1 (writer)** — Writes structured JSON entries: headline, summary, why it matters, caveats
-6. **Claude pass 2 (editor/fact-checker)** — Verifies each entry against the abstract, corrects errors, adds a New Scientist Mind pitch angle
+6. **Claude pass 2 (editor/fact-checker)** — Verifies each entry against the abstract, corrects errors
 7. **Artifact upload** — Saves JSON results as a GitHub Actions artifact
-8. **Deploy job** — Downloads all 13 job artifacts, merges and deduplicates by PMID, commits `data/results.json`, serves via GitHub Pages
+8. **Deploy job** — Downloads both job artifacts, merges and deduplicates by PMID, commits `data/results.json`, serves via GitHub Pages
 9. **Email notification** — Short email with study count and link to dashboard
 
 ---
 
 ## Dashboard
 
-**URL:** https://meggers1982.github.io/new-scientist-story-ideas/
+Served via GitHub Pages from `index.html` at the repo root.
 
 Features:
 - Card view per study with headline, summary, caveats, fact-check notes
-- Expandable New Scientist Mind pitch section per study
-- Filter by category, groundbreaking type, status, and date range
-- Search across all study text and pitches
+- Filter by category and date range
+- Search across all study text
 - Status tracking (New / Saved / Pitched / Passed) saved to localStorage
 - Deduplication across runs — same PMID won't appear twice
 
@@ -34,36 +33,28 @@ Features:
 
 ## Schedule
 
-Runs automatically every **morning at 7:00 AM ET**. All 13 jobs run in parallel; the deploy job merges results and publishes the dashboard once all jobs complete.
+Runs automatically every **morning at 7:00 AM ET**. Both digest jobs run in parallel; the deploy job merges results and publishes the dashboard once both complete.
 
-Can also be triggered manually via **Actions → Mental Health Research Digest → Run workflow**.
+Can also be triggered manually via **Actions → Research Digest → Run workflow**.
 
 ---
 
 ## Categories
 
-| Category | Journals | Jobs |
-|---|---|---|
-| Psychology | 135 | 3 (chunks 1–3) |
-| Psychiatry | 111 | 2 (chunks 1–2) |
-| Behavioral Sciences | 88 | 2 (chunks 1–2) |
-| Brain | 23 | 1 |
-| Neurology | 21 | 1 |
-| Psychophysiology | 22 | 1 |
-| Psychopharmacology | 14 | 1 |
-| Social Sciences | 7 | 1 |
-| Substance-Related Disorders | 4 | 1 |
+### Women's Health & Menopause (`mh_digest.py`)
+Women's Health, Gynecology, Obstetrics, Reproductive Medicine, Family Planning Services, Endocrinology, Perinatology, Metabolism, Urology, Teratology, Neoplasms, Psychiatry, Nursing, Pathology, Pediatrics, Vascular Diseases, Orthopedics
 
-Large categories are split into chunks so each job processes ~45 journals, keeping run times under 20 minutes.
+### Fitness & Sports Medicine (`fitness_digest.py`)
+Sports Medicine, Physical and Rehabilitation Medicine, Physiology, Kinesiology, Exercise Science, Nutritional Sciences, Metabolism, Orthopedics, Traumatology, Geriatrics, Pediatrics, Cardiology, Pulmonary Medicine, Psychology, Behavioral Sciences, Occupational Medicine, Health Services, Public Health, Neurology, Vascular Diseases
 
 ---
 
 ## Manual trigger
 
-Go to **Actions → Mental Health Research Digest → Run workflow**.
+Go to **Actions → Research Digest → Run workflow**.
 
-- Leave **category** blank to run all 13 jobs
-- Enter an exact category name (e.g. `Brain`) to run just that category
+- Leave **category** blank to run all jobs
+- Enter an exact category name (e.g. `Endocrinology`) to run just that category
 
 ---
 
@@ -72,7 +63,7 @@ Go to **Actions → Mental Health Research Digest → Run workflow**.
 1. Go to **Settings → Pages**
 2. Set source to **Deploy from a branch**
 3. Branch: `main`, folder: `/ (root)`
-4. Save — GitHub will serve `index.html` at the dashboard URL
+4. Save
 
 ---
 
@@ -86,6 +77,8 @@ Add these in **Settings → Secrets and variables → Actions**:
 | `SERPAPI_KEY` | SerpAPI key for Google News filtering |
 | `RESEND_API_KEY` | Resend API key (`re_...`) for email delivery |
 
+Also set the `DASHBOARD_URL` repository variable to your GitHub Pages URL.
+
 ---
 
 ## Repo structure
@@ -93,14 +86,17 @@ Add these in **Settings → Secrets and variables → Actions**:
 ```
 .github/
   workflows/
-    mh-digest.yml           # GitHub Actions workflow (matrix + deploy)
+    mh-digest.yml                      # GitHub Actions workflow (2 parallel jobs + deploy)
 scripts/
-  mh_digest.py              # Main pipeline: PubMed → Claude → JSON artifact
-  merge_results.py          # Deploy job: merges artifacts → data/results.json
+  mh_digest.py                         # Women's Health pipeline: PubMed → Claude → JSON artifact
+  fitness_digest.py                    # Fitness pipeline: PubMed → Claude → JSON artifact
+  merge_results.py                     # Deploy job: merges artifacts → data/results.json
+  extract_journals.py                  # Utility: extract journal ISSNs from CSVs
 data/
-  Mental Health - Brain Mental Health.csv   # Curated journal list with ISSNs
-  results.json              # Auto-generated by deploy job; read by dashboard
-index.html                  # GitHub Pages dashboard
+  Womens Health & Menopause.csv        # Curated journal list with ISSNs
+  Fitness & Sports Medicine.csv        # Curated journal list with ISSNs
+  results.json                         # Auto-generated by deploy job; read by dashboard
+index.html                             # GitHub Pages dashboard
 requirements.txt
 ```
 
@@ -108,7 +104,7 @@ requirements.txt
 
 ## Dashboard study card fields
 
-Each study card on the dashboard shows:
+Each study card shows:
 
 - **Headline** — plain-language present-tense summary
 - **Category & journal** — source metadata
@@ -117,6 +113,5 @@ Each study card on the dashboard shows:
 - **The study** — what was done, who participated, key finding
 - **Why it matters** — real-world significance
 - **Caveats** — limitations flagged automatically
-- **⚠ Fact-check note** — corrections made by the editor pass
-- **📰 New Scientist Mind pitch** — suggested headline, opening hook, pitch angle, caveats to flag
+- **Fact-check note** — corrections made by the editor pass
 - **Status** — New / Saved / Pitched / Passed (tracked in your browser)
