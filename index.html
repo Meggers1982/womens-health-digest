@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Women&#39;s Health Research Digest</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: #f5f4f0;
+    color: #1a1a1a;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    background: #1a3a2e;
+    color: white;
+    padding: 24px 32px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+  }
+  header h1 { font-size: 1.3rem; font-weight: normal; letter-spacing: 0.02em; }
+  header .meta { font-size: 0.8rem; opacity: 0.6; margin-top: 2px; font-family: sans-serif; }
+  .header-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .stats-chips { display: flex; gap: 8px; flex-wrap: wrap; }
+  .chip {
+    background: rgba(255,255,255,0.12);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.75rem;
+    font-family: sans-serif;
+    white-space: nowrap;
+  }
+  .chip.highlight { background: #2563eb; }
+
+  /* ── Filters ── */
+  .filters {
+    background: white;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 14px 32px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filters input, .filters select {
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+    font-family: sans-serif;
+    background: white;
+    color: #1a1a1a;
+  }
+  .filters input { width: 220px; }
+  .filter-label { font-size: 0.8rem; color: #666; font-family: sans-serif; }
+  .btn-clear {
+    background: none;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    padding: 6px 14px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    font-family: sans-serif;
+    color: #555;
+  }
+  .btn-clear:hover { background: #f3f4f6; }
+
+  /* ── Layout ── */
+  main { max-width: 900px; margin: 0 auto; padding: 28px 20px; }
+
+  .empty-state {
+    text-align: center;
+    padding: 80px 20px;
+    color: #888;
+    font-family: sans-serif;
+  }
+  .empty-state h2 { font-size: 1.1rem; margin-bottom: 8px; font-weight: normal; }
+
+  /* ── Study card ── */
+  .card {
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+    margin-bottom: 20px;
+    overflow: hidden;
+    transition: box-shadow 0.15s;
+  }
+  .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+  .card.status-pitched { border-left: 4px solid #16a34a; }
+  .card.status-passed  { border-left: 4px solid #9ca3af; }
+  .card.status-saved   { border-left: 4px solid #d97706; }
+  .card.status-new     { border-left: 4px solid #e5e5e5; }
+
+  .card-header { padding: 20px 24px 12px; }
+  .card-headline {
+    font-size: 1.1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 8px;
+    color: #1a3a2e;
+  }
+  .card-meta {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 0.75rem;
+    font-family: sans-serif;
+    color: #666;
+  }
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.7rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .badge-cat   { background: #d1fae5; color: #065f46; }
+  .badge-gb    { background: #fef3c7; color: #92400e; }
+  .badge-media { background: #dcfce7; color: #166534; }
+
+  /* Relevance Score badge */
+  .score-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-family: sans-serif;
+    font-weight: 700;
+    cursor: help;
+  }
+  .score-high   { background: #dcfce7; color: #14532d; border: 1px solid #86efac; }
+  .score-mid    { background: #fef9c3; color: #713f12; border: 1px solid #fde047; }
+  .score-low    { background: #f3f4f6; color: #6b7280; border: 1px solid #d1d5db; }
+  .score-dot    { width: 6px; height: 6px; border-radius: 50%; display: inline-block; }
+  .score-high .score-dot { background: #16a34a; }
+  .score-mid .score-dot  { background: #ca8a04; }
+  .score-low .score-dot  { background: #9ca3af; }
+
+  .card-body { padding: 0 24px 16px; font-size: 0.92rem; }
+  .card-body p { margin-bottom: 10px; color: #333; }
+  .card-body strong { color: #111; }
+
+  .caveats {
+    font-size: 0.8rem;
+    color: #888;
+    font-family: sans-serif;
+    padding: 8px 12px;
+    background: #f9f9f9;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+
+  .fact-check-note {
+    background: #fff8e1;
+    border-left: 3px solid #f59e0b;
+    padding: 8px 12px;
+    font-size: 0.82rem;
+    font-family: sans-serif;
+    border-radius: 0 6px 6px 0;
+    margin-bottom: 10px;
+  }
+
+  /* ── Pitch Angles ── */
+  .pitch-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    padding: 10px 24px;
+    background: #f0fdf4;
+    border-top: 1px solid #bbf7d0;
+    font-size: 0.85rem;
+    font-family: sans-serif;
+    color: #166534;
+    font-weight: 600;
+    user-select: none;
+  }
+  .pitch-toggle:hover { background: #dcfce7; }
+  .pitch-toggle .arrow { transition: transform 0.2s; font-style: normal; }
+  .pitch-toggle.open .arrow { transform: rotate(90deg); }
+
+  .pitch-body {
+    display: none;
+    padding: 16px 24px 20px;
+    background: #f0fdf4;
+    border-top: 1px solid #bbf7d0;
+    font-size: 0.88rem;
+  }
+  .pitch-body.open { display: block; }
+
+  /* Individual pitch angle block */
+  .pitch-angle-block {
+    background: white;
+    border: 1px solid #bbf7d0;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+  }
+  .pitch-angle-block:last-child { margin-bottom: 0; }
+  .pitch-pub-type {
+    font-size: 0.72rem;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #16a34a;
+    margin-bottom: 6px;
+  }
+  .pitch-field { margin-bottom: 10px; }
+  .pitch-field:last-child { margin-bottom: 0; }
+  .pitch-field label {
+    display: block;
+    font-size: 0.7rem;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #6b7280;
+    margin-bottom: 3px;
+  }
+  .pitch-field p { color: #1e3a2e; margin: 0; line-height: 1.5; }
+  .pitch-headline {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #1e3a2e;
+    font-family: Georgia, serif;
+  }
+
+  /* ── Card footer ── */
+  .card-footer {
+    padding: 10px 24px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    border-top: 1px solid #f0f0f0;
+    flex-wrap: wrap;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  .status-selector { display: flex; gap: 6px; }
+  .status-btn {
+    border: 1px solid #d1d5db;
+    background: white;
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.75rem;
+    font-family: sans-serif;
+    cursor: pointer;
+    transition: all 0.15s;
+    color: #555;
+  }
+  .status-btn:hover { background: #f3f4f6; }
+  .status-btn.active-new     { background: #e5e7eb; color: #374151; border-color: #9ca3af; }
+  .status-btn.active-pitched { background: #dcfce7; color: #166534; border-color: #86efac; }
+  .status-btn.active-passed  { background: #f3f4f6; color: #6b7280; border-color: #d1d5db; }
+  .status-btn.active-saved   { background: #fef3c7; color: #92400e; border-color: #fcd34d; }
+
+  .pubmed-link {
+    font-size: 0.78rem;
+    font-family: sans-serif;
+    color: #2563eb;
+    text-decoration: none;
+  }
+  .pubmed-link:hover { text-decoration: underline; }
+
+  /* ── Remove button ── */
+  .btn-remove {
+    background: none;
+    border: none;
+    color: #d1d5db;
+    font-size: 1rem;
+    cursor: pointer;
+    padding: 4px 6px;
+    border-radius: 4px;
+    line-height: 1;
+    transition: color 0.15s, background 0.15s;
+    font-family: sans-serif;
+  }
+  .btn-remove:hover { color: #ef4444; background: #fef2f2; }
+  .card.status-removed { opacity: 0.45; border-left-color: #ef4444; }
+
+  /* ── Loading ── */
+  #loading {
+    text-align: center;
+    padding: 80px;
+    font-family: sans-serif;
+    color: #888;
+  }
+
+  /* ── Result count ── */
+  .result-count {
+    font-size: 0.82rem;
+    font-family: sans-serif;
+    color: #888;
+    margin-bottom: 16px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-row">
+    <div>
+      <h1>Women&#39;s Health Research Digest</h1>
+      <div class="meta" id="last-updated">Loading…</div>
+    </div>
+    <div class="stats-chips" id="stats-chips"></div>
+  </div>
+</header>
+
+<div class="filters">
+  <input type="search" id="search" placeholder="Search studies…" oninput="applyFilters()">
+
+  <select id="filter-category" onchange="applyFilters()">
+    <option value="">All categories</option>
+    <option value="Womens Health &amp; Reproduction">Womens Health &amp; Reproduction</option>
+    <option value="Endocrinology &amp; Metabolism">Endocrinology &amp; Metabolism</option>
+    <option value="Psychiatry">Psychiatry</option>
+    <option value="Nutritional Sciences">Nutritional Sciences</option>
+  </select>
+
+  <select id="filter-groundbreaking" onchange="applyFilters()">
+    <option value="">All types</option>
+    <option value="Counterintuitive">Counterintuitive</option>
+    <option value="Overturns">Overturns prior research</option>
+    <option value="First-in-class">First-in-class</option>
+    <option value="women">Women's health finding</option>
+  </select>
+
+  <select id="filter-status" onchange="applyFilters()">
+    <option value="">All statuses</option>
+    <option value="new">New</option>
+    <option value="saved">Saved</option>
+    <option value="pitched">Pitched</option>
+    <option value="passed">Passed</option>
+    <option value="removed">Removed</option>
+  </select>
+
+  <select id="filter-days" onchange="applyFilters()">
+    <option value="0">All time</option>
+    <option value="7" selected>Past 7 days</option>
+    <option value="14">Past 14 days</option>
+    <option value="30">Past 30 days</option>
+  </select>
+
+  <select id="filter-score" onchange="applyFilters()">
+    <option value="0">All scores</option>
+    <option value="8">Top picks (8–10)</option>
+    <option value="6">Strong (6+)</option>
+  </select>
+
+  <select id="sort-by" onchange="applyFilters()">
+    <option value="score" selected>Sort: Relevance score</option>
+    <option value="date">Sort: newest first</option>
+  </select>
+
+  <button class="btn-clear" onclick="clearFilters()">Clear filters</button>
+</div>
+
+<main>
+  <div id="loading">Loading studies…</div>
+  <div id="result-count" class="result-count" style="display:none"></div>
+  <div id="cards"></div>
+</main>
+
+<script>
+let ALL_STUDIES = [];
+const STATUS_KEY = "wh-digest-status";
+
+// ── Load data ──────────────────────────────────────────────────────────────
+async function init() {
+  try {
+    const res = await fetch("data/results.json?ts=" + Date.now());
+    if (!res.ok) throw new Error("No data yet");
+    const data = await res.json();
+
+    document.getElementById("last-updated").textContent =
+      "Last updated: " + new Date(data.last_updated).toLocaleString() +
+      " · " + data.total_studies + " total studies · Daily research discovery for women's health journalists";
+
+    ALL_STUDIES = data.studies;
+    renderStats(data);
+    applyFilters();
+    document.getElementById("loading").style.display = "none";
+  } catch(e) {
+    document.getElementById("loading").innerHTML =
+      "<h2>No studies yet</h2><p>Run the GitHub Action to populate the dashboard.</p>";
+  }
+}
+
+// ── Stats ──────────────────────────────────────────────────────────────────
+function renderStats(data) {
+  const statuses = getStatuses();
+  const newCount = data.studies.filter(s => (statuses[s.pmid] || "new") === "new").length;
+  const savedCount = data.studies.filter(s => (statuses[s.pmid] || "new") === "saved").length;
+  const pitchedCount = data.studies.filter(s => (statuses[s.pmid] || "new") === "pitched").length;
+
+  const chips = [
+    { label: newCount + " new", cls: newCount > 0 ? "highlight" : "" },
+    { label: savedCount + " saved", cls: "" },
+    { label: pitchedCount + " pitched", cls: "" },
+  ];
+  document.getElementById("stats-chips").innerHTML =
+    chips.map(c => `<span class="chip ${c.cls}">${c.label}</span>`).join("");
+}
+
+// ── Status persistence ────────────────────────────────────────────────────
+function getStatuses() {
+  try { return JSON.parse(localStorage.getItem(STATUS_KEY) || "{}"); } catch { return {}; }
+}
+function setStatus(pmid, status) {
+  const s = getStatuses();
+  s[pmid] = status;
+  localStorage.setItem(STATUS_KEY, JSON.stringify(s));
+  document.querySelectorAll(`[data-pmid="${pmid}"] .status-btn`).forEach(btn => {
+    btn.className = "status-btn" + (btn.dataset.status === status ? ` active-${status}` : "");
+  });
+  const card = document.querySelector(`[data-pmid="${pmid}"]`);
+  if (card) {
+    card.className = "card status-" + status;
+  }
+  renderStats({ studies: ALL_STUDIES });
+}
+
+// ── Remove study ──────────────────────────────────────────────────────────
+function removeStudy(pmid) {
+  setStatus(pmid, 'removed');
+  const card = document.querySelector(`[data-pmid="${pmid}"]`);
+  if (card) {
+    card.style.transition = 'opacity 0.25s';
+    card.style.opacity = '0';
+    setTimeout(() => applyFilters(), 250);
+  }
+}
+
+// ── Filters ───────────────────────────────────────────────────────────────
+function applyFilters() {
+  const query    = document.getElementById("search").value.toLowerCase();
+  const category = document.getElementById("filter-category").value;
+  const gbType   = document.getElementById("filter-groundbreaking").value;
+  const statusF  = document.getElementById("filter-status").value;
+  const days     = parseInt(document.getElementById("filter-days").value);
+  const minScore = parseInt(document.getElementById("filter-score").value);
+  const sortBy   = document.getElementById("sort-by").value;
+  const statuses = getStatuses();
+  const cutoff   = days > 0 ? new Date(Date.now() - days * 86400000) : null;
+
+  let filtered = ALL_STUDIES.filter(s => {
+    const status = statuses[s.pmid] || "new";
+    if (status === "removed" && statusF !== "removed") return false;
+    if (statusF && status !== statusF) return false;
+    if (category && s.category !== category) return false;
+    if (gbType && !(s.groundbreaking || "").toLowerCase().includes(gbType.toLowerCase())) return false;
+    if (minScore > 0 && (s.relevance_score || 0) < minScore) return false;
+    if (cutoff) {
+      const rd = new Date(s.run_date);
+      if (rd < cutoff) return false;
+    }
+    if (query) {
+      const pitchText = (s.pitch_angles || [])
+        .map(p => [p.pitch_angle, p.hook, p.headline].join(" ")).join(" ");
+      const text = [s.headline, s.summary, s.category, s.journal, pitchText].join(" ").toLowerCase();
+      if (!text.includes(query)) return false;
+    }
+    return true;
+  });
+
+  // Sort
+  if (sortBy === "score") {
+    filtered.sort((a, b) => (b.relevance_score || 0) - (a.relevance_score || 0));
+  } else {
+    filtered.sort((a, b) => (b.run_date || "").localeCompare(a.run_date || ""));
+  }
+
+  const countEl = document.getElementById("result-count");
+  countEl.style.display = "block";
+  countEl.textContent = filtered.length + " of " + ALL_STUDIES.length + " studies";
+
+  document.getElementById("cards").innerHTML = filtered.length === 0
+    ? `<div class="empty-state"><h2>No studies match your filters</h2><p>Try broadening your search.</p></div>`
+    : filtered.map(renderCard).join("");
+}
+
+function clearFilters() {
+  document.getElementById("search").value = "";
+  document.getElementById("filter-category").value = "";
+  document.getElementById("filter-groundbreaking").value = "";
+  document.getElementById("filter-status").value = "";
+  document.getElementById("filter-days").value = "7";
+  document.getElementById("filter-score").value = "0";
+  document.getElementById("sort-by").value = "score";
+  applyFilters();
+}
+
+function scoreBadge(s) {
+  const score = s.relevance_score;
+  if (!score && score !== 0) return "";
+  const cls   = score >= 8 ? "score-high" : score >= 6 ? "score-mid" : "score-low";
+  const label = score >= 8 ? "Top pick" : score >= 6 ? "Strong" : "Lower fit";
+  const title = esc(s.relevance_score_reason || "");
+  return `<span class="score-badge ${cls}" title="${title}"><span class="score-dot"></span>Relevance ${score}/10 · ${label}</span>`;
+}
+
+// ── Card rendering ────────────────────────────────────────────────────────
+function renderCard(s) {
+  const statuses = getStatuses();
+  const status = statuses[s.pmid] || "new";
+  const pitchAngles = Array.isArray(s.pitch_angles) ? s.pitch_angles : [];
+  const hasPitch = pitchAngles.length > 0;
+
+  const statusBtns = ["new","saved","pitched","passed"].map(st =>
+    `<button class="status-btn${status === st ? ` active-${st}` : ''}"
+      data-status="${st}"
+      onclick="setStatus('${s.pmid}','${st}')">${st.charAt(0).toUpperCase()+st.slice(1)}</button>`
+  ).join("");
+
+  const factCheckNote = s.fact_check_note
+    ? `<div class="fact-check-note">⚠️ <strong>Fact-check note:</strong> ${esc(s.fact_check_note)}</div>`
+    : "";
+
+  const pitchAnglesHtml = pitchAngles.map(p => `
+    <div class="pitch-angle-block">
+      ${p.publication_type ? `<div class="pitch-pub-type">${esc(p.publication_type)}</div>` : ""}
+      ${p.headline ? `<div class="pitch-field"><label>Headline</label><p class="pitch-headline">${esc(p.headline)}</p></div>` : ""}
+      ${p.hook ? `<div class="pitch-field"><label>Opening hook</label><p>${esc(p.hook)}</p></div>` : ""}
+      ${p.why_it_fits ? `<div class="pitch-field"><label>Why it fits</label><p>${esc(p.why_it_fits)}</p></div>` : ""}
+      ${p.pitch_angle ? `<div class="pitch-field"><label>Pitch angle</label><p>${esc(p.pitch_angle)}</p></div>` : ""}
+      ${p.caveats_to_flag ? `<div class="pitch-field"><label>Caveats to flag</label><p>${esc(p.caveats_to_flag)}</p></div>` : ""}
+    </div>
+  `).join("");
+
+  const pitchSection = hasPitch ? `
+    <div class="pitch-toggle" onclick="togglePitch(this)" data-pmid="${s.pmid}">
+      <span class="arrow">▶</span> Pitch angles (${pitchAngles.length})
+    </div>
+    <div class="pitch-body" id="pitch-${s.pmid}">
+      ${pitchAnglesHtml}
+    </div>
+  ` : "";
+
+  return `
+<div class="card status-${status}" data-pmid="${s.pmid}">
+  <div class="card-header">
+    <div class="card-headline">${esc(s.headline || s.title || "Untitled")}</div>
+    <div class="card-meta">
+      ${scoreBadge(s)}
+      <span class="badge badge-cat">${esc(s.category || "")}</span>
+      ${s.groundbreaking ? `<span class="badge badge-gb">${esc(s.groundbreaking)}</span>` : ""}
+      ${s.media_coverage && s.media_coverage.includes("✓") ? `<span class="badge badge-media">Not widely covered ✓</span>` : ""}
+      <span>${esc(s.journal || "")}</span>
+      <span>${esc(s.pubdate || "")}</span>
+      ${s.run_date ? `<span>Found ${s.run_date}</span>` : ""}
+    </div>
+  </div>
+  <div class="card-body">
+    ${s.summary ? `<p><strong>The study:</strong> ${esc(s.summary)}</p>` : ""}
+    ${s.why_it_matters ? `<p><strong>Why it matters:</strong> ${esc(s.why_it_matters)}</p>` : ""}
+    ${s.caveats && s.caveats !== "None identified" ? `<div class="caveats">⚠ ${esc(s.caveats)}</div>` : ""}
+    ${factCheckNote}
+  </div>
+  ${pitchSection}
+  <div class="card-footer">
+    <div class="status-selector">${statusBtns}</div>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <a class="pubmed-link" href="https://pubmed.ncbi.nlm.nih.gov/${s.pmid}/" target="_blank">
+        PubMed ${s.pmid} ↗
+      </a>
+      <button class="btn-remove" title="Remove from dashboard"
+        onclick="removeStudy('${s.pmid}')">✕</button>
+    </div>
+  </div>
+</div>`;
+}
+
+function esc(str) {
+  if (!str) return "";
+  return String(str)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+function togglePitch(btn) {
+  btn.classList.toggle("open");
+  const pmid = btn.dataset.pmid;
+  const body = document.getElementById("pitch-" + pmid);
+  if (body) body.classList.toggle("open");
+}
+
+init();
+</script>
+</body>
+</html>
