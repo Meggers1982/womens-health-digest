@@ -339,7 +339,7 @@
   </select>
 
   <select id="sort-by" onchange="applyFilters()">
-    <option value="score" selected>Sort: NS score</option>
+    <option value="score" selected>Sort: Relevance score</option>
     <option value="date">Sort: newest first</option>
   </select>
 
@@ -455,8 +455,8 @@ function applyFilters() {
       if (rd < cutoff) return false;
     }
     if (query) {
-      const text = [s.headline, s.summary, s.category, s.journal,
-                    s.ns_pitch?.pitch_angle, s.ns_pitch?.hook].join(" ").toLowerCase();
+      const pitchText = (s.pitch_angles || []).map(p => [p.pitch_angle, p.hook, p.publication_type].join(" ")).join(" ");
+      const text = [s.headline, s.summary, s.category, s.journal, pitchText].join(" ").toLowerCase();
       if (!text.includes(query)) return false;
     }
     return true;
@@ -490,11 +490,11 @@ function clearFilters() {
 }
 
 function scoreBadge(s) {
-  const score = s.ns_score;
+  const score = s.relevance_score;
   if (!score && score !== 0) return "";
   const cls   = score >= 8 ? "score-high" : score >= 6 ? "score-mid" : "score-low";
   const label = score >= 8 ? "Top pick" : score >= 6 ? "Strong" : "Lower fit";
-  const title = esc(s.ns_score_reason || "");
+  const title = esc(s.relevance_score_reason || "");
   return `<span class="score-badge ${cls}" title="${title}"><span class="score-dot"></span>${score}/10 · ${label}</span>`;
 }
 
@@ -502,8 +502,8 @@ function scoreBadge(s) {
 function renderCard(s) {
   const statuses = getStatuses();
   const status = statuses[s.pmid] || "new";
-  const pitch = s.ns_pitch || {};
-  const hasPitch = pitch.headline || pitch.hook || pitch.pitch_angle;
+  const pitchAngles = s.pitch_angles || [];
+  const hasPitch = pitchAngles.length > 0;
 
   const statusBtns = ["new","saved","pitched","passed"].map(st =>
     `<button class="status-btn${status === st ? ` active-${st}` : ''}"
@@ -517,14 +517,17 @@ function renderCard(s) {
 
   const pitchSection = hasPitch ? `
     <div class="pitch-toggle" onclick="togglePitch(this)" data-pmid="${s.pmid}">
-      <span class="arrow">▶</span> 📰 New Scientist Mind pitch
+      <span class="arrow">▶</span> 📰 Publication pitches
     </div>
     <div class="pitch-body" id="pitch-${s.pmid}">
-      ${pitch.headline ? `<div class="pitch-field"><label>Suggested headline</label><p class="pitch-headline">${esc(pitch.headline)}</p></div>` : ""}
-      ${pitch.hook ? `<div class="pitch-field"><label>Opening hook</label><p>${esc(pitch.hook)}</p></div>` : ""}
-      ${pitch.why_it_fits ? `<div class="pitch-field"><label>Why it fits Mind</label><p>${esc(pitch.why_it_fits)}</p></div>` : ""}
-      ${pitch.pitch_angle ? `<div class="pitch-field"><label>Pitch angle</label><p>${esc(pitch.pitch_angle)}</p></div>` : ""}
-      ${pitch.caveats_to_flag ? `<div class="pitch-field"><label>Caveats to flag</label><p>${esc(pitch.caveats_to_flag)}</p></div>` : ""}
+      ${pitchAngles.map((p, i) => `
+        <div class="pitch-field"><label>${pitchAngles.length > 1 ? `Outlet ${i + 1}` : "Outlet"}</label><p class="pitch-headline">${esc(p.publication_type)}</p></div>
+        ${p.headline ? `<div class="pitch-field"><label>Suggested headline</label><p class="pitch-headline">${esc(p.headline)}</p></div>` : ""}
+        ${p.hook ? `<div class="pitch-field"><label>Opening hook</label><p>${esc(p.hook)}</p></div>` : ""}
+        ${p.why_it_fits ? `<div class="pitch-field"><label>Why it fits</label><p>${esc(p.why_it_fits)}</p></div>` : ""}
+        ${p.pitch_angle ? `<div class="pitch-field"><label>Pitch angle</label><p>${esc(p.pitch_angle)}</p></div>` : ""}
+        ${p.caveats_to_flag ? `<div class="pitch-field"><label>Caveats to flag</label><p>${esc(p.caveats_to_flag)}</p></div>` : ""}
+      `).join('<hr style="margin: 12px 0; border: none; border-top: 1px solid #dbeafe;">')}
     </div>
   ` : "";
 
