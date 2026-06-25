@@ -29,21 +29,18 @@ jobs:
           - category: "Womens Health & Reproduction"
             chunk_index: "2"
             chunk_total: 2
-
           - category: "Endocrinology & Metabolism"
             chunk_index: "1"
             chunk_total: 2
           - category: "Endocrinology & Metabolism"
             chunk_index: "2"
             chunk_total: 2
-
           - category: Psychiatry
             chunk_index: "1"
             chunk_total: 2
           - category: Psychiatry
             chunk_index: "2"
             chunk_total: 2
-
           - category: "Nutritional Sciences"
             chunk_index: "1"
             chunk_total: 2
@@ -133,6 +130,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update womens health digest results [skip ci]"
+            git commit -m "chore: update women's health digest results [skip ci]"
             git push
           fi

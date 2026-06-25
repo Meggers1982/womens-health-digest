@@ -3,7 +3,7 @@
 Merge all per-job result artifacts into data/results.json.
 Run by the deploy job after all matrix jobs complete.
 
-Reads from /tmp/artifacts/results-*/results.json
+Reads from /tmp/artifacts/wh-results-*/results.json
 Writes to data/results.json (appends new studies, deduplicates by PMID)
 """
 
