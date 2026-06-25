@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-06-25T13:26:56.651966+00:00",
-  "total_studies": 125,
-  "new_this_run": 2,
+  "last_updated": "2026-06-25T13:42:12.378973+00:00",
+  "total_studies": 126,
+  "new_this_run": 1,
   "studies": [
     {
       "pmid": "42342027",
-      "headline": "A Glowing Tube May Help Surgeons Navigate Hysterectomies More Precisely",
+      "headline": "A glowing surgical tool may make robot-assisted hysterectomy safer by lighting up key anatomy in real time",
       "journal": "Journal of Minimally Invasive Gynecology",
       "pubdate": "2026 Jun 24",
       "doi": "10.1016/j.jmig.2026.06.023",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Fujita Health University in Japan describe the development and application of a novel near-infrared fluorescence vaginal device, the LunaPipe\u2122, designed to improve anatomical navigation during robot-assisted total hysterectomy. No sample size, participant demographics, or outcome data are reported in the available abstract; the publication appears to be a technical device description or early surgical report. No N, age range, or clinical outcomes can be verified from the abstract text alone.",
-      "why_it_matters": "Hysterectomy is one of the most common major surgeries performed on women worldwide; improved intraoperative navigation tools could potentially reduce complications such as urinary tract or vascular injury, though clinical evidence for this device has not yet been established.",
-      "caveats": "small sample (N<100), single-center, no outcome data reported in abstract, insufficient abstract detail to assess study design",
-      "fact_check_note": "The abstract provides no participant data, sample size, or results \u2014 only a device description and author affiliations. Summary reflects this limitation explicitly. Relevance score penalized accordingly for insufficient data.",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Fujita Health University in Japan describe a novel near-infrared fluorescence vaginal device \u2014 the LunaPipe\u2122 \u2014 designed to improve surgical navigation during robot-assisted total hysterectomy by illuminating anatomical boundaries in real time. The abstract provided is brief and appears to be an ahead-of-print notice without full results data; detailed participant numbers, outcomes, and comparative efficacy data are not available from the abstract alone.",
+      "why_it_matters": "Hysterectomy is one of the most common major surgeries performed on women, and surgical navigation errors can lead to serious complications including urinary tract injury; tools that improve real-time anatomical visualization during robotic procedures could meaningfully reduce operative risk for patients.",
+      "caveats": "small sample (N unknown from abstract), single-center, no outcome data reported in abstract, no female-specific breakdown (all participants are female by procedure type but no demographic breakdown provided)",
+      "fact_check_note": "The abstract as provided contains no results, participant numbers, or outcome data \u2014 it appears to be a title/author listing for an ahead-of-print study. Summary and caveats reflect this limitation explicitly. Relevance score is adjusted downward due to absence of reportable data. Journalists should obtain the full text before pitching.",
       "excluded": false,
       "relevance_score": 4,
-      "relevance_score_reason": "Directly relevant to women's surgical health, but the abstract contains no reportable clinical data, sample size, or outcomes, making it extremely difficult to pitch as a data-driven story.",
+      "relevance_score_reason": "Directly relevant to a common women's surgical procedure, but the abstract contains no results or sample size data, making it unverifiable and difficult to pitch responsibly without the full paper.",
       "pitch_angles": [
         {
-          "publication_type": "General health / Women's Health Magazine",
-          "headline": "A Light-Up Surgical Tool Could Make Hysterectomies Safer",
-          "hook": "A new glowing vaginal device uses near-infrared light to help surgeons 'see' better during one of the most common operations women undergo.",
-          "why_it_fits": "Hysterectomy affects roughly 600,000 American women per year, and readers facing or recovering from the procedure would want to know about advances in surgical precision.",
-          "pitch_angle": "Surgeons in Japan have developed a fluorescent vaginal instrument designed to improve real-time navigation during robot-assisted hysterectomy. The device, called LunaPipe\u2122, uses near-infrared light to help operating teams identify anatomical boundaries more clearly. If early clinical results hold up in larger trials, it could represent a step forward in reducing the risk of surgical complications.",
-          "caveats_to_flag": "No clinical outcome data are available from the abstract; this is an early-stage device report from a single center in Japan, and journalists should not imply proven patient benefit without seeking full-text data and independent expert comment."
+          "publication_type": "Women's Health Magazine",
+          "headline": "A Glowing New Surgical Device Could Make One of Women's Most Common Operations Safer",
+          "hook": "A new near-infrared illuminated vaginal device is designed to help robotic surgeons see critical anatomy more clearly during hysterectomy \u2014 potentially reducing the risk of accidental injury.",
+          "why_it_fits": "Hysterectomy affects hundreds of thousands of women annually in the U.S., and many readers will have personal or family experience with the procedure and care about surgical safety innovations.",
+          "pitch_angle": "Robot-assisted hysterectomy has become increasingly common, but even experienced surgeons can struggle to distinguish tissue boundaries in real time \u2014 a challenge that can lead to urinary tract injuries and other complications. A Japanese surgical team has developed a novel near-infrared fluorescence device called LunaPipe\u2122 that glows to illuminate anatomical landmarks during robotic hysterectomy. The technology is in early stages and full clinical data are pending, but it represents a new direction in surgical navigation for one of women's most frequently performed operations.",
+          "caveats_to_flag": "The available abstract contains no clinical outcome data or participant numbers. Journalists must obtain and review the full paper before reporting specific findings. This is an early-stage device from a single center in Japan, and no comparison data with standard techniques are available from the abstract."
         }
       ],
       "run_date": "2026-06-25",
@@ -65,35 +65,35 @@
     },
     {
       "pmid": "42332673",
-      "headline": "A simple blood ratio in the first trimester could flag which pregnancies will turn dangerously high-risk before symptoms appear",
+      "headline": "A simple blood test in early pregnancy may dramatically improve detection of severe preeclampsia before symptoms appear",
       "journal": "BMC Pregnancy and Childbirth",
       "pubdate": "2026 Jun 22",
       "doi": "10.1186/s12884-026-09532-0",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used targeted metabolomic analysis of first-trimester blood samples to identify eicosanoid lipid signaling molecules associated with severe preeclampsia in a nested case-control study drawn from a prospective cohort of 5,809 pregnant women. The analysis compared 45 women who later developed severe preeclampsia with 41 women who had uncomplicated pregnancies. A ratio of two specific metabolites (14-HDoHE/19,20-EDP) emerged as the strongest predictive marker; when added to an existing clinical screening algorithm, it improved the area under the curve from 0.77 to 0.87, with 73% sensitivity and 85% specificity. The findings suggest that inflammatory lipid pathway imbalances measurable in the first trimester may help identify high-risk pregnancies far earlier than current standard care allows.",
-      "why_it_matters": "Severe preeclampsia is a leading cause of maternal and infant death worldwide, and it currently has no reliable early-pregnancy blood test; this research suggests that a first-trimester metabolite ratio could one day give clinicians a head start on monitoring and intervention for the highest-risk pregnancies.",
-      "caveats": "small sample (N<100 in case-control subset), single-center, observational design, secondary analysis",
-      "fact_check_note": "The prospective cohort was 5,809 women, but the nested case-control analysis included only 45 cases and 41 controls (N=86 analyzed). Summary accurately reflects the nested design. AUC improvement figures and CI values verified against abstract. No corrections needed beyond clarifying the two-level sample size.",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a nested case-control study drawn from a prospective cohort of 5,809 pregnant women, researchers analyzed first-trimester blood samples from 45 women who later developed severe preeclampsia and 41 controls with uncomplicated pregnancies, using advanced metabolomic analysis to measure 40 types of eicosanoid molecules. Ten eicosanoids differed significantly between the groups, and a ratio of two specific molecules (14-HDoHE/19,20-EDP) emerged as the strongest predictive marker. When this metabolite ratio was added to an established preeclampsia screening algorithm, the model's predictive accuracy improved from an AUC of 0.77 to 0.87 \u2014 a statistically significant gain \u2014 with 73% sensitivity and 85% specificity.",
+      "why_it_matters": "Severe preeclampsia is a leading cause of maternal and fetal death worldwide, and current first-trimester screening tools miss a substantial proportion of cases; early identification could open a window for preventive interventions such as low-dose aspirin. These findings suggest that measuring specific fat-derived molecules in a routine early pregnancy blood draw may one day help identify women at highest risk months before symptoms emerge.",
+      "caveats": "small sample (N<100 in case-control analysis: 45 cases, 41 controls), single-center, observational design",
+      "fact_check_note": "Abstract confirms the nested case-control analysis included 45 severe preeclampsia cases and 41 controls drawn from a larger prospective cohort of 5,809 women \u2014 the N<100 caveat applies to the analytical sample, not the parent cohort. AUC improvement from 0.77 to 0.87 and p=0.008 are confirmed in the abstract. No errors in summary required correction.",
       "excluded": false,
       "relevance_score": 8,
-      "relevance_score_reason": "Directly addresses a life-threatening pregnancy complication in women with a novel first-trimester biomarker finding, though the small nested case-control sample is a meaningful limitation.",
+      "relevance_score_reason": "Directly addresses a serious women's-only condition (preeclampsia) with a novel predictive biomarker angle, clear lifestyle/clinical relevance, and a prospective cohort design \u2014 tempered by the very small case-control analytical sample (N=86 total).",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine / General health",
-          "headline": "A First-Trimester Blood Test Could Predict the Pregnancy Complication That Kills Thousands of Women Each Year",
-          "hook": "Before a single symptom appears, specific lipid molecules in a pregnant woman's blood may already be signaling that she is headed toward dangerous preeclampsia.",
-          "why_it_fits": "Younger women planning or navigating pregnancies are acutely aware of preeclampsia risk but have few actionable early tools \u2014 a potential first-trimester predictor is exactly the kind of news they seek.",
-          "pitch_angle": "Severe preeclampsia \u2014 the sudden-onset high blood pressure disorder of pregnancy \u2014 strikes without warning and remains one of the top causes of maternal death globally. New research suggests that a ratio of two inflammatory lipid molecules measurable from a routine first-trimester blood draw could dramatically improve early prediction, boosting screening accuracy from 77% to 87% when layered onto existing risk tools. The finding is early and the sample is small, but it points toward a future where the highest-risk pregnancies are flagged months before danger strikes.",
-          "caveats_to_flag": "Nested case-control involved only 86 participants; conducted at Chinese hospital settings, so findings may not generalize broadly; results need replication in larger, more diverse cohorts before clinical use."
+          "publication_type": "Women's Health Magazine",
+          "headline": "Could a Blood Test in Your First Trimester Predict a Dangerous Pregnancy Complication Months Early?",
+          "hook": "Scientists found that measuring specific fat-derived molecules in first-trimester blood could flag women at risk of severe preeclampsia with dramatically better accuracy than current screening tools.",
+          "why_it_fits": "Readers planning pregnancies or in early pregnancy are highly motivated by actionable information that could protect their health during a vulnerable period.",
+          "pitch_angle": "Preeclampsia \u2014 a dangerous spike in blood pressure during pregnancy \u2014 can strike without warning and is a leading cause of maternal death globally. A new study suggests that a panel of molecules called eicosanoids, measurable in a standard blood draw as early as the first trimester, could predict severe preeclampsia months before it develops. Adding this metabolite ratio to existing screening tools pushed predictive accuracy from 77% to 87% \u2014 potentially identifying thousands more women who could benefit from preventive aspirin therapy. The research is early and small, but the implications for prenatal care could be significant.",
+          "caveats_to_flag": "The case-control sample was small (45 cases, 41 controls), the study was conducted at limited centers in China, and the findings require validation in larger and more diverse populations before clinical adoption."
         },
         {
           "publication_type": "Prevention",
-          "headline": "Scientists Found Clues to a Deadly Pregnancy Complication Hidden in First-Trimester Blood \u2014 Here's What That Could Mean",
-          "hook": "Specific inflammation-linked molecules circulating in a pregnant woman's blood during the first trimester may predict severe preeclampsia months before it develops.",
-          "why_it_fits": "Prevention readers skew toward women 35\u201355 who are navigating pregnancy later in life or supporting daughters and friends \u2014 preeclampsia risk rises with age, making early detection tools especially compelling.",
-          "pitch_angle": "Preeclampsia affects up to 8% of pregnancies and its severe form can escalate rapidly into organ failure and stroke. A new metabolomics study found that a ratio of two eicosanoid lipid molecules \u2014 measurable from a standard blood draw as early as the first trimester \u2014 may significantly improve the ability to identify which pregnancies will become severely complicated. The research also points to specific biological pathways that aspirin (already used preventively in high-risk pregnancies) and potential new therapies might target. While the study is small and preliminary, it offers a rare mechanistic window into why some pregnancies go wrong.",
-          "caveats_to_flag": "Small nested case-control study (N=86 analyzed); observational design cannot establish causation; clinical translation is years away; conducted in China, limiting immediate generalizability."
+          "headline": "Early Pregnancy Blood Markers Could Catch a Deadly Complication Before It Starts",
+          "hook": "A new study found that fat-derived molecules in first-trimester blood may predict severe preeclampsia with 87% accuracy \u2014 and point toward aspirin as an early preventive strategy.",
+          "why_it_fits": "Prevention readers are invested in disease-interception science and practical steps women can discuss with their OBs.",
+          "pitch_angle": "Preeclampsia affects up to 8% of pregnancies and can have lasting cardiovascular consequences for women well beyond delivery. Researchers analyzing first-trimester blood samples found that an imbalance in specific inflammatory lipid molecules \u2014 eicosanoids \u2014 could distinguish women who would later develop severe preeclampsia from those who wouldn't, with meaningful accuracy. The study also provides biological evidence supporting early aspirin use for high-risk women, a recommendation already endorsed by some guidelines but underutilized. While the research needs replication, it offers a compelling glimpse at a future where dangerous pregnancy complications are caught \u2014 and countered \u2014 in the first three months.",
+          "caveats_to_flag": "Study was small (86 total participants in the case-control analysis), conducted in China (generalizability uncertain), and observational in design \u2014 it cannot yet change clinical practice."
         }
       ],
       "run_date": "2026-06-25",
@@ -103,27 +103,27 @@
     },
     {
       "pmid": "42332050",
-      "headline": "A specific ventilation strategy at birth may lower the risk of dangerous brain bleeds in extremely premature infants",
+      "headline": "A specific ventilation-first approach at birth may lower brain bleed risk in extremely preterm infants",
       "journal": "Journal of Perinatology",
       "pubdate": "2026 Jun 22",
       "doi": "10.1038/s41372-026-02751-5",
       "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a sub-analysis of the VentFirst multi-center randomized trial, examining head ultrasound findings from 548 infants born before 29 weeks' gestation who survived to their first head ultrasound. Any grade of intraventricular hemorrhage (IVH \u2014 bleeding into the brain's fluid-filled spaces) was found in 31% of infants, while severe IVH occurred in 8%. Low gestational age, twin gestation, and a low one-minute Apgar score were identified as predictors of severe IVH. Compared to a similar contemporaneous population in the Vermont Oxford Network, infants in the VentFirst trial had lower odds of any IVH and severe IVH, suggesting that optimized delivery-room ventilation conditions may reduce brain bleed risk.",
-      "why_it_matters": "Intraventricular hemorrhage is one of the most feared complications of extreme prematurity and can lead to lifelong disability; for mothers of twins or those at risk of very preterm delivery, evidence that delivery-room care protocols may reduce this risk is directly relevant to birth planning conversations with care teams.",
-      "caveats": "secondary analysis, no female-specific breakdown",
-      "fact_check_note": "N=548 confirmed in abstract. IVH rates (31% any grade, 8% severe) verified. Predictors (gestational age, twin gestation, 1-minute Apgar) verified. Comparison to Vermont Oxford Network verified. The abstract does not report sex-disaggregated infant data, which is flagged as a caveat. No corrections needed.",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a sub-analysis of the VentFirst multi-center randomized trial, examining head ultrasound findings from 548 infants born before 29 weeks' gestation who survived to their first scan. Any grade of intraventricular hemorrhage (IVH) \u2014 bleeding in the brain \u2014 was found in 31% of infants, while severe IVH occurred in 8%. Infants in the VentFirst cohort had lower odds of both any IVH and severe IVH compared to a similar population in the Vermont Oxford Network, suggesting that optimized delivery room ventilation conditions may contribute to better neurological outcomes.",
+      "why_it_matters": "For parents of extremely preterm infants \u2014 who are disproportionately affected by pregnancy complications \u2014 understanding that delivery room practices may influence the risk of serious brain bleeds could shape conversations with care teams. This finding also speaks to the broader stakes of birth-room decision-making for pregnant people at risk of very preterm delivery.",
+      "caveats": "secondary analysis, single gestational-age stratum (under 29 weeks), no female-specific breakdown of infant outcomes",
+      "fact_check_note": "Abstract confirms N=548 infants, multi-center RCT sub-analysis, severe IVH rate of 8%, any IVH rate of 31%. No female-specific breakdown of infant outcomes is noted as this study concerns neonates, not the birthing parent, though the perinatal context is relevant to maternal health coverage.",
       "excluded": false,
       "relevance_score": 5,
-      "relevance_score_reason": "Relevant to women facing high-risk or twin pregnancies, but the study focuses on neonatal outcomes rather than maternal health, is a secondary analysis, and lacks sex-disaggregated infant data, limiting its direct women's health framing.",
+      "relevance_score_reason": "Perinatal relevance for pregnant women exists, but the study focuses on neonatal outcomes rather than maternal health, has no sex-disaggregated data for the birthing parent, and is a secondary analysis \u2014 limiting its direct women's health journalism hook.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "How Babies Are Ventilated in the Delivery Room May Affect Their Risk of Brain Bleeds, New Study Suggests",
-          "hook": "Premature infants born under a specific ventilation protocol had lower rates of intraventricular hemorrhage \u2014 the dangerous brain bleed that is one of extreme prematurity's most feared complications.",
-          "why_it_fits": "Parents of premature infants, particularly mothers of multiples who face higher preterm birth risk, are a motivated audience for research showing that delivery-room decisions can affect long-term newborn brain health.",
-          "pitch_angle": "Intraventricular hemorrhage affects nearly a third of infants born before 29 weeks and can cause lasting neurological damage or death. A new analysis of a multi-center randomized trial found that extremely premature infants managed under a specific delivery-room ventilation protocol had lower odds of brain bleeds compared to similar infants in a national registry, with twin gestation, low gestational age, and low Apgar scores identified as key risk factors. The study is a secondary analysis and cannot confirm causation, but it adds to growing evidence that what happens in the first minutes after a very premature birth can shape a child's neurological future.",
-          "caveats_to_flag": "Secondary analysis of a randomized trial rather than a primary pre-specified outcome; comparison group is observational; no breakdown of outcomes by infant sex; study cannot definitively isolate the ventilation protocol as the cause of lower IVH rates."
+          "headline": "How the First Breath Taken in the Delivery Room May Protect Premature Babies' Brains",
+          "hook": "Babies born before 29 weeks in a trial using a 'ventilation-first' approach had lower odds of serious brain bleeds than comparable infants in a national registry.",
+          "why_it_fits": "Parents of premature infants \u2014 and pregnant people at risk of very preterm birth \u2014 actively seek information on delivery room practices that could affect their baby's neurological outcomes.",
+          "pitch_angle": "A sub-analysis of a randomized trial found that extremely preterm infants born under a ventilation-first delivery protocol had lower rates of intraventricular hemorrhage \u2014 a potentially devastating brain bleed \u2014 than similar infants in a large national database. While researchers can't definitively attribute the difference to the protocol alone, the findings suggest delivery room conditions matter more than previously appreciated. For expectant parents navigating high-risk pregnancies, this research raises important questions about what optimized preterm birth care looks like.",
+          "caveats_to_flag": "This is a secondary analysis of trial data, not a direct randomized comparison on IVH as a primary endpoint. The comparison group was a registry population, not a concurrent control arm. Results should not be interpreted as definitive proof of causation."
         }
       ],
       "run_date": "2026-06-25",
@@ -358,6 +358,44 @@
           "why_it_fits": "Athletes and sports fans are keenly aware of how often cartilage injuries end careers or lead to chronic joint problems \u2014 the idea that AI could make these surgeries significantly more precise is a compelling performance and sports medicine story.",
           "pitch_angle": "A scoping review of early-stage studies found that AI-powered cartilage mapping tools can assess joint damage intraoperatively with accuracy rivaling surgeons, while navigation systems slashed graft placement errors from over 12 degrees to under 4 degrees. One laser scanning system measured defects to within less than half a millimeter and cut surgical workflow time from 15 minutes to under 4. For athletes facing cartilage repair, this emerging technology could eventually mean more precise surgery and better chances of returning to full function.",
           "caveats_to_flag": "Only seven studies met inclusion criteria; no patient-reported outcomes or return-to-sport data are available yet. This is early feasibility research, not evidence of improved clinical results."
+        }
+      ],
+      "run_date": "2026-06-25",
+      "category": "all",
+      "chunk": "1/1",
+      "status": "new"
+    },
+    {
+      "pmid": "42323844",
+      "headline": "Caffeine gives competitive swimmers a measurable speed boost \u2014 and higher doses may deliver even bigger gains",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "pubdate": "2026 Dec 31",
+      "doi": "10.1080/15502783.2026.2692016",
+      "groundbreaking": "Relevant fitness or performance finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic review and multilevel meta-analysis of 13 randomized placebo-controlled crossover trials examining acute caffeine supplementation in competitive swimmers (144 men, 48 women). The pooled analysis found that caffeine improved swimming performance by approximately 1.7% (SMD = 0.57), a moderate ergogenic effect. Exploratory subgroup analyses suggested that higher doses (\u22656 mg/kg body weight) were associated with larger performance gains than lower doses (<6 mg/kg), though the overall heterogeneity across studies was substantial (I\u00b2 = 64.7%). Caffeine was also associated with higher post-exercise blood lactate levels, suggesting greater anaerobic energy contribution.",
+      "why_it_matters": "For competitive swimmers, coaches, and sports nutritionists, these findings suggest that caffeine is a meaningful legal ergogenic aid in aquatic sport \u2014 and that dose calibration, particularly at or above 6 mg/kg, may be worth considering when planning pre-competition supplementation strategies.",
+      "caveats": "small sample (N<100 total participants across trials), highly trained athletes only (may not generalize), secondary analysis, short follow-up",
+      "fact_check_note": "The abstract reports 144 men and 48 women (192 total participants across 13 studies), so the effective per-study N is small. The study is a meta-analysis, not a secondary analysis of raw data \u2014 'secondary analysis' caveat removed in favor of noting the small per-study participant pool. The 1.71% improvement figure and SMD of 0.57 are accurately drawn from the abstract. The \u22656 mg/kg vs <6 mg/kg subgroup difference (p = 0.017) is noted as exploratory and hypothesis-generating per the authors \u2014 this is preserved in the summary.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "A meta-analysis confirming a clear, quantified performance benefit of caffeine for competitive swimmers \u2014 with a dose-response signal \u2014 is directly actionable for athletes, coaches, and sports nutrition writers, though the highly trained-only population and small total N temper generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "ESPN / Sports Illustrated",
+          "headline": "The Legal Edge: Why Competitive Swimmers Are Rethinking Their Pre-Race Coffee Dose",
+          "hook": "A new meta-analysis finds caffeine shaves roughly 1.7% off swim times \u2014 and higher doses appear to deliver even bigger advantages.",
+          "why_it_fits": "Elite aquatic sport readers and coaches actively seek evidence-based marginal gains, and a quantified dose-performance relationship gives them something concrete to discuss.",
+          "pitch_angle": "Caffeine is already widely used in endurance and team sport, but its role in competitive swimming has been murky \u2014 until now. A meta-analysis of 13 randomized trials found a consistent, moderate performance boost (about 1.7%) from pre-race caffeine, with preliminary evidence that doses at or above 6 mg/kg body weight produce noticeably larger gains. The finding matters because swim races are often decided by fractions of a second, making even a 1\u20132% improvement potentially race-defining at the elite level.",
+          "caveats_to_flag": "All studies involved competitive swimmers, so findings may not translate to recreational lap swimmers. The dose-response finding is exploratory and not yet confirmed in dedicated trials. Total participant pool across all 13 studies was under 200."
+        },
+        {
+          "publication_type": "Runner's World / Outside",
+          "headline": "Caffeine Works in the Pool Too \u2014 Here's the Dose That May Matter Most",
+          "hook": "A comprehensive new review confirms caffeine boosts swim performance by nearly 2% \u2014 and suggests that most athletes may be underdosing.",
+          "why_it_fits": "Endurance athletes across disciplines \u2014 triathletes, open-water swimmers, multi-sport competitors \u2014 use caffeine strategically, and dose guidance is a perennial reader question.",
+          "pitch_angle": "Most endurance athletes know caffeine helps on the run or the bike, but evidence in swimming has lagged behind. A new meta-analysis of 13 controlled trials finds a clear ergogenic effect in competitive swimmers, with a roughly 1.7% performance improvement \u2014 and hints that the common 3\u20135 mg/kg dose may not be optimal. The \u22656 mg/kg threshold that showed larger effects could reshape how triathletes and open-water competitors time and dose their pre-race caffeine.",
+          "caveats_to_flag": "The high-dose subgroup finding is exploratory; higher caffeine doses also carry greater risk of side effects including anxiety and GI distress. Studies included competitive, not recreational, swimmers."
         }
       ],
       "run_date": "2026-06-25",
