@@ -87,41 +87,6 @@ def main():
     send_summary_email(new_count, len(studies), output["last_updated"])
 
 
-def send_summary_email(new_count: int, total: int, timestamp: str):
-    if not RESEND_KEY:
-        print("No RESEND_API_KEY — skipping email")
-        return
-
-    run_date = datetime.now().strftime("%b %d, %Y")
-    subject  = f"Women's Health Research Digest — {run_date} | {new_count} {'Study' if new_count == 1 else 'Studies'}"
-    html = f"""<!DOCTYPE html>
-<html>
-<body style="font-family:Georgia,serif;max-width:500px;margin:auto;padding:24px;color:#222;">
-<h2 style="color:#1a3a2e;">Women&#39;s Health Research Digest</h2>
-<p>Today's digest is ready. <strong>{new_count} new {'study' if new_count == 1 else 'studies'}</strong> added
-across all categories ({total} total in dashboard).</p>
-<p>
-  <a href="{DASHBOARD_URL}" style="display:inline-block;background:#2563eb;color:white;
-  padding:10px 20px;border-radius:6px;text-decoration:none;font-size:15px;">
-  View Dashboard →</a>
-</p>
-<p style="font-size:0.85em;color:#888;margin-top:2em;">
-  Women&#39;s Health Research Digest · PubMed + Claude + SERPAPI
-</p>
-</body>
-</html>"""
-    try:
-        r = requests.post(
-            "https://api.resend.com/emails",
-            headers={"Authorization": f"Bearer {RESEND_KEY}", "Content-Type": "application/json"},
-            json={"from": FROM_EMAIL, "to": [RECIPIENT], "subject": subject, "html": html},
-            timeout=20,
-        )
-        r.raise_for_status()
-        print(f"Summary email sent ✓  id={r.json().get('id', 'unknown')}")
-    except Exception as e:
-        print(f"Email error: {e}")
-
 
 if __name__ == "__main__":
     main()
