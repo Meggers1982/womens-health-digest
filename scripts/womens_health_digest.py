@@ -422,11 +422,21 @@ Return ONLY a valid JSON array, no other text.
 Studies:
 {studies_block}"""
 
+    # Separate static instructions (cached across batches) from dynamic studies
+    _sep = "\n\nStudies:\n"
+    _ret = "\n\nReturn ONLY a valid JSON array, no other text."
+    _system = prompt.split(_sep)[0].replace(_ret, "").strip() if _sep in prompt else ""
+    _user = (
+        f"Studies:\n{studies_block}\n\nReturn ONLY a valid JSON array, no other text."
+        if _sep in prompt else prompt
+    )
+
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
     message = client.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=6000,
-        messages=[{"role": "user", "content": prompt}],
+        system=[{"type": "text", "text": _system, "cache_control": {"type": "ephemeral"}}],
+        messages=[{"role": "user", "content": _user}],
     )
     try:
         results = extract_json(message.content[0].text)
