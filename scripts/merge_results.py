@@ -84,7 +84,6 @@ def main():
     OUTPUT_PATH.write_text(json.dumps(output, indent=2))
     print(f"Wrote {len(studies)} studies ({new_count} new) to {OUTPUT_PATH}")
 
-    send_summary_email(new_count, len(studies), output["last_updated"])
 
 
 
