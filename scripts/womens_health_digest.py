@@ -19,6 +19,8 @@ Optional environment variables:
   CHUNK_TOTAL         — Total chunks for this category (default: 1)
   FILTER_CATEGORY     — If set, jobs whose CATEGORIES don't match will exit early
   DASHBOARD_URL       — URL of the GitHub Pages dashboard for the notification email
+  SUPABASE_URL        — Supabase project URL (enables personalization from dashboard save/delete feedback)
+  SUPABASE_KEY        — Supabase API key (read-only use; skips personalization if not set)
 """
 
 import csv
@@ -46,6 +48,9 @@ CHUNK_INDEX      = int(os.environ.get("CHUNK_INDEX", "1"))
 CHUNK_TOTAL      = int(os.environ.get("CHUNK_TOTAL", "1"))
 FILTER_CATEGORY  = os.environ.get("FILTER_CATEGORY", "").strip()
 DASHBOARD_URL    = os.environ.get("DASHBOARD_URL", "")
+SUPABASE_URL     = os.environ.get("SUPABASE_URL", "").rstrip("/")
+SUPABASE_KEY     = os.environ.get("SUPABASE_KEY", "")
+SOURCE_ID        = "womens-health"
 RESULTS_PATH     = Path("/tmp/results.json")
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -63,6 +68,7 @@ MEDIA_RELAX       = 5
 MIN_STUDIES       = 5
 MAX_CANDIDATES    = 30
 MIN_TITLE_SCORE   = 1
+MIN_RELEVANCE_SCORE = 4  # drop studies scored 3 or below — too weak/niche to pitch
 ABSTRACT_MAX_CHARS = 5000
 PUBMED_ISSN_BATCH = 3
 ESUMMARY_BATCH    = 20
@@ -332,6 +338,63 @@ def fetch_abstract(pmid: str, doi: str = "") -> str:
     return pubmed_text
 
 
+# ── Step 5b: Feedback-based personalization ──────────────────────────────────
+
+def build_personalization(source_id: str, results_path: Path) -> str:
+    if not SUPABASE_URL or not SUPABASE_KEY:
+        return ""
+    try:
+        r = requests.get(
+            f"{SUPABASE_URL}/rest/v1/study_status",
+            params={"study_id": f"like.{source_id}:*", "select": "study_id,status,updated_at"},
+            headers={"apikey": SUPABASE_KEY, "Authorization": f"Bearer {SUPABASE_KEY}"},
+            timeout=15,
+        )
+        r.raise_for_status()
+        rows = r.json()
+    except Exception as e:
+        print(f"  Supabase feedback fetch error: {e}")
+        return ""
+
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=90)).isoformat()
+
+    def pmids(statuses):
+        return {
+            row["study_id"].split(":", 1)[1]
+            for row in rows
+            if row["status"] in statuses and row["updated_at"] >= cutoff
+        }
+
+    deleted, saved = pmids({"deleted", "passed"}), pmids({"saved", "pitched"})
+    if not deleted and not saved:
+        return ""
+
+    history = {}
+    if results_path.exists():
+        try:
+            history = {s["pmid"]: s for s in json.loads(results_path.read_text()).get("studies", [])}
+        except Exception:
+            pass
+
+    def headlines(pmid_set, limit=8):
+        return [history[p]["headline"][:80] for p in pmid_set if p in history and history[p].get("headline")][:limit]
+
+    saved_ex, deleted_ex = headlines(saved), headlines(deleted)
+    if not saved_ex and not deleted_ex:
+        return ""
+
+    block = (
+        "Personalization based on this journalist's past feedback on this digest "
+        "(soft signal only — nudge relevance_score by at most ±1, never exclude solely because of this):\n"
+    )
+    if saved_ex:
+        block += "Recently SAVED (favor similar angles when the science supports it):\n" + "\n".join(f"  - {h}" for h in saved_ex) + "\n"
+    if deleted_ex:
+        block += "Recently PASSED ON / DELETED (be more conservative with similar angles):\n" + "\n".join(f"  - {h}" for h in deleted_ex) + "\n"
+    print(f"  Personalization: {len(saved_ex)} saved example(s), {len(deleted_ex)} deleted example(s)")
+    return block
+
+
 # ── Step 6: Claude — single combined pass ────────────────────────────────────
 
 def extract_json(text: str) -> list:
@@ -344,7 +407,7 @@ def extract_json(text: str) -> list:
     return json.loads(text)
 
 
-def process_batch(batch: list[dict], start_num: int, media_checked: bool) -> list[dict]:
+def process_batch(batch: list[dict], start_num: int, media_checked: bool, personalization: str = "") -> list[dict]:
     media_note = "Not widely covered ✓ (SERPAPI verified)" if media_checked else "Not verified — SERPAPI unavailable"
 
     studies_block = ""
@@ -399,6 +462,7 @@ Rules for content:
 - For psychiatry: flag whether findings are specific to women or from mixed-sex samples without female-specific analysis
 - For nutrition: note whether dietary patterns or supplements were studied, and in what population
 - Animal-only and cell-only studies should already be excluded by screening; if any slip through, clearly label and score lower
+- Note the country/region of the study population when it's relevant to interpreting the finding. Flag (in caveats) when a result is closely tied to one non-US region's specific context — e.g. a soy-consumption pattern specific to rural China, or a water-quality issue specific to Iran — and unlikely to generalize to a US/global readership.
 - Never use: breakthrough, cure, reverses, eliminates, proven to prevent
 - Always use: suggests, found that, associated with, early evidence indicates
 - No causal language for observational studies
@@ -412,9 +476,10 @@ relevance_score rubric (1–10): start at 5, then adjust:
   −1 per major caveat
   −1 no sex-disaggregated data reported
   −2 animal or cell study only
+  −2 finding is tied to a single non-US/non-multinational region's diet, genetics, environment, or healthcare system in a way unlikely to resonate with or apply to a US/global audience (this does not apply to large multinational cohorts, WHO/global-health studies, or findings with a clear universal biological mechanism)
   Topic fit bonus: menopause and HRT, PCOS, endometriosis, fertility, postpartum health, bone density, cardiovascular disease in women, female-specific cancers, eating disorders, perinatal mental health, contraception, sexual health score higher
 
-Return ONLY a valid JSON array, no other text.
+{personalization}Return ONLY a valid JSON array, no other text.
 
 Studies:
 {studies_block}"""
@@ -505,6 +570,8 @@ def main():
         print(f"Skipping: filter='{FILTER_CATEGORY}', this job='{CATEGORIES_INPUT}' — no match.")
         return
 
+    personalization = build_personalization(SOURCE_ID, DATA_DIR / "results.json")
+
     print(f"\nCategories: {', '.join(categories)}")
     issns = get_issns(categories)
     print(f"ISSNs: {len(issns)}")
@@ -556,11 +623,11 @@ def main():
     for i in range(0, len(studies), CLAUDE_BATCH_SIZE):
         batch = studies[i : i + CLAUDE_BATCH_SIZE]
         print(f"  Batch {i//CLAUDE_BATCH_SIZE+1}/{total_batches}...")
-        results = process_batch(batch, i + 1, media_checked)
+        results = process_batch(batch, i + 1, media_checked, personalization)
         enriched.extend(results)
 
-    enriched = [s for s in enriched if not s.get("excluded")]
-    print(f"Included after exclusion check: {len(enriched)}")
+    enriched = [s for s in enriched if not s.get("excluded") and s.get("relevance_score", 0) >= MIN_RELEVANCE_SCORE]
+    print(f"Included after exclusion + relevance-score (≥{MIN_RELEVANCE_SCORE}) check: {len(enriched)}")
 
     if not enriched:
         print("No included studies — exiting.")
