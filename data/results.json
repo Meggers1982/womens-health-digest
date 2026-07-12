@@ -1,60 +1,1104 @@
 {
-  "last_updated": "2026-07-11T11:48:30.169019+00:00",
-  "total_studies": 249,
-  "new_this_run": 15,
+  "last_updated": "2026-07-12T11:55:34.098453+00:00",
+  "total_studies": 260,
+  "new_this_run": 11,
   "studies": [
     {
       "pmid": "42425941",
-      "headline": "AI is being used to discover new psychiatric drugs \u2014 but the field is years behind cancer research",
+      "headline": "AI hasn't yet produced a single approved psychiatric drug \u2014 but researchers say that's about to change",
       "journal": "Translational Psychiatry",
       "pubdate": "2026 Jul 9",
       "doi": "10.1038/s41398-026-04153-9",
-      "groundbreaking": "Relevant women's health finding",
+      "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This perspective paper from Australian researchers reviews the current state of AI-driven drug discovery in neuropsychiatry, noting that while tools like AlphaFold and AI-driven behavioral analysis platforms are being used to identify psychiatric drug candidates, no AI-developed neuropsychiatric drug has yet reached commercial approval. The authors highlight that AI's impact on psychiatric pharmacology lags far behind oncology, citing challenges including poor pharmacological selectivity, the blood-brain barrier, and limited understanding of disease mechanisms. One AI-identified compound (ulotaront) is currently in Phase III clinical trials.",
-      "why_it_matters": "Women are diagnosed with depression and anxiety at roughly twice the rate of men, making faster development of better-targeted psychiatric medications a meaningful issue for women's health.",
-      "caveats": "no empirical data, no sex-disaggregated data, perspective/review article only",
+      "summary": "Researchers from Flinders University and the University of Adelaide reviewed the current state of AI-driven drug discovery in neuropsychiatry. They found that despite AI's rapid adoption in pharmaceutical research broadly, no commercially available neuropsychiatric drug has yet been developed solely using AI \u2014 a striking gap compared to oncology. The authors argue that tools like AlphaFold and large-scale multi-omics data may accelerate future discovery, with several AI-assisted candidates (e.g., ulotaront) now in Phase III trials.",
+      "why_it_matters": "For women, who are disproportionately affected by depression and anxiety, the slow pace of neuropsychiatric drug development means faster AI-assisted pipelines could eventually expand treatment options.",
+      "caveats": "observational design, no sex-disaggregated data, preprint",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Perspective only; no new data; indirect relevance to women's mental health.",
+      "relevance_score_reason": "Broad pharma/AI topic; no women-specific data or direct clinical hook.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "AI Is Trying to Fix the Broken Pipeline for New Mental Health Drugs \u2014 Here's How Far It's Gotten",
-          "hook": "Despite the buzz around AI in medicine, not a single psychiatric drug discovered solely by artificial intelligence has made it to market \u2014 yet.",
-          "pitch_angle": "Researchers say the psychiatric drug pipeline has long been stalled by the complexity of the brain and poor understanding of mental illness biology, but AI tools are beginning to change that calculus. For the millions of women living with depression, anxiety, and other psychiatric conditions, a faster, smarter drug discovery process can't come soon enough."
+          "headline": "AI Promised to Revolutionize Mental Health Treatment \u2014 So Why Are We Still Waiting?",
+          "hook": "Despite years of hype, no psychiatric drug has ever been brought to market using AI alone.",
+          "pitch_angle": "A new review finds AI has yet to deliver a single approved neuropsychiatric drug, even as the technology transforms cancer treatment. For readers curious about the future of depression and anxiety care, this is a reality check with cautious optimism baked in."
         }
       ],
-      "run_date": "2026-07-11",
+      "run_date": "2026-07-12",
       "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42426841",
-      "headline": "Scientists identify a gene pair that may predict which ovarian cancer patients won't respond to standard chemotherapy",
+      "headline": "A gene pair signature predicts platinum resistance in ovarian cancer with 94% accuracy \u2014 potentially changing how treatment decisions are made",
       "journal": "Journal of Ovarian Research",
       "pubdate": "2026 Jul 9",
       "doi": "10.1186/s13048-026-02173-z",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed 908 transcriptome samples from 12 high-grade serous ovarian cancer (HGSOC) datasets drawn from public databases (GEO and TCGA), identifying a gene pair \u2014 KIF20A and CHGB \u2014 that distinguishes cisplatin-sensitive from cisplatin-resistant tumors with high accuracy (AUROC = 0.97). The gene pair signature was validated across eight independent cohorts and confirmed in cell-line experiments showing that silencing either gene enhanced cisplatin's cancer-killing effects. High expression of KIF20A or CHGB was associated with worse prognosis and platinum resistance in HGSOC patients.",
-      "why_it_matters": "High-grade serous ovarian cancer has poor survival rates partly because chemotherapy resistance is hard to predict upfront \u2014 a reliable biomarker could eventually help oncologists personalize treatment before resistance develops.",
-      "caveats": "observational design, single-center (cell experiments), animal or cell study (cell-line validation component), secondary analysis (database-derived transcriptome data), single non-US/non-multinational region context (Chinese research center for cell work)",
+      "summary": "Researchers integrated 908 transcriptome samples from 12 high-grade serous ovarian cancer (HGSOC) datasets to identify a two-gene signature \u2014 KIF20A paired with CHGB \u2014 that distinguishes cisplatin-sensitive from cisplatin-resistant tumors with high accuracy (AUROC = 0.9668). The study combined large-scale bioinformatics analysis across public databases with laboratory cell experiments to validate the genes' roles in chemoresistance. The findings suggest that elevated KIF20A or CHGB expression drives resistance to platinum-based chemotherapy and is associated with worse prognosis in women with HGSOC.",
+      "why_it_matters": "For women with high-grade serous ovarian cancer \u2014 the deadliest gynecologic cancer \u2014 a reliable biomarker of chemotherapy resistance could eventually help guide more personalized treatment decisions.",
+      "caveats": "animal or cell study, observational design, single-center, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Female-specific cancer focus, but largely cell/bioinformatics study with no clinical cohort.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Women's Health Magazine",
+          "headline": "Scientists Identify a Gene Pair That Could Predict Why Some Ovarian Cancers Stop Responding to Chemo",
+          "hook": "A two-gene signature identified from nearly 1,000 tumor samples correctly predicted platinum resistance in ovarian cancer with 94% accuracy \u2014 a potential step toward personalized treatment.",
+          "pitch_angle": "High-grade serous ovarian cancer is often caught late and frequently becomes resistant to standard platinum-based chemotherapy, making it especially deadly. Early-stage lab and bioinformatics research suggests a two-gene biomarker could one day help flag which patients' tumors are unlikely to respond \u2014 before treatment begins."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42425477",
+      "headline": "A blood test taken at diagnosis may predict whether antipsychotic drugs will improve thinking in people with first-episode schizophrenia",
+      "journal": "Progress in Neuro-Psychopharmacology & Biological Psychiatry",
+      "pubdate": "2026 Jul 9",
+      "doi": "10.1016/j.pnpbp.2026.111830",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Tianjin, China, analyzed plasma metabolites in 105 first-episode, drug-na\u00efve schizophrenia patients at baseline and after 8 weeks of antipsychotic treatment. Using machine learning, they identified a four-metabolite signature (TG 18:0_36:5, serotonin, isoleucine, and tryptophan betaine) that predicted cognitive improvement with an AUC of 0.734. Longitudinal shifts in glycerophospholipid metabolism were also associated with specific cognitive gains in working memory and reasoning.",
+      "why_it_matters": "Schizophrenia affects women differently across reproductive life stages, and a predictive blood biomarker could eventually help clinicians personalize treatment decisions earlier in the illness course.",
+      "caveats": "small sample (N<100 for subgroup analyses), observational design, single-center, no sex-disaggregated data, short follow-up, finding is tied to a single non-US/non-multinational region's context",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Clinically interesting but no sex-disaggregated data; single Chinese center limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Simple Blood Test at Diagnosis Could Predict How Well Schizophrenia Meds Will Work on Thinking",
+          "hook": "Researchers found that four molecules in the blood at the time of a first schizophrenia diagnosis may forecast whether antipsychotic treatment will improve cognitive function.",
+          "pitch_angle": "Cognitive impairment is one of the hardest-to-treat features of schizophrenia, and current trial-and-error prescribing can delay effective care. Early evidence of a predictive metabolic signature suggests future medicine could be more targeted \u2014 though larger, more diverse studies are needed."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42425253",
+      "headline": "High arches and longer foot bones may be a hidden risk factor for stress fractures in female runners",
+      "journal": "Bone",
+      "pubdate": "2026 Jul 9",
+      "doi": "10.1016/j.bone.2026.118007",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed metatarsal bone structure, foot mechanics, and Female Athlete Triad risk factors in 41 female runners aged 17\u201340, including 7 who had experienced bone stress injuries and 34 healthy controls. Micro-CT imaging showed that longer metatarsals were associated with weaker bone density and microstructure, while high arches were linked to reduced bone strength in a way that could increase stress fracture risk. Injured runners were also more likely to have greater Triad risk scores and earlier menarche compared to performance-matched healthy runners.",
+      "why_it_matters": "For active women and coaches, this study suggests that foot shape and Female Athlete Triad risk factors \u2014 not just training load \u2014 may interact to raise bone stress injury risk, pointing to a need for more holistic pre-injury screening.",
+      "caveats": "small sample (N<100), observational design, single-center",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Female-only sample, reproductive/bone health hook, clear lifestyle angle; small N limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Your Foot Shape Could Be Quietly Setting You Up for a Stress Fracture",
+          "hook": "New research in female runners suggests that high arches and longer metatarsal bones \u2014 combined with Female Athlete Triad risk factors \u2014 may interact to raise bone stress injury risk in ways that training load alone doesn't explain.",
+          "pitch_angle": "A small but targeted study found that injured runners had longer foot bones and higher Female Athlete Triad risk scores than uninjured peers with similar training volumes. The finding suggests that foot structure and hormonal/nutritional health should both be on the radar for injury prevention in active women."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Runners With High Arches May Face a Hidden Bone Risk \u2014 Here's What the Research Says",
+          "hook": "A new study of female runners found that high arches may weaken metatarsal bones in ways that raise stress fracture risk, independent of how much you train.",
+          "pitch_angle": "Beyond mileage and shoes, foot anatomy and Female Athlete Triad factors \u2014 like low energy availability and menstrual disruption \u2014 may quietly stack the odds against bone health in women who run. Researchers say a multi-factor approach to injury screening is overdue."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42426918",
+      "headline": "Mixing buprenorphine with common sedatives raises overdose risk \u2014 but the evidence is murkier than you'd think",
+      "journal": "Addiction Science & Clinical Practice",
+      "pubdate": "2026 Jul 9",
+      "doi": "10.1186/s13722-026-00698-8",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at Ohio State University conducted a systematic review of 7 observational studies examining clinical outcomes when buprenorphine \u2014 used for opioid use disorder or pain \u2014 is combined with other drugs. They found increased overdose risk associated with co-use of buprenorphine and benzodiazepines, Z-drugs, pregabalin, gabapentin, clonidine, or oxycodone, but results for some combinations (particularly buprenorphine-benzodiazepine) were mixed. The review concluded that evidence remains inconclusive and called for larger, more rigorous studies.",
+      "why_it_matters": "Women with opioid use disorder are increasingly prescribed buprenorphine, and many also take benzodiazepines or gabapentin for anxiety or pain \u2014 understanding these interaction risks matters for their safety.",
+      "caveats": "observational design, small sample (N<100 studies included \u2014 only 7 studies), no sex-disaggregated data, short follow-up, secondary analysis",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Female-specific cancer, large transcriptome dataset, but cell-study validation and database-only design limit clinical translation.",
+      "relevance_score_reason": "Relevant women's health topic (OUD); systematic review design; no sex-disaggregated data limits score.",
       "pitch_angles": [
         {
           "publication_type": "Prevention",
-          "headline": "A New Genetic Signature Could One Day Predict Whether Your Ovarian Cancer Will Respond to Chemo",
-          "hook": "Scientists found that a pair of genes may accurately flag which high-grade ovarian cancers are likely to resist standard platinum-based chemotherapy.",
-          "pitch_angle": "Analyzing nearly 1,000 tumor samples, researchers identified a two-gene marker that predicted cisplatin resistance in ovarian cancer with striking accuracy \u2014 early evidence that could eventually help doctors tailor treatment before chemotherapy fails."
+          "headline": "If You Take Buprenorphine for Opioid Use Disorder, These Common Co-Prescriptions May Raise Your Overdose Risk",
+          "hook": "A new review finds that combining buprenorphine with sedatives like benzodiazepines or sleep aids is associated with higher overdose risk \u2014 but the evidence isn't as clear-cut as guidelines suggest.",
+          "pitch_angle": "Women with opioid use disorder are often prescribed multiple medications for anxiety, pain, or sleep, making drug interaction safety a practical concern. This systematic review suggests the risks are real but complicated, underscoring the need for transparent conversations with prescribers."
         }
       ],
-      "run_date": "2026-07-11",
+      "run_date": "2026-07-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42377353",
+      "headline": "Latin American experts say low-calorie sweeteners are safer than headlines suggest \u2014 but the debate is far from settled",
+      "journal": "Nutricion Hospitalaria",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.20960/nh.06972",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "The First Latin American Scientific Forum on Low- and No-Calorie Sweeteners (LNCS) convened experts in 2025 to review evidence on the safety, health effects, and regulation of sweeteners across North America, Europe, and Latin America. Reviewers found that regulatory agencies across these regions agree that approved LNCS are safe within acceptable daily intake levels, and that RCTs suggest modest weight and cardiometabolic benefits when LNCS replace sugar. However, the forum flagged that observational studies showing adverse associations are likely confounded by reverse causality and methodological limitations, and called for research into individual sweetener effects and specific populations.",
+      "why_it_matters": "Women are disproportionate consumers of diet beverages and sugar substitutes, making clearer guidance on LNCS safety and weight effects directly relevant to their everyday choices.",
+      "caveats": "observational design (for some referenced studies), no sex-disaggregated data, single non-US/non-multinational regional context [Latin America focus], secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant nutrition topic, but regional focus and no female-specific analysis limit broad applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Are Low-Calorie Sweeteners Actually Bad for You? Here's What the Latest Expert Review Found",
+          "hook": "A major scientific forum reviewed decades of sweetener research and found that the scary headlines may be overstating the risks.",
+          "pitch_angle": "When RCTs are separated from flawed observational studies, low- and no-calorie sweeteners look modest but safe for weight and metabolic health \u2014 a nuanced finding worth unpacking for wellness-curious readers who've been confused by conflicting news."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42417098",
+      "headline": "New cell-sorting method retrieves fetal DNA from mom's blood faster \u2014 and could make invasive prenatal testing less necessary",
+      "journal": "Prenatal Diagnosis",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1002/pd.70219",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers tested fluorescence-activated cell sorting (FACS) as a high-throughput method to isolate single fetal cells from maternal blood samples in 75 low-risk pregnant women at 10\u201315 weeks' gestation. The four-step process achieved roughly 16-million-fold enrichment, identifying an average of 8.2 confirmed fetal cells per sample, with only one sample (1.3%) yielding no fetal cells. The findings suggest FACS can automate and accelerate cell-based non-invasive prenatal testing (cbNIPT), potentially enabling more comprehensive fetal genetic analysis without amniocentesis or chorionic villus sampling.",
+      "why_it_matters": "A faster, more reliable way to isolate fetal cells from a routine blood draw could eventually give pregnant women access to comprehensive genetic screening without the miscarriage risk of invasive procedures.",
+      "caveats": "small sample (N=75), single-center, industry involvement (ARCEDI Biotech authors), low-risk population only, early-stage technology validation",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Reproductive health, human study, clear pregnancy wellness hook; small sample and industry affiliation limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "A Simple Blood Test Could Soon Replace Amniocentesis for Fetal Genetic Screening",
+          "hook": "Scientists have found a way to pull individual fetal cells from a pregnant woman's blood with remarkable precision \u2014 a step toward making invasive prenatal testing a thing of the past.",
+          "pitch_angle": "A Danish research team used an automated cell-sorting technique to reliably isolate fetal cells from maternal blood as early as 10 weeks of pregnancy, achieving success in 98.7% of samples. If the technology scales, it could offer pregnant women a non-invasive path to comprehensive chromosomal and genetic testing that currently requires riskier procedures like amniocentesis."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Could Prenatal Genetic Testing Soon Be as Easy as a Routine Blood Draw?",
+          "hook": "Early research suggests a new lab technique can extract enough fetal DNA from a small blood sample to run detailed genetic tests \u2014 no needle in the belly required.",
+          "pitch_angle": "For pregnant women who currently face the anxiety of choosing between limited non-invasive screening and riskier diagnostic procedures, this early-stage technology offers a glimpse of a future where comprehensive fetal genetic information comes from a standard blood draw. Researchers caution the method is still being validated, but results in 75 low-risk pregnancies were promising."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42417187",
+      "headline": "AI measures body fat in women with impressive accuracy \u2014 but studies still can't agree on what the numbers mean",
+      "journal": "Obesity Reviews",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1111/obr.70187",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a systematic review and meta-analysis of 38 studies (12,815 adult women with overweight or obesity) evaluating AI-based imaging tools for measuring visceral, subcutaneous, and total body fat. AI segmentation was highly accurate and over 99% faster than manual methods, but extreme heterogeneity across studies \u2014 with 72% of variance driven by technical rather than biological factors \u2014 meant pooled fat measurements were essentially unreliable. DXA-derived subcutaneous fat volumes were 5.6-fold higher than MRI estimates, suggesting the technology's clinical promise is undermined by a lack of standardized protocols.",
+      "why_it_matters": "Women with overweight or obesity may be assessed using AI body-fat tools that produce wildly inconsistent results depending on which imaging method is used, raising questions about how reliably these technologies can guide health decisions.",
+      "caveats": "observational design, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Female-specific large sample, counterintuitive AI finding, strong lifestyle/wellness hook; matches journalist's saved interest.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "AI Can Scan Your Body Fat in 3 Minutes \u2014 But Experts Warn the Numbers May Not Mean What You Think",
+          "hook": "AI body-fat imaging is lightning-fast and highly accurate at the individual level \u2014 yet a new meta-analysis found that results vary so wildly between technologies that the measurements are nearly impossible to compare.",
+          "pitch_angle": "A review of 38 studies in over 12,000 women found that the same woman's subcutaneous fat could look 5.6 times larger depending on whether a DXA or MRI scanner was used \u2014 a cautionary tale for anyone putting stock in precision body-composition metrics from wellness clinics or research tools."
+        },
+        {
+          "publication_type": "Women's Health Magazine / Prevention",
+          "headline": "The Body-Fat Tech Being Used on Women Is Surprisingly Unreliable \u2014 Here's Why",
+          "hook": "New research suggests the AI tools measuring women's visceral and subcutaneous fat are accurate in isolation but produce results so inconsistent across studies that clinical comparisons are nearly meaningless.",
+          "pitch_angle": "A systematic review of 12,815 women found that 72% of measurement variability came from technical differences between machines and protocols \u2014 not from the women themselves \u2014 raising serious questions about how body-composition data is being used to assess metabolic risk in women with overweight or obesity."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42419629",
+      "headline": "Scientists identify a protein pattern that may reveal how adrenal tumors drive cortisol overproduction",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1016/j.metabol.2026.156691",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers performed comprehensive proteomic profiling of 29 adrenal adenomas (9 Cushing's syndrome, 10 subclinical Cushing's syndrome, 10 non-functioning adenomas) from a single Chinese medical center to investigate the molecular drivers of cortisol overproduction. The analysis revealed a progressive gradient of cholesterol metabolic dysregulation mirroring disease severity, and identified a four-protein panel (LDLR, HMGCS1, LIPE, SYP) as candidate diagnostic markers. Downregulation of a protein called CAB39L was identified as a potential key driver of excess cortisol production.",
+      "why_it_matters": "Adrenal cortisol-producing adenomas disproportionately affect women, and identifying protein-level markers of disease severity could eventually support earlier or more precise diagnosis of Cushing's syndrome and subclinical hypercortisolism.",
+      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, regional population (China)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant endocrine condition affecting women; very small sample, single-center, no sex-disaggregated analysis limits pitch strength. Matches journalist's recently passed-on angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Find a Molecular Clue to Why Some Adrenal Tumors Flood the Body With Cortisol",
+          "hook": "A new proteomic study found that cholesterol metabolism goes progressively haywire in adrenal tumors that produce excess cortisol \u2014 and one suppressed protein may be the key culprit.",
+          "pitch_angle": "Researchers profiled 29 adrenal adenomas and found a protein signature that tracks with how much cortisol a tumor produces, pointing toward potential new diagnostic markers for Cushing's syndrome \u2014 though the study is small and from a single center, and broader validation in diverse populations, including sex-specific analysis, is needed."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42421299",
+      "headline": "Loneliness and memory problems go hand-in-hand across psychiatric diagnoses in young people \u2014 not just in depression",
+      "journal": "Cognitive Neuropsychiatry",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1080/13546805.2026.2700254",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Taiwan enrolled 109 young people (25 with first-episode schizophrenia, 28 with first-episode bipolar disorder, 24 with first-episode major depression, and 32 healthy controls) who completed the UCLA Loneliness Scale and a working memory task. Patients with all three diagnoses reported significantly higher loneliness than healthy controls, and those with schizophrenia and bipolar disorder performed worse on working memory tasks. Working memory errors were positively associated with loneliness levels across diagnoses.",
+      "why_it_matters": "Finding that loneliness and working memory difficulties cluster together regardless of specific psychiatric diagnosis suggests these may be shared targets for early intervention in young people experiencing their first mental health episode.",
+      "caveats": "small sample (N<100 per group and overall N=109), single-center, Taiwan-specific cohort, self-reported outcomes (loneliness scale), no sex-disaggregated data, cross-sectional design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting cross-diagnostic finding but very small N, no sex-disaggregated data, single-center Taiwan study.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Loneliness May Be Tangled Up With Memory Problems in Young Adults With Mental Illness \u2014 Regardless of Diagnosis",
+          "hook": "A new study finds that young people experiencing their first episode of schizophrenia, bipolar disorder, or depression all report strikingly high loneliness \u2014 and the lonelier they feel, the worse their working memory performs.",
+          "pitch_angle": "The research suggests loneliness isn't just an emotional experience but may be meaningfully linked to cognitive function across very different psychiatric conditions, pointing to social connection as a potential lever in early mental health care \u2014 though the study is small and based in Taiwan."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42420053",
+      "headline": "Major fertility society backs updated guidance that may reduce unnecessary Rh shots in early pregnancy",
+      "journal": "Fertility and Sterility",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1016/j.fertnstert.2026.06.007",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "The American Society for Reproductive Medicine (ASRM) Practice Committee issued a position statement endorsing the 2024 ACOG Clinical Practice Update on Rho(d) immune globulin (RhoGAM) administration in the first trimester. This is a policy/position document, not an original research study, and does not include primary data or a study population. The statement signals professional consensus that prior first-trimester dosing practices for Rh-negative pregnant individuals may need updating.",
+      "why_it_matters": "Updated guidance on RhoGAM use could affect millions of Rh-negative pregnant women who routinely receive this injection after early pregnancy loss or procedures.",
+      "caveats": "position statement not original research, no primary data, no study population, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Reproductive health topic, clinical relevance for pregnant women; position statement limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "Rh-Negative and Pregnant? What the Updated RhoGAM Guidance Means for You",
+          "hook": "Two major OB/GYN organizations now agree that first-trimester Rh shot protocols may need to change \u2014 here's what that means for Rh-negative women.",
+          "pitch_angle": "ASRM has endorsed revised ACOG guidance on when Rh-negative pregnant women need Rho(d) immune globulin in the first trimester. The update suggests some women may have been receiving shots when evidence didn't support it, a shift that could reduce unnecessary interventions for a large share of pregnant people."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42417292",
+      "headline": "After a miscarriage or abortion, watchful waiting may work just as well as surgery for two common complications \u2014 and carries fewer risks",
+      "journal": "European Journal of Contraception & Reproductive Health Care",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1080/13625187.2026.2695184",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review, based on 208 published articles from 2000\u20132025, examined current evidence on the diagnosis and management of retained products of conception (RPOC) and enhanced myometrial vascularity (EMV) following first-trimester pregnancy loss or termination. The review found that both conditions have excellent outcomes and low complication rates regardless of whether management is expectant, medical, or surgical. Authors suggest that expectant management may be preferable in many cases due to its feasibility, low cost, and avoidance of operative risks, though it requires patient commitment to extended follow-up.",
+      "why_it_matters": "RPOC and EMV are frequently encountered after miscarriage or first-trimester termination, and knowing that watchful waiting is often as effective as surgery \u2014 and preserves fertility \u2014 is practically significant for women navigating these experiences.",
+      "caveats": "narrative review (not systematic), heterogeneous underlying study designs, no sex-disaggregated data not applicable (female-only condition), management recommendations may vary by healthcare system",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant reproductive health topic with practical clinical guidance; narrative review design limits evidentiary strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "After a Miscarriage, You May Not Need Surgery for These Two Common Complications",
+          "hook": "Two of the most common post-miscarriage complications \u2014 retained tissue and abnormal blood vessel patterns in the uterus \u2014 often resolve on their own, and surgery may not offer any added benefit.",
+          "pitch_angle": "A comprehensive review of 25 years of evidence found that retained products of conception and enhanced myometrial vascularity after first-trimester pregnancy loss or termination have excellent outcomes across all management approaches, including simply waiting. For women who've experienced pregnancy loss, this suggests that watchful waiting \u2014 which carries no operative risk and preserves fertility \u2014 is often a sound and underutilized option."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Doctors Often Rush to Operate After a Miscarriage. New Evidence Suggests They Don't Need To.",
+          "hook": "Two common post-miscarriage complications are frequently treated with surgery \u2014 but a major review finds that waiting them out often works just as well.",
+          "pitch_angle": "A narrative review of over 200 studies found no significant difference in outcomes between surgical, medical, and expectant management of retained tissue and vascular abnormalities following miscarriage or first-trimester termination. At a time when reproductive care decisions carry enormous weight for women, evidence that conservative management is safe and fertility-preserving is worth knowing."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42419485",
+      "headline": "A new imaging-first algorithm may help surgeons decide how much uterine tissue to remove in one of obstetrics' most dangerous complications",
+      "journal": "American Journal of Obstetrics & Gynecology MFM",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1016/j.ajogmf.2026.102056",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at a single academic center in Rome proposed a structured, ultrasound-first decision-making algorithm to guide the extent of hysterectomy in placenta accreta spectrum (PAS), a life-threatening obstetric complication. The framework uses preoperative ultrasound \u2014 and selective MRI \u2014 to assess placental invasion depth and cervical involvement, helping surgeons choose between total and subtotal hysterectomy. Clinical application is illustrated through a single representative case rather than a clinical trial or cohort study.",
+      "why_it_matters": "Standardizing surgical decision-making for placenta accreta spectrum could reduce serious complications for pregnant women facing one of the most morbid obstetric emergencies.",
+      "caveats": "small sample (N<100), single-center, no comparative cohort data \u2014 framework validated on one illustrative case only, further validation explicitly noted as needed by authors",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant obstetric condition but expert/surgical audience; no patient cohort data.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Women's Health Magazine",
+          "headline": "Placenta Accreta Is One of Pregnancy's Most Dangerous Complications \u2014 A New Surgical Roadmap Aims to Make Treatment Less Devastating",
+          "hook": "For women facing placenta accreta spectrum, a condition that can require full hysterectomy, a new ultrasound-guided algorithm suggests surgeons may be able to preserve more tissue in carefully selected cases.",
+          "pitch_angle": "Researchers proposed a step-by-step imaging framework to help surgeons tailor how extensive a hysterectomy needs to be for placenta accreta spectrum. While the approach is still early-stage and needs larger validation, it represents a move toward more personalized, less morbid surgical care for a rising obstetric emergency."
+        }
+      ],
+      "run_date": "2026-07-12",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42417853",
+      "headline": "An obscure compound found in meat and dairy may lower dementia risk \u2014 and most people have never heard of it",
+      "journal": "European Journal of Nutrition",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1007/s00394-026-04062-z",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed dietary sialic acid intake in 210,796 middle-aged and older UK Biobank participants over a mean follow-up of 10.9 years, during which 2,469 cases of all-cause dementia were recorded. Participants in the third quartile of sialic acid intake (median ~56 mg/day) had an 18% lower risk of all-cause dementia and a 31% lower risk of vascular dementia compared to those in the lowest quartile. The association was primarily driven by Neu5Gc, a sialic acid subtype found predominantly in red meat and dairy, while Neu5Ac's association became non-significant after mutual adjustment.",
+      "why_it_matters": "Women face a disproportionately higher lifetime risk of dementia than men, making dietary factors associated with lower dementia risk especially significant for women's long-term brain health.",
+      "caveats": "observational design, self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large prospective cohort (N=210K), dementia risk relevant to women, counterintuitive dietary finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A compound hidden in meat and dairy is linked to lower dementia risk in a study of 200,000 people",
+          "hook": "A large UK study found that people with moderate intake of sialic acid \u2014 a compound naturally present in red meat, dairy, and eggs \u2014 had an 18% lower risk of developing dementia.",
+          "pitch_angle": "The finding centers on Neu5Gc, a sialic acid subtype typically associated with the foods many women are told to limit, suggesting the brain health picture around these foods may be more complex than previously thought. Because women are significantly more likely than men to develop dementia, understanding dietary links to brain protection is a pressing health priority."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Could the compound that makes bird's nest soup a 'superfood' also protect your brain from dementia?",
+          "hook": "Sialic acid \u2014 found in dairy, eggs, and red meat \u2014 was associated with meaningfully lower dementia risk in a prospective study of over 200,000 people.",
+          "pitch_angle": "Long studied for its role in infant brain development, sialic acid is now drawing attention for its potential role in protecting aging brains. The findings add a nuanced data point for women navigating often-conflicting dietary advice around red meat and dairy."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42415253",
+      "headline": "Brain implants for psychiatric conditions are coming \u2014 but the ethics of who controls them remain dangerously unresolved",
+      "journal": "American Journal of Psychiatry",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1176/appi.ajp.20251187",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This commentary from Harvard Medical School researchers examines the ethical and implementation challenges of implantable neuromodulation devices \u2014 such as deep brain stimulation systems \u2014 as they move toward psychiatric applications. The piece addresses concerns around human fidelity (how well a device reflects a patient's true self and values over time) and the practical barriers to equitable deployment. No original data or participant cohort is reported; this is an opinion/perspective piece.",
+      "why_it_matters": "As neuromodulation devices edge toward treating conditions like treatment-resistant depression and OCD \u2014 conditions that disproportionately affect women \u2014 questions about who controls these devices and whose values they encode carry urgent relevance for women's mental health care.",
+      "caveats": "No primary data \u2014 commentary/opinion piece only; no sex-disaggregated data; no study cohort",
+      "fact_check_note": "This is a commentary, not an original research study. No abstract with empirical data was provided; summary reflects the described scope of the piece.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Commentary only, no data; ethics angle is timely but lacks empirical grounding.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut (health section)",
+          "headline": "Brain Implants for Depression Are Almost Here. Who Gets to Decide When They Turn Off?",
+          "hook": "A new commentary in the American Journal of Psychiatry warns that the field isn't ready for the identity and autonomy questions that come with devices implanted in people's brains to treat mental illness.",
+          "pitch_angle": "As implantable neuromodulation devices approach psychiatric use, ethicists at Harvard are flagging unresolved questions about patient control, device fidelity to a person's values, and access equity \u2014 all of which matter especially for women, who bear a disproportionate burden of treatment-resistant depression and OCD."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42411754",
+      "headline": "Scientists map the cellular chaos inside endometriosis cysts \u2014 and find immune cells behaving in ways that may explain fertility problems",
+      "journal": "Reproduction (Cambridge, England)",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1093/reprod/xaag083",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in China performed single-cell RNA sequencing on follicular fluid collected from both the endometrioma-affected and unaffected ovaries of a single patient with ovarian endometriosis, analyzing 2,793 and 4,699 cells respectively. The analysis identified four cell types \u2014 including a previously undescribed TCR+ macrophage subtype \u2014 and found that granulosa cells on the affected side showed abnormal developmental trajectories tied to disrupted steroid hormone pathways, alongside signs of heightened immune inflammation. This is described as the first single-cell transcriptomic profile of ovarian endometriosis follicular fluid, offering new clues about how endometriomas may impair egg development.",
+      "why_it_matters": "Understanding exactly how endometriosis disrupts the cellular environment around eggs could eventually point toward targeted treatments to improve fertility outcomes for the millions of women with this condition.",
+      "caveats": "small sample (N<100), single-center, observational design, single patient only (n=1), cell study, findings require substantial replication before any clinical inference is possible",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Endometriosis and fertility topic fit, but n=1 single-cell study limits clinical relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Endometriosis Scrambles the Cells Around Your Eggs \u2014 New Research Shows Just How Much",
+          "hook": "For the first time, scientists have zoomed into the microscopic environment surrounding eggs in endometriosis-affected ovaries \u2014 and found a landscape of immune chaos and hormonal disruption.",
+          "pitch_angle": "A new single-cell analysis found that granulosa cells \u2014 the cells that nurture developing eggs \u2014 behave abnormally in ovaries affected by endometriosis cysts, with disrupted hormone signaling and signs of runaway inflammation. While this is very early-stage science from just one patient, it offers some of the clearest cellular evidence yet for why endometriosis so often affects fertility."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42411950",
+      "headline": "Men's quality of life during fertility treatment shifts dramatically over time \u2014 and their partner's fertility status plays a bigger role than expected",
+      "journal": "Asian Journal of Andrology",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.4103/aja2025112",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Poland followed 185 involuntarily childless men (ages 22\u201350) through four time points during their first fertility workup at an andrological clinic, using the Fertility Quality of Life (FertiQoL) questionnaire. The panel study found that fertility-related quality of life was associated with patient age, female partner's age, and the interval between the female partner's and male's initial fertility evaluation \u2014 and that the importance of these factors shifted across different stages of the workup. Whether the female partner also required fertility treatment was among the variables associated with men's wellbeing outcomes.",
+      "why_it_matters": "For women undergoing fertility treatment alongside a male partner, this research suggests that the timing and sequencing of each partner's workup may affect the male partner's psychological wellbeing \u2014 a dynamic couples navigating infertility may not anticipate.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, convenience sample",
+      "fact_check_note": "N=185, which exceeds the small sample threshold; caveat updated accordingly. Single-center (Poznan, Poland) limits generalizability.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Fertility/reproductive health angle, longitudinal design, but male-only sample and single-center Poland.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Going Through Fertility Treatment? Your Partner's Experience Is Shifting at Every Stage \u2014 Here's What Research Shows",
+          "hook": "A four-visit study found that men's emotional wellbeing during fertility workups doesn't stay fixed \u2014 it's shaped by their partner's fertility status and the timing of each person's evaluation.",
+          "pitch_angle": "Infertility is often discussed as a woman's experience, but this longitudinal study suggests male partners are navigating their own shifting psychological landscape throughout the process \u2014 one that's closely tied to what's happening with their female partner. The finding points to the value of couples-based support during fertility care, not just individual counseling."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42414939",
+      "headline": "A promising eye-scan tool for predicting preeclampsia may not be as accurate as early studies suggested",
+      "journal": "BMC Pregnancy and Childbirth",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1186/s12884-026-09618-9",
+      "groundbreaking": "Overturns prior research / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a PRISMA-guided systematic review and critical appraisal of five prospective cohort reports \u2014 representing four unique cohorts \u2014 assessing first-trimester ophthalmic artery (OA) Doppler ultrasound as a predictor of early-onset or preterm preeclampsia. In large, unselected populations, OA Doppler showed limited standalone predictive value, detecting preterm preeclampsia in approximately 56\u201359% of cases at a 10% false-positive rate. Smaller studies reported much higher accuracy (AUROC up to 0.98), but reviewers flagged these as likely overfitted and at high risk of bias.",
+      "why_it_matters": "Preeclampsia is a leading cause of maternal and fetal death globally, and early, accurate prediction tools are urgently needed \u2014 but this review suggests a widely hyped eye-scan approach may not yet deliver on its promise.",
+      "caveats": "small sample (N<100 in some included studies), observational design, high risk of bias across all included studies, heterogeneous methods, no validated standalone tool yet",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive finding overturning optimistic prior data; strong reproductive health relevance for pregnant women.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self / Well+Good",
+          "headline": "Doctors Hoped an Eye Scan Could Predict Preeclampsia Early \u2014 New Research Says Not So Fast",
+          "hook": "Studies showing near-perfect accuracy for a first-trimester eye ultrasound to detect preeclampsia risk were likely too good to be true, a new systematic review finds.",
+          "pitch_angle": "Preeclampsia affects up to 8% of pregnancies and remains one of the leading causes of maternal death \u2014 making an accurate early-warning tool a major priority. But a rigorous new review of the evidence suggests that the ophthalmic artery Doppler scan, which scans blood flow behind the eye, performs far more modestly than early studies implied, especially in real-world, unselected pregnancies."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "This Preeclampsia Screening Test Got a Lot of Buzz \u2014 But the Evidence Doesn't Back the Hype Yet",
+          "hook": "A review of the best available studies found that a first-trimester eye-blood-flow scan catches only about half of preterm preeclampsia cases in typical pregnant populations.",
+          "pitch_angle": "Preeclampsia has no cure except delivery, so catching it early is critical \u2014 but a new systematic review finds the ophthalmic artery Doppler test underperforms in broad populations even as smaller studies painted a rosier picture. Researchers say the field needs standardized methods and larger validation studies before this tool is ready for clinical use."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42412598",
+      "headline": "A new plant-derived compound may ease vaginal dryness after menopause \u2014 without the systemic risks of hormone therapy",
+      "journal": "Menopause",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1097/GME.0000000000002820",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at the University of Colorado tested a novel synthetic flavone compound (3-fluoro 6,4'-dihydroxyflavone, or 3F) delivered by vaginal suppository in ovariectomized rats \u2014 an established animal model of menopause-related vaginal atrophy. The compound regenerated the structure of atrophic vaginal epithelium, restored mucin secretion and antimicrobial protein expression, and \u2014 notably \u2014 produced greater mucin expression than estradiol itself. Crucially, 3F did not stimulate cell proliferation in the vagina or uterine lining, and was designed to be inactivated once it reaches the bloodstream, minimizing systemic estrogenic effects.",
+      "why_it_matters": "Genitourinary syndrome of menopause affects roughly half of postmenopausal women, and many avoid existing hormone treatments due to perceived cancer risk \u2014 so a locally acting, non-systemic alternative could meaningfully expand options for this underserved group.",
+      "caveats": "animal or cell study only, no human data, industry-adjacent conflict of interest (inventors listed as authors on related patent application), early-stage research",
+      "fact_check_note": "This is an animal study only (ovariectomized rat model); the headline and summary have been written to reflect that. The 'First-in-class human study' groundbreaking tag has been removed \u2014 this is preclinical only.",
+      "relevance_score": 5,
+      "relevance_score_reason": "High topic relevance (menopause, GSM); penalized for animal-only study and inventor conflict of interest.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Well+Good",
+          "headline": "Scientists Are Testing a Plant-Derived Compound That May Treat Vaginal Dryness Without the Risks of Hormones \u2014 In Rats, at Least",
+          "hook": "A novel flavone compound delivered as a vaginal suppository reversed menopause-related vaginal atrophy in rats \u2014 and outperformed estradiol on one key measure \u2014 without triggering the systemic hormone effects that worry many women.",
+          "pitch_angle": "For postmenopausal women who avoid hormone therapy due to cancer concerns, the options for treating vaginal dryness and discomfort remain limited. Early animal research suggests a new synthetic plant compound could rebuild vaginal tissue and restore natural lubrication while staying local \u2014 but human trials are needed before this moves out of the lab."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42363403",
+      "headline": "Scientists from 28 countries convene to map the future of ovarian biology \u2014 here's what's on the agenda",
+      "journal": "Molecular Human Reproduction",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1093/molehr/gaag039",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This article summarizes the proceedings of the inaugural European Ovary Workshop (EOW 2025), held in Lagos, Portugal in February 2025, which brought together 165 researchers and clinicians from 28 countries. The workshop covered topics spanning meiosis, folliculogenesis, ovarian reserve, aging, fertility preservation, environmental toxicology, and bioethics across 12 scientific sessions. The proceedings document represents a consensus snapshot of where ovarian research stands and where the field is heading, rather than reporting original study findings.",
+      "why_it_matters": "For women, advances in ovarian biology research directly shape future options for fertility preservation, ovarian aging interventions, and reproductive health care.",
+      "caveats": "No original research data \u2014 conference proceedings only, small sample (N<100 for post-workshop feedback), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant reproductive health topic but no original research data; conference proceedings only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Scientists from Around the World Just Mapped Out the Biggest Questions in Ovarian Health",
+          "hook": "From ovarian aging to fertility preservation and environmental toxins, 165 researchers just convened to set the agenda for the next wave of women's reproductive science.",
+          "pitch_angle": "The first European Ovary Workshop united experts across 28 countries to tackle some of the most pressing unanswered questions about ovarian biology. For women thinking about fertility, egg freezing, or simply aging well, this emerging field of research has real-world stakes."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42413732",
+      "headline": "Probiotics and prebiotics modestly lower cholesterol in people with metabolic syndrome \u2014 but the LDL evidence is shaky",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1016/j.clnesp.2026.103461",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A systematic review and meta-analysis of 19 controlled clinical trials (21 comparisons, N=897 adults) evaluated the effects of gut microbiome-modulating interventions \u2014 including probiotics, prebiotics, synbiotics, and fecal microbiota transplantation \u2014 on lipid profiles in adults diagnosed with metabolic syndrome. Interventions were associated with modest reductions in total cholesterol (\u22128.97 mg/dL) and triglycerides (\u221211.33 mg/dL), while HDL cholesterol showed no significant change. Evidence for LDL reduction was statistically significant in the primary analysis but became non-significant in sensitivity analyses, with high heterogeneity (I\u00b2=73.8%) limiting confidence.",
+      "why_it_matters": "Metabolic syndrome disproportionately affects postmenopausal women, making gut-targeted interventions a potentially accessible, low-risk adjunct strategy worth understanding.",
+      "caveats": "small sample (N<100 per study in most trials), observational design (some included trials), no sex-disaggregated data, short follow-up, high heterogeneity for LDL outcome",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant to postmenopausal women's cardiovascular health; no sex-disaggregated data limits applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Can Probiotics Actually Lower Your Cholesterol? A New Analysis Has a Nuanced Answer",
+          "hook": "A review of nearly 20 clinical trials found that gut-health supplements can modestly lower total cholesterol and triglycerides \u2014 but the effect on 'bad' LDL cholesterol is less certain than headlines suggest.",
+          "pitch_angle": "For women managing metabolic syndrome \u2014 a risk that spikes after menopause \u2014 the finding suggests gut microbiome interventions may offer modest cardiovascular benefits, though researchers caution that LDL effects didn't hold up in rigorous sensitivity testing."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42411647",
+      "headline": "Sports dietitians are all over the map when assessing energy deficiency in athletes \u2014 and that's a problem",
+      "journal": "Journal of the American Nutrition Association",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1080/27697061.2026.2694020",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A cross-sectional survey of 89 sports dietitians examined the methods used to evaluate energy deficiency \u2014 a key risk factor for impaired reproductive function and bone health \u2014 in free-living athletes. Participants completed a 39-item survey covering assessment of energy intake, expenditure, anthropometrics, disordered eating, and biomarkers; results showed wide variation in protocols, with only 41.6% assessing energy availability (EA) specifically. Dietitians with seven or more years of experience were significantly more likely to assess EA than less-experienced practitioners (59.5% vs. 28.8%, p=0.005).",
+      "why_it_matters": "Female athletes are at elevated risk for low energy availability \u2014 linked to menstrual disruption and bone loss \u2014 and inconsistent assessment practices among sports dietitians may leave many women undiagnosed.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, cross-sectional design, single-center",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly relevant to female athlete reproductive and bone health; very small sample limits weight.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "If You're a Female Athlete, Your Sports Dietitian May Not Be Checking the Right Thing",
+          "hook": "A new survey found that fewer than half of sports dietitians specifically assess 'energy availability' \u2014 the metric most linked to menstrual disruption and bone loss in female athletes.",
+          "pitch_angle": "The finding exposes a gap in how energy deficiency is evaluated in athletic women: with assessment methods varying widely by practitioner experience, female athletes at risk for Relative Energy Deficiency in Sport (RED-S) may be slipping through the cracks."
+        },
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "The Hidden Risk Factor for Female Athletes That Most Sports Dietitians Aren't Measuring",
+          "hook": "Low energy availability \u2014 not just calorie restriction \u2014 is the key driver of hormonal disruption and bone damage in active women, yet only 4 in 10 sports dietitians routinely check for it.",
+          "pitch_angle": "A survey of 89 sports dietitians revealed a fragmented approach to spotting energy deficiency, with less-experienced practitioners especially unlikely to use best-practice metrics; for women balancing training with reproductive and bone health, knowing what to ask their dietitian could be crucial."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42414259",
+      "headline": "AI can now detect a subtle facial wrinkle pattern linked to depression \u2014 and it may be better at spotting severe cases than doctors are",
+      "journal": "Translational Psychiatry",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1038/s41398-026-04245-6",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Hong Kong recruited 252 adults with major depressive disorder (MDD; mean age 50.9 years; 66.7% female) and 192 age- and sex-matched controls to study the 'omega sign' \u2014 a characteristic brow wrinkle pattern \u2014 using deep learning analysis of photos and video. The static omega sign was marginally associated with MDD overall, but was significantly more common in people with comorbid MDD and generalized anxiety disorder (45.5% vs. 16.0% in controls; OR=6.36). The dynamic omega sign (wrinkle changes during interview) was associated with moderate-to-severe depression (OR=1.04 per unit frequency increase).",
+      "why_it_matters": "Because depression is more common in women and often underdiagnosed, an objective AI-based facial marker could eventually assist clinicians in identifying moderate-to-severe depression \u2014 particularly in women who may underreport symptoms.",
+      "caveats": "single-center, observational design, short follow-up, finding is tied to a single non-US/non-multinational region's context",
+      "fact_check_note": "The static omega sign finding was only marginally significant for MDD overall (P=0.06, not significant at conventional thresholds); the significant finding applies specifically to the MDD+GAD subgroup. This distinction should be preserved in any coverage.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Majority-female sample; AI depression tool; counterintuitive facial biomarker finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "AI Can Read a Tiny Wrinkle Between Your Brows to Help Detect Severe Depression",
+          "hook": "A deep-learning model trained on photos and video found that a subtle forehead wrinkle pattern \u2014 one clinicians have noted for over a century \u2014 may signal moderate-to-severe depression.",
+          "pitch_angle": "The 'omega sign,' a \u03a9-shaped furrow above the brows, has long been associated with melancholic depression, and now AI can measure it objectively from a photo. In a mostly female sample, the marker was especially pronounced in people with both depression and anxiety \u2014 suggesting AI-assisted facial analysis could one day help flag underdiagnosed cases."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Your Face May Reveal Whether You're Severely Depressed \u2014 and AI Is Learning to Read It",
+          "hook": "Researchers trained an AI on a 19th-century clinical observation \u2014 a distinctive brow wrinkle in depressed patients \u2014 and found it can objectively detect signs of severe depression from video.",
+          "pitch_angle": "The 'omega sign' is a furrowed brow pattern psychiatrists have informally noted since the 1800s, but AI now gives it measurable, clinical weight. In a study where two-thirds of participants were women, the marker was most pronounced in those with both depression and anxiety \u2014 raising questions about how much depression goes undetected and who bears the cost."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42406274",
+      "headline": "A drug already in clinical trials may restore thyroid cancer cells' ability to absorb radioactive iodine treatment",
+      "journal": "Journal of Endocrinological Investigation",
+      "pubdate": "2026 Jul 6",
+      "doi": "10.1007/s40618-026-02963-8",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers developed a 3D cell culture model to study why some thyroid cancer cells stop responding to radioactive iodine (RAI) therapy, a common treatment after surgery. Using thyroid cancer cell lines and tissue samples from papillary thyroid carcinoma patients, they identified TGF-\u03b21 signaling as a key driver of treatment resistance. Blocking that pathway with galunisertib, an existing investigational drug, restored the cells' ability to take up radioactive iodine in lab conditions.",
+      "why_it_matters": "Thyroid cancer disproportionately affects women, and RAI resistance is a major treatment barrier, so identifying a druggable pathway to restore sensitivity is clinically meaningful.",
+      "caveats": "animal or cell study, small sample (tissue samples only, no patient cohort reported), single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Women's cancer relevance, but cell/lab study only; no human trial data.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Find a Way to Reboot Thyroid Cancer's Response to a Key Treatment \u2014 In the Lab",
+          "hook": "A drug already being tested in clinical trials may reverse the treatment resistance that makes some thyroid cancers so hard to treat.",
+          "pitch_angle": "Lab research suggests blocking a specific molecular pathway restores thyroid cancer cells' sensitivity to radioactive iodine therapy. Since thyroid cancer is far more common in women than men, early-stage findings like this are worth watching \u2014 though human trials are still needed."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42405565",
+      "headline": "Two popular Netflix thrillers use classic rape myths to cast doubt on gender-based violence accusers, study argues",
+      "journal": "Violence Against Women",
+      "pubdate": "2026 Jul 6",
+      "doi": "10.1177/10778012261465666",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A humanities scholar at the University of Innsbruck analyzed the 2021 Netflix series Clickbait and The Guilty, arguing that both use the narrative trope of the wrongfully accused white man in ways that reinforce rape and domestic violence myths. The study applies Jennifer Freyd's DARVO framework (Deny, Attack, Reverse Victim and Offender) to show how both narratives structurally mirror strategies used to discredit survivors. This is a qualitative textual analysis, not an empirical study with a human subject population.",
+      "why_it_matters": "Media narratives that normalize rape myth acceptance may subtly shape public attitudes toward survivors of gender-based violence, with real consequences for how women's disclosures are received.",
+      "caveats": "qualitative/humanities analysis, no empirical data, no human subject sample, no sex-disaggregated data, single-author, no control condition",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Cultural angle relevant to GBV; no empirical data significantly limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Netflix's Biggest Twists May Be Teaching Viewers Not to Believe Abuse Survivors",
+          "hook": "A new analysis finds that two hit Netflix shows use the same psychological playbook that real-life abusers use to flip the script on their victims.",
+          "pitch_angle": "A media studies scholar argues that Clickbait and The Guilty deploy rape myths and the DARVO pattern \u2014 deny, attack, reverse victim and offender \u2014 through their 'twist' storylines, potentially reinforcing cultural skepticism toward gender-based violence survivors at a key moment in the #MeToo conversation."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42411052",
+      "headline": "Food safety testing is getting a major AI-powered overhaul \u2014 here's what that means for the supplements you take",
+      "journal": "Critical Reviews in Food Science and Nutrition",
+      "pubdate": "2026 Jul 6",
+      "doi": "10.1080/10408398.2026.2696414",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers reviewed conventional and next-generation methods for evaluating the safety of novel foods, functional ingredients, and nutraceuticals. The review synthesized tools including high-throughput cellular assays, AI-based computational prediction, and omics-enabled molecular profiling. It proposes a decision-oriented framework intended to strengthen regulatory confidence and safety decision-making for the growing nutraceutical and functional food market.",
+      "why_it_matters": "Women are the primary consumers of nutraceuticals and functional foods, so updated safety evaluation frameworks directly affect the products marketed to them.",
+      "caveats": "no sex-disaggregated data, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Regulatory review piece; no human participants, no female-specific data, limited direct wellness hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The supplements you take haven't been safety-tested the way you think \u2014 scientists want to change that",
+          "hook": "A new framework proposes using AI and molecular profiling to evaluate supplement safety far more rigorously than current standards allow.",
+          "pitch_angle": "Researchers outline how outdated toxicology methods leave gaps in nutraceutical safety assessment. For women spending billions on supplements annually, understanding what 'safety tested' actually means has never been more relevant."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42402292",
+      "headline": "Nearly one in five teenagers newly diagnosed with depression still shows significant impairment a year later \u2014 and anxiety is a key predictor",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Jul 5",
+      "doi": "10.1016/j.jad.2026.122218",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using data from the sBEAD cohort (N=274 adolescents with first-diagnosis major depressive disorder, assessed at five time points over 12 months), researchers in China identified four distinct trajectories of psychosocial functioning using growth mixture modeling. About 19.7% of adolescents showed persistent functional impairment throughout the year, while roughly 34% gradually improved; higher anxiety and psychotic symptoms at baseline predicted worse outcomes, while higher education and better academic performance predicted more favorable trajectories. The study did not report sex-disaggregated findings.",
+      "why_it_matters": "Given that adolescent girls are diagnosed with depression at roughly twice the rate of boys, understanding which teens are at risk for persistent impairment \u2014 rather than recovery \u2014 could help clinicians prioritize early support for the most vulnerable.",
+      "caveats": "observational design, single-center, China-specific cohort, no sex-disaggregated data, short follow-up (12 months), region-specific healthcare context may limit generalizability",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant adolescent depression trajectory data; no sex disaggregation limits women's health application.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Some Teens With Depression Recover in a Year \u2014 and Others Don't",
+          "hook": "A new study tracking 274 adolescents newly diagnosed with depression found that nearly 20% still showed significant functional impairment a full year later, with anxiety levels at diagnosis being a key warning sign.",
+          "pitch_angle": "Researchers mapped four distinct recovery trajectories in teens with new depression diagnoses, finding that high anxiety and psychotic symptoms early on predicted a rougher road \u2014 while stronger academic performance was linked to better outcomes. The findings suggest that anxiety screening at first diagnosis could help identify which young people need the most intensive support, though the study is based in China and did not break out results by sex."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42435269",
+      "headline": "Minimally invasive weight-loss procedure works just as well in outpatient setting \u2014 most patients go home the same day",
+      "journal": "Obesity Surgery",
+      "pubdate": "2026 Jul 11",
+      "doi": "10.1007/s11695-026-08833-9",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at a single French university hospital retrospectively analyzed 430 endoscopic sleeve gastroplasty (ESG) procedures performed between 2016 and 2025, comparing outcomes in ambulatory (outpatient) versus hospitalized patients (N=430; mean age 43; 77% female; mean BMI 38.67). Age, BMI, type of anesthesia, and ASA health classification were identified as predictors of needing hospitalization. Among the 228 outpatient procedures, only 4% required unplanned admission, primarily due to nausea and pain, suggesting ambulatory ESG is feasible and safe for selected patients.",
+      "why_it_matters": "For the majority-female population seeking minimally invasive obesity treatment, same-day discharge may lower barriers to access and reduce recovery burden.",
+      "caveats": "single-center, observational design, retrospective, short follow-up, study population based in France (may not generalize to US healthcare settings)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Majority-female sample, clear wellness hook, but single-center retrospective design limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "This Weight-Loss Procedure Lets You Go Home the Same Day \u2014 And It's Safer Than You Think",
+          "hook": "More than three-quarters of patients who underwent a non-surgical stomach-reshaping procedure were women \u2014 and most walked out of the clinic the same day.",
+          "pitch_angle": "Endoscopic sleeve gastroplasty, a minimally invasive alternative to bariatric surgery, was successfully performed as an outpatient procedure in over half of 430 cases, with only 4% needing unplanned admission. For women navigating obesity treatment options, the finding suggests same-day procedures could soon become the norm, cutting recovery time and hospital costs."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42436433",
+      "headline": "Data-driven tool sorts diabetic kidney disease into four distinct subtypes \u2014 and one carries nearly 8 times the risk of rapid progression",
+      "journal": "BMC Endocrine Disorders",
+      "pubdate": "2026 Jul 11",
+      "doi": "10.1186/s12902-026-02412-w",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers from three hospitals in China used machine-learning clustering methods to identify distinct subtypes of diabetic kidney disease (DKD) in 1,520 adults with type 2 diabetes (mean age 54.4; 32.5% female). Using both a snapshot of metabolic-renal status at diagnosis and longitudinal trajectory modeling, they identified four static clusters and three dynamic clusters, with the 'TYPICAL' cluster showing a hazard ratio of 7.85 for progression to advanced kidney disease compared to the lowest-risk 'YOUTH' cluster. Findings were validated in a separate cohort.",
+      "why_it_matters": "Identifying which subtype of diabetic kidney disease a person has could eventually help clinicians personalize treatment intensity \u2014 relevant for the growing number of women living with type 2 diabetes.",
+      "caveats": "observational design, no sex-disaggregated data, study population based in China (results may not generalize broadly), only 32.5% female participants",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting design but low female representation, no sex-disaggregated data, China-specific cohort limits US relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "AI Just Found Four Different Types of Diabetic Kidney Disease \u2014 and They Don't All Carry the Same Risk",
+          "hook": "Not all diabetic kidney disease is created equal: a new data-driven analysis found one subtype carries nearly eight times the risk of rapid progression compared to the most benign group.",
+          "pitch_angle": "Using machine learning on data from over 1,500 diabetes patients, researchers identified four clinically distinct subtypes of kidney disease \u2014 a finding that could eventually shift treatment from a one-size-fits-all approach to personalized risk management. The work is preliminary and based on a Chinese hospital cohort, but it hints at a future where a patient's kidney disease 'type' shapes their entire care plan."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42436422",
+      "headline": "Women with adenomyosis who undergo hormone pretreatment before IVF may achieve live birth rates similar to women without the condition",
+      "journal": "BMC Pregnancy and Childbirth",
+      "pubdate": "2026 Jul 11",
+      "doi": "10.1186/s12884-026-09624-x",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a retrospective cohort study at a Chinese fertility center, researchers compared 179 infertility patients with ultrasound-diagnosed adenomyosis to 179 matched patients without adenomyosis, all undergoing their first frozen embryo transfer (FET). All adenomyosis patients received ultralong GnRH agonist pretreatment before FET. Despite adenomyosis patients having lower implantation rates (50.7% vs. 62.8%), live birth rates after the first FET cycle did not differ significantly between groups (49.2% vs. 47.5%), and a greater reduction in junctional zone thickness after GnRHa treatment was associated with improved likelihood of live birth.",
+      "why_it_matters": "For women with adenomyosis pursuing IVF, this study suggests that with appropriate hormonal pretreatment, live birth outcomes may be comparable to those without the condition \u2014 a potentially reassuring finding for a population often told their prognosis is poor.",
+      "caveats": "retrospective design, single-center, observational design, study population based in China",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive finding in reproductive-age female sample; adenomyosis is high-priority topic, but retrospective single-center limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Adenomyosis Doesn't Have to Tank Your IVF Odds \u2014 If You Get the Right Pretreatment",
+          "hook": "Women with adenomyosis are often told fertility treatment is less likely to work \u2014 but a new study found that with hormonal pretreatment, live birth rates were nearly identical to women without the condition.",
+          "pitch_angle": "Researchers found that after ultralong GnRH agonist pretreatment, women with adenomyosis achieved live birth rates after frozen embryo transfer that were statistically similar to those without adenomyosis. The finding challenges the assumption that adenomyosis is an insurmountable barrier to IVF success and points to pretreatment protocols as a potential equalizer."
+        },
+        {
+          "publication_type": "Self",
+          "headline": "If You Have Adenomyosis and Are Considering IVF, This Study Has Surprisingly Good News",
+          "hook": "A condition that affects the uterine wall doesn't have to mean lower IVF success \u2014 new research suggests the right prep protocol may close the gap.",
+          "pitch_angle": "A retrospective study found that women with adenomyosis who underwent hormonal pretreatment before frozen embryo transfer had live birth rates comparable to women without adenomyosis. While the study has limitations, the results suggest that subtype-specific treatment approaches could meaningfully improve outcomes for this often-overlooked fertility population."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42430025",
+      "headline": "Young adults diagnosed with type 2 diabetes before 40 may be best positioned to benefit from digital health tools \u2014 but the evidence is thin",
+      "journal": "Current Diabetes Reports",
+      "pubdate": "2026 Jul 10",
+      "doi": "10.1007/s11892-026-01633-6",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review, authored by researchers from Malaysia, Hong Kong, and Australia, examined the role of digital health technologies \u2014 including continuous glucose monitors, apps, telemedicine, and AI analytics \u2014 in managing early-onset type 2 diabetes (EOT2D), defined as diagnosis before age 40. The review found that while digital tools have shown modest benefits for glycemic control and engagement in general type 2 diabetes populations, evidence specifically in EOT2D patients is limited. Authors argue that younger patients' higher digital literacy and longer disease duration make them a promising target for digital health interventions, but gaps in EOT2D-specific trials, equity, and reimbursement persist.",
+      "why_it_matters": "As type 2 diabetes diagnoses rise among younger women \u2014 including those in reproductive years \u2014 understanding which digital tools might help manage this aggressive disease course has real implications for long-term health.",
+      "caveats": "no original human or animal data (review article), no sex-disaggregated data, industry funding (honoraria from Abbott, AstraZeneca, Boehringer Ingelheim, Novo Nordisk, Roche Diabetes Care, Zuellig Pharma disclosed by one author)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant topic for younger women but narrative review with no original data and no sex-disaggregated analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Getting Diagnosed With Type 2 Diabetes Before 40? Apps and Wearables Might Actually Help More Than You Think",
+          "hook": "People diagnosed with type 2 diabetes before age 40 may be uniquely well-suited to benefit from digital health tools \u2014 but researchers say the evidence to back that up barely exists yet.",
+          "pitch_angle": "A new review suggests younger adults with early-onset type 2 diabetes could get more mileage from glucose monitors, diabetes apps, and AI-powered tools than older patients \u2014 largely because they're more digitally fluent and have decades of disease management ahead of them. The catch: almost no studies have actually tested these tools specifically in under-40 patients, leaving a major evidence gap for a population whose numbers are rising fast."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42431257",
+      "headline": "A once-weekly growth hormone shot works as well as daily injections in kids \u2014 but causes surprising weight gain that can't be ignored",
+      "journal": "Annales d'endocrinologie",
+      "pubdate": "2026 Jul 10",
+      "doi": "10.1016/j.ando.2026.102590",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "French pediatric endocrinologists tracked 163 children (mean age 9.7 years) with growth hormone deficiency who were treated with once-weekly somatrogon for up to 24 months in real-world clinical practice. Growth rates matched those seen with daily injections, but a significant and rapid BMI increase (mean +0.81 SD) was observed, stabilizing around 14 months. The discontinuation rate was 15% overall and 22.5% in children switching from daily therapy, driven largely by injection site pain and weight gain.",
+      "why_it_matters": "For parents and clinicians considering the convenience of weekly over daily growth hormone injections, this real-world data suggests metabolic monitoring and weight management need to be built into treatment plans from the start.",
+      "caveats": "observational design, single-center, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric endocrinology; no female-specific analysis; limited women's health angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Once-a-Week Growth Hormone Shots Sound Easier \u2014 But New Data Shows an Unexpected Weight Catch-Up Effect in Kids",
+          "hook": "A French real-world study found that children switching to weekly somatrogon injections gained significantly more BMI than expected \u2014 a finding that surprised clinicians.",
+          "pitch_angle": "While once-weekly growth hormone therapy matched daily injections for height gains, it triggered rapid weight gain in many kids, with higher dropout rates among those switching from daily treatment. The study suggests nutritional counseling and closer metabolic monitoring should be standard from day one."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42431597",
+      "headline": "As temperatures rise, so does alcohol and sugary drink consumption \u2014 and women aren't immune",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Jul 10",
+      "doi": "10.1016/j.ajcnut.2026.101430",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed over 1.7 million 24-hour dietary records from 100,851 participants in the French NutriNet-Sant\u00e9 cohort (2009\u20132023), linking food intake to daily maximum outdoor temperatures from the nearest meteorological station. Higher temperatures were associated with increased consumption of fruits, vegetables, sweet products, processed meats, alcohol, and sugar-sweetened beverages, while red meat, pulses, and dairy decreased. Men showed a larger proportional increase in alcohol intake as temperatures rose from 25\u00b0C to 35\u00b0C (+11%) compared to women (+6%), though both sexes increased consumption.",
+      "why_it_matters": "With climate change driving more extreme heat events, understanding how rising temperatures nudge women toward higher alcohol and sugary drink intake has real implications for public health messaging and chronic disease risk.",
+      "caveats": "observational design, single-center, self-reported outcomes, single non-US/non-multinational regional context [France only]",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large cohort, sex-disaggregated data, clear lifestyle hook, but France-specific and observational.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Hot Weather Is Quietly Changing What You Eat and Drink \u2014 and Not Always in a Good Way",
+          "hook": "A massive study of over 100,000 people found that as outdoor temperatures climb, alcohol and sugary drink consumption rises \u2014 even when overall calorie intake stays the same.",
+          "pitch_angle": "Researchers tracked 14 years of dietary data alongside daily temperatures and found heat nudges people toward less healthy beverages; the finding is a wake-up call for mindful eating habits during heat waves and suggests climate change could reshape our diets in subtle, cumulative ways."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why You Drink More Alcohol on Hot Days \u2014 and What to Do About It",
+          "hook": "New research links rising outdoor temperatures to a measurable uptick in alcohol consumption, with women not immune to the effect.",
+          "pitch_angle": "A French study of over 100,000 people found both men and women drank more alcohol as temperatures rose above 25\u00b0C, with sugar-sweetened beverages also spiking \u2014 pointing to the need for targeted public health messaging around heat and beverage choices."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42429286",
+      "headline": "Women in substance use treatment have ADHD at rates that rival men \u2014 and the pattern shifts dramatically by drug type",
+      "journal": "Journal of Dual Diagnosis",
+      "pubdate": "2026 Jul 10",
+      "doi": "10.1080/15504263.2026.2686088",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a systematic review and meta-analysis of 84 studies (N=34,036 adults) across hospital, community, and prison substance use treatment settings to estimate ADHD prevalence by sex and substance type. Overall ADHD prevalence was 22%, but rates varied sharply by substance and sex: women using benzodiazepines or opioids showed ADHD prevalence of 33% and 27%, respectively, while women using cocaine showed the lowest rate at 5%. This is the first meta-analysis to provide sex-disaggregated ADHD prevalence estimates specifically among people in substance use treatment.",
+      "why_it_matters": "For women, the overlap between ADHD and substance use appears highly dependent on which substance they use, suggesting that one-size-fits-all screening in addiction treatment may miss or misidentify ADHD in women.",
+      "caveats": "observational design, significant heterogeneity across included studies, self-reported outcomes in some source studies, single ASD study precluded meta-analysis",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "First sex-disaggregated ADHD-substance use estimates; large pooled N; strong women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Women With ADHD and Addiction Are Falling Through the Cracks of Treatment",
+          "hook": "A new meta-analysis finds that nearly one in three women in benzo or opioid treatment programs shows signs of ADHD \u2014 yet services rarely screen for both at once.",
+          "pitch_angle": "Researchers pooled data from 34,000+ people in addiction treatment and found ADHD rates among women vary wildly depending on which substance they use. The finding suggests that ADHD and addiction are deeply intertwined for many women, and that screening gaps in treatment settings may be leaving them without the full picture of their mental health."
+        },
+        {
+          "publication_type": "The Cut (health section)",
+          "headline": "The Hidden ADHD Crisis Inside Women's Addiction Treatment",
+          "hook": "A third of women in opioid or benzodiazepine treatment programs may also have ADHD \u2014 and most treatment plans aren't built for that overlap.",
+          "pitch_angle": "The first meta-analysis to break down ADHD prevalence by sex among people in substance use treatment found strikingly high rates among women on benzos and opioids, raising urgent questions about whether addiction medicine is overlooking a neurodevelopmental layer in women's care."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42430267",
+      "headline": "A new risk calculator may finally help surgeons predict who's most likely to have complications from minimally invasive hysterectomy",
+      "journal": "Gynecologic and Obstetric Investigation",
+      "pubdate": "2026 Jul 10",
+      "doi": "10.1159/000553532",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used data from four Swedish national registries to develop and validate a prediction model for surgical complications in minimally invasive hysterectomy, creating a five-tier Hysterectomy Complication Classes (HCC) system. The study included 60,424 women who underwent benign hysterectomy across Sweden. Key risk factors identified were surgical indication, BMI, prior cesarean section, age, and uterus size \u2014 with the highest complication risk seen in women with a uterus weighing over 1 kg who underwent vaginal hysterectomy.",
+      "why_it_matters": "For the roughly 500,000 women who undergo hysterectomy in the US each year, a standardized risk prediction tool could support more individualized preoperative conversations about surgical approach and complication risk.",
+      "caveats": "observational design, single-center, retrospective cohort, registry-based data subject to misclassification, no external validation outside Sweden",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large female-only cohort, strong design, clear women's health hook; Sweden-only limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "Your Doctor May Soon Be Able to Predict Your Hysterectomy Complication Risk Before You Even Go Under",
+          "hook": "A new five-tier scoring system \u2014 built from data on 60,000 women \u2014 could help surgeons tell patients upfront how risky their hysterectomy is likely to be.",
+          "pitch_angle": "Researchers analyzed six decades' worth of Swedish registry data to build a tool that predicts surgical complication risk based on factors like BMI, uterus size, and prior C-sections. The finding that vaginal hysterectomy carries dramatically higher risk for women with larger uteruses challenges the assumption that 'minimally invasive' always means lower risk."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42432633",
+      "headline": "A routine blood test may diagnose pelvic inflammatory disease better than the standard marker doctors use now",
+      "journal": "BMC Women's Health",
+      "pubdate": "2026 Jul 10",
+      "doi": "10.1186/s12905-026-04669-8",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a retrospective case-control study conducted in Beijing, China, researchers compared 135 women diagnosed with pelvic inflammatory disease (PID) to 135 age-matched controls without PID. They calculated five composite inflammatory indices \u2014 SII, SIRI, NLR, MLR, and PLR \u2014 from routine complete blood counts and compared their diagnostic accuracy against C-reactive protein (CRP). The systemic immune-inflammation index (SII) showed an AUC of 0.870, significantly outperforming CRP (AUC = 0.648), suggesting these inexpensive, routine blood test calculations may be substantially better at identifying PID.",
+      "why_it_matters": "PID is a leading cause of infertility and chronic pelvic pain in women, and faster, more accurate diagnosis from a standard blood draw could meaningfully reduce delays in treatment.",
+      "caveats": "retrospective design, single-center, observational design, study population based in China (single non-US region) \u2014 generalizability to other healthcare settings requires validation",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive diagnostic finding in female-only sample; strong AUC result but single-center retrospective design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "A Standard Blood Test Could Catch This Painful Infection Way Better Than the Current Go-To",
+          "hook": "Pelvic inflammatory disease is notoriously hard to diagnose \u2014 but a simple calculation from a routine blood count may outperform the marker doctors rely on now.",
+          "pitch_angle": "Researchers found that composite blood count ratios, numbers already calculated from a basic lab panel, identified PID far more accurately than C-reactive protein, the current standard. Since PID can lead to infertility if left untreated, a better diagnostic tool from an already-routine test is a significant development."
+        },
+        {
+          "publication_type": "Self",
+          "headline": "Your Regular Blood Work Might Be Hiding a Clue Doctors Are Missing for This Common Infection",
+          "hook": "PID affects millions of women and often goes undiagnosed \u2014 new research suggests the answer may already be sitting in your standard lab results.",
+          "pitch_angle": "A study found that inflammation ratios derived from routine complete blood counts were significantly better at detecting pelvic inflammatory disease than CRP, the marker typically used. Given that PID's symptoms are often vague and easy to miss, this finding points toward a simpler, more accessible diagnostic approach."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42423388",
+      "headline": "A new composite score combining inflammation and blood sugar markers may predict type 2 diabetes risk in women who had gestational diabetes",
+      "journal": "Gynecological Endocrinology",
+      "pubdate": "2026 Dec 31",
+      "doi": "10.1080/09513590.2026.2690803",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Fujian, China, investigated whether a novel composite biomarker \u2014 the C-reactive protein-triglyceride-glucose index (CTI) \u2014 could predict future type 2 diabetes (T2DM) in women with a prior history of gestational diabetes mellitus (GDM), using logistic regression, restricted cubic spline, and machine learning analyses. CTI demonstrated a significant positive linear association with T2DM risk and ranked as the top predictor among variables tested, with an AUC of 0.767. The predictive value was strongest in women with elevated LDL cholesterol (>130 mg/dL), and the index outperformed individual component markers.",
+      "why_it_matters": "Women who have had gestational diabetes face a substantially elevated lifetime risk of developing type 2 diabetes, and a readily calculable composite marker could help clinicians identify who needs the most urgent monitoring and intervention.",
+      "caveats": "retrospective design, single-center, observational design, study population based in China \u2014 generalizability uncertain, sample size not reported in abstract, self-reported outcomes not flagged but design limitations apply",
+      "fact_check_note": "Sample size (N) is not reported in the abstract; this could not be verified. The study is described as using logistic regression and machine learning but the abstract does not specify the total number of participants.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant women's health finding in high-risk reproductive population; single-center retrospective Chinese cohort limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Had Gestational Diabetes? A Simple Blood Test Formula Could Flag Your Future Diabetes Risk",
+          "hook": "A new composite score calculated from routine lab values may be a better early warning system for type 2 diabetes in women who had gestational diabetes than any single marker used today.",
+          "pitch_angle": "Researchers found that a combined index drawing on CRP, triglycerides, and blood glucose was the strongest predictor of type 2 diabetes risk among women with prior gestational diabetes \u2014 outranking other individual markers in accuracy. For the millions of women who develop GDM each year, a calculable risk score from standard blood work could be a practical tool to guide how closely they're monitored postpartum."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42402436",
+      "headline": "France now screens all pregnant women for CMV in the first trimester \u2014 here's what early data from one regional network found",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2675076",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a retrospective multicenter observational study across three maternity units in Alsace, France, describing outcomes of early first-trimester CMV screening among 29,657 deliveries between April 2021 and November 2023. Thirty-eight pregnant women were identified with primary CMV infection, and valaciclovir was used in 47% of cases. Among infected mothers, the congenital CMV transmission rate was 10.5%, with three newborns testing positive at birth and one pregnancy terminated due to confirmed infection.",
+      "why_it_matters": "Congenital CMV is the leading infectious cause of birth defects worldwide, and this study offers early real-world data on what routine first-trimester screening looks like in practice \u2014 just as France becomes one of the first countries to mandate it nationally.",
+      "caveats": "small sample (N<100 infected cases), observational design, single-center (regional), retrospective, France-specific policy context, descriptive design precludes effectiveness conclusions",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant prenatal health topic; very small infected-patient sample and France-specific policy context limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "CMV Is the Most Common Congenital Infection Most Pregnant Women Have Never Heard Of \u2014 France Just Made Screening Mandatory",
+          "hook": "France now screens every pregnant woman for cytomegalovirus in the first trimester \u2014 a move the US hasn't made \u2014 and early data hint at what that could mean for reducing birth defects.",
+          "pitch_angle": "Congenital CMV affects more newborns than Down syndrome each year, yet most pregnant women in the US are never tested for it. New data from a French regional network show what systematic first-trimester screening looks like in practice, fueling a broader conversation about whether the US should follow suit."
+        }
+      ],
+      "run_date": "2026-07-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -91,255 +1135,6 @@
       "status": "new"
     },
     {
-      "pmid": "42425477",
-      "headline": "Blood metabolites may predict which schizophrenia patients will think more clearly after treatment",
-      "journal": "Progress in Neuro-Psychopharmacology & Biological Psychiatry",
-      "pubdate": "2026 Jul 9",
-      "doi": "10.1016/j.pnpbp.2026.111830",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used targeted metabolomics and machine learning to identify a four-metabolite plasma signature \u2014 including serotonin, isoleucine, and two other compounds \u2014 that predicted whether first-episode, drug-na\u00efve schizophrenia patients (N=105) would experience cognitive improvement after 8 weeks of antipsychotic treatment. The study also tracked changes in glycerophospholipid metabolism over the treatment period, linking those shifts to domain-specific cognitive gains. The predictive model achieved an AUC of 0.734, suggesting modest but potentially clinically informative discriminative ability.",
-      "why_it_matters": "If validated, a simple blood test could help clinicians identify early which patients are likely to regain cognitive function with antipsychotic treatment, reducing trial-and-error prescribing.",
-      "caveats": "small sample (N<100 per subgroup analysis), single-center, observational design, no sex-disaggregated data, short follow-up, study population specific to Tianjin China hospital setting",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "No sex-disaggregated data; single-center China cohort; limited generalizability to women's health audience.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Blood Test Might One Day Tell Doctors If Schizophrenia Treatment Will Help You Think More Clearly",
-          "hook": "A new study found that four molecules in the blood could predict whether antipsychotic medication will restore cognitive function in people newly diagnosed with schizophrenia.",
-          "pitch_angle": "Researchers identified a metabolic 'fingerprint' that may forecast treatment response before therapy even begins. While the study is small and preliminary, it points toward a future where blood-based biomarkers \u2014 not guesswork \u2014 guide psychiatric prescribing."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42377353",
-      "headline": "Latin American scientists say artificial sweeteners get a bad rap \u2014 the RCT evidence is actually more reassuring than headlines suggest",
-      "journal": "Nutricion Hospitalaria",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.20960/nh.06972",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A multinational scientific forum convened in M\u00e9rida, Mexico in 2025 reviewed evidence on low- and no-calorie sweeteners (LNCS) across Latin America, drawing on RCTs, observational data, and regulatory assessments from North America, Europe, and the region. RCTs found that replacing sugar-sweetened beverages with LNCS alternatives was associated with modest reductions in body weight and improvements in cardiometabolic markers, while adverse associations in observational studies were largely attributed to methodological limitations such as reverse causality. The forum concluded that LNCS consumption in the region typically stays well below acceptable daily intake limits, and called for more research into individual sweetener effects and vulnerable populations.",
-      "why_it_matters": "For women managing weight, blood sugar, or metabolic health, this expert review suggests the RCT evidence on artificial sweeteners is more reassuring than many popular headlines imply \u2014 though individual differences and specific sweetener types still need more study.",
-      "caveats": "observational design, secondary analysis, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant nutrition topic but consensus review, no female-specific data, Latin America context.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Are artificial sweeteners actually bad for you? A major scientific review just complicated the answer",
-          "hook": "A new expert review finds that when you swap sugary drinks for artificially sweetened ones, the science suggests modest metabolic benefits \u2014 not the harms that viral studies often warn about.",
-          "pitch_angle": "The gap between scary observational headlines and what controlled trials actually show on sweeteners is widening, and this Latin American forum breaks down exactly why. For wellness-minded women trying to decode conflicting advice, this is a useful reality check on diet culture's latest villain."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42417098",
-      "headline": "A faster, automated method for isolating fetal cells from a mother's blood could reshape prenatal testing",
-      "journal": "Prenatal Diagnosis",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1002/pd.70219",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at ARCEDI Biotech and Aarhus University Hospital tested fluorescence-activated cell sorting (FACS) as a high-throughput method to isolate rare fetal cells from 30 mL blood samples drawn from 75 low-risk pregnant women at 10\u201315 weeks' gestation. The four-step enrichment process achieved approximately 16-million-fold enrichment, yielding an average of 8.2 confirmed fetal cells per sample, with only one sample (1.3%) returning no fetal cell. The approach suggests FACS could make cell-based non-invasive prenatal testing (cbNIPT) faster and more scalable while enabling comprehensive fetal genetic analysis.",
-      "why_it_matters": "An accurate, non-invasive alternative to amniocentesis or CVS that works from a routine blood draw could reduce procedural risk for pregnant women seeking prenatal genetic information.",
-      "caveats": "small sample (N<100), single-center, short follow-up, no clinical outcome data reported",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant reproductive health tech; small pilot limits confidence.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "Scientists Found a Way to Pull Fetal DNA From Mom's Blood \u2014 No Needle in the Belly Required",
-          "hook": "A new automated technique isolated fetal cells from a simple blood draw with 98.7% success, hinting at a future where comprehensive prenatal genetic testing requires no invasive procedure.",
-          "pitch_angle": "The method, tested in pregnant women in early pregnancy, uses high-speed cell sorting technology already common in labs to fish out the rare fetal cells circulating in maternal blood \u2014 potentially making safer, more detailed prenatal screening available to more women."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42417187",
-      "headline": "AI measures body fat in women with impressive accuracy \u2014 but studies still can't agree on what the numbers mean",
-      "journal": "Obesity Reviews",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1111/obr.70187",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a systematic review and meta-analysis of 38 studies (12,815 adult women with overweight or obesity, BMI \u226525) evaluating AI-based imaging tools \u2014 including MRI, CT, and DXA \u2014 for measuring visceral, subcutaneous, and total body fat. AI segmentation was found to be highly accurate at the individual level, processing scans more than 99% faster than manual methods. However, the primary finding was extreme inconsistency across studies, with 72% of measurement variability stemming from differences in technical protocols rather than actual differences in women's body composition.",
-      "why_it_matters": "Until AI-based fat-measurement tools are standardized, the promising technology cannot reliably be used to assess cardiometabolic risk in women with overweight or obesity across clinical settings.",
-      "caveats": "observational design, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Women-only sample, N>100, counterintuitive finding, clear wellness hook; secondary analysis caveat.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "AI Can Scan Your Body Fat in 3 Minutes \u2014 So Why Can't Doctors Actually Use the Results?",
-          "hook": "AI body-fat imaging is astonishingly fast and accurate \u2014 but a new meta-analysis of nearly 13,000 women found the technology's results are so inconsistent across clinics that they're not yet clinically reliable.",
-          "pitch_angle": "The tools are precise in a lab but produce wildly different numbers depending on the machine and protocol used, meaning two women with identical bodies could get very different readings. For women tracking metabolic health, this is a critical reality check on what AI body-composition scans can and can't tell you right now."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "That High-Tech Body Fat Scan May Not Be as Reliable as You Think",
-          "hook": "A sweeping review of AI fat-imaging studies in nearly 13,000 women found that most measurement differences came from the technology itself \u2014 not from the women being scanned.",
-          "pitch_angle": "AI imaging can measure visceral and subcutaneous fat quickly and accurately on an individual basis, but lack of standardization across imaging centers means results can't yet be meaningfully compared \u2014 a real concern for women using these tools to assess heart disease or metabolic risk."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42419629",
-      "headline": "Scientists identify a protein pattern that may reveal how adrenal tumors drive cortisol overload",
-      "journal": "Metabolism: Clinical and Experimental",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1016/j.metabol.2026.156691",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed protein profiles from 29 adrenal tumor samples \u2014 including 9 Cushing's syndrome, 10 subclinical Cushing's syndrome, and 10 non-functioning adenomas \u2014 from a single Chinese center. They found that disrupted cholesterol metabolism was a central feature of cortisol-producing tumors, with severity tracking disease stage. A four-protein panel and reduced levels of a specific protein called CAB39L were identified as potential markers of excessive cortisol production.",
-      "why_it_matters": "Cortisol-producing adrenal tumors occur more often in women and are frequently missed at subclinical stages, so better protein-based markers could eventually support earlier detection.",
-      "caveats": "small sample (N<100), single-center, observational design, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Small human sample, single center; condition disproportionately affects women.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "Cortisol Overload From an Adrenal Tumor Is Hard to Diagnose \u2014 Scientists May Have Found a Better Way to Spot It",
-          "hook": "Adrenal tumors that quietly overproduce cortisol are often missed \u2014 but a new protein fingerprint study suggests a blood-based panel could change that.",
-          "pitch_angle": "Researchers studying adrenal tumor tissue found a distinct protein pattern associated with cortisol overproduction, identifying four candidate markers and one key signaling protein that tracks with disease severity. Because these tumors are more common in women and often found incidentally, improved diagnostic markers could have real impact \u2014 though this was a small, early-stage study."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42421299",
-      "headline": "Loneliness and memory problems cluster together across different psychiatric diagnoses in young people \u2014 suggesting a shared underlying vulnerability",
-      "journal": "Cognitive Neuropsychiatry",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1080/13546805.2026.2700254",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers in Taiwan enrolled 109 young people \u2014 77 with first-episode schizophrenia, bipolar disorder, or major depressive disorder, and 32 healthy controls \u2014 who completed the UCLA Loneliness Scale and a working memory task. Participants with all three diagnoses reported significantly higher loneliness than controls, and those with bipolar disorder and schizophrenia performed worse on working memory. A positive association was found between working memory errors and loneliness levels across all diagnostic groups.",
-      "why_it_matters": "For young women navigating a first psychiatric episode \u2014 a period of heightened social vulnerability \u2014 the finding that loneliness and cognitive difficulties travel together regardless of diagnosis suggests that social connection may be as clinically relevant as symptom management.",
-      "caveats": "small sample (N<100 per group), observational design, single-center, no sex-disaggregated data, cross-sectional within the loneliness-memory analysis",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Small sample, no sex-disaggregated data; interesting cross-diagnostic finding but limited women's health specificity.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Loneliness and Brain Fog May Go Hand in Hand for Young People With Mental Illness \u2014 Across Every Diagnosis",
-          "hook": "A new study found that young people with schizophrenia, bipolar disorder, and depression all reported more loneliness than their peers \u2014 and the lonelier they felt, the worse their working memory performed.",
-          "pitch_angle": "The research suggests that loneliness isn't just an emotional side effect of mental illness \u2014 it may be tied to cognitive function in ways that cut across diagnostic categories. For young women in a first psychiatric episode, this points to social support as a potential lever for both emotional and cognitive recovery."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42420053",
-      "headline": "Major reproductive medicine group backs updated Rh-negative shot guidance \u2014 here's what changed",
-      "journal": "Fertility and Sterility",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1016/j.fertnstert.2026.06.007",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "The American Society for Reproductive Medicine (ASRM) Practice Committee issued a position statement formally endorsing the 2024 American College of Obstetricians and Gynecologists (ACOG) Clinical Practice Update on Rho(d) immune globulin (Rh immunoglobulin) administration in the first trimester of pregnancy. The statement reflects alignment between two major US reproductive medicine bodies on updated first-trimester Rh immunoglobulin guidance. No new primary data were presented; this is a policy endorsement document.",
-      "why_it_matters": "Rh-negative pregnant women and their care teams now have aligned guidance from two leading US medical organizations on when and how to administer a key shot that can prevent serious blood incompatibility complications in future pregnancies.",
-      "caveats": "No primary data, policy/position statement only, no study population",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Clinically relevant for Rh-negative pregnant women but no new data; policy statement only.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "If You're Rh-Negative and Pregnant, There's New Guidance on a Shot That Protects Future Babies",
-          "hook": "Two of the biggest reproductive medicine organizations in the US just aligned on updated recommendations for a first-trimester injection that can prevent serious complications in future pregnancies.",
-          "pitch_angle": "ASRM has endorsed ACOG's 2024 update on Rho(d) immune globulin \u2014 commonly called the Rh shot \u2014 shifting when Rh-negative women should receive it in early pregnancy. For the millions of women who are Rh-negative, this is a practical care update worth asking their OB about."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42417292",
-      "headline": "After a miscarriage or abortion, watchful waiting may work just as well as surgery for leftover tissue",
-      "journal": "The European Journal of Contraception & Reproductive Health Care",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1080/13625187.2026.2695184",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a narrative review of 208 studies published between 2000 and 2025 examining the diagnosis and management of retained products of conception (RPOC) and enhanced myometrial vascularity (EMV) following first-trimester miscarriage or termination. The review found that both conditions carry excellent outcomes and low complication rates regardless of whether management is expectant, medical, or surgical. Expectant management \u2014 watchful waiting \u2014 was highlighted as potentially preferable given its global feasibility, low cost, and avoidance of surgical risk, provided patients can commit to follow-up over several weeks.",
-      "why_it_matters": "For women navigating post-miscarriage or post-abortion care, this review suggests that surgery is not automatically necessary and that a wait-and-see approach may be equally safe \u2014 a meaningful option for patients seeking to avoid invasive procedures.",
-      "caveats": "observational design, narrative review (not meta-analysis), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Directly relevant reproductive health topic with clear patient-facing implications; narrative review limits strength.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "After a Miscarriage, You May Not Need Surgery Right Away \u2014 Here's What the Evidence Says",
-          "hook": "A comprehensive review of 25 years of research found that watchful waiting after miscarriage or abortion may be just as effective as surgical intervention.",
-          "pitch_angle": "Retained tissue after a first-trimester loss is common and often treated surgically, but researchers reviewing over 200 studies found outcomes are similarly good with expectant management. For women already navigating the emotional weight of pregnancy loss, knowing surgery isn't always the default could be a meaningful relief."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42419485",
-      "headline": "A new imaging-guided decision framework may help surgeons avoid removing the cervix unnecessarily in life-threatening placenta complications",
-      "journal": "American Journal of Obstetrics & Gynecology MFM",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1016/j.ajogmf.2026.102056",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at a single Italian academic center proposed a structured, ultrasound-first surgical decision algorithm to guide the extent of hysterectomy in placenta accreta spectrum (PAS), a dangerous obstetric condition in which the placenta abnormally attaches to the uterine wall. The framework uses preoperative ultrasound \u2014 supplemented by MRI in ambiguous cases \u2014 to assess placental invasion depth and cervical involvement, helping surgeons decide between total and subtotal hysterectomy. The paper illustrates the approach with a single representative case and operative video, with no prospective cohort data reported; the authors call for validation in larger cohorts.",
-      "why_it_matters": "Placenta accreta spectrum is a leading cause of severe maternal hemorrhage and hysterectomy \u2014 a more targeted surgical approach that preserves the cervix when safe could reduce surgical morbidity for women already facing one of obstetrics' most serious complications.",
-      "caveats": "small sample (N<100 \u2014 single illustrative case only), single-center, no prospective validation cohort, observational design, Italian tertiary center context may not generalize to lower-resource settings",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Serious reproductive health condition, women-specific, clinically relevant \u2014 but single case illustration, no cohort data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "For Women With a Dangerous Placenta Condition, a Smarter Surgical Roadmap Could Mean Less Invasive Treatment",
-          "hook": "A new decision framework uses ultrasound scans to help surgeons figure out exactly how much of the uterus needs to be removed in one of pregnancy's most feared complications.",
-          "pitch_angle": "Placenta accreta spectrum forces thousands of women into emergency hysterectomy each year \u2014 Italian researchers say a structured imaging algorithm could help surgeons make more precise, less morbid decisions about how extensive that surgery needs to be."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42417994",
       "headline": "Swapping meat protein for plant protein was tied to better quality of life in teens \u2014 especially for girls",
       "journal": "European Journal of Nutrition",
@@ -369,141 +1164,6 @@
       ],
       "run_date": "2026-07-11",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42411754",
-      "headline": "Scientists map the immune chaos inside endometrioma cysts that may sabotage egg development",
-      "journal": "Reproduction (Cambridge, England)",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1093/reprod/xaag083",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers in Guangzhou, China, performed single-cell RNA sequencing on follicular fluid drawn from the endometrioma-affected and unaffected ovaries of a single patient with ovarian endometrioma. Analysis of roughly 7,500 cells identified a novel TCR+ macrophage subtype, abnormal granulosa cell development linked to disrupted steroid pathways, and heightened inflammatory signaling \u2014 providing the first single-cell transcriptomic profile of OMA follicular fluid.",
-      "why_it_matters": "These findings offer early molecular clues about why endometriomas impair egg quality and fertility, potentially pointing toward future diagnostic or treatment targets for women with this condition.",
-      "caveats": "small sample (N<100), single-center, observational design, cell study (single-cell sequencing), single patient (N=1), single non-US region (China)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Endometriosis topic fit, but single-patient cell study severely limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Scientists Got a Cellular Close-Up of Endometrioma Cysts \u2014 Here's What They Found Inside",
-          "hook": "For the first time, researchers mapped the immune environment inside the ovarian cysts caused by endometriosis \u2014 and the cellular chaos they found may explain why fertility is so often affected.",
-          "pitch_angle": "A new single-cell analysis reveals that endometriomas create a hostile immune microenvironment that disrupts how egg-producing cells develop, offering fresh molecular detail about a condition that affects roughly 1 in 10 women. The research is extremely early \u2014 it examined cells from just one patient \u2014 but scientists say it could eventually point toward better diagnostics or treatments for endometriosis-related infertility."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42411950",
-      "headline": "Men's emotional wellbeing during fertility workups shifts depending on where they are in the process \u2014 and their partner's timeline matters",
-      "journal": "Asian Journal of Andrology",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.4103/aja2025112",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers followed 185 involuntarily childless men (ages 22\u201350) at four time points across their fertility workup at an andrological clinic in Pozna\u0144, Poland, measuring fertility-related quality of life using a validated questionnaire. The study found that fertility quality of life was shaped by a shifting set of factors \u2014 including patient age, female partner's age, and the gap between when the female and male partners each started their own fertility evaluations. The findings suggest men's emotional experience of infertility is not static but changes across the diagnostic and treatment journey, and is meaningfully tied to their partner's concurrent experience.",
-      "why_it_matters": "For women navigating fertility treatment, this research suggests their partners' distress is partly shaped by the timing and sequencing of the couple's joint medical journey \u2014 not just their own diagnosis.",
-      "caveats": "small sample (N<100 not applicable \u2014 N=185, but convenience sample), observational design, single-center, single non-US/non-multinational region (Poland), no sex-disaggregated data (male-only sample with no parallel female data collected)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Fertility topic fits, but male-only sample, single Polish clinic, limited generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Partner's Fertility Stress Isn't Static \u2014 It Shifts Based on Where You Both Are in the Process",
-          "hook": "A new study found that men's emotional wellbeing during fertility workups is tied not just to their own diagnosis, but to their partner's timeline.",
-          "pitch_angle": "Research tracking men across four fertility clinic appointments found their quality of life fluctuated based on factors like their partner's age and when she started her own evaluation \u2014 suggesting that couples' fertility journeys are emotionally intertwined in ways that timing can shape."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42414939",
-      "headline": "An eye-scan test proposed as an early preeclampsia predictor doesn't hold up to scrutiny",
-      "journal": "BMC Pregnancy and Childbirth",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1186/s12884-026-09618-9",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a PRISMA-guided systematic review of five prospective cohort studies (representing four unique cohorts) evaluating whether first-trimester ophthalmic artery Doppler ultrasound \u2014 measuring blood flow changes in the eye \u2014 could predict early-onset or preterm preeclampsia in pregnant women. In large unselected cohorts, the test showed limited standalone predictive value, detecting preterm preeclampsia at only 56\u201359% at a 10% false-positive rate; seemingly impressive results in smaller cohorts were judged likely due to overfitting. All included reports had high risk of bias in their analysis, and the review concluded that evidence for meaningful clinical value beyond established screening models remains uncertain.",
-      "why_it_matters": "Preeclampsia is a leading cause of maternal and infant mortality, so any proposed new screening tool for pregnant women warrants rigorous scrutiny \u2014 and this review suggests the eye-scan approach is not yet ready for clinical use.",
-      "caveats": "small sample (very few outcome events in included studies), observational design, high risk of bias across all included studies, no validated models",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Pregnancy-specific, counterintuitive cautionary finding on proposed screening tool; limited by high bias in source studies.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Researchers Hyped an Eye Test for Detecting Preeclampsia Early. A New Review Says Not So Fast",
-          "hook": "A promising ultrasound technique that measures blood flow in the eye during early pregnancy may not be the preeclampsia predictor it appeared to be.",
-          "pitch_angle": "A systematic review found that first-trimester ophthalmic artery Doppler \u2014 touted as a potential add-on screening tool \u2014 showed limited predictive value in large real-world populations, with impressive-looking results in small studies likely reflecting statistical overfitting. For pregnant women and their providers, the takeaway is that established screening models remain the standard, and this newer approach isn't ready for clinical use."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42412598",
-      "headline": "A new plant-based compound may restore vaginal tissue in menopause \u2014 without systemic estrogen risks",
-      "journal": "Menopause (New York, N.Y.)",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1097/GME.0000000000002820",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested a novel synthetic flavone (3F), designed to act locally like estrogen in vaginal tissue but break down before reaching the bloodstream, using an ovariectomized rat model of menopause. The compound was delivered via vaginal suppository. Results found 3F restored vaginal tissue structure and mucin secretion \u2014 without triggering cell proliferation in vaginal or uterine lining tissue, and with greater mucin production than estradiol alone.",
-      "why_it_matters": "For the many women who avoid hormone therapy due to perceived systemic risks, a locally-acting, estrogen-inactive-in-circulation compound could eventually offer a new path to managing genitourinary syndrome of menopause.",
-      "caveats": "animal or cell study, small sample (N<100), inventor conflict of interest (S.K.N. and M.F.W. hold patent application on 3F compound), preprint (online ahead of print), single-center",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Strong menopause/GSM topic fit; heavily penalized as animal-only study with inventor COI.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Scientists Are Working on a New Vaginal Treatment for Menopause That Won't Affect the Rest of Your Body",
-          "hook": "A plant-derived compound delivered as a vaginal suppository may ease one of menopause's most common \u2014 and least talked-about \u2014 symptoms, without the systemic hormone exposure many women worry about.",
-          "pitch_angle": "Genitourinary syndrome of menopause affects millions, yet many women skip treatment due to fears about estrogen. This early-stage animal research suggests a targeted compound could restore vaginal tissue health locally \u2014 though human trials are still needed."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42363403",
-      "headline": "Europe's first dedicated ovary science summit draws 165 researchers to map the future of ovarian health",
-      "journal": "Molecular Human Reproduction",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1093/molehr/gaag039",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers published proceedings from the inaugural European Ovary Workshop (EOW 2025), held in Lagos, Portugal, which convened 165 scientists and clinicians from 28 countries. The workshop covered topics spanning meiosis, ovarian reserve, aging, fertility preservation, environmental toxicology, and bioengineering across 12 scientific sessions and more than 90 posters. Post-event survey respondents (n=86) rated scientific content 4.6/5, establishing a biennial platform for ovarian research translation.",
-      "why_it_matters": "This new coordinated scientific community signals accelerating research into ovarian aging, fertility preservation, and environmental threats to ovarian health \u2014 areas directly affecting women across the reproductive lifespan.",
-      "caveats": "small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Conference proceedings, no new primary data; limited pitch value.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Scientists Just Launched a First-of-Its-Kind Research Network Devoted Entirely to Ovarian Health",
-          "hook": "For the first time, hundreds of ovary researchers from 28 countries convened to accelerate discoveries about fertility, aging, and environmental threats to ovarian function.",
-          "pitch_angle": "The inaugural European Ovary Workshop united scientists working on everything from ovarian reserve to toxicology \u2014 a sign that ovarian health is finally getting the dedicated scientific infrastructure it deserves, with implications for women planning families or navigating early menopause."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
@@ -574,60 +1234,6 @@
       "status": "new"
     },
     {
-      "pmid": "42406274",
-      "headline": "Scientists find a molecular switch that may make treatment-resistant thyroid cancer respond to radioiodine therapy again",
-      "journal": "Journal of endocrinological investigation",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1007/s40618-026-02963-8",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Chinese researchers used a 3D cell culture model of papillary thyroid cancer cells, combined with bioinformatic analysis and immunohistochemical staining of human tumor samples, to investigate why some thyroid cancers stop responding to radioiodine (RAI) therapy. They identified TGF-\u03b21 signaling as a key driver of tumor dedifferentiation and RAI resistance, and found that galunisertib, a TGF-\u03b2 receptor inhibitor, restored radioiodine uptake in lab models. The study establishes TGF-\u03b21 as a potential therapeutic target for radioiodine-refractory thyroid cancer, though findings remain in the lab stage.",
-      "why_it_matters": "Thyroid cancer disproportionately affects women, and treatment-resistant cases have very limited options, so identifying a molecular pathway that could restore therapy responsiveness is a meaningful early step.",
-      "caveats": "animal or cell study, single-center, no sex-disaggregated data, findings not yet tested in human clinical trials",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Thyroid cancer is women-prevalent but cell-study only; no human trial data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Researchers May Have Found a Way to Make Treatment-Resistant Thyroid Cancer Respond to Therapy Again",
-          "hook": "A molecular pathway that causes thyroid cancer cells to stop responding to standard treatment may also be the key to reversing that resistance.",
-          "pitch_angle": "Because thyroid cancer is far more common in women, early lab findings suggesting a drug can 're-sensitize' resistant tumor cells to radioiodine therapy are worth watching \u2014 even if human trials are still years away."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42405565",
-      "headline": "TV shows like Clickbait are recycling a tired trope \u2014 and researchers say it reinforces rape myths",
-      "journal": "Violence Against Women",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1177/10778012261465666",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A cultural analysis examined two 2021 Netflix series \u2014 Clickbait and The Guilty \u2014 which both center on white men wrongfully accused of gender-based violence, arguing that these narratives perpetuate rape myths and domestic violence myth acceptance. The researcher applied Jennifer Freyd's DARVO framework (Deny, Attack, Reverse Victim and Offender) to show how both series structurally rehabilitate accused men while undermining victim credibility. The study contends this storytelling pattern takes on heightened cultural significance in the post-#MeToo era.",
-      "why_it_matters": "Media narratives that center falsely accused men may shape public attitudes about sexual violence and complicate how women's accounts of abuse are believed and processed culturally.",
-      "caveats": "observational design, single-author analysis, no quantitative data, no empirical measurement of audience impact",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Cultural analysis, no empirical data, limited health science application; weak fit for health journalism outlets.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "Netflix Keeps Casting Wrongfully Accused Men as Heroes \u2014 Researchers Say That's a Problem",
-          "hook": "A new academic analysis finds that popular streaming shows are using a familiar storytelling trick that quietly reinforces myths about rape and domestic violence.",
-          "pitch_angle": "In the #MeToo era, two Netflix hits built their suspense around innocent men accused of gender-based violence \u2014 and a researcher argues those narratives structurally mirror how real-life abusers deflect accountability. The piece connects pop culture patterns to the broader psychology of how society responds to women's claims of abuse."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42410424",
       "headline": "A protein shed by yeast cells could help rule out the most common cause of vaginal yeast infections with a simple swab test",
       "journal": "BMC Women's Health",
@@ -651,33 +1257,6 @@
       ],
       "run_date": "2026-07-11",
       "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42402292",
-      "headline": "Not all teens with depression recover the same way \u2014 anxiety and psychosis at diagnosis predict who stays stuck",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Jul 5",
-      "doi": "10.1016/j.jad.2026.122218",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A prospective cohort study tracked 274 adolescents with first-diagnosis major depressive disorder (MDD) in China, assessing psychosocial functioning at five time points over 12 months. Growth mixture modeling identified four distinct recovery trajectories: persistent impairment (19.7%), early improvement followed by decline (30.7%), gradual improvement (33.9%), and sustained good functioning (15.7%). Higher anxiety and psychotic symptoms at baseline were associated with worse functional trajectories, while higher education and academic performance predicted more favorable outcomes.",
-      "why_it_matters": "Given that depression disproportionately affects adolescent girls, understanding which teens are at risk of persistent functional impairment \u2014 rather than recovery \u2014 could inform earlier, more targeted support at a critical developmental window.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, finding is tied to a single non-US/non-multinational region's healthcare system and cohort",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "No sex-disaggregated data; China-specific cohort limits generalizability; relevant adolescent mental health topic.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Teen Depression Doesn't Follow One Path \u2014 Anxiety at Diagnosis May Signal Who Struggles Longest",
-          "hook": "A year-long study tracking hundreds of adolescents with newly diagnosed depression found that nearly one in five never meaningfully improved in daily functioning.",
-          "pitch_angle": "Researchers identified four distinct recovery trajectories in teens with depression, and anxiety levels at the time of diagnosis were among the strongest predictors of which teens stayed stuck. For parents and clinicians, the findings suggest that anxiety screening at depression diagnosis may be a critical early signal worth acting on."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
@@ -742,60 +1321,6 @@
       "status": "new"
     },
     {
-      "pmid": "42430025",
-      "headline": "Young adults with type 2 diabetes may get more from apps and wearables than older patients \u2014 but the evidence is thin",
-      "journal": "Current Diabetes Reports",
-      "pubdate": "2026 Jul 10",
-      "doi": "10.1007/s11892-026-01633-6",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review examined how digital health tools \u2014 including continuous glucose monitors, mobile apps, telemedicine, and AI-based analytics \u2014 are being used in people diagnosed with type 2 diabetes before age 40. Researchers found modest evidence that these tools improve blood sugar control and engagement in the broader type 2 diabetes population, but noted that studies specifically targeting early-onset type 2 diabetes are lacking. The review suggests younger adults may benefit more due to higher digital literacy and longer disease duration, but identified key gaps including access inequities and lack of insurance coverage.",
-      "why_it_matters": "Early-onset type 2 diabetes disproportionately affects women with histories of gestational diabetes or PCOS, making digital management tools especially relevant to younger women managing metabolic conditions.",
-      "caveats": "observational design, no sex-disaggregated data, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Review only, no primary data; relevant to younger women with metabolic risk.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Type 2 Diabetes in Your 30s? Digital Tools Might Help \u2014 Here's What the Research Actually Shows",
-          "hook": "Getting a type 2 diabetes diagnosis before 40 comes with unique challenges \u2014 and digital health tools might be better suited to younger patients than older ones.",
-          "pitch_angle": "A new review suggests that younger adults with type 2 diabetes may benefit more from wearables, apps, and telehealth than older patients because of higher tech comfort and longer anticipated disease duration. The evidence is still limited, but the finding matters for women who develop the condition after gestational diabetes or with PCOS."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42431257",
-      "headline": "A once-weekly growth hormone shot works \u2014 but triggers unexpected weight gain in kids switching from daily injections",
-      "journal": "Annales d'endocrinologie",
-      "pubdate": "2026 Jul 10",
-      "doi": "10.1016/j.ando.2026.102590",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "French pediatric endocrinologists conducted a retrospective and prospective observational study of 163 children (mean age 9.7 years) with growth hormone deficiency treated with weekly somatrogon for up to 24 months. Children naive to growth hormone treatment grew approximately 10 cm/year, matching efficacy of daily injections, but the study found a significant biphasic BMI increase (mean +0.81 SD) in all patients. The discontinuation rate was 15% overall \u2014 rising to 22.5% in children switching from daily injections \u2014 primarily due to injection site pain and weight gain.",
-      "why_it_matters": "For parents of girls with growth hormone deficiency, the convenience of a once-weekly injection may come with a tradeoff of meaningful weight gain that warrants close nutritional monitoring.",
-      "caveats": "observational design, single-center (France only \u2014 may not generalize to other healthcare systems or demographics), short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Pediatric endocrinology, no female-specific analysis, France-only context limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Once-Weekly Growth Hormone Shot Is Effective \u2014 But May Cause Surprising Weight Gain in Kids",
-          "hook": "A more convenient weekly injection for children with growth hormone deficiency works just as well as daily shots \u2014 but comes with an unexpected catch.",
-          "pitch_angle": "French researchers found that children switching to a once-weekly growth hormone treatment gained significant BMI compared to those starting fresh, and dropout rates were nearly five times higher in the switching group. For parents navigating their child's hormone therapy, this study suggests the convenience of fewer injections may require closer attention to nutrition and weight."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42429442",
       "headline": "Popular calorie-tracking apps may be overstating your intake by 300+ calories a day",
       "journal": "Nutrition and Health",
@@ -821,39 +1346,6 @@
           "headline": "We tested 17 nutrition apps \u2014 here's which ones actually get your macros right",
           "hook": "Spoiler: most apps overcount your calories, and a few of the most popular ones are the worst offenders.",
           "pitch_angle": "A validation study comparing app outputs to real food records found widespread overestimation of calories, protein, and fat \u2014 meaning your 'over budget' day might not have been as bad as your app claimed. For wellness-focused women who live by their tracking apps, the findings are a useful prompt to question the tools they trust most."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42431597",
-      "headline": "As temperatures rise, people drink more alcohol and sugary drinks \u2014 but eat surprisingly similar amounts overall",
-      "journal": "The American Journal of Clinical Nutrition",
-      "pubdate": "2026 Jul 10",
-      "doi": "10.1016/j.ajcnut.2026.101430",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using over 1.7 million 24-hour dietary records from 100,851 participants in the French NutriNet-Sant\u00e9 cohort (2009\u20132023), researchers examined how outdoor temperature affected food and beverage consumption across sex and six socioeconomic groups. Higher temperatures were associated with increased intake of fruits, vegetables, processed meats, sweet products, water, alcohol, and sugar-sweetened beverages, while red meat, pulses, and dairy decreased \u2014 yet total energy intake and overall diet quality scores remained largely unchanged. Men showed a larger relative increase in alcohol consumption with rising temperatures than women (+11% vs. +6% from 25\u00b0C to 35\u00b0C), and young adults showed the steepest rise in sugar-sweetened beverage intake (+29%).",
-      "why_it_matters": "As climate change drives more extreme heat events, women's beverage and dietary patterns \u2014 particularly alcohol and sugary drink intake \u2014 may shift in ways that carry long-term cardiometabolic implications.",
-      "caveats": "observational design, self-reported outcomes, single-center, French cohort only",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large cohort, sex-disaggregated data, novel climate-nutrition angle, but French population limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Hot weather is quietly changing what you eat and drink \u2014 and not always in healthy ways",
-          "hook": "A massive study tracking over 100,000 people found that as temperatures climb, alcohol and sugary drink consumption rise \u2014 even when total calories barely budge.",
-          "pitch_angle": "Researchers found that the dietary shifts triggered by heat aren't about eating more or less overall, but about swapping healthier beverages for riskier ones \u2014 a pattern that could matter more as summers get hotter. For health-conscious women, it's a reminder that climate isn't just an environmental issue; it's a wellness one too."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Here's how hot weather is changing your drinking habits \u2014 according to a 14-year study",
-          "hook": "When the temperature tops 25\u00b0C, people reach for alcohol and sugary drinks significantly more \u2014 and the effect gets stronger the hotter it gets.",
-          "pitch_angle": "A longitudinal study of more than 100,000 French adults found that heat-driven beverage shifts could have real cardiometabolic consequences over time, especially for women who may be less aware the pattern is happening. Public health experts say targeted messaging around heat and alcohol may be needed as climate change intensifies."
         }
       ],
       "run_date": "2026-07-11",
@@ -889,39 +1381,6 @@
       "status": "new"
     },
     {
-      "pmid": "42429286",
-      "headline": "Women in substance use treatment have ADHD at strikingly high rates \u2014 and the rates differ sharply by what drug they use",
-      "journal": "Journal of Dual Diagnosis",
-      "pubdate": "2026 Jul 10",
-      "doi": "10.1080/15504263.2026.2686088",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A systematic review and meta-analysis of 84 studies (combined N=34,036 adults in substance use treatment settings) estimated ADHD prevalence by sex and substance type for the first time. Overall ADHD prevalence was 22%; among women using benzodiazepines, the rate reached 33%, matching the highest rate seen in any subgroup. Rates among women using opioids were 27%, while the lowest rate \u2014 5% \u2014 was found among women using cocaine, suggesting that ADHD prevalence in this population varies substantially by both sex and substance.",
-      "why_it_matters": "These are the first sex-specific ADHD prevalence estimates in people seeking substance use treatment, highlighting that women in these settings may be disproportionately under-screened and under-treated for a condition that significantly shapes their recovery trajectory.",
-      "caveats": "observational design, significant heterogeneity across included studies, mixed healthcare settings (hospital, community, prison)",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "First sex-disaggregated estimates; large combined N; strong women's health and mental health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "1 in 3 Women in Addiction Treatment May Have Undiagnosed ADHD \u2014 and Nobody's Talking About It",
-          "hook": "The first-ever sex-specific data on ADHD in substance use treatment reveals that among women using benzodiazepines, ADHD rates hit 33% \u2014 as high as any group studied.",
-          "pitch_angle": "A sweeping meta-analysis of 84 studies found that ADHD is strikingly common among women seeking help for drug and alcohol use, with rates varying dramatically depending on which substance they use. The finding suggests that ADHD \u2014 often missed in women to begin with \u2014 may be playing a hidden role in addiction patterns that treatment programs aren't equipped to address."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "There's a Hidden ADHD-Addiction Connection in Women That Researchers Are Only Now Quantifying",
-          "hook": "New data shows that women in substance use treatment have ADHD at rates far higher than the general population \u2014 and the pattern differs by drug in ways that could reshape how we think about addiction in women.",
-          "pitch_angle": "For women, ADHD often goes undiagnosed for years \u2014 and new research suggests that gap may be fueling substance use in ways that treatment programs aren't catching. These first-ever sex-specific estimates point to an urgent need for ADHD screening as a standard part of addiction care for women."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42427185",
       "headline": "Adding harm reduction supplies to methadone clinics boosted patient engagement and reduced stigma, a pilot program found",
       "journal": "Substance Use & Addiction Journal",
@@ -949,60 +1408,6 @@
       "status": "new"
     },
     {
-      "pmid": "42430267",
-      "headline": "A new risk-scoring tool could help doctors better predict which women face the highest complication odds before minimally invasive hysterectomy",
-      "journal": "Gynecologic and Obstetric Investigation",
-      "pubdate": "2026 Jul 10",
-      "doi": "10.1159/000553532",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used data from four linked Swedish national registries to develop and validate a complication prediction model for minimally invasive hysterectomy (vaginal, laparoscopic, or robotic) across 60,424 benign hysterectomy cases. Key risk factors identified included surgical indication, BMI, prior cesarean section, age, and uterine size, with the highest complication odds seen in patients with a uterus weighing over 1 kg undergoing vaginal hysterectomy (adjusted OR 25.5). The resulting Hysterectomy Complication Classes (HCC) system stratifies patients into five risk tiers and showed strong predictive accuracy in validation.",
-      "why_it_matters": "With hundreds of thousands of hysterectomies performed annually, a validated complication-risk classification tool could support more individualized preoperative conversations between women and their surgeons.",
-      "caveats": "observational design, single-center, retrospective cohort, registry data subject to misclassification, no external validation outside Sweden",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large female cohort, clean registry design, strong clinical utility for women.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "A New 5-Level Risk System Could Change How Doctors Prepare Women for Hysterectomy",
-          "hook": "An analysis of more than 60,000 hysterectomies found that a few key factors \u2014 including uterus size and prior C-section \u2014 dramatically shift complication risk, and researchers built a scoring system to capture it.",
-          "pitch_angle": "The new Hysterectomy Complication Classes tool, validated in a nationwide Swedish dataset, suggests women could benefit from more personalized risk discussions before surgery \u2014 particularly those with larger uteruses or complex surgical histories."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42432633",
-      "headline": "Routine blood count ratios may outperform standard CRP test for diagnosing a common \u2014 and often missed \u2014 pelvic infection",
-      "journal": "BMC Women's Health",
-      "pubdate": "2026 Jul 10",
-      "doi": "10.1186/s12905-026-04669-8",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a retrospective case-control study conducted at a Beijing hospital, researchers compared five CBC-derived inflammatory indices \u2014 including the systemic immune-inflammation index (SII) and systemic inflammation response index (SIRI) \u2014 against CRP for diagnosing pelvic inflammatory disease (PID) in 135 PID patients versus 135 age-matched controls. SII achieved the highest diagnostic accuracy (AUC=0.870), significantly outperforming CRP (AUC=0.648). All five novel indices remained independently associated with PID after multivariable adjustment.",
-      "why_it_matters": "PID is frequently missed or delayed in diagnosis due to nonspecific symptoms, and a simple, inexpensive blood count ratio \u2014 already collected in routine care \u2014 could help flag infection earlier in women who need it.",
-      "caveats": "observational design, retrospective, single-center, study population specific to Beijing China (may limit generalizability to US settings), small sample (N<100 per group relative to study complexity)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant women's condition; single-center China cohort limits US generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Your Standard Blood Test Might Be Better at Catching This Sneaky Pelvic Infection Than the Go-To Lab Marker",
-          "hook": "A study found that ratios calculated from a routine complete blood count outperformed CRP \u2014 the standard inflammation marker \u2014 at identifying pelvic inflammatory disease, a common infection that often goes undiagnosed.",
-          "pitch_angle": "Pelvic inflammatory disease can silently damage reproductive organs if caught late, and researchers suggest a no-extra-cost calculation from blood already drawn in standard care could provide faster, more accurate answers for women with vague pelvic symptoms."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "40908101",
       "headline": "Independent abortion providers want to do more research \u2014 but face real structural barriers to making it happen",
       "journal": "BMJ Sexual & Reproductive Health",
@@ -1027,60 +1432,6 @@
       "run_date": "2026-07-11",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42423388",
-      "headline": "A combined inflammation-and-blood-sugar marker may flag which women with prior gestational diabetes are most at risk for type 2 diabetes",
-      "journal": "Gynecological Endocrinology",
-      "pubdate": "2026 Dec 31",
-      "doi": "10.1080/09513590.2026.2690803",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers in China examined whether a combined biomarker \u2014 the C-reactive protein-triglyceride-glucose index (CTI) \u2014 could predict type 2 diabetes risk in women who had previously had gestational diabetes mellitus (GDM). Using logistic regression, spline analyses, and machine learning in a single-center Chinese cohort, they found CTI showed a significant positive linear association with T2DM risk and outranked other variables as a predictor, with an AUC of 0.767. The association was stronger in women with elevated LDL cholesterol (>130 mg/dL) and was influenced by BMI and hyperlipidemia.",
-      "why_it_matters": "Women with a history of gestational diabetes face a substantially elevated lifetime risk of type 2 diabetes, and a composite biomarker that combines inflammation and metabolic markers could eventually help identify who needs the most intensive follow-up \u2014 though this evidence is early and regional.",
-      "caveats": "observational design, single-center, self-reported outcomes likely, short follow-up unclear, regional specificity (single hospital in Fujian, China \u2014 dietary and metabolic patterns may not generalize to US/global populations)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Women-specific reproductive metabolic health; penalized for single-center Chinese cohort with limited generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Had Gestational Diabetes? A New Blood Marker Combo May Predict Your Type 2 Diabetes Risk Years Later",
-          "hook": "A single combined score \u2014 merging inflammation and blood sugar markers \u2014 may better identify which women with a gestational diabetes history are headed toward type 2 diabetes than existing tests.",
-          "pitch_angle": "Women who had GDM are up to 10 times more likely to develop T2DM, yet follow-up care is inconsistent. This study suggests a composite biomarker could sharpen risk stratification \u2014 though it's observational, single-center, and based in China, so broader application needs confirmation."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42402436",
-      "headline": "First-trimester CMV screening catches infections early \u2014 but questions about whether it changes outcomes remain open",
-      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/14767058.2026.2675076",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a retrospective multicenter observational study across three maternity units in Alsace, France, between April 2021 and November 2023, examining outcomes of early first-trimester CMV screening in pregnant women. Among 29,657 deliveries, 38 patients were identified with primary CMV infection periconceptionally or in the first trimester; 47% received valaciclovir treatment. The overall congenital CMV transmission rate among infected mothers was 10.5%, but the small sample and descriptive design prevent conclusions about whether screening reduced transmission.",
-      "why_it_matters": "CMV is the most common congenital infection worldwide, and this real-world pilot suggests first-trimester screening is feasible in routine care \u2014 though its effectiveness remains unproven.",
-      "caveats": "small sample (N<100), observational design, single-center (regional network), retrospective, single non-US region (Alsace, France) with limited generalizability",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant pregnancy topic; very small sample, descriptive only, regional French context limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "The Pregnancy Infection Most OBs Aren't Screening For \u2014 And Why That May Be Changing",
-          "hook": "Cytomegalovirus is the most common congenital infection in the world, yet routine first-trimester screening is only just being adopted.",
-          "pitch_angle": "A French regional pilot found that testing pregnant women for CMV in the first trimester is feasible in everyday clinical practice. The data don't yet prove screening prevents harm, but France has already moved to recommend it nationally \u2014 raising the question of whether the US should follow."
-        }
-      ],
-      "run_date": "2026-07-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
       "status": "new"
     },
     {
