@@ -1,444 +1,1101 @@
 {
-  "last_updated": "2026-07-20T13:04:34.242516+00:00",
-  "total_studies": 330,
-  "new_this_run": 3,
+  "last_updated": "2026-07-21T12:22:59.230925+00:00",
+  "total_studies": 339,
+  "new_this_run": 9,
   "studies": [
     {
       "pmid": "42473246",
-      "headline": "Eating fish doesn't protect South Asians from heart disease the way it should \u2014 and scientists think they know why",
+      "headline": "Eating more fish isn't protecting South Asians from heart disease \u2014 and the reasons why are surprising",
       "journal": "Public Health Nutrition",
       "pubdate": "2026 Jul 20",
       "doi": "10.1017/S1368980026103140",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This commentary interrogates why South Asian populations \u2014 among the world's highest fish consumers \u2014 carry disproportionate cardiometabolic risk despite eating fish regularly. The author identifies four interacting mechanisms: aquaculture-driven species substitution (replacing omega-3-rich fish like hilsa with leaner farmed varieties), deep frying in high-omega-6 oils that degrades beneficial fatty acids, heavy metal contamination in arsenic- and mercury-affected watersheds, and urbanization eroding fish intake in the highest-risk subgroups. The piece argues that generic 'eat more fish' guidance fails South Asian communities and calls for ethnicity-sensitive, sustainability-conscious dietary recommendations.",
-      "why_it_matters": "For South Asian women \u2014 who already face elevated cardiometabolic risk at lower BMIs than European populations \u2014 blanket fish-eating advice may offer false reassurance without addressing species, preparation method, and contamination context.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, finding is tied to a single non-US/non-multinational region's diet and environment in a way that may limit generalizability to US audiences",
+      "summary": "This commentary from a Texas Tech University researcher examines why South Asian populations \u2014 among the world's highest fish consumers \u2014 still carry disproportionate cardiometabolic risk. The author proposes four interlocking explanations: aquaculture-driven species substitution has reduced omega-3 content; deep frying in high-omega-6 oils degrades beneficial fatty acids; heavy metal contamination from arsenic- and mercury-affected waterways may cancel out omega-3 benefits; and urbanization is quietly eroding fish intake among the highest-risk groups. The piece argues that generic 'eat more fish' advice is insufficient and that ethnicity-sensitive, species-specific, and contamination-aware dietary guidance is needed.",
+      "why_it_matters": "For women of South Asian descent \u2014 a population at elevated cardiometabolic risk \u2014 the type, preparation method, and source of fish may matter far more than simply eating more of it.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, finding is tied to a single non-US/non-multinational region's diet and environment in a way that may limit generalizability to US/global audience",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Counterintuitive nutrition finding but commentary only, no female-specific data, region-specific context limits US pitch.",
+      "relevance_score_reason": "Interesting nutrition hook but commentary only, no female-specific data, regionally specific.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "Why Eating Fish Isn't Protecting South Asian Women From Heart Disease \u2014 And What Actually Might",
-          "hook": "Eating fish is supposed to be heart-healthy, but for millions of South Asian women, the science says it isn't working \u2014 and the reasons are more complicated than anyone expected.",
-          "pitch_angle": "Researchers find that aquaculture shifts, high-heat frying, and heavy metal contamination may be stripping fish of its cardioprotective benefits in South Asian populations. For South Asian women already at elevated cardiometabolic risk, the story challenges the one-size-fits-all 'eat more fish' message dominating mainstream wellness advice."
+          "headline": "Your Omega-3s May Not Be Working \u2014 Here's Why the Type of Fish Actually Matters",
+          "hook": "Eating fish regularly doesn't automatically protect your heart, and the reasons why could change how you shop.",
+          "pitch_angle": "A new commentary suggests that farmed fish, frying oils, and water contamination can strip fish of its cardioprotective benefits \u2014 a finding with implications for anyone relying on fish as a health food staple, regardless of ethnicity."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42476451",
+      "headline": "Vitamin D supplements may not fight frailty in older adults who are already replete \u2014 and high-dose boluses may actually raise fall risk",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.1016/j.metabol.2026.156697",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review integrates clinical, epidemiological, and mechanistic evidence on vitamin D's role in frailty, sarcopenia, and bone health across observational cohorts and RCTs. While low vitamin D is consistently linked to frailty onset in observational studies, randomized controlled trials have largely shown neutral results in community-dwelling adults with adequate vitamin D levels. Notably, intermittent high-dose bolus regimens were associated with increased falls and fractures, and benefits appear limited to those with deficiency or heightened vulnerability.",
+      "why_it_matters": "For older women concerned about frailty and bone health, this suggests that vitamin D supplementation may only help those who are truly deficient \u2014 and that mega-dose strategies could be harmful.",
+      "caveats": "observational design, narrative review (not systematic meta-analysis), no sex-disaggregated data, industry funding [Abiogen \u2014 research funding to one author]",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women's aging/bone health hook, but narrative review with no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Your Vitamin D Supplement May Not Be Doing What You Think \u2014 Especially for Fall Prevention",
+          "hook": "A major review found that high-dose vitamin D boluses were actually linked to more falls and fractures, not fewer.",
+          "pitch_angle": "Researchers synthesized decades of trial data and found that vitamin D supplements only appear to help women who are genuinely deficient \u2014 not those already at adequate levels. For older women taking large periodic doses to protect their bones, the evidence now suggests this strategy may backfire."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42474953",
+      "headline": "Standard heart imaging often fails in bariatric surgery candidates \u2014 and the alternative isn't clearly better yet",
+      "journal": "Obesity Surgery",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.1007/s11695-026-08832-w",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a retrospective single-center study of 66 adults evaluated for bariatric surgery in the UK, researchers found that standard transthoracic echocardiography produced limited image quality in 44% of cases due to high BMI, while nuclear SPECT imaging successfully detected reversible ischemia in about 20% of patients. Agreement on ejection fraction between the two modalities was poor. The authors conclude that SPECT may offer additional diagnostic information in this high-risk group but that the small sample, retrospective design, and low event rate prevent conclusions about clinical superiority.",
+      "why_it_matters": "Women make up the majority of bariatric surgery patients, and unreliable cardiac screening before surgery is a real safety gap that needs better solutions.",
+      "caveats": "small sample (N<100), observational design, single-center, retrospective, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Women-majority surgery population, but tiny retrospective single-center study with major caveats.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Heart Test Routinely Used Before Weight-Loss Surgery Often Doesn't Work \u2014 So What's the Alternative?",
+          "hook": "A new study found that standard cardiac ultrasound produced poor-quality images in nearly half of bariatric surgery candidates because of their body size.",
+          "pitch_angle": "Researchers at a UK hospital found that the standard echocardiogram \u2014 used to screen patients for heart problems before bariatric surgery \u2014 was technically limited in almost half of cases, raising questions about whether high-risk patients are being adequately evaluated. Nuclear imaging offered more detail, but the study was too small to draw firm conclusions about which approach is safer or better."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42477900",
+      "headline": "Brain scans may be missing a key signal of vascular dysfunction \u2014 and it could matter for dementia diagnosis",
+      "journal": "Journal of Cerebral Blood Flow and Metabolism",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.1177/0271678X261473390",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at the University of Edinburgh conducted a systematic review of 200 published studies using BOLD-MRI brain imaging to measure cerebrovascular reactivity (CVR), finding that only 44 (22%) meaningfully examined CVR delay \u2014 the time it takes for blood vessels in the brain to respond to a gas challenge \u2014 rather than using it merely as a technical correction. The review found mixed and often methodologically inconsistent findings across neurological conditions, with no standardized approach to measuring or interpreting CVR delay. The authors conclude that CVR delay is an undertapped biomarker of brain vascular health that requires greater validation before clinical use.",
+      "why_it_matters": "Women face elevated risk for cerebrovascular disease and dementia, and better tools for detecting early vascular dysfunction in the brain could improve diagnosis and monitoring across the lifespan.",
+      "caveats": "no sex-disaggregated data, observational design, small sample sizes in reviewed studies, methodological inconsistency across reviewed literature",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Technically important biomarker review but no female-specific data; limited direct lifestyle or wellness hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Brain Imaging Studies Are Overlooking a Signal That Could Reveal Early Vascular Disease, Review Finds",
+          "hook": "A systematic review found that 78% of brain imaging studies are discarding a potentially meaningful measure of vascular health \u2014 treating it as noise instead of a diagnostic clue.",
+          "pitch_angle": "Cerebrovascular reactivity delay, which reflects how quickly brain blood vessels respond to stimulation, has been largely ignored in neuroimaging research despite its potential as an early marker of brain vascular dysfunction. For a journalist audience covering women's brain health, this gap matters because women are disproportionately affected by conditions like small vessel disease and dementia, yet the diagnostic tools being developed may be missing an important dimension of vascular risk."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42473846",
+      "headline": "When women gain more power in the household, their children eat better \u2014 new data from 28 Indian states confirms it",
+      "journal": "Public Health Nutrition",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.1017/S1368980026103164",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Indian researchers analyzed three rounds of the National Family Health Survey (2006\u20132021) across all 28 Indian states and 9 union territories, using multilevel regression to examine how women's empowerment influenced stunting, wasting, and underweight in children under five. Women's empowerment was not a statistically significant predictor in 2006 but emerged as a significant protective factor by 2021 (\u03b2=\u22120.29), suggesting its influence has grown as India has undergone nutritional transition. Household wealth remained the strongest single predictor of child undernutrition across all survey rounds, with clustering concentrated at the household level.",
+      "why_it_matters": "This large, nationally representative study suggests that policies increasing women's decision-making power within households may meaningfully reduce child malnutrition \u2014 with implications for how global health programs targeting women are designed and funded.",
+      "caveats": "observational design, single-center, finding is tied to a single non-US/non-multinational region's context, self-reported outcomes, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant women's empowerment finding, large national sample, but India-specific context limits US applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Giving Women More Power in the Home Has a Measurable Effect on Children's Health",
+          "hook": "A 15-year study tracking millions of Indian households found that as women's empowerment rose, child malnutrition fell \u2014 and the timing of that effect is striking.",
+          "pitch_angle": "New data from three waves of India's largest health survey found that women's empowerment wasn't a significant factor in child nutrition in 2006 \u2014 but by 2021, it was one of the most meaningful predictors of whether children were adequately nourished, raising questions about what structural changes made the difference."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42477616",
+      "headline": "Two blood proteins may flag pre-eclampsia earlier \u2014 but the real find is what they reveal about the immune system",
+      "journal": "BMC Pregnancy and Childbirth",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.1186/s12884-026-09361-1",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using bioinformatic analysis of blood datasets combined with single-cell sequencing and ELISA validation, researchers from China identified two blood proteins \u2014 F2RL1 and GZMH \u2014 that showed significantly different expression levels in women with early-onset pre-eclampsia compared to healthy pregnant women. The study also found notable immune cell changes, particularly in T cells and hematopoietic stem cell growth factor, in the maternal bloodstream during pre-eclampsia onset. Computational analysis additionally suggested aspirin and tyrosine kinase inhibitors may interact with these pathways.",
+      "why_it_matters": "Pre-eclampsia is a leading cause of maternal and infant mortality, and identifying reliable blood-based biomarkers could eventually enable earlier diagnosis before symptoms appear \u2014 potentially improving outcomes for pregnant women.",
+      "caveats": "observational design, single-center, small sample (N<100) likely for validation cohort, bioinformatic/computational methods dominant, study population based in China",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Important women's health condition; heavily computational with limited clinical validation sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "Scientists May Have Found Blood Clues to Catch Pre-Eclampsia Before It Strikes",
+          "hook": "Two proteins in maternal blood appear to behave differently in women who develop early-onset pre-eclampsia \u2014 pointing toward a potential future blood test for one of pregnancy's most dangerous complications.",
+          "pitch_angle": "Chinese researchers used advanced genomic and immune cell analysis to pinpoint two blood markers tied to pre-eclampsia, shedding new light on how the immune system goes awry during the condition. While the findings are early and largely computational, they add to a growing picture of pre-eclampsia as an immune system disruption \u2014 not just a blood pressure problem."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42472358",
-      "headline": "Using cannabis before alcohol may lead to drinking less on nights when both are combined",
+      "headline": "Drinking before using cannabis leads to more alcohol consumed \u2014 but starting with cannabis first cuts drinking by more than a drink",
       "journal": "Substance Use & Misuse",
       "pubdate": "2026 Jul 19",
       "doi": "10.1080/10826084.2026.2670625",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used a 14-weekend daily diary study with 370 undergraduate students (mean age 20.8) to examine how the order of substance use affects alcohol consumption on nights when alcohol and cannabis are used together. Students drank more overall on simultaneous use nights (avg 5.08 drinks) compared to alcohol-only nights (avg 4.23 drinks), but consumed about 1.4 fewer drinks when cannabis was used first rather than alcohol first. Coping or enhancement motives did not explain this pattern.",
-      "why_it_matters": "For young women navigating social drinking culture, this early evidence suggests the sequence of polysubstance use \u2014 not just the combination \u2014 may shape how much alcohol is consumed in a sitting.",
-      "caveats": "small sample (N<100 on some subgroup days), observational design, self-reported outcomes, short follow-up, single-center, no sex-disaggregated data",
+      "summary": "Researchers tracked 370 undergraduate students (mean age 20.8) over 14 weekends using daily diary surveys covering Friday through Sunday. On days when alcohol and cannabis were used simultaneously, students drank more overall than on alcohol-only days. Critically, using cannabis before alcohol was associated with consuming about 1.4 fewer drinks compared to using alcohol first \u2014 and this effect was unrelated to whether someone was drinking to cope or for fun.",
+      "why_it_matters": "For young women who drink and use cannabis, the order of use may meaningfully affect total alcohol intake on a given night.",
+      "caveats": "small sample (N<100 does not apply \u2014 N=370), observational design, self-reported outcomes, single-center, short follow-up, no sex-disaggregated data",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "No sex-disaggregated data; young adult sample; observational diary design.",
+      "relevance_score_reason": "General health interest but no sex-disaggregated data; young adult college sample.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good / Self",
-          "headline": "The Order You Use Alcohol and Cannabis Might Actually Matter for How Much You Drink",
-          "hook": "A new study found that starting the night with cannabis before drinking was associated with consuming about 1.4 fewer drinks \u2014 regardless of why people were using substances in the first place.",
-          "pitch_angle": "Researchers tracked college students' weekend substance use and found that going cannabis-first on nights of combined use was linked to lighter drinking. The finding is counterintuitive and adds nuance to harm-reduction conversations for young adults who drink socially."
+          "headline": "The Order You Use Alcohol and Weed Actually Changes How Much You Drink",
+          "hook": "Starting with cannabis before drinking was linked to consuming about one fewer drink on nights when people used both substances.",
+          "pitch_angle": "A diary study of college students found that the sequence of substance use on party nights matters: going alcohol-first led to heavier drinking, while cannabis-first was associated with less alcohol consumed. For young women navigating social drinking culture, this adds a nuanced layer to understanding polysubstance nights \u2014 though the study couldn't break out results by gender."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42472434",
-      "headline": "ER substance-use screening programs help patients but keep running into the same wall: funding gaps",
+      "headline": "ER-based addiction screening programs help patients \u2014 but funding gaps keep them from reaching their potential",
       "journal": "Substance Use & Addiction Journal",
       "pubdate": "2026 Jul 19",
       "doi": "10.1177/29767342261464001",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted in-depth qualitative interviews with 9 clinicians and supervisors delivering SBIRT (Screening, Brief Intervention, and Referral to Treatment) programs at two emergency departments in King County, Washington. Staff reported that SBIRT created valuable teachable moments after substance-related injuries and reduced stigma among providers, but persistent gaps in reimbursement and limited treatment referral options constrained its impact. The study highlights systemic barriers \u2014 not program design flaws \u2014 as the primary obstacle to effective ED-based substance use intervention.",
-      "why_it_matters": "Women with substance use disorders often face unique barriers to care including stigma and childcare demands, and understanding what stalls promising ER-based interventions could help advocates push for better-funded, more accessible pathways to treatment.",
-      "caveats": "small sample (N<100), qualitative design, single-center, observational design, no sex-disaggregated data",
+      "summary": "Researchers conducted in-depth qualitative interviews with 9 clinicians and supervisors at 2 emergency departments in King County, Washington, to evaluate a Screening, Brief Intervention, and Referral to Treatment (SBIRT) program for substance use disorder. Staff reported that SBIRT created valuable 'teachable moments' after substance-related injuries and improved collaboration among healthcare providers. However, limited reimbursement and fragmented referral networks were identified as persistent barriers to effective implementation.",
+      "why_it_matters": "Emergency departments are often the first point of contact for women experiencing substance use crises, making systemic gaps in SBIRT implementation a direct barrier to care for this population.",
+      "caveats": "small sample (N<100), qualitative design, single-center, no sex-disaggregated data",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Relevant policy/access angle; no sex-disaggregated data, very small qualitative sample.",
+      "relevance_score_reason": "Policy-relevant but qualitative, tiny sample, no sex-disaggregated findings.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "The ER Could Be a Turning Point for People With Addiction \u2014 If the System Would Get Out of the Way",
-          "hook": "Clinicians say emergency department substance-use screening programs genuinely help patients \u2014 but chronic underfunding keeps undermining them.",
-          "pitch_angle": "A new qualitative study found that ER-based addiction screening created meaningful 'teachable moments' after substance-related injuries, yet limited reimbursement and thin referral networks stalled real follow-through. For women \u2014 who face added stigma and childcare barriers in seeking SUD treatment \u2014 expanding these programs could open a critical window to care."
+          "headline": "ERs Could Be a Lifeline for Addiction \u2014 So Why Are They Falling Short?",
+          "hook": "Emergency rooms are uniquely positioned to catch people in crisis and connect them to addiction care \u2014 but underfunding keeps that promise largely unfulfilled.",
+          "pitch_angle": "A new qualitative study finds that ER-based addiction screening programs create genuine 'teachable moments' for patients, but chronic funding shortfalls and patchy referral networks mean many people never get connected to treatment. For women, who face distinct stigma and barriers around substance use disorder, these systemic gaps may carry outsized consequences."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42470151",
-      "headline": "Parents of children with a rare genetic syndrome face higher stigma and less specialist support than parents of children with Down syndrome",
+      "headline": "Parents of kids with a rare genetic syndrome face higher stigma than Down syndrome parents \u2014 and less specialist support",
       "journal": "Journal of Intellectual Disability Research",
       "pubdate": "2026 Jul 18",
       "doi": "10.1111/jir.70147",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers surveyed 39 parents (mean age 43.1) of children with 1p36 deletion syndrome in Japan, a rare chromosomal condition, assessing mental health, psychological distress, affiliate stigma, parental strain, and self-esteem. Most parents relied on the internet for information, with limited access to medical or genetic specialists. Affiliate stigma \u2014 the shame parents feel by association with their child's diagnosis \u2014 was significantly higher than in parents of children with Down syndrome, and path analysis suggested it may worsen mental health through parental strain and reduced self-esteem.",
-      "why_it_matters": "Because mothers disproportionately bear the caregiving burden of children with complex rare conditions, these findings highlight how stigma and information gaps may compound mental health challenges for this largely overlooked group of caregivers.",
-      "caveats": "small sample (N<100), observational design, self-reported outcomes, single-center, single-region (Japan \u2014 rare syndrome association recruitment may limit generalizability), no sex-disaggregated data",
+      "summary": "Researchers surveyed 39 parents (mean age 43.1) of children with 1p36 deletion syndrome in Japan about psychosocial well-being, information access, and caregiving challenges. Most parents relied on the internet for information, with limited input from medical or genetic specialists. Path analysis found that affiliate stigma \u2014 the internalized shame associated with a family member's condition \u2014 was significantly higher than in Down syndrome parents and was linked to poorer parental mental health, mediated by parental strain and self-esteem.",
+      "why_it_matters": "For the many mothers who shoulder the primary caregiving role for children with rare genetic conditions, unaddressed affiliate stigma may be a hidden driver of mental health decline that current support systems are not designed to catch.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, no sex-disaggregated data, single non-US/non-multinational region (Japan) \u2014 findings may not generalize to US caregiving or healthcare contexts",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Very small sample; rare condition; no sex-disaggregated data; limited generalizability.",
+      "relevance_score_reason": "Caregiver mental health angle relevant to women, but tiny sample, Japan-only, no sex-disaggregated data.",
       "pitch_angles": [
         {
-          "publication_type": "General health / Well+Good",
-          "headline": "Parents of Kids With This Rare Genetic Syndrome Face More Stigma \u2014 and Less Help \u2014 Than Those Raising Children With Down Syndrome",
-          "hook": "A new study found that parents of children with a little-known chromosomal deletion syndrome reported significantly higher levels of shame and social stigma than parents of children with Down syndrome \u2014 and were largely left to navigate it alone.",
-          "pitch_angle": "Small but striking Japanese research found that families affected by 1p36 deletion syndrome struggle with isolation, scarce specialist guidance, and elevated affiliate stigma that compounds parental mental health strain. For the many women who serve as primary caregivers in these families, the findings underscore a gap in psychosocial support for rare-disease caregiving."
+          "publication_type": "Well+Good",
+          "headline": "The Hidden Mental Health Toll on Moms of Kids With Rare Genetic Diagnoses",
+          "hook": "Parents of children with a rare chromosomal condition called 1p36 deletion syndrome report higher internalized stigma than parents of children with Down syndrome \u2014 and almost no specialist support.",
+          "pitch_angle": "A small Japanese study suggests that 'affiliate stigma' \u2014 absorbing shame about a family member's diagnosis \u2014 may silently erode mothers' mental health. The finding points to a gap in rare-disease support that wellness and parenting communities rarely address."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42463907",
-      "headline": "Exercise may protect the brain from Alzheimer's by suppressing a little-known enzyme \u2014 and scientists now have a molecular map for how",
+      "headline": "Exercise may protect against Alzheimer's by suppressing a brain-disrupting enzyme \u2014 and researchers think they finally know how",
       "journal": "Metabolic Brain Disease",
       "pubdate": "2026 Jul 17",
       "doi": "10.1007/s11011-026-01930-9",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Hunan Normal University proposed and theoretically substantiated a new framework called the 'Exercise-CTSS-AD Axis,' positing that exercise protects against Alzheimer's disease by suppressing an enzyme called Cathepsin S (CTSS), which disrupts neuroinflammation, blood-brain barrier function, and amyloid-beta metabolism. This is a hypothesis paper, not an empirical human study, synthesizing existing molecular evidence rather than reporting new trial data. The framework suggests exercise-induced myokines and cellular cleanup pathways combine to suppress CTSS activity, potentially preserving brain health.",
-      "why_it_matters": "Women develop Alzheimer's disease at disproportionately higher rates than men, so identifying a specific molecular pathway linking exercise to brain protection may eventually inform personalized prevention strategies for women.",
-      "caveats": "animal or cell study, no sex-disaggregated data, single-center, preprint context (hypothesis/review framework \u2014 no original human data)",
+      "summary": "Researchers at Hunan Normal University proposed a theoretical framework \u2014 the 'Exercise-CTSS-AD Axis' \u2014 suggesting that exercise protects against Alzheimer's disease by suppressing an enzyme called Cathepsin S (CTSS), which is elevated in AD and drives neuroinflammation, blood-brain barrier damage, and amyloid buildup. This is a hypothesis paper synthesizing existing molecular and animal research, not a clinical trial with human participants. The framework posits that exercise-induced myokines and cellular cleanup pathways reduce CTSS activity, potentially preserving brain health across multiple biological targets simultaneously.",
+      "why_it_matters": "For women, who develop Alzheimer's at disproportionately higher rates than men, identifying the molecular mechanism linking exercise to brain protection could eventually support more targeted prevention strategies.",
+      "caveats": "animal or cell study, no sex-disaggregated data, single-center, observational design",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Hypothesis paper only, no human data; Alzheimer's women's angle weak without empirical findings.",
+      "relevance_score_reason": "Relevant women's health topic (AD risk) but hypothesis-only; no human data, no female-specific analysis.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "Scientists Think They've Found the Molecular Reason Exercise Protects Your Brain \u2014 and It Involves a Key Enzyme You've Never Heard Of",
-          "hook": "A new scientific framework suggests exercise may fight Alzheimer's by suppressing a brain-disrupting enzyme called Cathepsin S.",
-          "pitch_angle": "Researchers mapped a molecular chain reaction linking physical activity to brain protection \u2014 centering on an enzyme that fuels inflammation and amyloid buildup. Because women face higher Alzheimer's risk than men, understanding the biological 'why' behind exercise's brain benefits has real stakes for women's long-term health."
+          "publication_type": "Prevention / Well+Good",
+          "headline": "Scientists May Have Found the Molecular Reason Exercise Protects Your Brain From Alzheimer's",
+          "hook": "A new theoretical framework suggests exercise fights Alzheimer's by quieting a single disruptive enzyme \u2014 and could point toward a combo drug-plus-exercise treatment.",
+          "pitch_angle": "Researchers propose that exercise suppresses a lysosomal enzyme called CTSS that drives brain inflammation and amyloid buildup in Alzheimer's disease. While still theoretical and based on animal and cellular evidence, the framework offers a compelling wellness angle: the brain benefits of exercise may be more targeted \u2014 and more manipulable \u2014 than previously thought, especially relevant for women who face higher lifetime Alzheimer's risk."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42463968",
-      "headline": "Two newly identified gene mutations may explain why some women's embryos repeatedly fail to develop \u2014 even with IVF",
+      "headline": "Two little-known genes may explain why some women keep failing IVF \u2014 and their embryos stop developing before anyone knows why",
       "journal": "Journal of Assisted Reproduction and Genetics",
       "pubdate": "2026 Jul 17",
       "doi": "10.1007/s10815-026-03959-2",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers performed whole-exome sequencing on female infertility patients experiencing recurrent IVF/ICSI failure due to early embryonic arrest, identifying novel mutations in two genes \u2014 NLRP2 and NLRP7 \u2014 across affected individuals. Laboratory experiments in HeLa cells confirmed the mutations reduced protein stability and, in some cases, altered protein localization. The findings expand the known genetic causes of embryonic arrest and suggest these mutations could be targets for genetic diagnosis in women experiencing repeated unexplained IVF failure.",
-      "why_it_matters": "For women who have experienced repeated IVF failure without explanation, this early genetic research suggests that mutations in NLRP2 and NLRP7 may one day be testable causes \u2014 potentially opening a path to answers for a frustrating and emotionally costly condition.",
-      "caveats": "small sample (N<100), single-center, observational design, functional validation in cell study (HeLa cells), study population based in China",
+      "summary": "Researchers used whole-exome sequencing in a small group of female infertility patients with recurrent IVF/ICSI failure due to early embryonic arrest, identifying novel mutations in two genes \u2014 NLRP2 and NLRP7 \u2014 not previously linked to these specific variants. Cell-line experiments in HeLa cells confirmed the mutations reduced protein stability and altered protein localization, providing a functional basis for the genetic findings. The study expands the known mutational spectrum of NLRP2 and NLRP7 and suggests these genes could be targets for genetic screening in women with unexplained recurrent embryonic arrest.",
+      "why_it_matters": "For women experiencing repeated IVF failure with no clear explanation, this research suggests that specific inherited gene mutations may be a previously overlooked cause \u2014 potentially opening a path to genetic diagnosis.",
+      "caveats": "small sample (N<100), single-center, partly animal or cell study (HeLa cell functional validation), observational design",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Female-specific fertility finding; small sample and cell-study validation limit score.",
+      "relevance_score_reason": "Female infertility focus, novel genetic finding; small N and cell-line validation limit strength.",
       "pitch_angles": [
         {
-          "publication_type": "Self / Well+Good",
-          "headline": "Scientists Found Two Gene Mutations That May Explain Repeated IVF Failure in Some Women",
-          "hook": "For women who've cycled through IVF repeatedly only to have embryos stop developing early, new genetic research may finally offer a biological explanation.",
-          "pitch_angle": "A study from Shanghai identified novel mutations in two genes, NLRP2 and NLRP7, in women whose embryos consistently arrested before developing normally during IVF \u2014 suggesting that for some patients, the answer to unexplained failure may lie in their DNA. While still early-stage research, the findings point toward potential genetic testing that could give women with recurrent IVF failure a clearer diagnosis."
+          "publication_type": "Self",
+          "headline": "Repeated IVF Failures With No Explanation? Two Newly Identified Gene Mutations Could Be Why",
+          "hook": "For women who've watched embryo after embryo stop developing during IVF with no clear reason, a new genetic study may offer the first clues.",
+          "pitch_angle": "Scientists have identified novel mutations in two genes \u2014 NLRP2 and NLRP7 \u2014 that appear to cause early embryonic arrest, potentially explaining some cases of unexplained recurrent IVF failure in women. The findings are early-stage and based on a small sample, but they point toward a future where genetic screening could give answers to women who currently have none."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Science Is Getting Closer to Explaining the Devastating Mystery of Repeated IVF Failure",
+          "hook": "Recurrent IVF failure is one of the most emotionally devastating experiences in reproductive medicine \u2014 and for many women, there's never been an explanation. New research suggests genes may hold the answer.",
+          "pitch_angle": "A new study finds that mutations in two specific genes \u2014 NLRP2 and NLRP7 \u2014 may prevent embryos from developing past their earliest stages, offering a potential genetic explanation for a subset of women who experience repeated failed IVF cycles. While the research is preliminary and conducted in a small group, it represents a meaningful step toward personalized fertility care."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42469742",
-      "headline": "A bone-growth protein found in blood may be linked to memory problems in early-stage schizophrenia",
+      "headline": "A bone-growth protein in the blood may flag memory problems in early schizophrenia",
       "journal": "BMC Psychiatry",
       "pubdate": "2026 Jul 17",
       "doi": "10.1186/s12888-026-08415-0",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers measured blood levels of bone morphogenetic proteins (BMP2, BMP9, BMP10) in 90 first-episode, drug-na\u00efve patients with schizophrenia and 90 matched healthy controls in China, also assessing cognitive performance. Patients had significantly elevated BMP2 and BMP9 levels compared to controls. Higher BMP2 was significantly associated with poorer delayed memory scores in patients, though the effect was modest, accounting for only 7% of variance.",
-      "why_it_matters": "If replicated in larger studies, identifying a blood-based marker tied to memory deficits in early schizophrenia could open new pathways for earlier cognitive screening, including in women, who often present differently than men.",
-      "caveats": "small sample (N<100 per group), observational design, single-center, cross-sectional, no sex-disaggregated data, regional generalizability limited (single-site China cohort)",
+      "summary": "Researchers measured serum levels of bone morphogenetic proteins (BMP2, BMP9, BMP10) in 90 first-episode, drug-na\u00efve schizophrenia patients and 90 matched healthy controls in China, then assessed cognitive performance using a standard neuropsychological battery. Patients had significantly elevated BMP2 and BMP9 levels. Higher BMP2 was significantly associated with worse delayed memory scores in patients, though it explained only about 7% of variance.",
+      "why_it_matters": "If replicated, BMP2 could offer a simple blood-based signal for early memory deficits in schizophrenia \u2014 a condition that disproportionately disrupts women's lives during peak reproductive years.",
+      "caveats": "small sample (N<100 per group), observational design, single-center, cross-sectional, modest effect size, no sex-disaggregated data, single non-US region (China)",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Hypothesis-generating; small cross-sectional sample; no female-specific analysis; limited generalizability.",
+      "relevance_score_reason": "Hypothesis-generating only; no sex-disaggregated data; small China-only sample limits generalizability.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Scientists Found a Surprising Protein in the Blood That May Signal Memory Problems in Schizophrenia",
-          "hook": "A protein best known for building bone turned up at elevated levels in people newly diagnosed with schizophrenia \u2014 and higher amounts were associated with worse memory.",
-          "pitch_angle": "A small Chinese study found BMP2, a protein involved in bone and brain development, may be a peripheral marker of memory impairment in early schizophrenia. The finding is preliminary but points toward a possible blood-based screening signal for cognitive decline in a condition that often goes undetected."
+          "headline": "Scientists Found a Surprising Blood Marker Linked to Memory Problems in Schizophrenia",
+          "hook": "A protein best known for building bone may also leave a trace in the blood when memory is starting to fail in early schizophrenia.",
+          "pitch_angle": "A small Chinese study found elevated BMP2 levels in newly diagnosed schizophrenia patients who scored worse on delayed memory tests \u2014 an unexpected link between a skeletal growth protein and cognitive health that researchers say warrants much larger follow-up."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42469753",
-      "headline": "A card-sorting tool lets people map their own path to self-harm \u2014 and researchers say it reveals patterns that standard assessments miss",
+      "headline": "A card-sorting tool maps the personal timeline of self-harm \u2014 and could change how clinicians ask about it",
       "journal": "BMC Psychiatry",
       "pubdate": "2026 Jul 17",
       "doi": "10.1186/s12888-026-08377-3",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This paper reviews the development and evolving application of the Card Sort Task for Self-Harm (CaTS), an interactive assessment tool using 117 evidence-informed cards representing thoughts, feelings, events, behaviors, and support factors that participants arrange on a timeline around a self-harm episode. Co-developed with people with lived experience, CaTS is designed to identify both risk and protective factors and the temporal sequence of events leading to and following self-harm. The review (not primary data) summarizes adaptations for diverse populations, delivery formats, and clinical and research settings.",
-      "why_it_matters": "Self-harm rates are significantly higher among adolescent girls and young women, so a person-centered tool that captures individual pathways \u2014 including often-overlooked protective factors \u2014 could meaningfully improve assessment and intervention for this population.",
-      "caveats": "observational design, no primary data reported, review article only",
+      "summary": "This paper reviews the development and application of the Card Sort Task for Self-Harm (CaTS), a structured interactive assessment tool that uses 117 evidence-informed cards representing thoughts, feelings, events, behaviors, and support factors. Participants arrange cards along a timeline before and after a self-harm episode to map individual pathways; blank cards allow personalization. The review is not a primary data study but synthesizes how CaTS has been adapted across varied populations, clinical settings, and research contexts since its creation.",
+      "why_it_matters": "A more personalized, narrative-based tool for understanding self-harm pathways could improve how clinicians and researchers engage with individuals \u2014 including young women, who are disproportionately represented in non-suicidal self-harm statistics.",
+      "caveats": "observational design, no primary data reported, no sex-disaggregated data",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Relevant to women and girls; review article with no primary data limits pitchability.",
+      "relevance_score_reason": "Clinical tool review with no primary data; limited lifestyle hook for target readership.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Self",
-          "headline": "This Card-Sorting Exercise Is Changing How Therapists Understand the Road to Self-Harm",
-          "hook": "Instead of a checklist, a new clinical tool asks people to lay out \u2014 on a timeline, with cards \u2014 exactly what happened before and after they hurt themselves.",
-          "pitch_angle": "The Card Sort Task for Self-Harm lets individuals map their own emotional and situational pathway to self-harm using 117 cards, surfacing the sequential patterns that standard questionnaires often miss. Because self-harm disproportionately affects adolescent girls and young women, the tool's person-centered, non-clinical feel may make it especially useful for populations who disengage from traditional mental health assessments."
+          "publication_type": "General health",
+          "headline": "A New Card-Based Tool Is Changing How Therapists Understand the Road to Self-Harm",
+          "hook": "Instead of a questionnaire, a new clinical tool asks people to lay out their own story using cards \u2014 mapping the feelings, events, and moments that led to self-harm.",
+          "pitch_angle": "The Card Sort Task for Self-Harm lets individuals visually reconstruct their own pathway to a self-harm episode, surfacing factors traditional assessments miss. For a general health audience, this represents a meaningful shift toward person-centered mental health assessment, though the review contains no outcome data yet."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42468292",
-      "headline": "Not all social thinking deficits in psychosis are created equal \u2014 and the differences matter for treatment",
+      "headline": "Not all social brain skills erode equally as psychosis progresses \u2014 and the gap shows up early",
       "journal": "Schizophrenia Research",
       "pubdate": "2026 Jul 17",
       "doi": "10.1016/j.schres.2026.07.010",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers assessed five social cognition domains \u2014 Theory of Mind, Social Perception, Social Knowledge, Emotion Recognition, and Attributional Bias \u2014 across 359 participants at different stages of psychosis risk and illness, from familial high-risk through chronic schizophrenia, using a comprehensive battery. Only Theory of Mind and Social Knowledge showed a staged, progressive pattern of impairment across the psychosis spectrum, while the other three domains did not follow this trajectory. Better Theory of Mind and Social Knowledge performance was linked to better daily functioning and fewer negative symptoms.",
-      "why_it_matters": "Understanding which social thinking skills deteriorate progressively versus which remain relatively stable across psychosis stages could help prioritize early intervention targets for the many women affected by schizophrenia spectrum disorders.",
-      "caveats": "observational design, cross-sectional design, no sex-disaggregated data, single-center, study population limited to Turkey",
+      "summary": "Researchers administered a comprehensive social cognition battery to 359 participants across the psychosis spectrum \u2014 from familial high-risk through chronic schizophrenia \u2014 plus 86 healthy controls in Turkey. Only Theory of Mind (ToM) and Social Knowledge showed a statistically significant stage-ordered pattern of decline across the psychosis spectrum, while social perception, emotion recognition, and attributional bias did not follow a staging pattern. Better ToM performance correlated with better day-to-day functioning and fewer negative symptoms.",
+      "why_it_matters": "Understanding which social cognition skills decline in a stage-ordered way could help clinicians target earlier interventions for women at high familial risk of psychosis, when functional preservation is most possible.",
+      "caveats": "observational design, cross-sectional, small subgroup sizes, no sex-disaggregated data, single-center (Turkey)",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Clinically useful finding but cross-sectional, no sex-disaggregated data, limited generalizability.",
+      "relevance_score_reason": "Interesting psychosis staging finding but no female-specific analysis and cross-sectional design limits conclusions.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Scientists Find That Only Two of Five 'Social Brain' Skills Decline Progressively in Psychosis \u2014 The Others Stay Surprisingly Flat",
-          "hook": "A new study challenges the assumption that social thinking erodes uniformly as psychosis progresses \u2014 and the finding could reshape how early intervention is targeted.",
-          "pitch_angle": "Researchers mapped five social cognition skills across the full arc of psychosis risk and found that most don't follow a neat downward trajectory \u2014 only the ability to infer others' mental states and apply social knowledge worsens in a stage-ordered way. The discovery suggests treatment programs may be over-targeting skills that aren't actually declining while under-prioritizing the ones that are."
+          "headline": "Scientists Mapped How Psychosis Erodes Social Skills \u2014 and the Pattern Is More Uneven Than Expected",
+          "hook": "Of five key social-brain abilities, only the capacity to understand others' mental states deteriorates in a clear step-by-step pattern as psychosis advances.",
+          "pitch_angle": "A Turkish staging study suggests that 'reading minds' is the social skill most vulnerable to the early-to-chronic progression of psychosis, while other abilities like reading emotions stay relatively flat \u2014 a finding that could reshape how clinicians screen and support people at risk."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42461275",
-      "headline": "Liver biopsy may soon be replaceable: a new review maps how MRI and ultrasound tools are catching up on fatty liver disease diagnosis",
+      "headline": "MRI-based imaging is closing in on replacing liver biopsy for fatty liver disease \u2014 here's where the science stands",
       "journal": "Diabetologia",
       "pubdate": "2026 Jul 16",
       "doi": "10.1007/s00125-026-06799-y",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "German researchers published a comprehensive review summarizing established and emerging non-invasive imaging techniques for diagnosing and staging metabolic dysfunction-associated steatotic liver disease (MASLD, formerly known as NAFLD), covering ultrasound, MRI, CT, and nuclear imaging modalities. The review highlights that MRI-derived fat fraction measurement and magnetic resonance elastography currently offer the highest non-invasive accuracy for detecting liver fat and fibrosis respectively, while standard ultrasound \u2014 the most commonly used tool \u2014 lacks sensitivity for mild cases. No original patient data were collected; this is a narrative review intended to guide clinical and research practice.",
-      "why_it_matters": "MASLD disproportionately affects women with metabolic syndrome, PCOS, and those in menopause, making better non-invasive diagnostic tools especially relevant for catching liver disease earlier in women who may otherwise be underscreened.",
-      "caveats": "observational design, no original human data (narrative review), no sex-disaggregated data",
+      "summary": "This review summarizes established and emerging non-invasive imaging techniques for diagnosing and staging metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as NAFLD. It covers conventional ultrasound, quantitative ultrasound, CT, MRI-derived fat fraction, and magnetic resonance elastography, evaluating each for sensitivity, specificity, and practical availability. The authors conclude that MRI-based methods offer the highest accuracy for both fat quantification and fibrosis staging but remain limited by cost and access, while novel molecular imaging tracers hold future promise.",
+      "why_it_matters": "MASLD disproportionately affects women with conditions like PCOS, obesity, and metabolic syndrome, and progress toward non-invasive diagnosis could spare many from invasive liver biopsies.",
+      "caveats": "narrative review, no sex-disaggregated data, no primary data reported",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Review only, no new data; relevant MASLD-women's health connection present but indirect.",
+      "relevance_score_reason": "Technical imaging review; no female-specific data, limited direct lifestyle hook.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention",
-          "headline": "Could an MRI Replace a Liver Biopsy? New Research Says We're Getting Close",
-          "hook": "A new review finds that advanced MRI techniques can now detect and stage fatty liver disease with accuracy that rivals the invasive gold standard \u2014 a biopsy.",
-          "pitch_angle": "Fatty liver disease is rising among women, particularly those with PCOS or metabolic syndrome, and catching it early without invasive procedures matters; this review suggests imaging technology is nearly ready to do that job. For Prevention readers, the angle is the convergence of metabolic health and accessible diagnostics."
+          "publication_type": "General health",
+          "headline": "Could an MRI Replace a Liver Biopsy? New Imaging Tech Is Getting Close",
+          "hook": "A new review of liver imaging technology finds that MRI can now detect fatty liver disease with high accuracy \u2014 and may soon make needle biopsies obsolete.",
+          "pitch_angle": "For the millions of women living with MASLD \u2014 a condition linked to PCOS, obesity, and type 2 diabetes \u2014 advances in non-invasive imaging could transform how the disease is diagnosed and monitored. Researchers outline how MRI-based approaches are closing the gap on biopsy accuracy without the procedural risk."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42464183",
-      "headline": "New fathers and mothers report nearly identical levels of psychological distress \u2014 but different factors drive it",
+      "headline": "New-parent mental health looks similar for migrant moms and dads on the surface \u2014 but the stressors driving it are completely different",
       "journal": "BMC Psychiatry",
       "pubdate": "2026 Jul 16",
       "doi": "10.1186/s12888-026-08382-6",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a cross-sectional analysis of 978 first-time migrant fathers and 731 first-time migrant mothers in China, all with children aged three years or younger, using the Kessler Psychological Distress Scale. Despite similar overall distress scores, the factors predicting distress differed by gender: unemployment, lower social acceptance, and higher income were linked to greater distress in fathers, while having a toddler aged one to two years (versus an infant under one) was associated with more distress in mothers. Spending time with children, higher subjective socioeconomic status, and willingness to socially integrate were protective for both parents.",
-      "why_it_matters": "Understanding that new mothers' psychological distress may peak during the toddler years \u2014 not just the newborn period \u2014 could reshape how postpartum mental health support is timed and targeted for women.",
-      "caveats": "observational design, cross-sectional design, self-reported outcomes, single-country (China), secondary analysis, finding is tied to a single non-US region's specific migration and social policy context",
+      "summary": "Researchers analyzed survey data from 978 migrant fathers and 731 migrant mothers of children aged three or younger in China to identify factors associated with psychological distress in first-time parents. Overall distress levels were similar between mothers and fathers, but the drivers diverged: unemployment and lower income were more strongly linked to distress in fathers, while mothers showed heightened distress specifically when their child was aged one to two years \u2014 a period of intensified caregiving demands. Both parents benefited from higher perceived social status, social integration, and spending time with their child.",
+      "why_it_matters": "Understanding that first-time migrant mothers face a distinct and particularly vulnerable window of psychological risk \u2014 around the child's first and second year \u2014 could help target mental health support for an underserved population of women.",
+      "caveats": "observational design, cross-sectional design, self-reported outcomes, secondary analysis, findings tied to Chinese internal migrant population \u2014 generalizability to US/global context uncertain",
       "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant perinatal mental health angle, but China-specific migration context limits US generalizability.",
+      "relevance_score": 5,
+      "relevance_score_reason": "New-parent mental health angle relevant; China-specific migrant context limits US generalizability.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Self",
-          "headline": "The Mental Health Crisis for New Moms May Actually Peak When Your Baby Becomes a Toddler",
-          "hook": "New research suggests mothers' psychological distress doesn't ease after the newborn phase \u2014 it may spike again when kids hit ages one and two.",
-          "pitch_angle": "A study of over 700 first-time mothers found that distress was significantly higher among those with toddlers than those with infants, challenging the assumption that postpartum mental health risk fades after the first few months. The finding suggests that wellness support for new mothers may need to extend well beyond the first year."
+          "publication_type": "Self / Well+Good",
+          "headline": "The Mental Health Tipping Point for New Moms Hits Later Than You Think \u2014 Around Year One and Two",
+          "hook": "A study of first-time parents found that migrant mothers' psychological distress peaked when their child was one to two years old \u2014 not in the newborn phase.",
+          "pitch_angle": "While postpartum mental health attention typically focuses on the first weeks after birth, this research suggests mothers may face a second wave of psychological strain when toddlerhood demands ramp up and newborn-era support fades. The study was conducted among internal migrants in China, so US applicability is limited, but the finding aligns with emerging evidence that postpartum mental health risks extend well past the first year \u2014 a concern this journalist has flagged as underreported."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42463903",
-      "headline": "The largest whole-genome study of autism in Chinese families just identified dozens of risk genes science had never linked to the condition before",
+      "headline": "Largest whole-genome study of autism in Chinese families uncovers 32 previously unknown risk genes",
       "journal": "Molecular Psychiatry",
       "pubdate": "2026 Jul 16",
       "doi": "10.1038/s41380-026-03754-6",
       "groundbreaking": "First-in-class human study / Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted whole-genome sequencing of 3,109 samples from 1,033 Chinese autism spectrum disorder (ASD) families, identifying rare ASD-associated variants in 19.2% of affected individuals and nominating several novel candidate risk genes. By integrating data from over 40,000 ASD cases globally, the team identified 245 ASD risk genes, including 32 with no prior association to the condition. Single-cell transcriptomic profiling suggested ASD risk genes are expressed broadly but peak in excitatory neurons and microglia, implicating both synaptic and neuroimmune mechanisms.",
-      "why_it_matters": "Because autism genomics has been heavily skewed toward European populations, this East Asian cohort fills a critical gap that affects diagnostic accuracy and risk counseling for millions of families globally \u2014 including the many women who receive late or missed ASD diagnoses.",
-      "caveats": "no sex-disaggregated data, study population limited to Chinese families (findings may not fully generalize to other ancestries), observational design",
+      "summary": "Researchers conducted whole-genome sequencing of 3,109 samples from 1,033 Chinese autism spectrum disorder (ASD) families and integrated data from over 40,000 ASD cases globally to map the genetic architecture of ASD in an East Asian population. The study identified rare ASD-associated variants in 19.2% of affected individuals and nominated 245 ASD risk genes \u2014 including 32 with no prior association and 45 with limited prior evidence. Single-cell transcriptomic profiling pointed to convergent roles for excitatory neurons and microglia, implicating both synaptic and neuroimmune mechanisms.",
+      "why_it_matters": "Most autism genetics research has focused on European-ancestry populations; this large East Asian cohort fills a critical representation gap that affects diagnostic accuracy and risk counseling for families worldwide.",
+      "caveats": "no sex-disaggregated data, single non-US/non-multinational region for primary cohort (China) \u2014 though global integration partially offsets this",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Large, well-designed genomic study; limited women's health angle and no sex-disaggregated data.",
+      "relevance_score_reason": "Large, methodologically strong genomics study; limited women's health hook; no sex-disaggregated data.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Scientists Just Found 32 Genes Linked to Autism That Were Never on the Radar Before \u2014 Using the Largest Chinese ASD Genome Study Ever",
-          "hook": "A whole-genome analysis of over 1,000 Chinese autism families uncovered dozens of risk genes science had never connected to the condition, reshaping what we know about autism's genetic roots.",
-          "pitch_angle": "Because most autism genomics research has focused on European populations, risk factors specific to East Asian families have been systematically missed \u2014 a gap that affects genetic counseling and early diagnosis for hundreds of millions of people. This study's discovery of 32 previously unknown ASD risk genes suggests the genetic map of autism is far from complete, with implications for women who are already underdiagnosed with ASD at disproportionate rates."
+          "headline": "Scientists Just Found 32 New Autism Risk Genes \u2014 and They Were Hidden in an Understudied Population",
+          "hook": "The largest whole-genome study of autism in Chinese families has uncovered dozens of risk genes that existing research \u2014 overwhelmingly conducted in European-ancestry populations \u2014 had completely missed.",
+          "pitch_angle": "By sequencing over 1,000 Chinese autism families and cross-referencing 40,000 global cases, researchers identified 32 brand-new autism risk genes, suggesting that the genetic map of ASD looks different depending on ancestry \u2014 a finding with real implications for how diverse families receive genetic counseling and diagnosis."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42461601",
+      "headline": "Quantum computing is coming for your diet \u2014 but experts say it's not ready yet",
+      "journal": "Critical Reviews in Food Science and Nutrition",
+      "pubdate": "2026 Jul 16",
+      "doi": "10.1080/10408398.2026.2691231",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a scoping review of 58 articles examining quantum sensing and quantum computing applications in food and nutrition science, drawing from six major databases up to August 2024. Quantum dots showed high sensitivity for detecting nutrients and food quality markers including vitamins and antioxidants, while quantum-inspired algorithms are being developed for personalized nutrition optimization. However, the review found that practical benefits over classical computing methods remain marginal, with challenges including material toxicity and limited integration with existing tools.",
+      "why_it_matters": "Emerging quantum-powered nutrition tools could eventually enable far more precise personalized dietary recommendations for women, though meaningful clinical applications remain years away.",
+      "caveats": "no sex-disaggregated data, preprint, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Futuristic tech hook but no female-specific data, very early-stage science.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Quantum Computing Wants to Personalize Your Nutrition \u2014 But Scientists Say Pump the Brakes",
+          "hook": "The same technology behind next-generation computing is being tested to optimize your diet \u2014 and early results are promising but far from ready.",
+          "pitch_angle": "A new scoping review finds quantum sensing can detect vitamins and antioxidants in food with high precision, and quantum algorithms are being designed for personalized nutrition \u2014 but researchers caution the real-world benefits over current methods are still minimal."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42463794",
+      "headline": "THC dampens brain activity during emotion regulation in people with PTSD \u2014 but surprisingly doesn't change how they say they feel",
+      "journal": "Neuropsychopharmacology",
+      "pubdate": "2026 Jul 16",
+      "doi": "10.1038/s41386-026-02502-2",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a randomized, double-blind, placebo-controlled fMRI study, 37 adults with PTSD received either a placebo or a single oral dose of 5 mg or 10 mg of synthetic THC (dronabinol) before completing a cognitive reappraisal task. Both THC doses were associated with dose-dependent reductions in prefrontal and parietal brain activation during attempts to regulate negative emotions, with the higher dose producing broader suppression. Despite these measurable brain changes, participants' self-reported negative affect during and after the task did not differ meaningfully by dose, suggesting a dissociation between neural and subjective emotional experience.",
+      "why_it_matters": "For women with PTSD \u2014 who are diagnosed at roughly twice the rate of men \u2014 the finding that cannabis compounds may alter the brain's emotion-regulation circuitry without subjectively feeling different raises important questions about how THC affects recovery and treatment outcomes.",
+      "caveats": "small sample (N<100), no sex-disaggregated data, short follow-up, single oral dose design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "PTSD highly relevant to women; RCT design; very small N and no sex-disaggregated data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "THC Changes Your Brain's Emotion Processing When You Have PTSD \u2014 Even When You Don't Feel Any Different",
+          "hook": "A small but rigorously designed study found that a single oral THC dose suppressed the brain circuits people with PTSD rely on to regulate emotions \u2014 yet participants reported no change in how they felt.",
+          "pitch_angle": "Researchers using fMRI found that THC reduced recruitment of prefrontal brain regions during emotion regulation in adults with PTSD in a dose-dependent way, but that reduction wasn't reflected in participants' own reports of their emotional state \u2014 a striking disconnect that suggests the brain and subjective experience of cannabis use may not always align. For the many women living with PTSD who are turning to cannabis for symptom relief, this early evidence raises questions worth discussing with a provider."
+        },
+        {
+          "publication_type": "Self",
+          "headline": "Using Weed for PTSD? New Brain Imaging Research Shows It May Be Doing More \u2014 and Less \u2014 Than You Think",
+          "hook": "THC measurably suppressed key brain circuits involved in emotion regulation in people with PTSD, yet didn't change how those same people said they felt \u2014 pointing to a gap between neural and perceived effects.",
+          "pitch_angle": "A small randomized controlled trial found a dose-dependent disconnect between what THC does to the brain and what it does to self-reported mood in adults with PTSD, suggesting the compound may be altering emotional processing in ways that aren't consciously perceptible. Given that women are disproportionately diagnosed with PTSD, the findings \u2014 while preliminary \u2014 add nuance to the growing conversation about cannabis as a mental health tool."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "41790746",
-      "headline": "Most pregnant women with Graves' disease stop antithyroid drugs by the second trimester \u2014 but treatment decisions vary widely",
+      "headline": "Most pregnant women with Graves' disease in Denmark are getting their thyroid drug switched before conception \u2014 and doctors are still figuring out the optimal approach",
       "journal": "The Journal of Clinical Endocrinology and Metabolism",
       "pubdate": "2026 Jul 15",
       "doi": "10.1210/clinem/dgag099",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "groundbreaking": "First-in-class human study",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "The Danish PRETHYR multicenter study enrolled 121 pregnant women with Graves' disease or antithyroid drug (ATD) use during pregnancy, making it the first multicenter study of its kind in Denmark. Researchers reviewed medical records and questionnaires to map treatment practices, finding that 58.8% of women with known preconception thyroid disease received ATDs during pregnancy, mostly limited to the first trimester. The study also found that the majority of women on methimazole were switched to propylthiouracil before conception, consistent with guidelines to minimize fetal risk in early pregnancy.",
-      "why_it_matters": "For the estimated 1\u20132% of pregnant women with hyperthyroidism, this study suggests treatment practices are highly variable even within a well-resourced healthcare system \u2014 a signal that clearer clinical protocols are needed to protect both mother and baby.",
-      "caveats": "small sample (N<100 treated with ATDs), single-center region (Denmark), observational design, self-reported outcomes (questionnaires)",
+      "summary": "The Danish PRETHYR multicenter study enrolled 121 pregnant women with Graves' disease or antithyroid drug (ATD) use during pregnancy and documented real-world treatment practices across multiple Danish endocrinology centers. Among 102 women with known thyroid disease prior to conception, 58.8% received ATDs during pregnancy; the majority had treatment confined to the first trimester and discontinued by the second. Before conception, 59.1% of women on methimazole were switched to propylthiouracil, reflecting guideline-driven practice to reduce fetal risk in early pregnancy.",
+      "why_it_matters": "For the many women with Graves' disease who become pregnant, this first multicenter snapshot reveals how complex and variable thyroid drug management during pregnancy remains in clinical practice \u2014 a gap that directly affects maternal and fetal outcomes.",
+      "caveats": "small sample (N<100 for treated subgroup analysis), observational design, single-country (Denmark) \u2014 findings may reflect Danish healthcare system practices not fully generalizable to US clinical context, self-reported outcomes (questionnaire component)",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Pregnancy thyroid health is highly relevant; Danish-only context limits US generalizability.",
+      "relevance_score_reason": "Reproductive health and thyroid in pregnancy; limited by small N and Danish-only context.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention",
-          "headline": "If You Have a Thyroid Condition and Want to Get Pregnant, Here's What You Need to Know About Your Medication",
-          "hook": "A new study finds that how doctors manage hyperthyroidism during pregnancy varies significantly \u2014 and the timing of medication changes before conception may matter more than previously understood.",
-          "pitch_angle": "Women with Graves' disease face a narrow window to adjust thyroid medications before and during pregnancy to protect fetal development, yet this study shows treatment practices are inconsistent even in specialized care. Experts say the findings underscore why women with thyroid conditions should discuss medication plans with their doctor well before trying to conceive."
+          "publication_type": "Women's Health Magazine",
+          "headline": "If You Have Graves' Disease and Want to Get Pregnant, Your Thyroid Medication May Need to Change \u2014 Here's Why",
+          "hook": "A new multicenter study finds that most women with Graves' disease are switched to a different thyroid drug before or during early pregnancy \u2014 a nuanced clinical balancing act that affects both mother and baby.",
+          "pitch_angle": "The first report from Denmark's PRETHYR study documents how physicians manage hyperthyroidism during pregnancy, finding that drug-switching is common and treatment is often stopped by the second trimester. The findings highlight how little standardized guidance exists for one of the more common thyroid conditions affecting women of reproductive age."
+        },
+        {
+          "publication_type": "Self",
+          "headline": "Graves' Disease During Pregnancy Is More Complicated Than Most People Realize",
+          "hook": "A new study tracking over 120 pregnant women with Graves' disease reveals a patchwork of medication switches, stops, and restarts \u2014 reflecting how uncertain thyroid management in pregnancy still is.",
+          "pitch_angle": "Researchers found wide variation in how antithyroid drugs are used during pregnancy, with most women having treatment stopped by the second trimester and many switched between drug types before conceiving. For women with Graves' disease planning a pregnancy, the study underscores the importance of preconception endocrinology care."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42132232",
-      "headline": "Diabetes drugs may slow aging itself \u2014 not just blood sugar",
+      "headline": "Diabetes drugs taken by millions may also slow the biology of aging \u2014 but most evidence is still from animal studies",
       "journal": "The Journal of Clinical Endocrinology and Metabolism",
       "pubdate": "2026 Jul 15",
       "doi": "10.1210/clinem/dgag207",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This review summarizes preclinical and clinical evidence on SGLT2 inhibitors \u2014 a class of diabetes medications \u2014 and their potential effects on fundamental aging biology. Researchers found that beyond lowering blood sugar and protecting the heart and kidneys, these drugs appear to mimic caloric restriction, reduce cellular senescence, improve mitochondrial function, and attenuate systemic inflammation. Animal studies show lifespan extension, and emerging evidence suggests these drugs may have senotherapeutic \u2014 or even senolytic \u2014 properties.",
-      "why_it_matters": "If SGLT2 inhibitors prove to target core aging pathways in humans, women across life stages \u2014 particularly those managing diabetes, heart disease, or chronic kidney disease \u2014 could face expanded treatment conversations well beyond glucose control.",
-      "caveats": "animal or cell study, no sex-disaggregated data, review article (not primary research), single-center",
+      "summary": "This review from Japanese researchers synthesizes preclinical and clinical evidence suggesting that SGLT2 inhibitors \u2014 a class of diabetes and heart failure drugs \u2014 may exert antiaging effects beyond glucose control. Mechanistically, the drugs appear to mimic caloric restriction, reduce inflammation, improve mitochondrial function, and lower the burden of senescent cells. Most lifespan-extension evidence comes from animal models, with human data limited to cardiorenal outcomes from large clinical trials.",
+      "why_it_matters": "SGLT2 inhibitors are increasingly prescribed to women for diabetes and heart failure, and this review raises the possibility that these drugs may also influence aging biology \u2014 though human antiaging evidence remains preliminary.",
+      "caveats": "no sex-disaggregated data, review article (not primary research), majority of mechanistic evidence from animal or cell studies, no female-specific analysis reported",
       "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting aging hook but review-based, animal-heavy, no female-specific data.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting aging hook but review-only; no sex-disaggregated data.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "Your Diabetes Medication Might Also Be an Anti-Aging Drug",
-          "hook": "Scientists are finding that a common class of diabetes drugs may do something no one expected: slow down the aging process itself.",
-          "pitch_angle": "SGLT2 inhibitors, already known for heart and kidney protection, now show early evidence of targeting cellular senescence \u2014 a root driver of aging. While research is mostly in animals so far, the finding opens a conversation about drugs that could one day extend healthy years for women managing chronic conditions."
+          "publication_type": "Prevention",
+          "headline": "A Common Diabetes Drug Might Also Slow Aging \u2014 What the Emerging Science Actually Shows",
+          "hook": "SGLT2 inhibitors, already prescribed for diabetes and heart failure, may reduce the accumulation of aging cells in the body \u2014 a finding researchers are calling unexpected.",
+          "pitch_angle": "A new review synthesizes growing evidence that SGLT2 inhibitors mimic the cellular effects of caloric restriction and reduce senescent cell burden, suggesting they may do more than control blood sugar. Most strong evidence is still from animal studies, and no sex-disaggregated human data exist yet \u2014 but for women managing diabetes or heart failure, the findings add a new dimension to watch."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42449562",
-      "headline": "AI paired with metabolic imaging of eggs and embryos could make IVF selection smarter \u2014 no genetic testing required",
+      "headline": "AI paired with label-free metabolic imaging of eggs and embryos could transform IVF success rates without extra genetic testing",
       "journal": "Human Reproduction",
       "pubdate": "2026 Jul 15",
       "doi": "10.1093/humrep/deag114",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This invited mini-review synthesizes evidence on label-free metabolic imaging \u2014 which measures natural fluorescent signals from eggs, embryos, and sperm as proxies for cellular energy and mitochondrial health \u2014 as a non-invasive alternative to current embryo selection methods. Researchers reviewed studies using advanced microscopy techniques including fluorescence lifetime imaging and hyperspectral microscopy across human reproductive cells. The review suggests that pairing these metabolic 'fingerprints' with AI could enable automated, objective ranking of embryos during IVF without the need for invasive genetic testing.",
-      "why_it_matters": "For the roughly one in six people globally facing infertility, a non-invasive AI-assisted way to assess egg and embryo quality could improve IVF success rates and reduce reliance on costly genetic testing.",
-      "caveats": "review article (not primary data), no sex-disaggregated data, no clinical trial results reported",
+      "summary": "This invited mini-review synthesizes emerging evidence on label-free metabolic imaging \u2014 using naturally occurring fluorescent molecules in cells as proxies for energy metabolism \u2014 as a non-invasive tool to assess egg, sperm, and embryo quality in assisted reproduction. Researchers from Australia and the US reviewed studies using advanced microscopy techniques including fluorescence lifetime imaging and hyperspectral microscopy, and outline how AI could automate interpretation of complex metabolic data for embryo ranking. The review notes that metabolic signatures have been linked to reproductive aging, developmental potential, and embryo chromosomal status.",
+      "why_it_matters": "For women undergoing IVF, a non-invasive way to assess embryo quality could reduce reliance on costly or invasive genetic testing and potentially improve the selection of embryos most likely to lead to a healthy pregnancy.",
+      "caveats": "review article (not primary data), no sample size, no sex-disaggregated outcome data, findings not yet validated in large clinical trials, AI applications are prospective/theoretical at this stage",
       "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Strong fertility hook, novel AI angle, but review not primary data.",
+      "relevance_score": 6,
+      "relevance_score_reason": "IVF and fertility relevance for women, AI hook strong; but review article, no primary data.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good / Self",
-          "headline": "IVF May Get Smarter: AI Could Soon Read Your Embryos' 'Energy Signature' Without Invasive Testing",
-          "hook": "A new review suggests AI paired with light-based microscopy could assess embryo quality by reading its metabolic 'fingerprint' \u2014 no needle required.",
-          "pitch_angle": "Researchers found that eggs and embryos emit natural fluorescent signals that reflect their energy health, and AI could learn to interpret those signals to rank embryos during IVF. For women navigating fertility treatment, this early-stage technology suggests a future where embryo selection is both less invasive and more precise."
+          "headline": "IVF Could Soon Use AI to 'Read' an Embryo's Energy Signature \u2014 No Genetic Testing Required",
+          "hook": "Scientists suggest that AI trained on a cell's natural fluorescent glow could rank embryos for IVF without a single needle or genetic test.",
+          "pitch_angle": "A new review outlines how advanced microscopy can detect metabolic activity inside eggs and embryos as a marker of their developmental potential \u2014 and how AI could make this analysis fast enough to use in a real clinic. For the millions of women navigating IVF, the promise of a non-invasive embryo quality check is a significant development to watch."
         },
         {
-          "publication_type": "Women's Health Magazine",
-          "headline": "The Future of IVF Could Be a Light-Based AI Scan That Reads Your Embryos' Health",
-          "hook": "Instead of biopsying embryos to test their DNA, scientists are working on a way to assess their quality simply by shining a light on them \u2014 and letting AI do the reading.",
-          "pitch_angle": "A review of emerging microscopy research finds that embryos give off measurable metabolic signals that correlate with developmental potential, and AI could translate those signals into clinical decisions. It's early-stage science, but it points toward IVF workflows that are cheaper, faster, and gentler on embryos."
+          "publication_type": "Prevention",
+          "headline": "Could a Light-Based Scan Replace Invasive Embryo Testing for IVF Patients?",
+          "hook": "Researchers say the way an embryo uses energy \u2014 visible under a special microscope \u2014 may predict its odds of becoming a healthy pregnancy.",
+          "pitch_angle": "Preimplantation genetic testing is expensive, invasive, and not always conclusive; early evidence suggests metabolic imaging may offer a complementary, non-invasive alternative. For older women or those with diminished ovarian reserve, better embryo selection tools could meaningfully change IVF outcomes."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42444565",
-      "headline": "A simple picture posted at a NICU bassinet could prevent life-threatening mix-ups for vulnerable newborns",
+      "headline": "A simple picture next to a NICU baby's bed could prevent dangerous mix-up errors",
       "journal": "Journal of Perinatal Medicine",
       "pubdate": "2026 Jul 15",
       "doi": "10.1515/jpm-2026-0027",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers tested whether caregiver-selected pictographs \u2014 small images uploaded into electronic health records and displayed at the bedside \u2014 could feasibly reduce wrong-patient errors in NICUs, as part of a multicenter RCT. The feasibility phase was conducted at two hospital sites; caregivers of NICU infants selected and posted pictographs for their babies. The vast majority of caregivers participated, and clinicians recognized the images as a useful visual cue, especially for multiple-birth infants.",
+      "why_it_matters": "For parents of NICU infants \u2014 especially those with multiples \u2014 this finding suggests a low-tech, low-cost tool may add a meaningful layer of safety during a vulnerable period.",
+      "caveats": "small sample (N<100), single feasibility phase only, short follow-up, effectiveness not yet demonstrated",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Postpartum/NICU safety angle; feasibility only, no outcome data yet.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "NICU Nurses Are Trying a Surprisingly Simple Fix to Keep Your Baby Safe From Mix-Up Errors",
+          "hook": "A small picture taped to a NICU incubator might be one of the most effective patient-safety tools hospitals have tried in years.",
+          "pitch_angle": "Wrong-patient errors in NICUs \u2014 from medications to breast milk \u2014 are a real and underreported risk, especially for twins and multiples. A new multicenter trial is testing whether letting parents choose a personal pictograph for their baby can prevent these errors, and early feasibility results suggest families and clinicians are on board."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42457127",
+      "headline": "Surgeons demonstrate a new transvaginal approach to inguinal hernia repair that avoids abdominal incisions",
+      "journal": "Journal of Minimally Invasive Gynecology",
+      "pubdate": "2026 Jul 15",
+      "doi": "10.1016/j.jmig.2026.07.011",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at two US hospital NICUs tested whether pictographs \u2014 caregiver-selected images uploaded into the electronic health record and displayed at the bedside \u2014 were feasible and acceptable as visual identifiers for newborns at risk of wrong-patient errors. The feasibility phase of a multicenter RCT found that the vast majority of caregivers selected a pictograph for their infant, and clinicians recognized its potential to reduce order errors especially for multiple-birth infants. The study reports acceptability findings only; effectiveness data from the full RCT are pending.",
-      "why_it_matters": "Wrong-patient errors in the NICU can result in serious harm to newborns, and this low-tech intervention \u2014 chosen by the parents themselves \u2014 could give new mothers a direct role in protecting their babies' safety.",
-      "caveats": "small sample (N<100 inferred from two-site feasibility phase), single-center context (two sites only), short follow-up, feasibility phase only \u2014 effectiveness not yet established",
+      "summary": "This proof-of-concept surgical video article describes a novel transvaginal extraperitoneal approach (vTEP) to inguinal hernia repair, developed by gynecological surgeons in Belgium and Sweden. The technique uses the vaginal canal as the access point, avoiding external abdominal incisions. No patient outcome data or sample size is reported \u2014 this is a procedural demonstration only.",
+      "why_it_matters": "Inguinal hernias are underdiagnosed in women and often repaired using techniques developed for male anatomy; a vaginal-access approach could offer a less invasive, female-specific surgical option.",
+      "caveats": "proof-of-concept only, no patient outcome data, no sample size, no sex-disaggregated data on outcomes, single-center, industry advisory relationships disclosed by some authors",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Novel female-specific surgical approach but no outcome data; proof-of-concept only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Surgeons Are Rethinking How to Repair Inguinal Hernias in Women \u2014 Starting With a Completely New Entry Point",
+          "hook": "A new surgical technique repairs inguinal hernias through the vaginal canal, potentially eliminating abdominal incisions for women.",
+          "pitch_angle": "Inguinal hernias are far more common in women than many realize, yet surgical repairs have historically been designed around male anatomy. This early-stage technique suggests a female-specific approach may be on the horizon \u2014 though rigorous outcome studies are still needed."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42456612",
+      "headline": "First Nations mothers in remote Australia face a stillbirth grief system that doesn't speak their language \u2014 literally or culturally",
+      "journal": "Women and Birth: Journal of the Australian College of Midwives",
+      "pubdate": "2026 Jul 15",
+      "doi": "10.1016/j.wombi.2026.102242",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using qualitative yarning methodology \u2014 a culturally grounded conversational interview approach \u2014 researchers conducted one-on-one and group interviews with 33 participants (28 health professionals, 5 community members, most identifying as First Nations) in Cape York, Australia, to document experiences of stillbirth among First Nations families. The study explored historical trauma, cultural ceremony, language of loss, grief journeys, and support structures specific to these communities. Findings revealed that historical healthcare inequities, cultural ceremony and family connection, and inadequate culturally responsive grief support all profoundly shape how stillbirth is experienced and processed in these communities.",
+      "why_it_matters": "First Nations women in Australia experience disproportionately high rates of stillbirth, and this study suggests that culturally inappropriate bereavement care may compound that trauma \u2014 highlighting an urgent gap in equitable maternal health support.",
+      "caveats": "small sample (N<100), qualitative design, single-region (Cape York, Australia), findings specific to First Nations Australian context and unlikely to generalize directly to US readership",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Meaningful maternal health equity finding but geographically and culturally specific to Australia.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Stillbirth Grief Looks Different for Every Culture \u2014 and Health Systems Are Failing to Keep Up",
+          "hook": "For First Nations mothers in remote Australia, the loss of a baby \u2014 called a 'Sorry Business Baby' \u2014 is processed through ceremony, community, and deep spiritual tradition that Western hospital systems often ignore.",
+          "pitch_angle": "A new qualitative study reveals that culturally disconnected bereavement care after stillbirth can deepen grief for First Nations families, underscoring why one-size-fits-all maternal loss support fails the communities most in need \u2014 and what truly culturally responsive care could look like."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42462083",
+      "headline": "Skin-to-skin care is safe for extremely premature babies in the first week \u2014 even with central lines in place",
+      "journal": "Advances in Neonatal Care",
+      "pubdate": "2026 Jul 15",
+      "doi": "10.1097/ANC.0000000000001388",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a prospective observational secondary analysis of 70 extremely preterm infants (mean gestational age 26 weeks) in a Spanish Level IIIC NICU, measuring axillary temperature at five time points across 285 kangaroo mother care (KMC) sessions in the first five days of life. Infants maintained normal body temperature (mean 36.83\u00b0C) at 60 minutes into KMC sessions, with a slight dip during the first session that reversed in subsequent ones. No environmental variables were associated with temperature stability, and infants with central lines were included without adverse thermal outcomes.",
+      "why_it_matters": "For parents of extremely premature infants, this study suggests that early skin-to-skin contact \u2014 even in the first days of life and with medical equipment in place \u2014 appears safe for maintaining body temperature, potentially reducing one of the key clinical barriers to early bonding.",
+      "caveats": "small sample (N<100), single-center, secondary analysis, observational design, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Meaningful maternal and infant health finding; small secondary analysis limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Well+Good / parenting-adjacent health outlets",
+          "headline": "Even the Tiniest Premature Babies Can Safely Do Skin-to-Skin in Their First Week",
+          "hook": "New research found that babies born as early as 24 weeks maintained healthy body temperatures during skin-to-skin contact in the first five days of life \u2014 even with IV lines still in place.",
+          "pitch_angle": "Spanish NICU researchers tracked temperature in 70 extremely premature babies during early kangaroo care and found the practice kept infants warm and stable, challenging the clinical hesitancy that sometimes delays parent-infant contact for the most fragile newborns. The findings add to growing evidence that early bonding doesn't have to wait \u2014 and may support mothers recovering from very preterm births who want to connect with their babies sooner."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42084920",
+      "headline": "Recovery from gambling disorder isn't just about stopping \u2014 it can end in post-traumatic growth, new model finds",
+      "journal": "Journal of Behavioral Addictions",
+      "pubdate": "2026 Jul 15",
+      "doi": "10.1556/2006.2025.00258",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "French researchers conducted semi-structured interviews with 20 people who self-identified as either recovered from or currently recovering from gambling disorder, then used grounded theory analysis to build a nine-stage theoretical model of recovery. The model spans from first acknowledging a gambling problem through identity rebuilding and ultimately to post-traumatic growth. Both groups described all nine stages, though their experiences differed based on recovery status.",
+      "why_it_matters": "For women \u2014 who are a fast-growing demographic among people with gambling disorder \u2014 a model that frames recovery as a journey toward personal growth rather than mere abstinence could reshape how treatment programs are designed and how women seek help.",
+      "caveats": "small sample (N<100), qualitative design, single-center, industry funding [FDJ and PMU \u2014 French gambling operators], no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Qualitative, very small sample, industry-funded, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "Recovering From a Gambling Problem Can Lead to Real Personal Growth \u2014 A New Framework Explains How",
+          "hook": "A new nine-stage model of gambling recovery reframes the process not as white-knuckling through cravings but as a path that can end in genuine post-traumatic growth.",
+          "pitch_angle": "Researchers interviewed people in recovery from gambling disorder and found that the journey involves far more than behavioral change \u2014 it includes meaning-making, identity renegotiation, and, for many, a profound sense of personal transformation. As gambling among women rises, understanding this richer recovery arc could help clinicians and women themselves reframe what 'getting better' actually looks like."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41881124",
+      "headline": "Having more social connections is linked to higher \u2014 not lower \u2014 suicide risk in women, a new study finds",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Jul 15",
+      "doi": "10.1016/j.jad.2026.121664",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed two waves of longitudinal survey data from 8,953 young adults in Seoul, South Korea (2021\u20132022) collected during the height of the COVID-19 pandemic, using correlated random effects models to examine how access to social capital \u2014 support through family, friends, neighbors, and coworkers \u2014 related to suicidal ideation. Contrary to conventional research suggesting social ties are protective, greater network-mediated social support was significantly associated with increased probability of suicidal ideation over time. Importantly, this paradoxical effect was statistically significant only among women, not men.",
+      "why_it_matters": "The assumption that more social connection always protects women from mental health crises may need reexamining \u2014 social networks can also transmit stress, obligation, and emotional burden in gendered ways.",
+      "caveats": "observational design, single-center, self-reported outcomes, short follow-up, findings tied to South Korean pandemic-era young adult population \u2014 generalizability to US/global context uncertain",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive, women-specific finding; observational and regional context limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut / Well+Good",
+          "headline": "Your Social Network Might Not Be Protecting Your Mental Health \u2014 Especially If You're a Woman",
+          "hook": "A large longitudinal study found that women with more social connections were actually more likely to report suicidal thoughts \u2014 not less.",
+          "pitch_angle": "The finding directly challenges the widely held belief that staying socially connected shields women from mental health crises; researchers suggest social ties can also carry stress, emotional labor, and obligation that falls disproportionately on women. The study was conducted among young South Korean adults during COVID-19, so US generalizability needs scrutiny, but the gendered paradox raises urgent questions about how we talk about 'community' as a wellness fix."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "The 'Stay Connected' Mental Health Advice May Have a Dangerous Blind Spot for Women",
+          "hook": "New research suggests that for women, more social ties were linked to higher \u2014 not lower \u2014 risk of suicidal thoughts during a major crisis period.",
+          "pitch_angle": "A study of nearly 9,000 South Korean young adults found that the protective effect of social capital on suicidal ideation held for men but reversed for women \u2014 suggesting that the emotional and relational demands of maintaining social networks may exact a heavier toll on women's mental health. Prevention-focused readers will want to understand that quality and equity of social support, not just quantity, may matter most."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42457037",
+      "headline": "Certain diets may slow brain aging by fueling the brain differently \u2014 but the evidence is still uneven",
+      "journal": "The American journal of clinical nutrition",
+      "pubdate": "2026 Jul 15",
+      "doi": "10.1016/j.ajcnut.2026.101434",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Australian researchers conducted a scoping review following PRISMA-ScR guidelines, synthesizing 32 human intervention trials (2014\u20132024) in adults aged 60 or older with mild cognitive impairment, Alzheimer's disease, subjective cognitive decline, or normal cognition. Interventions included MCT/ketogenic diets, omega-3 fatty acids, amino acids, histidine-containing dipeptides, serotonin precursors, and dietary fat modification. Omega-3s showed cognitive benefit mainly in MCI patients at higher DHA doses (\u22651 g/day) and longer durations (\u22656 months); ketogenic and MCT approaches improved cognition in MCI and early Alzheimer's, but not consistently; and anserine/carnosine supplementation showed early promise for verbal memory and executive function, particularly in adults over 70 and APOE4 carriers.",
+      "why_it_matters": "Women are disproportionately affected by Alzheimer's disease and age-related cognitive decline, and this review maps the current state of nutritional strategies that target brain energy metabolism \u2014 a pathway distinct from most pharmaceutical approaches \u2014 potentially offering accessible, modifiable tools for cognitive aging.",
+      "caveats": "scoping review (not meta-analysis), heterogeneous interventions, small sample sizes across included trials, short follow-up in many included studies, no sex-disaggregated data reported across the review",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Relevant perinatal patient safety topic with parental/maternal hook; feasibility phase only limits strength.",
+      "relevance_score_reason": "Strong topic fit for women's cognitive aging, human trials only, but scoping review limits strength; no sex-disaggregated data.",
       "pitch_angles": [
         {
           "publication_type": "Prevention",
-          "headline": "NICUs Are Trying a Surprisingly Simple Fix to Prevent Dangerous Baby Mix-Ups",
-          "hook": "A picture of a sunflower or a rocket ship \u2014 chosen by a parent \u2014 could be the low-tech solution to one of the NICU's most persistent dangers.",
-          "pitch_angle": "Wrong-patient errors in neonatal intensive care units are a serious and persistent safety problem, and a new feasibility study found that caregiver-selected pictographs posted at the bedside were widely accepted by both families and clinicians as a visual safeguard. The finding is part of an ongoing RCT, meaning effectiveness is still being tested \u2014 but the intervention puts parents in an active role in their newborn's safety."
+          "headline": "Can What You Eat Protect Your Brain From Aging? Here's What 32 Studies Actually Found",
+          "hook": "A new review of 32 human trials found that omega-3s, ketogenic diets, and a little-known supplement called anserine may slow cognitive aging \u2014 but only under specific conditions.",
+          "pitch_angle": "Australian researchers scoped the best available evidence on dietary strategies that fuel the aging brain differently, and found that benefits depend heavily on dose, timing, and disease stage \u2014 not just eating the 'right' foods. For women, who face higher lifetime risk of Alzheimer's, the emerging data on MCTs, high-dose DHA, and targeted amino acids offers a practical but nuanced framework for thinking about brain-protective eating."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Brain-Fuel Diet Strategy Scientists Are Actually Testing for Alzheimer's Prevention",
+          "hook": "Forget generic 'brain food' advice \u2014 researchers are now testing specific doses of omega-3s, ketone-producing diets, and obscure amino acids to target the exact energy problem in the aging brain.",
+          "pitch_angle": "A scoping review of 32 human trials found that targeting cerebral glucose hypometabolism \u2014 a known hallmark of Alzheimer's \u2014 through nutrition shows real but inconsistent promise, with the strongest signals coming from high-dose DHA omega-3s and MCT-based diets in people already showing early cognitive decline. For wellness-focused women thinking about long-term brain health, the science is advancing fast but isn't yet prescription-ready."
         }
       ],
-      "run_date": "2026-07-20",
+      "run_date": "2026-07-21",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42470805",
+      "headline": "Women who use drugs in Vancouver are nearly twice as likely as men to lose their safer-supply prescriptions \u2014 and then turn to the unregulated drug market",
+      "journal": "Drug and Alcohol Dependence",
+      "pubdate": "2026 Jul 15",
+      "doi": "10.1016/j.drugalcdep.2026.113274",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using data from two prospective cohorts of people who use drugs in Vancouver, Canada, researchers examined 353 participants who had accessed a government-run 'prescribed safer supply' program \u2014 pharmaceutical alternatives to the illicit drug supply \u2014 between December 2023 and November 2024. Of those, 17.6% were deprescribed; women had nearly twice the odds of being deprescribed compared to men (AOR=1.92). Among those who lost their prescriptions, 88.7% were cut off from tablet hydromorphone, and most reported increased use of unregulated drugs afterward.",
+      "why_it_matters": "The finding that women are disproportionately being removed from a harm-reduction program designed to prevent overdose deaths \u2014 and are subsequently returning to the dangerous unregulated drug supply \u2014 points to a gendered gap in addiction policy with life-or-death stakes.",
+      "caveats": "observational design, self-reported outcomes, single-center, regional policy context (British Columbia, Canada) unlikely to directly apply to US healthcare system",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Female-specific finding, prospective cohort, but Canadian policy context limits US applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Women Are Losing Their Life-Saving Drug Prescriptions at Higher Rates Than Men. Here's Why That Matters.",
+          "hook": "In Vancouver's safer-supply program \u2014 designed to keep people away from a poisoned drug supply \u2014 women are being deprescribed at nearly twice the rate of men, a new study finds.",
+          "pitch_angle": "A prospective study of over 350 people in Vancouver found that women who use drugs are significantly more likely than men to have their pharmaceutical safer-supply prescriptions taken away, often for reasons like missed pickups \u2014 and most then return to the unregulated, potentially fatal drug market. The findings expose how drug policy, even well-intentioned harm-reduction policy, can reproduce the same gendered disparities that put women at greater risk in the first place."
+        },
+        {
+          "publication_type": "General health",
+          "headline": "A Harm Reduction Program Meant to Save Lives Is Cutting Off Women at Higher Rates Than Men",
+          "hook": "Women enrolled in Canada's safer-supply program face nearly twice the odds of losing their prescriptions compared to men \u2014 and most end up back on dangerous street drugs.",
+          "pitch_angle": "New Canadian research suggests that the way safer-supply deprescribing is being implemented may be creating a gendered health crisis, with women disproportionately cut off and pushed back toward a toxic unregulated drug supply. While the findings are specific to British Columbia's policy context, they raise broader questions about whether harm-reduction programs are designed with women's lives in mind."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41878922",
+      "headline": "A simple blood-and-weight index may predict muscle loss risk in middle-aged and older adults \u2014 and it worked across two different countries",
+      "journal": "Nutricion hospitalaria",
+      "pubdate": "2026 Jul 14",
+      "doi": "10.20960/nh.06151",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed cross-sectional data from two large cohorts \u2014 CHARLS (China, 2011) and NHANES (US, 2015\u20132018) \u2014 to test whether a novel triglyceride-cholesterol-body weight index (TCBI) was associated with sarcopenia risk in middle-aged and older adults. Both datasets included thousands of participants across a broad age range, though exact combined N and sex breakdown are not specified in the abstract. Higher TCBI was strongly and inversely associated with sarcopenia risk in both populations, with odds ratios as low as 0.074 in the highest TCBI quartile in NHANES \u2014 suggesting the index could serve as a simple screening tool.",
+      "why_it_matters": "Sarcopenia disproportionately affects older women and is a key driver of frailty and loss of independence, so a simple, widely available index that predicts muscle loss risk could support earlier intervention.",
+      "caveats": "observational design, cross-sectional (no causal inference), no sex-disaggregated data reported, secondary analysis, CHARLS data from 2011 may be dated",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large cross-national cohorts, sarcopenia relevant to older women, but no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A Simple Number Calculated From Routine Bloodwork Could Flag Your Muscle Loss Risk Decades Early",
+          "hook": "A new study found that a basic index combining triglycerides, cholesterol, and body weight predicted sarcopenia risk with striking strength across both Chinese and American adults.",
+          "pitch_angle": "Researchers tested a novel nutritional index using two large national datasets and found consistent, strong associations with lower muscle-loss risk \u2014 even after adjusting for confounders. For older women, who face accelerated sarcopenia after menopause, an easy-to-calculate screening marker from routine labs could eventually help flag risk far earlier than current tools allow."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42447282",
+      "headline": "Parents feel empowered \u2014 not just anxious \u2014 when their children wear continuous glucose monitors in early-stage type 1 diabetes monitoring",
+      "journal": "Diabetic Medicine",
+      "pubdate": "2026 Jul 14",
+      "doi": "10.1111/dme.70424",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted semi-structured interviews with 19 parents (18 mothers, 1 father) of children aged approximately 7.5 years who had undergone a mean of 5.5 repeated blinded CGM assessments as part of Australia's ENDIA study of early-stage type 1 diabetes. Three themes emerged: challenges of CGM wear (pain, anxiety about data loss), experiences receiving feedback from clinicians, and preparation for potential diagnosis. Despite difficulties, parents found repeated blinded CGM acceptable and reported feeling more prepared and empowered regarding their child's disease trajectory.",
+      "why_it_matters": "Because mothers bear most of the caretaking burden in pediatric diabetes monitoring, understanding their experiences with CGM surveillance is critical to designing family-centered early-detection programs.",
+      "caveats": "small sample (N<100), qualitative design, single-country (Australia), self-reported outcomes, near-exclusively maternal sample limits generalizability to fathers or non-traditional caregivers",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Maternal health/caregiving angle, but very small qualitative sample, Australia-only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Moms of Kids at Risk for Type 1 Diabetes Say This Monitoring Tech Is Hard \u2014 But Worth It",
+          "hook": "Nearly all parents in a new study reported at least one difficult experience with their child's glucose monitor, yet they overwhelmingly found it empowering rather than distressing.",
+          "pitch_angle": "A qualitative study of mostly mothers found that repeated continuous glucose monitoring in young children with early-stage type 1 diabetes created anxiety, but also gave families a sense of control and readiness. The finding highlights a shift in how families experience pediatric disease surveillance \u2014 moving from passive waiting to active, informed preparation."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42452859",
+      "headline": "82% of pregnancies with abnormal nuchal translucency but normal genetic and ultrasound results end in healthy live births",
+      "journal": "Prenatal Diagnosis",
+      "pubdate": "2026 Jul 14",
+      "doi": "10.1002/pd.70224",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a 12-year retrospective cohort study at a French tertiary prenatal diagnosis center, following 316 singleton pregnancies with first-trimester nuchal translucency (NT) \u2265 3.5 mm. They found that among 51 pregnancies that continued after normal genetic testing and normal structural ultrasound, 82.4% resulted in a live birth without pathology. Termination of pregnancy occurred in 57% of all cases overall, and the rate of termination without prior invasive testing rose sharply with NT thickness.",
+      "why_it_matters": "For pregnant women facing an abnormal NT finding, this data suggests that sequential testing results \u2014 not NT measurement alone \u2014 are critical context for counseling and decision-making.",
+      "caveats": "single-center, observational design, retrospective cohort, small sample (N=316 with subgroups much smaller), study population based in France \u2014 healthcare system and counseling norms may not generalize to US context",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Reproductive health finding, but single-center French cohort limits US generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "If Your Baby's Nuchal Translucency Scan Comes Back Abnormal, Here's What the Data Actually Says",
+          "hook": "More than 8 in 10 pregnancies with a high nuchal translucency reading \u2014 but normal follow-up genetic and ultrasound tests \u2014 resulted in a healthy live birth in a new 12-year study.",
+          "pitch_angle": "An abnormal first-trimester NT scan can be terrifying, but new data suggests that sequential testing tells a far more nuanced story. For pregnant women navigating prenatal screening anxiety, this finding underscores why one number rarely tells the whole story."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42452901",
+      "headline": "European preeclampsia screening tools need recalibration to work accurately in Chinese pregnancies",
+      "journal": "Acta Obstetricia et Gynecologica Scandinavica",
+      "pubdate": "2026 Jul 14",
+      "doi": "10.1111/aogs.70319",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers prospectively enrolled 22,066 singleton pregnancies at 11\u201313 weeks gestation across six tertiary hospitals in Mainland China to evaluate whether European-derived biomarker models for first-trimester preeclampsia screening perform accurately in a Chinese population. They measured mean arterial pressure (MAP) and placental growth factor (PlGF), converting values using Fetal Medicine Foundation models. The study found that PlGF \u2014 but not MAP \u2014 required recalibration at all centers before the models produced reliable risk estimates, suggesting European-based screening tools cannot be applied directly to Chinese populations without local adjustment.",
+      "why_it_matters": "For pregnant women in China and diaspora communities, this suggests that standard preeclampsia screening tools may produce inaccurate risk estimates unless locally validated \u2014 a gap in care that could affect millions of pregnancies.",
+      "caveats": "single-center findings not applicable \u2014 multicenter but China-only, finding is tied to a single non-US/non-multinational region's specific context, observational design, results may not generalize to US or global readership",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant to pregnant women but tightly bound to Chinese healthcare context; limited US generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Preeclampsia Screening Test Used Worldwide May Not Be Accurate for All Women",
+          "hook": "A standard first-trimester preeclampsia screening tool widely used in Europe had to be recalibrated before it worked reliably for Chinese patients \u2014 raising questions about one-size-fits-all prenatal care.",
+          "pitch_angle": "A large Chinese multicenter study found that key biomarker models for early preeclampsia screening required local adjustment to function accurately, suggesting that screening tools developed in European populations may not translate directly to other groups \u2014 a reminder that diversity in research design matters for prenatal safety."
+        }
+      ],
+      "run_date": "2026-07-21",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42447055",
+      "headline": "After ovarian teratoma treatment, scary-looking masses often turn out not to be cancer",
+      "journal": "Ginekologia Polska",
+      "pubdate": "2026 Jul 14",
+      "doi": "10.5603/gpl.112977",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at a Polish gynecologic oncology center presented two cases of women treated for ovarian immature teratoma who later developed alarming post-treatment findings \u2014 including metabolically active lesions and elevated tumor markers \u2014 that initially suggested cancer recurrence. Histopathological examination revealed that one lesion was a foreign-body granulomatous reaction and the other was peritoneal gliomatosis coexisting with deep infiltrating endometriosis, not malignancy. The report and literature review highlight that post-treatment manifestations after ovarian teratoma span a broader spectrum than classical growing teratoma syndrome and require surgical and pathological confirmation before assuming recurrence.",
+      "why_it_matters": "For women previously treated for ovarian teratoma, this case series underscores that alarming scan findings during follow-up do not automatically mean cancer has returned, which has significant implications for avoiding unnecessary aggressive treatment.",
+      "caveats": "small sample (N<100), single-center, observational design, case report only (N=2)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Women-specific oncology finding; very small N (2 cases), limited generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "If You've Had an Ovarian Teratoma, a Scary Scan Result Doesn't Always Mean Recurrence",
+          "hook": "Two women who survived ovarian teratoma faced terrifying follow-up findings \u2014 elevated tumor markers, metabolically active masses \u2014 that turned out to be something else entirely.",
+          "pitch_angle": "A new case series finds that after treatment for ovarian immature teratoma, enlarging masses and suspicious imaging results may represent rare but benign conditions rather than cancer returning, and that surgical biopsy is often essential for accurate diagnosis."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42448228",
+      "headline": "Worrying fetal heart rate patterns in early labor signal far greater risk of newborn harm than the same patterns later \u2014 new data suggest C-section timing matters more than we thought",
+      "journal": "American Journal of Obstetrics & Gynecology MFM",
+      "pubdate": "2026 Jul 14",
+      "doi": "10.1016/j.ajogmf.2026.102058",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a secondary analysis of a prospective cohort of singleton deliveries at \u226537 weeks (N=5,273 patients with high-risk Category II electronic fetal monitoring features) to compare neonatal outcomes by stage of labor at delivery. Patients who delivered by cesarean in the first stage of labor with high-risk EFM features had a significantly higher risk of neonatal acidemia (adjusted OR 5.55) and composite neonatal morbidity (aOR 2.44) compared to those who delivered in the second stage. The findings suggest that high-risk EFM patterns during the first stage of labor identify a fetal population at substantially greater risk, supporting earlier intervention.",
+      "why_it_matters": "For pregnant women and their care teams, this study suggests that when concerning fetal heart rate patterns appear early in labor, the timing of a cesarean decision may meaningfully affect newborn health outcomes.",
+      "caveats": "secondary analysis, observational design, short follow-up, data from 2010\u20132015 (may not reflect current practice)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large N, prospective cohort, relevant perinatal finding with clear clinical implications.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "When You're in Labor, Timing a C-Section Could Dramatically Affect Your Baby's Health",
+          "hook": "A large new study finds that the same worrying fetal heart rate pattern carries a fivefold higher risk of newborn acidemia when it appears early in labor versus later \u2014 a finding that could reshape how delivery decisions are made.",
+          "pitch_angle": "Researchers found that high-risk fetal monitoring signals in the first stage of labor are associated with far worse newborn outcomes than identical signals in the second stage, suggesting that earlier cesarean intervention may matter more than previously appreciated. The findings add nuance to what is often a high-pressure, split-second clinical decision for laboring women and their providers."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42233276",
+      "headline": "Oral nutrition supplements measurably improve quality of life in malnourished patients within one month \u2014 and the gains hold for six months",
+      "journal": "Nutricion hospitalaria",
+      "pubdate": "2026 Jul 14",
+      "doi": "10.20960/nh.06156",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This prospective observational real-world study followed 590 adult patients (mean age 73.1 years) at risk of malnutrition who received home enteral nutrition exclusively as oral supplements for six months at multiple Spanish hospital sites. The most common diagnoses were cancer (39.8%) and neurodegenerative disease (31.4%), and 56.4% were at high malnutrition risk per the MUST scale. Quality of life, measured by the NutriQoL\u00ae and EuroQol-5D tools, improved significantly from month 1 through month 6, with adherence exceeding 88% throughout.",
+      "why_it_matters": "For older women managing chronic illness or cancer \u2014 who are disproportionately affected by malnutrition risk \u2014 evidence that oral nutrition supplements can meaningfully improve quality of life within weeks, and sustain it, supports their broader use in home-based care.",
+      "caveats": "observational design, no control group, single-region (Spain), self-reported outcomes, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Decent sample size, real-world design, but no sex-disaggregated data and limited women's health specificity.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Oral Nutrition Supplements Boosted Quality of Life in Frail, Malnourished Patients Within Just One Month",
+          "hook": "A real-world study of nearly 600 patients found that oral nutrition supplements \u2014 not tube feeding \u2014 produced rapid, sustained quality-of-life improvements in people at high malnutrition risk.",
+          "pitch_angle": "Spanish researchers tracked 590 older adults with cancer or neurodegenerative disease over six months and found consistent, significant improvements in wellbeing using validated quality-of-life tools. For aging women and their caregivers navigating malnutrition risk at home, the study suggests oral supplementation is a practical, adherence-friendly strategy with measurable benefits."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42463445",
+      "headline": "Twin birth planning gets clearer: vertex position after 32 weeks stays put in 95% of cases",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2700830",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers retrospectively analyzed 263 twin pregnancies (166 dichorionic diamniotic, 97 monochorionic diamniotic) at a Spanish tertiary center, tracking fetal presentation via ultrasound at 32 weeks and again before delivery. They found that once the first twin settled into vertex (head-down) position after 32 weeks, that position remained stable in over 95% of cases. However, non-vertex presentations remained highly dynamic, with more than half converting to vertex spontaneously before delivery.",
+      "why_it_matters": "For women pregnant with twins, this suggests that a single reassuring ultrasound showing head-down position after 32 weeks may reliably inform delivery planning and reduce uncertainty around cesarean versus vaginal birth decisions.",
+      "caveats": "observational design, single-center, retrospective cohort",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant twin pregnancy finding; single-center retrospective design limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / What to Expect / pregnancy-focused outlets",
+          "headline": "If Your Twin Is Head-Down at 32 Weeks, It's Probably Staying That Way",
+          "hook": "A new study found that once the first twin settles head-down after 32 weeks, that position holds in over 95% of pregnancies \u2014 offering real reassurance for birth planning.",
+          "pitch_angle": "Researchers tracked fetal positioning in 263 twin pregnancies and found that vertex presentation after 32 weeks is remarkably stable, while non-vertex twins still have a strong chance of flipping on their own. For twin parents anxious about cesarean decisions, the findings suggest ultrasound timing matters more than previously understood."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42472695",
+      "headline": "A forehead sensor could replace wired monitors for premature babies in the NICU",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2698904",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in the UK prospectively tested a wireless, forehead-mounted heart rate monitor (SurePulse VS) in 62 preterm infants across two neonatal intensive care units between 2022 and 2023. NICU staff rated the device as easy to fit in 88% of cases and found heart rate data available for most or all of the monitoring period in 82% of deployments. The study found the wireless device feasible and acceptable for routine neonatal care, though it is primarily a feasibility study without a comparator arm.",
+      "why_it_matters": "Wireless monitoring technology for preterm newborns could reduce the tangle of wires that limits skin-to-skin contact between parents and their babies in the NICU, potentially supporting practices like kangaroo care.",
+      "caveats": "small sample (N<100), observational design, single-country (UK), no sex-disaggregated data, no direct comparator arm, self-reported outcomes (staff questionnaires)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Neonatal tech with indirect maternal relevance; small feasibility study, no women-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / parenting outlets",
+          "headline": "A Tiny Wireless Sensor on a Baby's Forehead Could Change NICU Care",
+          "hook": "A new wireless heart rate monitor worn on a preterm infant's forehead worked well in 88% of trials \u2014 and could make it easier for parents to hold their fragile newborns without wires getting in the way.",
+          "pitch_angle": "UK researchers tested a cord-free monitor in 62 premature babies and found NICU staff could get reliable readings in the vast majority of cases. If wireless monitoring catches on, it could make skin-to-skin bonding \u2014 already proven to benefit preterm infants \u2014 more accessible for more families."
+        }
+      ],
+      "run_date": "2026-07-21",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -469,147 +1126,6 @@
       "status": "new"
     },
     {
-      "pmid": "42457127",
-      "headline": "Surgeons test a new vaginal-access approach to inguinal hernia repair \u2014 potentially reducing abdominal incisions for women",
-      "journal": "Journal of Minimally Invasive Gynecology",
-      "pubdate": "2026 Jul 15",
-      "doi": "10.1016/j.jmig.2026.07.011",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a proof-of-concept surgical video article \u2014 not a clinical trial \u2014 describing a novel transvaginal extraperitoneal approach (vTEP) to inguinal hernia repair in women, developed by a team in Belgium and Sweden. No patient outcome data or sample size are reported; the submission demonstrates the technique's feasibility. The approach aims to leverage existing vaginal-access surgical pathways to avoid traditional abdominal entry.",
-      "why_it_matters": "If validated in larger studies, a vaginal-access hernia repair technique could offer women a less invasive surgical option with potentially faster recovery.",
-      "caveats": "Proof-of-concept only (no outcome data, no patient cohort), single-center, no sample size, industry consultancy disclosures (Applied Medical; Momentis Surgical; Suturion; Oasis Diagnostics)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Women-specific surgical innovation but proof-of-concept only; no outcome data to pitch.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / General health",
-          "headline": "A New Surgical Technique Could Let Doctors Repair Hernias in Women Through a Vaginal Approach",
-          "hook": "Surgeons in Belgium have demonstrated a technique that uses a vaginal access point to fix inguinal hernias \u2014 potentially eliminating the need for abdominal incisions.",
-          "pitch_angle": "The vTEP approach is still in early proof-of-concept stages, but it suggests a future where minimally invasive gynecologic surgical pathways could be applied to conditions like hernias that have historically been treated with general surgical techniques not optimized for women's anatomy."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42456612",
-      "headline": "First Nations women in remote Australia face a stillbirth grief system that doesn't speak their language \u2014 literally or culturally",
-      "journal": "Women and Birth: Journal of the Australian College of Midwives",
-      "pubdate": "2026 Jul 15",
-      "doi": "10.1016/j.wombi.2026.102242",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a qualitative yarning-methodology study with 33 participants \u2014 predominantly First Nations health professionals and community members with direct experience of stillbirth \u2014 in Cape York, Queensland, Australia. The study documented the lived experience of stillbirth (called 'Sorry Business Babies' in community language) through five themes including ceremony and ritual, the language of loss, and the journey of grief. Findings highlight that historical trauma, cultural practices, and gaps in culturally responsive healthcare combine to shape a distinctly under-served stillbirth grief experience for First Nations families.",
-      "why_it_matters": "For women in First Nations communities \u2014 who already face higher stillbirth rates \u2014 the absence of culturally safe bereavement care compounds an already devastating loss.",
-      "caveats": "small sample (N<100), qualitative design, single-region (Cape York, Australia) \u2014 findings closely tied to a specific Indigenous Australian context unlikely to generalize directly to US/global readership, observational design",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Important reproductive/grief topic but very region-specific; small qualitative sample limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Words We Use for Stillbirth Matter \u2014 And This Community Has Been Naming It Right All Along",
-          "hook": "First Nations communities in Australia have long called stillbirth 'Sorry Business Babies' \u2014 and new research shows that honoring that language could be key to better bereavement care.",
-          "pitch_angle": "A qualitative study from Cape York found that culturally specific language, ceremony, and family ritual are central to how First Nations women grieve stillbirth \u2014 but healthcare systems rarely accommodate them. The finding raises broader questions about whether mainstream grief care is designed for the communities who need it most."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42462083",
-      "headline": "Skin-to-skin 'kangaroo care' keeps extremely premature babies warm and stable even in the first days of life, small study finds",
-      "journal": "Advances in Neonatal Care",
-      "pubdate": "2026 Jul 15",
-      "doi": "10.1097/ANC.0000000000001388",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a prospective observational secondary analysis of a randomized controlled trial, following 70 extremely preterm infants (mean gestational age 26 weeks) admitted to a Level IIIC NICU in Spain across 285 kangaroo mother care (KMC) sessions during the first 5 days of life. Axillary temperature was measured at five time points per session, with the primary outcome at 60 minutes. Infants maintained normothermia (mean 36.83\u00b0C at 60 minutes), and early KMC was found to be thermally safe even for babies with central lines, though a slight temperature dip occurred during the first session.",
-      "why_it_matters": "For mothers of extremely premature newborns, this study suggests that early skin-to-skin contact is not only emotionally beneficial but also physically safe for temperature regulation from the very first days, even in the most fragile infants.",
-      "caveats": "small sample (N=70), single-center, secondary analysis, short follow-up, observational design, Spain-only population",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Postpartum/neonatal relevance, clear maternal wellness hook, but small sample and secondary analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "Even the Tiniest Premature Babies Stay Warm During Skin-to-Skin Contact, Study Finds",
-          "hook": "A new study found that babies born as early as 24 weeks maintained healthy body temperatures during kangaroo mother care \u2014 even in their first days outside the womb.",
-          "pitch_angle": "Researchers tracked temperature in 70 extremely preterm infants during early skin-to-skin sessions and found that kangaroo care kept babies safely warm, countering concerns that the most fragile preemies might be too vulnerable for early contact. The finding supports broader access to early KMC in NICUs and gives parents of premature babies evidence-backed reassurance about holding their newborns."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42084920",
-      "headline": "Recovering from a gambling disorder isn't just about stopping \u2014 it's a nine-stage identity transformation, new research suggests",
-      "journal": "Journal of Behavioral Addictions",
-      "pubdate": "2026 Jul 15",
-      "doi": "10.1556/2006.2025.00258",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "French researchers conducted semi-structured interviews with 20 self-defined recovered or currently recovering gamblers and used constructivist grounded theory to build a novel nine-stage theoretical model of gambling disorder recovery, ranging from acknowledging the problem to post-traumatic growth. The model extends beyond behavioral change to include meaning-making and identity renegotiation as central to recovery. The study notes this is among the first qualitative models to center the patient perspective in gambling recovery research.",
-      "why_it_matters": "Women are a fast-growing segment of people with gambling disorder and often seek help later than men, making a patient-centered recovery framework that addresses identity and meaning \u2014 not just behavior \u2014 especially relevant to closing that treatment gap.",
-      "caveats": "small sample (N<100), qualitative design, single-center, no sex-disaggregated data, industry funding [FDJ and PMU \u2014 French gambling operators], observational design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting model but very small sample, no sex disaggregation, industry-funded.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Gambling Addiction Recovery Is About Way More Than Quitting \u2014 Researchers Just Mapped the Full Journey",
-          "hook": "A new study finds that recovering from a gambling disorder involves nine distinct psychological stages \u2014 including rebuilding your entire sense of self.",
-          "pitch_angle": "Qualitative research with people in recovery identified a nine-stage process that goes far beyond stopping gambling, culminating in what psychologists call post-traumatic growth. For women \u2014 who often hide gambling problems longer and face greater shame \u2014 a recovery model centered on identity and meaning rather than just abstinence could open more effective, less stigmatizing paths to help."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41881124",
-      "headline": "Having a stronger social network was associated with higher \u2014 not lower \u2014 suicide ideation in young women during the pandemic",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Jul 15",
-      "doi": "10.1016/j.jad.2026.121664",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A longitudinal study drew on two waves of data from the Seoul Young Adult Panel Survey (n=8,953 person-years) collected during the COVID-19 pandemic (2021\u20132022) to examine how social capital \u2014 support accessed through family, friends, neighbors, and coworkers \u2014 related to suicide ideation. Using correlated random effects models, greater social network access was significantly associated with increased probability of suicide ideation over time. Critically, this paradoxical effect was statistically significant only among women, not men.",
-      "why_it_matters": "This finding challenges the widely held assumption that stronger social ties protect women's mental health, suggesting that for young women during crisis periods, interpersonal connections can also carry psychological costs that warrant closer investigation.",
-      "caveats": "observational design, self-reported outcomes, single-region (Seoul, South Korea \u2014 findings may not generalize beyond this cultural context), no disaggregation by type or quality of social contact",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Counterintuitive, women-specific finding; large longitudinal sample; strong design.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut (health/culture section)",
-          "headline": "Your Social Network Might Not Be Protecting You the Way You Think \u2014 Especially If You're a Woman",
-          "hook": "A study of thousands of young adults found that greater social support was actually linked to higher odds of suicidal thoughts \u2014 and the effect showed up only in women.",
-          "pitch_angle": "Korean longitudinal data from the pandemic era revealed a disturbing paradox: the more social capital young women had access to, the more likely they were to report suicide ideation over time. The finding raises uncomfortable questions about the gendered emotional labor embedded in social networks and whether being highly connected can sometimes be a burden rather than a buffer."
-        },
-        {
-          "publication_type": "Prevention / Well+Good",
-          "headline": "Social Support Isn't Always Protective for Women's Mental Health \u2014 Here's What the Science Found",
-          "hook": "New research from the pandemic years suggests that for young women, having more people to lean on was paradoxically associated with greater risk of suicidal thoughts.",
-          "pitch_angle": "A large longitudinal Korean study found that access to social capital \u2014 family, friends, coworkers \u2014 predicted increased suicide ideation in women but not men, overturning the conventional wisdom that social ties shield women from mental health crises. Experts suggest the quality and emotional demands of those connections may matter as much as their quantity."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42454506",
       "headline": "A misplaced kidney fooled doctors into thinking a pregnant woman had ovarian cancer \u2014 a cautionary case report",
       "journal": "International Journal of Gynaecology and Obstetrics",
@@ -629,168 +1145,6 @@
           "headline": "A Pregnant Woman's Misplaced Kidney Was Mistaken for Ovarian Cancer \u2014 Here's What Her Case Teaches Doctors",
           "hook": "An ectopic kidney sitting in the wrong place looked exactly like a pelvic tumor on early pregnancy imaging, highlighting a rare but important diagnostic trap.",
           "pitch_angle": "This Japanese case report illustrates how a congenital kidney anomaly can convincingly mimic ovarian malignancy during first-trimester ultrasound, reinforcing the need for careful cross-specialty imaging review before acting on pelvic mass findings in pregnancy."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41878922",
-      "headline": "A simple number combining your triglycerides, cholesterol, and weight may predict muscle loss risk as you age",
-      "journal": "Nutricion Hospitalaria",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.20960/nh.06151",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed data from two large cohorts \u2014 CHARLS (Chinese adults, 2011) and NHANES (US adults, 2015\u20132018) \u2014 to test whether a novel index combining triglycerides, cholesterol, and body weight (TCBI) was associated with sarcopenia risk in middle-aged and older adults. Higher TCBI scores were strongly and inversely associated with sarcopenia risk in both populations, with those in the highest quartile showing roughly 89\u201393% lower odds of sarcopenia compared to the lowest quartile. The association was non-linear and remained consistent across subgroup analyses, suggesting TCBI may be a useful screening tool for muscle loss risk.",
-      "why_it_matters": "Sarcopenia accelerates after menopause, and a simple, calculable index from routine bloodwork could give women an earlier signal that their muscle health needs attention.",
-      "caveats": "observational design, no sex-disaggregated data reported, cross-sectional (CHARLS 2011 data), secondary analysis, TCBI is a novel index not yet validated clinically",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large dual-cohort data and women's aging hook, but no female-specific analysis reported.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Well+Good",
-          "headline": "Your Routine Blood Test Numbers Might Predict Your Risk of Muscle Loss \u2014 Here's the Math",
-          "hook": "A new index combining three numbers from a standard lab panel was strongly linked to sarcopenia risk in tens of thousands of adults across two countries.",
-          "pitch_angle": "Researchers found that a simple formula using triglycerides, cholesterol, and body weight predicted sarcopenia risk with surprising accuracy \u2014 and the finding held up in both Chinese and American adults. For women approaching or past menopause, when muscle loss accelerates, this could eventually point toward an easy screening step at the annual physical."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42447282",
-      "headline": "Parents \u2014 mostly moms \u2014 say continuous glucose monitoring gave them a sense of control over their child's type 1 diabetes risk, despite real emotional costs",
-      "journal": "Diabetic Medicine",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.1111/dme.70424",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Australian researchers interviewed 19 parents (18 mothers, 1 father) of children averaging 7.5 years old who had undergone an average of 5.5 blinded continuous glucose monitoring (CGM) assessments as part of the ENDIA study, which tracks children with early-stage type 1 diabetes and an at-risk family history. Using inductive thematic analysis of semi-structured interviews, the study found three key themes: practical challenges with CGM wear, varied experiences of receiving feedback from clinicians, and a sense of empowerment and preparedness for potential disease progression. Despite pain, anxiety, and data-loss concerns, all parents found repeated blinded CGM acceptable and valued the knowledge it provided.",
-      "why_it_matters": "Because mothers disproportionately carry the mental and logistical load of managing children's chronic illness monitoring, understanding their lived experience of emerging diabetes surveillance tools matters for designing more supportive care systems.",
-      "caveats": "small sample (N<100), qualitative design, single-country (Australia), observational design",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Majority-mother sample; pediatric diabetes monitoring angle; qualitative design limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Moms Are Using This Glucose Monitor to Track Their Kids' Hidden Diabetes Risk \u2014 Here's What They Found",
-          "hook": "A new study found that mothers of children at risk for type 1 diabetes found continuous glucose monitoring stressful \u2014 but ultimately empowering.",
-          "pitch_angle": "When children carry early markers for type 1 diabetes, parents \u2014 overwhelmingly mothers \u2014 face the emotional weight of constant health surveillance; this study suggests that despite real challenges, glucose-monitoring technology gave families a sense of preparedness that they valued. It opens a conversation about how medical tools can either ease or amplify parental anxiety in chronic illness management."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42452859",
-      "headline": "After an abnormal neck measurement in early pregnancy, most parents who got normal follow-up testing still had healthy babies \u2014 but decisions varied widely by severity",
-      "journal": "Prenatal Diagnosis",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.1002/pd.70224",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This 12-year retrospective cohort study at a French tertiary prenatal diagnosis center included 316 singleton pregnancies where first-trimester nuchal translucency (NT) measured \u22653.5 mm \u2014 a marker associated with chromosomal and structural abnormalities. Termination of pregnancy occurred in 57% of cases overall, while 28.8% resulted in live birth without pathology; among pregnancies that continued after normal genetic and structural ultrasound findings, 82.4% resulted in a healthy live birth. The rate of termination without prior invasive testing rose sharply with NT thickness, from 7.4% in the lowest-measurement group to 35% in the highest.",
-      "why_it_matters": "For pregnant women facing an elevated nuchal translucency finding, this data suggests that sequential genetic and ultrasound workup \u2014 rather than NT measurement alone \u2014 may offer a clearer picture of likely outcome and support more informed decision-making.",
-      "caveats": "observational design, single-center, retrospective, France-based cohort, self-reported outcomes not applicable",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Directly relevant to prenatal decision-making; clean long-term cohort but single-center French setting.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / What to Expect-style parenting",
-          "headline": "An Abnormal Early Pregnancy Scan Doesn't Always Mean Bad News \u2014 Here's What the Data Actually Show",
-          "hook": "A 12-year study found that when parents received a high nuchal translucency reading but then got normal genetic and ultrasound results, more than 82% went on to have a healthy baby.",
-          "pitch_angle": "Researchers tracked 316 pregnancies flagged with elevated NT in the first trimester and found that outcomes \u2014 and parental decisions \u2014 varied dramatically based on NT thickness and follow-up findings. The study suggests that a step-by-step diagnostic process, rather than acting on NT alone, may offer pregnant women the most accurate picture of their specific risk."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42452901",
-      "headline": "Preeclampsia screening tools built for European populations may need recalibration before they work reliably in China",
-      "journal": "Acta Obstetricia et Gynecologica Scandinavica",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.1111/aogs.70319",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a prospective multicenter cross-sectional study, researchers recruited 22,066 singleton pregnancies at 11\u201314 weeks from six tertiary hospitals across Mainland China to evaluate whether preeclampsia screening biomarker models developed for European populations apply to Chinese pregnant women. They found that while mean arterial pressure (MAP) and placental growth factor (PlGF) measurements could be recalibrated using existing modeling software, recalibration ('recentering') was required for PlGF \u2014 but not consistently for MAP \u2014 before distributions matched the expected norms. The study provides a quality assurance framework for Chinese centers implementing first-trimester preeclampsia screening.",
-      "why_it_matters": "As first-trimester preeclampsia screening expands globally, this study suggests that screening tools validated in European populations may misclassify risk in Chinese pregnant women without population-specific recalibration.",
-      "caveats": "single-region (Mainland China) \u2014 findings specific to Chinese population and healthcare system context; observational design; cross-sectional; results may not generalize to other non-European populations or US clinical settings",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large sample, relevant prenatal topic, but findings closely tied to Chinese healthcare system context and unlikely to generalize to US readership.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Preeclampsia Screening Was Built Around European Bodies \u2014 And That Could Be a Problem for Millions of Pregnant Women",
-          "hook": "A massive new study of 22,000 pregnancies in China found that standard preeclampsia screening biomarker models had to be recalibrated to work accurately in Chinese women.",
-          "pitch_angle": "First-trimester preeclampsia screening has become a key tool for catching dangerous blood pressure complications before they escalate \u2014 but the algorithms were largely developed and validated in European populations. This study raises questions about whether those same tools can be trusted equally across all racial and ethnic groups without adjustment, a concern with implications well beyond China."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42447055",
-      "headline": "Masses that look like cancer recurrence after ovarian teratoma may not be \u2014 two cases reveal diagnostic traps that could spare women unnecessary treatment",
-      "journal": "Ginekologia Polska",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.5603/gpl.112977",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Jagiellonian University in Cracow, Poland, present two cases of post-treatment findings in patients with ovarian immature teratoma that mimicked malignant recurrence \u2014 including growing masses, metabolically active lesions on PET scan, and elevated tumor markers \u2014 but were ultimately identified as a foreign-body granulomatous reaction and peritoneal gliomatosis coexisting with deep infiltrating endometriosis, respectively. The report highlights that after treatment for ovarian germ cell tumors, benign and non-cancerous conditions can appear identical to cancer recurrence on imaging and in bloodwork. The authors argue that histopathological confirmation is essential before assuming malignancy in this patient population.",
-      "why_it_matters": "For women who have been treated for ovarian immature teratoma, this suggests that alarming follow-up scans or elevated tumor markers do not automatically mean cancer has returned \u2014 but careful, specialized assessment is critical.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant women's cancer finding; two-case report limits generalizability significantly.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / General health",
-          "headline": "After Ovarian Cancer Treatment, a Scary Scan Result Might Not Mean What You Fear",
-          "hook": "Two women treated for ovarian tumors had follow-up scans that looked exactly like cancer recurrence \u2014 but weren't.",
-          "pitch_angle": "A case report from Poland illustrates how post-treatment masses, PET-positive lesions, and elevated tumor markers in ovarian teratoma survivors can turn out to be benign conditions entirely, underscoring why expert pathological review matters before any further treatment decisions."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42448228",
-      "headline": "Fetal heart rate warning signs in early labor signal far greater risk than the same patterns later \u2014 study finds 5x higher acidemia odds",
-      "journal": "American Journal of Obstetrics & Gynecology MFM",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.1016/j.ajogmf.2026.102058",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers performed a secondary analysis of a prospective cohort of 5,273 singleton deliveries at \u226537 weeks, comparing neonatal outcomes when high-risk Category II electronic fetal monitoring (EFM) patterns appeared in the first versus second stage of labor. Among laboring patients with these concerning fetal heart rate patterns, those who delivered via cesarean in the first stage had more than five times the odds of neonatal acidemia (aOR 5.55) compared to those delivering in the second stage. The findings suggest that the same EFM warning signs carry meaningfully different risk depending on when in labor they appear.",
-      "why_it_matters": "For pregnant women and their care teams, this suggests that timing of fetal distress signals during labor \u2014 not just their presence \u2014 may matter for newborn outcomes.",
-      "caveats": "secondary analysis, single-center, observational design, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant perinatal finding; secondary analysis with observational limits reduces score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / General health",
-          "headline": "The Timing of Your Baby's Heart Rate Warning Signs During Labor May Matter More Than Doctors Realized",
-          "hook": "The same fetal monitoring alarm that flags trouble late in labor is five times more dangerous when it appears early \u2014 and a new study says that distinction could change how births are managed.",
-          "pitch_angle": "A large analysis found that concerning fetal heart rate patterns in early labor are associated with far worse newborn outcomes than identical patterns late in labor, suggesting current monitoring guidelines may need an update. For expectant parents, this is a reminder that labor monitoring is more nuanced than a simple alert system."
         }
       ],
       "run_date": "2026-07-20",
@@ -1021,33 +1375,6 @@
       "status": "new"
     },
     {
-      "pmid": "42463445",
-      "headline": "If a twin is head-down after 32 weeks, it almost always stays that way \u2014 offering new clarity for birth planning",
-      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/14767058.2026.2700830",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a retrospective cohort study of 263 twin pregnancies (166 dichorionic-diamniotic, 97 monochorionic-diamniotic) followed at a Spanish tertiary center between 2000 and 2025, assessing fetal presentation via ultrasound at 32 weeks and again near delivery. Overall, the first twin's presentation was stable in roughly half of cases, but when vertex (head-down) presentation was observed after 32 weeks, it remained stable in over 95% of pregnancies. Non-vertex first twins were more likely to shift position, with spontaneous vertex conversion occurring in 53\u201371% depending on chorionicity.",
-      "why_it_matters": "For women carrying twins, knowing that a head-down position after 32 weeks is highly likely to persist could reduce uncertainty around birth planning and support more individualized delivery counseling.",
-      "caveats": "observational design, single-center, retrospective, no sex-disaggregated data, Spain-based cohort",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Directly relevant to twin pregnancy outcomes; clean cohort but single-center retrospective.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / What to Expect-style parenting",
-          "headline": "Pregnant With Twins? If Baby A Is Head-Down After 32 Weeks, It's Very Likely to Stay That Way",
-          "hook": "A new study found that once the leading twin is in the vertex position after 32 weeks, it stays head-down in more than 95% of pregnancies \u2014 giving doctors and parents much clearer guidance for birth planning.",
-          "pitch_angle": "Researchers tracked fetal positioning in 263 twin pregnancies and found that vertex presentation after 32 weeks was remarkably stable, while non-vertex twins were far more likely to shift. The finding suggests that serial third-trimester ultrasounds may offer real reassurance \u2014 and better information \u2014 for families weighing vaginal delivery versus cesarean."
-        }
-      ],
-      "run_date": "2026-07-20",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42471035",
       "headline": "Food processing gets a rebranding: scientists say it could be the key to feeding the planet sustainably",
       "journal": "Critical Reviews in Food Science and Nutrition",
@@ -1102,33 +1429,6 @@
       "status": "new"
     },
     {
-      "pmid": "42461601",
-      "headline": "Quantum technology is coming for your diet \u2014 but scientists say it's not ready yet",
-      "journal": "Critical Reviews in Food Science and Nutrition",
-      "pubdate": "2026 Jul 16",
-      "doi": "10.1080/10408398.2026.2691231",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Canadian researchers conducted a scoping review of 58 articles examining applications of quantum sensing and quantum computing in food and nutrition science, covering literature through August 2024. Quantum dots showed promise for detecting vitamins and antioxidants in food, and quantum-inspired algorithms are being developed for personalized nutrition optimization. However, the review concluded that most applications remain early-stage with limited empirical validation, and practical benefits over classical computing methods are currently marginal.",
-      "why_it_matters": "For women interested in personalized nutrition technology, this suggests quantum-powered diet tools are still more hype than actionable science.",
-      "caveats": "scoping review only, no primary human data, no sex-disaggregated data, short follow-up, small evidence base (N=58 articles), limited empirical validation acknowledged by authors",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Personalized nutrition hook relevant to wellness readers; no human outcome data; early-stage field.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Quantum Computing Wants to Personalize Your Diet \u2014 Scientists Say Hold the Hype",
-          "hook": "Researchers reviewing the state of quantum technology in nutrition found that while algorithms capable of optimizing your personal diet are in development, the science is still far from ready for real-world use.",
-          "pitch_angle": "A scoping review of 58 studies found quantum sensing can detect vitamins and antioxidants in food with impressive precision, and quantum-inspired algorithms are being tested for personalized nutrition \u2014 but experts say the practical benefits over existing methods are currently marginal. Worth flagging for readers who've seen 'quantum nutrition' wellness marketing."
-        }
-      ],
-      "run_date": "2026-07-19",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42448889",
       "headline": "A 2012 study on honey-yogurt for pregnancy yeast infections is now under formal scientific concern",
       "journal": "Archives of Gynecology and Obstetrics",
@@ -1179,33 +1479,6 @@
       ],
       "run_date": "2026-07-19",
       "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42233276",
-      "headline": "Oral nutrition supplements improve quality of life in malnourished patients within one month \u2014 and the gains hold for six",
-      "journal": "Nutricion Hospitalaria",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.20960/nh.06156",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a prospective, real-world observational study of 590 adult patients (mean age 73.1 years) at risk of or experiencing malnutrition, who received home enteral nutrition exclusively as oral supplementation for six months across multiple Spanish hospital sites. The most common underlying conditions were cancer (39.8%) and neurodegenerative diseases (31.4%). Quality of life scores measured by the NutriQoL\u00ae tool improved significantly from month one through month six (p\u22640.001), and adherence to the supplement regimen exceeded 88% throughout.",
-      "why_it_matters": "Older women with cancer or neurodegenerative conditions are at high malnutrition risk, and this real-world data suggests oral nutritional supplements are both feasible and associated with sustained quality-of-life gains outside a hospital setting.",
-      "caveats": "observational design, no sex-disaggregated data, single-country (Spain), no control group, self-reported outcomes",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Clinically relevant but no sex-disaggregated data, no control group, Spain-specific.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Oral Nutrition Supplements Help Seriously Ill Older Adults Feel Better \u2014 and They Actually Keep Taking Them",
-          "hook": "A real-world study of nearly 600 patients found that simple oral nutrition drinks improved quality of life within a month \u2014 and people stuck with them.",
-          "pitch_angle": "For older adults managing cancer or neurological conditions at home, this Spanish study suggests oral nutritional supplements may offer a practical, well-tolerated way to support wellbeing without hospitalization. With adherence above 88% over six months, the findings hint that the biggest barrier \u2014 getting people to actually use them \u2014 may be more manageable than assumed."
-        }
-      ],
-      "run_date": "2026-07-19",
-      "category": "Nutritional Sciences",
       "chunk": "2/2",
       "status": "new"
     },
