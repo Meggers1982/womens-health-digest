@@ -1,365 +1,890 @@
 {
-  "last_updated": "2026-07-23T12:21:55.690107+00:00",
-  "total_studies": 359,
-  "new_this_run": 13,
+  "last_updated": "2026-07-24T12:16:27.197838+00:00",
+  "total_studies": 370,
+  "new_this_run": 11,
   "studies": [
     {
-      "pmid": "42481890",
-      "headline": "Sleeve gastrectomy improves metabolism fast \u2014 but silently drains folate, iron stores, zinc, and B12 in women within the first year",
-      "journal": "Obesity Surgery",
-      "pubdate": "2026 Jul 22",
-      "doi": "10.1007/s11695-026-08850-8",
-      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "pmid": "42490582",
+      "headline": "Single doses of psilocybin or MDMA don't appear to harm working memory \u2014 and may actually improve it",
+      "journal": "Journal of Psychopharmacology",
+      "pubdate": "2026 Jul 23",
+      "doi": "10.1177/02698811261464991",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tracked biochemical markers in 340 Brazilian women (reproductive-age and older) before and at four intervals across the first year after sleeve gastrectomy. While metabolic markers \u2014 blood sugar, triglycerides, liver enzymes, inflammation \u2014 improved rapidly and held steady, nutritional biomarkers followed a sharply different trajectory: folate dropped by more than two-thirds within 40 days, ferritin declined continuously despite rising serum iron, and zinc and B12 showed progressive depletion throughout the year. Multivariate analyses confirmed that metabolic recovery and nutritional adequacy are partially dissociated processes.",
-      "why_it_matters": "For women of reproductive age considering or recovering from sleeve gastrectomy, this study suggests that feeling metabolically better after surgery may mask serious micronutrient depletion that requires close biochemical monitoring \u2014 not just clinical symptoms \u2014 to detect.",
-      "caveats": "observational design, single-center, retrospective cohort, Brazil-specific population (findings on supplementation context may not fully generalize), self-reported or routine clinical data",
+      "summary": "In an uncontrolled exploratory study, 29 healthy adults received a single dose of psilocybin and 29 received a single dose of MDMA, with working memory and brain activity (EEG) measured before and after dosing. Rather than showing cognitive impairment, both groups demonstrated improved working memory accuracy at a 3-month follow-up, and the MDMA group showed improved accuracy even in the immediate post-dosing session. The study was uncontrolled and lacked a placebo arm, limiting causal conclusions.",
+      "why_it_matters": "As psychedelic-assisted therapies expand in clinical contexts where women are seeking treatment for PTSD, depression, and trauma, early evidence suggesting no working memory harm from single controlled exposures is relevant to the safety conversation.",
+      "caveats": "small sample (N<100), observational design, no sex-disaggregated data, uncontrolled study (no placebo arm), short follow-up for some measures, single-center",
       "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "All-female sample (N=340), counterintuitive dissociation finding, strong reproductive/nutritional health hook.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive psychedelic safety finding but very small, uncontrolled sample; no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "One Dose of Psilocybin or MDMA Didn't Hurt Working Memory in Healthy Adults \u2014 It May Have Helped",
+          "hook": "Researchers found no sign of cognitive impairment after a single controlled dose of psilocybin or MDMA \u2014 and both groups actually showed better working memory accuracy three months later.",
+          "pitch_angle": "An exploratory Australian study tracked brain activity and cognitive performance in healthy adults before and after a single psychedelic dose, finding improvements rather than declines in working memory at follow-up. While the uncontrolled design means these results need replication, the findings are relevant for women considering psychedelic-assisted therapy for trauma or depression who worry about cognitive side effects."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Fear That Psychedelics Will 'Fry Your Brain'? A New Study Pushes Back \u2014 With Caveats",
+          "hook": "A small but carefully measured study found that one dose of psilocybin or MDMA in a controlled setting left working memory intact \u2014 and may have enhanced it months later.",
+          "pitch_angle": "As psychedelic therapy moves closer to mainstream mental health treatment, one of the biggest concerns has been long-term cognitive harm \u2014 but this uncontrolled study found the opposite pattern in healthy adults. Experts caution that without a placebo group the results aren't definitive, but the neurophysiological data adds a meaningful early data point to the safety debate."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42489827",
+      "headline": "Having a second vaginal birth doesn't make pelvic floor enlargement significantly worse \u2014 but C-sections may actually shrink the hiatus over time",
+      "journal": "Ultrasound in Obstetrics & Gynecology",
+      "pubdate": "2026 Jul 23",
+      "doi": "10.1002/uog.70278",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers followed 183 initially nulliparous women from 21 weeks of pregnancy through 8 years after their first delivery in a prospective Norwegian cohort study with an 8-year recall extension, using transperineal ultrasound to measure levator hiatus area. Women who delivered exclusively by Cesarean section showed a decrease in levator hiatus area over 8 years, while those with at least one vaginal delivery showed an overall increase. Notably, having a subsequent vaginal delivery after an initial vaginal birth did not significantly affect levator hiatus area measured during Valsalva maneuver.",
+      "why_it_matters": "These findings suggest that the pelvic floor changes most dramatically with the first vaginal birth, which may help inform how clinicians and women think about birth mode choices and long-term pelvic floor health.",
+      "caveats": "small sample (N<100 in some subgroups), single-center, observational design, Norwegian population (may not generalize to all ethnic/demographic groups), short follow-up relative to full reproductive lifespan",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive pelvic floor finding, 8-year longitudinal design, reproductive health relevance for women.",
       "pitch_angles": [
         {
           "publication_type": "Women's Health Magazine / Self",
-          "headline": "Feeling Great After Weight-Loss Surgery? Your Nutrient Levels May Tell a Very Different Story",
-          "hook": "Within just 40 days of sleeve gastrectomy, women's folate levels dropped by more than two-thirds \u2014 even as their blood sugar, cholesterol, and inflammation all improved.",
-          "pitch_angle": "A study of 340 women found that the metabolic wins from sleeve gastrectomy arrive fast, but a hidden nutritional cost accumulates silently beneath the surface \u2014 depleting folate, iron stores, zinc, and B12 before any symptoms appear. The finding reframes post-bariatric wellness: looking healthy on paper doesn't mean your body has what it needs."
+          "headline": "Your Second Vaginal Birth May Not Hurt Your Pelvic Floor as Much as You Think",
+          "hook": "New 8-year data suggest it's the first vaginal delivery \u2014 not subsequent ones \u2014 that drives the biggest pelvic floor changes.",
+          "pitch_angle": "A prospective Norwegian study tracking women's pelvic floors from pregnancy through 8 years postpartum found that a second vaginal birth didn't significantly worsen levator hiatus enlargement \u2014 and surprisingly, women who had only C-sections actually saw their hiatus area shrink over time, upending common assumptions about birth mode and long-term pelvic floor health."
         },
         {
-          "publication_type": "Prevention / Well+Good",
-          "headline": "After Weight-Loss Surgery, Your Body May Be Running on Empty Nutrients \u2014 Here's What the Lab Tests Show",
-          "hook": "A new study tracking women through their first year after sleeve gastrectomy found that micronutrient deficiencies set in quietly and early, long before any clinical warning signs.",
-          "pitch_angle": "Researchers found that while metabolic health bounced back quickly after sleeve gastrectomy in 340 women, nutritional status followed a separate, deteriorating path \u2014 suggesting that routine symptom-based follow-up may not catch deficiencies in time. For women navigating life after bariatric surgery, this study underscores why frequent bloodwork matters even when you feel fine."
+          "publication_type": "Prevention",
+          "headline": "What 8 Years of Data Reveal About Childbirth and Your Pelvic Floor",
+          "hook": "The pelvic floor changes most with a first vaginal delivery \u2014 and a second may add less damage than many women fear, new research suggests.",
+          "pitch_angle": "Researchers followed nearly 200 women from pregnancy through 8 years after delivery and found that C-section was associated with a smaller pelvic floor opening over time, while vaginal birth \u2014 particularly the first \u2014 drove the most significant enlargement, offering new nuance for women weighing birth options and pelvic floor recovery."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42489179",
+      "headline": "In Ethiopia, where a young woman lives predicts whether she's ever heard of obstetric fistula \u2014 a condition that can leave her incontinent for life",
+      "journal": "International Journal of Gynaecology and Obstetrics",
+      "pubdate": "2026 Jul 23",
+      "doi": "10.1002/ijgo.71226",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using 2016 Ethiopian Demographic and Health Survey data, researchers applied geographically weighted regression to analyze spatial patterns of obstetric fistula (OF) awareness among 15\u201324-year-old women in Ethiopia. Lack of OF awareness was significantly clustered geographically (Global Moran's I = 0.33), with hot spots in the Afar, Amhara, Gambella, Oromia, SNNP, and Somali regions. Education level, perceived distance to health facilities, employment, internet use, and sexual experience were associated with awareness gaps, with the strength and direction of associations varying by location.",
+      "why_it_matters": "Obstetric fistula remains a devastating and largely preventable condition; understanding where awareness is lowest \u2014 and why it varies by geography \u2014 is essential for designing targeted prevention and education programs in high-burden regions.",
+      "caveats": "observational design, self-reported outcomes, secondary analysis, data from 2016 Ethiopian DHS (outdated), Ethiopia-specific context unlikely to generalize to US/global readership",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Ethiopia-specific, 2016 data, global health angle with limited US/lifestyle relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Geography Determines Whether Young Women in Ethiopia Know About One of Childbirth's Most Devastating Complications",
+          "hook": "Where a young Ethiopian woman lives \u2014 not just her education level \u2014 strongly predicts whether she's ever heard of obstetric fistula.",
+          "pitch_angle": "A spatial analysis of national survey data found that awareness of obstetric fistula among Ethiopian women aged 15\u201324 clusters geographically, with several regions disproportionately in the dark. The findings suggest that one-size-fits-all health education campaigns miss the mark \u2014 and that targeted, location-specific interventions are needed to address a condition that can destroy a woman's quality of life."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42481890",
+      "headline": "After sleeve gastrectomy, women's metabolic markers improve fast \u2014 but their nutritional status quietly collapses within weeks",
+      "journal": "Obesity Surgery",
+      "pubdate": "2026 Jul 22",
+      "doi": "10.1007/s11695-026-08850-8",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This retrospective cohort study tracked 340 Brazilian women undergoing sleeve gastrectomy, measuring biochemical markers at five time points over the first postoperative year. Metabolic indicators \u2014 including blood glucose, triglycerides, liver enzymes, and HDL cholesterol \u2014 improved rapidly and stayed stable. By contrast, folate dropped by more than two-thirds within 40 days, and ferritin, zinc, and vitamin B12 continued declining throughout the year, often before any clinical symptoms appeared.",
+      "why_it_matters": "Women considering or recovering from sleeve gastrectomy need to know that feeling metabolically better doesn't mean their nutritional status is safe \u2014 silent deficiencies may develop long before symptoms emerge.",
+      "caveats": "observational design, single-center, retrospective cohort, Brazil-specific population (generalizability to US patients uncertain), self-reported outcomes not applicable \u2014 biochemical data used, short follow-up (one year)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "All-female sample N=340, counterintuitive dissociation finding, strong postoperative women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Sleeve Surgery Can Make Your Lab Numbers Look Great While Your Body Is Running on Empty",
+          "hook": "A study of 340 women found that blood sugar and cholesterol improved dramatically after sleeve gastrectomy \u2014 but critical nutrients like folate and iron stores were quietly tanking within weeks.",
+          "pitch_angle": "Researchers discovered that metabolic recovery and nutritional status are essentially on separate tracks after sleeve gastrectomy, with micronutrient deficiencies beginning early and worsening silently \u2014 a gap that's especially consequential for women of reproductive age."
+        },
+        {
+          "publication_type": "Self",
+          "headline": "Feeling Better After Weight Loss Surgery Doesn't Mean Your Body Is Getting What It Needs",
+          "hook": "Within just 40 days of sleeve gastrectomy, folate levels dropped by more than two-thirds in a study of 340 women \u2014 even as their metabolic health measures looked better than ever.",
+          "pitch_angle": "The finding challenges the assumption that improving metabolic markers signals overall health recovery, and highlights the urgent need for close nutritional monitoring in women after bariatric procedures."
+        }
+      ],
+      "run_date": "2026-07-24",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42484826",
-      "headline": "A swallowable weight-loss balloon trial was halted after two patients needed emergency surgery for intestinal blockage",
+      "headline": "A swallowable weight-loss balloon intended to be safer was pulled from its first human trial after two emergency surgeries",
       "journal": "Obesity Surgery",
       "pubdate": "2026 Jul 22",
       "doi": "10.1007/s11695-026-08845-5",
-      "groundbreaking": "First-in-class human study",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A first-in-human prospective trial of a novel swallowable self-expanding intragastric balloon (IGBalloon\u00a9) \u2014 designed with a kidney shape to reduce migration \u2014 was terminated early after enrolling only five patients at a single Austrian center. Two of the five developed small bowel obstruction caused by balloon migration through the pylorus, requiring emergency laparoscopic surgery. The trial's primary endpoints of safety and efficacy were not met, and researchers concluded the device in its current form is not suitable for clinical use.",
-      "why_it_matters": "As non-surgical weight-loss interventions grow in popularity among women seeking alternatives to invasive bariatric procedures, this safety signal highlights that 'swallowable' does not mean risk-free.",
-      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, trial terminated early",
+      "summary": "This prospective first-in-human trial at a Vienna tertiary center was designed to test a novel swallowable, self-expanding intragastric balloon (IGBalloon\u00a9) with a kidney-shaped design intended to prevent migration. The trial was terminated after enrolling only five of a planned 20 patients when two developed small bowel obstructions requiring emergency laparoscopic surgery to remove migrated balloons. The device was deemed unsafe in its current form.",
+      "why_it_matters": "Women, who make up the majority of bariatric procedure patients, should be aware that novel swallowable balloon devices marketed as minimally invasive alternatives to surgery may carry serious undisclosed risks before they reach clinical use.",
+      "caveats": "small sample (N=5), single-center, trial terminated early, no sex-disaggregated data, no efficacy data available",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "First-in-human safety signal; relevant wellness hook; very small N and trial terminated early.",
+      "relevance_score": 5,
+      "relevance_score_reason": "First-in-human safety signal is newsworthy; extremely small N and early termination limit conclusions.",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine / Well+Good",
-          "headline": "A 'Swallowable' Weight-Loss Balloon Landed Two Patients in Emergency Surgery \u2014 Here's What Happened",
-          "hook": "A clinical trial of a pill-sized stomach balloon that was supposed to be safer than traditional weight-loss devices was shut down after causing life-threatening intestinal blockages in two of five patients.",
-          "pitch_angle": "The trial of the IGBalloon\u00a9 \u2014 a kidney-shaped device designed to be swallowed without endoscopy \u2014 was halted when the balloon migrated out of the stomach and blocked the small intestine in 40% of participants. For women drawn to non-surgical obesity treatments, this early safety failure is a cautionary reminder that minimally invasive doesn't guarantee minimal risk."
+          "publication_type": "Well+Good",
+          "headline": "A 'Swallowable' Weight Loss Balloon Was Supposed to Be the Safer Option \u2014 Then the Trial Was Shut Down",
+          "hook": "A new swallowable intragastric balloon designed to avoid the risks of traditional devices caused two emergency surgeries in its very first human trial \u2014 and the study was immediately halted.",
+          "pitch_angle": "The kidney-shaped IGBalloon\u00a9 migrated past the stomach in two of five patients, causing small bowel obstructions that required emergency laparoscopic removal \u2014 a cautionary finding for anyone intrigued by the growing market of pill-style weight management devices."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42485572",
-      "headline": "A borderline blood sugar reading in early pregnancy may not be the red flag doctors think it is",
+      "headline": "A mild blood sugar blip in early pregnancy may not predict gestational diabetes after all",
       "journal": "Archives of Endocrinology and Metabolism",
       "pubdate": "2026 Jul 22",
       "doi": "10.20945/2359-4292-2026-0077",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers followed 114 pregnant women in Brazil who had mildly elevated fasting plasma glucose (92\u201399 mg/dL) in the first trimester, comparing those whose levels normalized on retest (no treatment given) to those with persistently elevated levels and to a normal-glucose control group. Women whose early glucose elevation did not persist had similar rates of gestational diabetes diagnosis at 24\u201328 weeks (27.3% vs. 20.0%, p=0.594) and similar pregnancy outcomes compared to the normal-glucose group. The findings suggest that a single mild, non-persistent first-trimester glucose elevation may not independently raise GDM risk.",
-      "why_it_matters": "For pregnant women, this suggests that one borderline glucose reading early in pregnancy \u2014 if it normalizes on retest \u2014 may not warrant the same concern or immediate intervention as a persistent elevation.",
-      "caveats": "small sample (N<100 per group), observational design, single-center, short follow-up, regional population (Brazil) \u2014 results may not generalize to all healthcare systems or ethnic populations",
+      "summary": "Researchers followed 114 pregnant women in Brazil who had mildly elevated fasting plasma glucose (92\u201399 mg/dL) in the first trimester, retesting them 3\u20134 weeks later. Women whose glucose normalized on retest (n=33) were not treated for early gestational diabetes and instead received a standard glucose tolerance test at 24\u201328 weeks. That group showed no significant difference in gestational diabetes diagnosis rates compared to women who had normal glucose from the start (27.3% vs. 20.0%, p=0.594), and other pregnancy outcomes were similarly comparable.",
+      "why_it_matters": "This suggests that a single mildly elevated early-pregnancy glucose reading that normalizes on retest may not warrant immediate treatment \u2014 a reassuring finding for pregnant women anxious about borderline results.",
+      "caveats": "small sample (N<100 per group), observational design, single-center, Brazil-specific population (findings may not generalize to other ethnicities or healthcare systems), short follow-up",
       "fact_check_note": "",
       "relevance_score": 7,
-      "relevance_score_reason": "Pregnant population, counterintuitive finding, clean prospective design; limited by small groups and single-center Brazil setting.",
+      "relevance_score_reason": "Relevant women's reproductive health finding; small sample limits confidence; counterintuitive result.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / General health",
-          "headline": "That 'borderline' blood sugar result early in pregnancy may not predict gestational diabetes after all",
-          "hook": "A mild glucose spike in the first trimester that corrects itself on retest may carry no more risk than a perfectly normal reading \u2014 new research suggests.",
-          "pitch_angle": "Brazilian researchers found that pregnant women whose first-trimester fasting glucose was mildly elevated but normalized within weeks had virtually the same gestational diabetes rates and pregnancy outcomes as women who never had elevated glucose at all. The finding challenges the assumption that any early blood sugar flag demands immediate intervention."
-        },
-        {
-          "publication_type": "Self / Well+Good",
-          "headline": "Pregnant and stressed about a slightly high blood sugar reading? Here's what new research actually says",
-          "hook": "One imperfect glucose number in your first trimester may not be the warning sign it seems \u2014 if it disappears on a follow-up test.",
-          "pitch_angle": "A new prospective study found that pregnant women with mildly elevated but non-persistent first-trimester fasting glucose had pregnancy outcomes nearly identical to those with normal glucose levels throughout, suggesting a retest matters far more than a single reading. Experts say this could shift how clinicians counsel \u2014 and reassure \u2014 early-pregnancy patients about borderline results."
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "That Scary Early Blood Sugar Reading in Pregnancy Might Not Mean What You Think",
+          "hook": "A mildly elevated glucose test in the first trimester that returns to normal weeks later may be no cause for alarm \u2014 new research suggests it doesn't raise the risk of gestational diabetes.",
+          "pitch_angle": "Brazilian researchers found that pregnant women whose borderline-high fasting glucose normalized on a repeat test had similar outcomes to women with consistently normal readings. For pregnant women already anxious about gestational diabetes, this early evidence offers an important nuance worth discussing with their OB."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42482653",
-      "headline": "A simple ultrasound belly fat measurement in early pregnancy may flag gestational diabetes risk months before standard testing",
+      "headline": "A simple belly ultrasound in early pregnancy may flag gestational diabetes risk months before standard screening",
       "journal": "International Journal of Gynaecology and Obstetrics",
       "pubdate": "2026 Jul 22",
       "doi": "10.1002/ijgo.71242",
-      "groundbreaking": "Relevant women's health finding",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a prospective cohort study of 268 pregnant women undergoing first-trimester aneuploidy screening (11\u201313+6 weeks) at the University of Pisa, Italy (2019\u20132020), researchers measured abdominal subcutaneous fat thickness (ASFT) and perirenal fat thickness by ultrasound alongside standard clinical risk factors. GDM developed in 23.9% of the cohort, and women with GDM had significantly higher ASFT; after adjusting for BMI, ASFT remained independently associated with GDM risk (OR 2.31). Adding ASFT to standard risk factors improved sensitivity for GDM detection from 85.9% to 95.3%, though specificity decreased.",
-      "why_it_matters": "This suggests that a quick ultrasound fat measurement taken at the same appointment as routine first-trimester screening could help identify pregnant women at elevated risk for gestational diabetes far earlier than standard glucose testing, potentially allowing earlier monitoring and lifestyle support.",
-      "caveats": "observational design, single-center, short follow-up, finding is tied to a single non-US/non-multinational region's healthcare system",
+      "summary": "In a prospective observational cohort of 268 singleton pregnancies (11\u201313+6 weeks gestation) at a University of Pisa hospital in Italy (2019\u20132020), researchers measured abdominal subcutaneous fat thickness (ASFT) and perirenal fat thickness (RFT) via transabdominal ultrasound during routine first-trimester aneuploidy screening. GDM developed in 23.9% of the cohort; after adjustment for BMI and fasting glucose, ASFT \u2014 but not RFT \u2014 remained independently associated with GDM risk (OR 2.31, 95% CI 1.17\u20134.72). Adding ASFT to standard risk factors modestly improved sensitivity for GDM detection from 85.9% to 95.3%, though with reduced specificity.",
+      "why_it_matters": "Gestational diabetes affects roughly 1 in 10 pregnancies and is often not diagnosed until the second trimester; a first-trimester ultrasound marker that could be measured during an already-scheduled scan may help identify at-risk women earlier.",
+      "caveats": "observational design, single-center, short follow-up, modest AUC improvement (0.71 to 0.75), Italy-specific population",
       "fact_check_note": "",
       "relevance_score": 7,
-      "relevance_score_reason": "Pregnant population, clear prenatal health hook, prospective design; single-center Italian cohort limits generalizability.",
+      "relevance_score_reason": "Pregnancy-specific, prospective cohort, clear clinical hook; modest predictive gain limits impact.",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine / Self",
-          "headline": "Your First Prenatal Ultrasound Could Soon Screen for Gestational Diabetes \u2014 Here's How",
-          "hook": "A belly fat measurement taken during a routine first-trimester ultrasound could flag gestational diabetes risk months before the standard glucose test, new research suggests.",
-          "pitch_angle": "Italian researchers found that measuring abdominal subcutaneous fat thickness at 11\u201313 weeks of pregnancy \u2014 at the same visit as routine chromosomal screening \u2014 was independently associated with gestational diabetes risk and boosted detection sensitivity to over 95%. The finding is early and from a single center, but it raises the possibility of folding GDM risk assessment into an appointment most pregnant women already attend."
+          "publication_type": "Prevention",
+          "headline": "Your First-Trimester Ultrasound Could Soon Double as an Early Diabetes Warning",
+          "hook": "A belly fat measurement taken during a routine early pregnancy scan may predict gestational diabetes risk before standard blood tests are even done.",
+          "pitch_angle": "Italian researchers found that measuring abdominal fat thickness by ultrasound at 11\u201314 weeks was independently linked to gestational diabetes \u2014 a condition usually caught at 24\u201328 weeks. If confirmed in larger studies, it could mean earlier intervention and better outcomes for pregnant women."
         },
         {
-          "publication_type": "Prevention",
-          "headline": "Could a Simple Ultrasound Catch Pregnancy Diabetes Before It Starts?",
-          "hook": "Researchers found that measuring belly fat via ultrasound in the first trimester nearly closed the gap on missed gestational diabetes cases.",
-          "pitch_angle": "A prospective study of 268 pregnant women found that adding a subcutaneous fat measurement to standard first-trimester screening raised gestational diabetes detection rates from 86% to 95% \u2014 without any additional blood tests. While the study is small and from one Italian hospital, it points to an accessible tool that could give pregnant women and their providers more lead time for intervention."
+          "publication_type": "Self",
+          "headline": "Researchers Found a New Way to Spot Gestational Diabetes Risk Super Early in Pregnancy",
+          "hook": "A simple fat-tissue measurement during a scan you're already getting could flag gestational diabetes months before today's standard test.",
+          "pitch_angle": "A new prospective study suggests that abdominal subcutaneous fat thickness \u2014 measurable by a standard ultrasound \u2014 was associated with more than double the odds of gestational diabetes, independent of BMI. For pregnant women and their care teams, this raises the possibility of earlier, more personalized monitoring."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42482069",
-      "headline": "During COVID-19, women still sought abortion and contraception care \u2014 and telemedicine triage helped them get it",
+      "headline": "Telemedicine kept Italian women coming to reproductive health clinics even during COVID-19 lockdowns",
       "journal": "Reproductive Health",
       "pubdate": "2026 Jul 22",
       "doi": "10.1186/s12978-026-02341-w",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a mixed-methods cross-sectional study at a tertiary hospital in Verona, Italy, researchers administered WHO-validated questionnaires to 100 clients of sexual and reproductive health (SRH) services over 11 months (December 2021\u2013November 2022) and conducted in-depth interviews with 30 additional clients accessing abortion, family planning, and STI services. Services continued operating without supply shortages, and remote consultation emerged as the primary access method, which clients described as time-saving and helpful. Key barriers included facility relocation and restrictions on support persons, while perceived COVID-19 risk did not deter clients from seeking care.",
-      "why_it_matters": "The findings suggest that telemedicine triage for sexual and reproductive health services \u2014 including abortion and contraception \u2014 helped maintain access during a major health emergency and was well-received by women, with implications for how these services are structured going forward.",
-      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, finding is tied to a single non-US/non-multinational region's healthcare system (Italy; abortion access context differs substantially from the US)",
+      "summary": "Researchers conducted a mixed-methods cross-sectional study at a tertiary care university hospital in Verona, Italy, surveying 100 clients (average age 35) accessing sexual and reproductive health services \u2014 including contraception, abortion, STI care, and anti-violence services \u2014 over 11 months (December 2021\u2013November 2022). In-depth interviews with 30 additional clients explored barriers and facilitators. Despite some facility relocations and restrictions on support persons, services remained operational, and most clients found remote triage helpful, clear, and time-saving \u2014 with fear of COVID-19 not deterring care-seeking.",
+      "why_it_matters": "For women navigating reproductive health services during any health emergency, this study suggests that telemedicine triage may meaningfully reduce barriers without reducing care access.",
+      "caveats": "small sample (N<100 for interviews), observational design, single-center, self-reported outcomes, Italy-specific healthcare system context unlikely to generalize directly to US settings",
       "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant reproductive health topic; very small Italian sample, pandemic-era context, and country-specific abortion framework limit US applicability.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Reproductive health topic fit, but Italy-specific context, small sample, limited US relevance.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Even During a Pandemic, Women Showed Up for Abortion and Contraception Care \u2014 Telehealth Made It Possible",
-          "hook": "New research from Italy found that women continued to seek abortion, contraception, and STI care throughout COVID-19 lockdowns, and that telemedicine triage was key to making it work.",
-          "pitch_angle": "A small mixed-methods study of 100 reproductive health clients during the pandemic found that remote consultation allowed women to plan in-person visits after initial triage, reducing barriers and wait times \u2014 and that perceived COVID risk didn't stop women from accessing care they needed. While the findings are from a single Italian hospital and the abortion-access context differs from the US, the case for embedding telehealth into routine reproductive health services is increasingly hard to ignore."
+          "publication_type": "Well+Good",
+          "headline": "Telehealth Made Reproductive Care More Accessible During COVID \u2014 and Women Want to Keep It",
+          "hook": "Even during a global pandemic, women didn't stop seeking contraception, abortion, and STI care \u2014 and virtual triage made it easier.",
+          "pitch_angle": "An Italian study found that remote consultation helped women access reproductive health services throughout the pandemic without delaying care. The finding adds to growing evidence that telehealth should be a permanent fixture in reproductive healthcare, not just an emergency workaround."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
+      "pmid": "42482329",
+      "headline": "Women with type 1 diabetes need meaningfully more insulin during their luteal phase \u2014 and current tech isn't keeping up",
+      "journal": "Diabetes Care",
+      "pubdate": "2026 Jul 22",
+      "doi": "10.2337/dc26-0692",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a decentralized observational study, 77 menstruating adults with type 1 diabetes using automated insulin delivery (AID) systems contributed real-world data from 380 menstrual cycles. Insulin requirements and carbohydrate intake peaked during the luteal phase, accompanied by higher mean glucose and reduced time in range. A Bayesian modeling approach found insulin sensitivity was about 2.6% higher in the early follicular phase compared to the midluteal phase, though substantial individual variation was observed.",
+      "why_it_matters": "This study reinforces that menstrual cycle-driven changes in insulin sensitivity are real and measurable \u2014 and highlights a gap in current diabetes technology and guidelines that could leave women with type 1 diabetes less protected against glucose swings for roughly half of every month.",
+      "caveats": "small sample (N=77), observational design, self-reported menstrual cycle data, short follow-up per individual, international cohort (Switzerland, US, Germany)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Women-only sample; counterintuitive tech-gap finding; clear lifestyle/wellness hook; reproductive health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self / Well+Good",
+          "headline": "Women With Type 1 Diabetes Need More Insulin During Their Period \u2014 and Smart Pumps Don't Know It Yet",
+          "hook": "New research confirms that insulin needs shift significantly across the menstrual cycle in women with type 1 diabetes \u2014 and the cutting-edge devices meant to manage their blood sugar aren't designed to account for it.",
+          "pitch_angle": "A study of 77 women found insulin requirements and blood glucose rose during the luteal phase (the days before a period), while sensitivity improved in the early follicular phase \u2014 yet current automated insulin delivery systems and clinical guidelines don't adjust for these hormonal shifts, leaving a real gap in care for menstruating women with T1D."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Why Women With Type 1 Diabetes Are Being Let Down by Their Own Insulin Pumps",
+          "hook": "Menstrual hormones measurably disrupt blood sugar control in women with type 1 diabetes \u2014 but the tech designed to help them still treats all days of the month the same.",
+          "pitch_angle": "This study is part of a broader pattern of medical technology designed without women's physiology in mind: automated insulin pumps don't account for cycle-phase changes in insulin sensitivity, and current clinical guidelines don't either \u2014 a gap that researchers say urgently needs to be addressed."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42486145",
+      "headline": "Seeing a dietitian at your doctor's office saves money \u2014 especially when done virtually",
+      "journal": "Nutrition Reviews",
+      "pubdate": "2026 Jul 22",
+      "doi": "10.1093/nutrit/nuag051",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a systematic review and meta-analysis of 25 randomized controlled trials to evaluate the cost-effectiveness of nutrition interventions delivered by qualified nutrition professionals in primary care settings. Pooled incremental net benefit favored cost-effectiveness from a societal perspective (\u20ac650.32), though health care system costs showed initial investment requirements (-\u20ac402.65). Telehealth-delivered and diabetes-focused nutrition interventions demonstrated the strongest economic outcomes.",
+      "why_it_matters": "As women are disproportionately affected by diet-related chronic conditions like type 2 diabetes and cardiovascular disease, evidence that primary care nutrition counseling \u2014 especially via telehealth \u2014 is cost-effective strengthens the case for broader insurance coverage and access.",
+      "caveats": "no sex-disaggregated data, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Solid RCT-based meta-analysis; no female-specific data; policy-level finding with moderate lifestyle hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "A Dietitian Visit at Your Doctor's Office Pays for Itself \u2014 Especially Over Video",
+          "hook": "A new meta-analysis of 25 randomized trials finds that nutrition counseling in primary care is cost-effective from a societal standpoint \u2014 and telehealth delivery produces the strongest economic returns.",
+          "pitch_angle": "The research suggests that integrating dietitians into routine primary care \u2014 particularly through virtual platforms \u2014 could reduce the long-term health costs of diet-related chronic disease. For women navigating limited time and healthcare access, the finding adds weight to asking their doctor for a nutrition referral, or seeking out telehealth options."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42479050",
-      "headline": "When you eat your first meal of the day may affect your thyroid hormone levels, a new study suggests",
+      "headline": "Skipping an early breakfast may alter a key thyroid hormone \u2014 even in healthy adults",
       "journal": "European Journal of Nutrition",
       "pubdate": "2026 Jul 21",
       "doi": "10.1007/s00394-026-04066-9",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a cross-sectional study among 608 healthy adults (aged \u226518 years) in Wuhan, China, collecting chrononutrition data \u2014 timing of first meal, last meal, and eating window \u2014 via face-to-face interview and measuring fasting thyroid hormone levels (TSH, FT3, FT4). Participants who ate their first meal after 8:30 a.m. had significantly higher TSH levels compared to those who ate at or before 7:30 a.m., after full adjustment for confounders. Neither the timing of the last meal nor the length of the eating window was significantly associated with TSH, and no associations were found for FT3 or FT4.",
-      "why_it_matters": "Since thyroid dysfunction is far more common in women, and TSH levels influence energy, metabolism, and mood, findings suggesting that breakfast timing may be linked to TSH regulation could be meaningful for women managing or monitoring thyroid health \u2014 though this observational study cannot establish cause and effect.",
-      "caveats": "observational design, cross-sectional, single-center, self-reported outcomes, no sex-disaggregated data, single non-US regional context (Wuhan, China)",
+      "summary": "A cross-sectional study of 608 healthy adults aged 18 and older in China examined whether the timing of the first meal, last meal, and eating window were associated with thyroid hormone levels. Researchers collected fasting blood samples measuring TSH, FT3, and FT4, and analyzed eating timing data via face-to-face interviews. Adults who ate their first meal after 8:30 a.m. had significantly higher TSH levels than those who ate by 7:30 a.m., while last meal timing and eating window duration were not significantly associated with thyroid hormones.",
+      "why_it_matters": "Since thyroid disorders are far more common in women than men, the finding that first-meal timing \u2014 not intermittent fasting window length \u2014 may be associated with TSH levels adds an overlooked dimension to women's thyroid and metabolic health conversations.",
+      "caveats": "observational design, cross-sectional, single-center, self-reported outcomes, finding is tied to a Chinese study population with eating patterns that may not generalize to Western contexts, no sex-disaggregated data reported",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Thyroid relevance for women, counterintuitive timing finding, but no female-specific analysis and cross-sectional design.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Thyroid angle is highly relevant to women but no sex-disaggregated data, cross-sectional, China-specific population.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "The Overlooked Reason Your Thyroid Levels Might Be Off? When You Eat Breakfast",
-          "hook": "It's not just what you eat \u2014 a new study suggests the timing of your first meal may be linked to a key thyroid hormone.",
-          "pitch_angle": "A study of 608 adults found that eating breakfast after 8:30 a.m. was associated with higher TSH levels compared to eating before 7:30 a.m. \u2014 a surprising chrononutrition finding that may be particularly relevant for women, who are disproportionately affected by thyroid conditions."
+          "headline": "The Intermittent Fasting Detail That Could Actually Affect Your Thyroid",
+          "hook": "New research suggests it's not how long your fasting window is that affects a key thyroid hormone \u2014 it's what time you eat your first meal.",
+          "pitch_angle": "A study of 608 adults found that eating breakfast after 8:30 a.m. was associated with higher TSH levels, while eating window length had no significant link to thyroid markers. For women who fast for metabolic benefits, this suggests the timing of breaking the fast may deserve more attention than the window itself."
         },
         {
           "publication_type": "Prevention",
-          "headline": "Could Skipping Early Breakfast Affect Your Thyroid? New Research Says Maybe",
-          "hook": "If you've been pushing breakfast later and later, your thyroid hormone levels might be paying the price \u2014 at least according to a new observational study.",
-          "pitch_angle": "Researchers found that adults who ate their first meal after 8:30 a.m. had measurably higher TSH levels than early eaters, suggesting meal timing \u2014 not just eating window length \u2014 may matter for thyroid regulation; the finding is preliminary but adds to growing evidence that when you eat shapes hormonal health."
+          "headline": "Could Delaying Breakfast Affect Your Thyroid? A New Study Raises the Question",
+          "hook": "Researchers found that adults who ate their first meal after 8:30 a.m. had measurably higher TSH levels \u2014 a signal that when you eat may matter for thyroid function.",
+          "pitch_angle": "The study adds a nuanced wrinkle to popular intermittent fasting advice by suggesting that the start time of eating \u2014 not just the duration of fasting \u2014 may be associated with thyroid-stimulating hormone levels. Thyroid conditions are significantly more common in women, making this an angle worth exploring further."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42479677",
-      "headline": "Your saliva might one day reveal how your brain's chemical messengers are functioning",
+      "headline": "A spit test might one day screen for depression or track antidepressant response \u2014 here's where the science actually stands",
       "journal": "Neuropsychobiology",
       "pubdate": "2026 Jul 21",
       "doi": "10.1159/000553317",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review evaluates existing evidence on whether monoamine neurotransmitters \u2014 including dopamine, serotonin, norepinephrine, and epinephrine \u2014 can be reliably measured in saliva as a non-invasive proxy for central nervous system function. The authors assessed studies across healthy and clinical populations, finding that salivary monoamine measurement shows potential for monitoring psychiatric and neuroendocrine conditions and treatment responses. They conclude that while the approach is promising, significant limitations remain and further research is needed before clinical application.",
-      "why_it_matters": "A reliable, non-invasive way to track neurotransmitter activity could eventually support monitoring of mood disorders like depression and anxiety, which disproportionately affect women.",
-      "caveats": "review article (no primary data), no sex-disaggregated data, no sample size, early-stage evidence",
+      "summary": "This narrative review evaluated current evidence on whether dopamine, serotonin, norepinephrine, epinephrine, and their metabolites can be reliably measured in saliva and used as biomarkers of central nervous system function or psychiatric conditions. Authors found that salivary monoamine measurement is technically feasible and may reflect therapeutic responses to psychiatric medications, but conclude that significant limitations remain and further research is needed before clinical application. No original human trial data were generated \u2014 this is a review of existing literature.",
+      "why_it_matters": "A non-invasive saliva test for mood-related neurotransmitters could eventually make mental health monitoring more accessible for women, who are disproportionately affected by depression and anxiety.",
+      "caveats": "no sex-disaggregated data, review article (no original data), findings preliminary with important limitations noted by authors",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Intriguing concept but review-only with no primary data or female-specific analysis.",
+      "relevance_score_reason": "Interesting wellness hook but review-only, no original data, no female-specific analysis.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "Could a Saliva Test One Day Track Your Mood Chemistry? Scientists Think It's Possible",
-          "hook": "Researchers are exploring whether dopamine, serotonin, and other brain chemicals detectable in saliva could serve as a window into mental health \u2014 no blood draw required.",
-          "pitch_angle": "A new review suggests that measuring monoamine neurotransmitters in saliva may one day help monitor psychiatric conditions and medication responses in a non-invasive, cost-effective way. The science is early, but the potential to make mental health monitoring more accessible is generating real interest."
+          "headline": "Could a Saliva Test One Day Tell You If Your Antidepressant Is Working? Scientists Are Investigating",
+          "hook": "Researchers are exploring whether neurotransmitters like serotonin and dopamine \u2014 the chemicals tied to mood \u2014 can be reliably detected in saliva, potentially offering a non-invasive window into brain health.",
+          "pitch_angle": "A new review of the emerging science finds that salivary monoamine measurement shows early promise for tracking CNS function and medication response, though experts say important technical and biological hurdles remain. For women, who are diagnosed with depression at higher rates, a low-barrier biomarker test could eventually change how mental health treatment is monitored."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42480891",
-      "headline": "More than one in three OB-GYN residents screened positive for depression \u2014 and most got no help",
+      "headline": "More than a third of OB-GYN residents screen positive for depression \u2014 and most don't seek help",
       "journal": "American Journal of Obstetrics and Gynecology",
       "pubdate": "2026 Jul 21",
       "doi": "10.1016/j.ajog.2026.07.023",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed longitudinal survey data from 1,271 first-year OB-GYN residents (86.5% women, median age 27) enrolled in the Intern Health Study between 2009 and 2024, using the PHQ-9 to measure depressive symptoms quarterly throughout internship. During the first year, 35.6% screened positive for depression at least once, yet fewer than one-third of those affected sought mental health treatment. Key predictors of worsening symptoms included fewer sleep hours, longer work hours, reported medical errors, and pre-existing depression history.",
-      "why_it_matters": "Because OB-GYN is the only surgical specialty that is predominantly female, these findings illuminate a gendered mental health crisis inside the specialty most responsible for women's reproductive care \u2014 with potential downstream effects on both trainee wellbeing and patient access.",
-      "caveats": "self-reported outcomes, longitudinal but observational design, single specialty cohort, attrition bias (addressed via sample weights)",
+      "summary": "Researchers analyzed longitudinal survey data from 1,271 first-year OB-GYN residents (86.5% women, median age 27) enrolled in the Intern Health Study between 2009 and 2024. Depressive symptoms were measured quarterly using the PHQ-9. Over one-third (35.6%) screened positive for depression at least once during internship, yet fewer than one in three of those affected sought mental health treatment.",
+      "why_it_matters": "Because OB-GYN is the most female-dominated surgical specialty, understanding and addressing the mental health crisis in its trainees has direct implications for the future of women's reproductive healthcare.",
+      "caveats": "self-reported outcomes, observational design, single specialty (results may not generalize to other residencies)",
       "fact_check_note": "",
       "relevance_score": 8,
-      "relevance_score_reason": "Large female-majority sample, women's health workforce angle, strong real-world hook.",
+      "relevance_score_reason": "Large female-majority sample, perinatal workforce relevance, strong mental health and women's health hook.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good / Self",
-          "headline": "The Doctors Who Deliver Your Baby Are Quietly Burning Out \u2014 and Not Getting Help",
-          "hook": "More than a third of OB-GYN residents \u2014 the majority of whom are women \u2014 screened positive for depression during their first year of training, yet fewer than one in three sought treatment.",
-          "pitch_angle": "A large longitudinal study found that the mental health crisis in medical training hits especially hard in OB-GYN, a specialty that is 86% women. Sleep deprivation, punishing work hours, and medical errors drove worsening symptoms \u2014 raising urgent questions about who is caring for the people who care for us."
+          "headline": "The Doctors Delivering Your Babies Are Quietly Burning Out \u2014 and Getting No Help",
+          "hook": "More than a third of OB-GYN residents meet the threshold for depression during their first year of training \u2014 and most never tell anyone.",
+          "pitch_angle": "A 15-year study of over 1,200 mostly female OB-GYN residents found alarmingly high depression rates driven by sleep deprivation, long hours, and medical errors \u2014 yet treatment-seeking was critically low, raising urgent questions about who cares for the caregivers in a field already facing a provider shortage."
         },
         {
-          "publication_type": "The Cut (health/culture section)",
-          "headline": "The OB-GYN Workforce Has a Silent Depression Problem No One Is Talking About",
-          "hook": "In the only surgical specialty dominated by women, over a third of first-year residents are screening positive for depression \u2014 and most are suffering in silence.",
-          "pitch_angle": "New data from a 15-year study exposes a mental health gap at the intersection of gender and medicine: female-majority OB-GYN residency programs have sky-high depression rates and critically low treatment-seeking, pointing to systemic failures in how medicine supports its women trainees. The implications stretch beyond the hospital \u2014 to every patient waiting on an already-shrinking OB-GYN workforce."
+          "publication_type": "The Cut",
+          "headline": "The Hidden Mental Health Crisis Threatening Women's Reproductive Care",
+          "hook": "The doctors most responsible for women's reproductive health are themselves struggling with untreated depression at startling rates.",
+          "pitch_angle": "New data spanning 15 years reveal that OB-GYN residency \u2014 a field that is 86% female \u2014 produces depression rates that dwarf the general population, yet systemic barriers keep most affected residents from seeking care, spotlighting how medical culture fails women even when they're the ones in white coats."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42482232",
-      "headline": "Vaginal fibroid removal gets safer and faster after a surgeon's first 30 cases \u2014 study tracks the learning curve",
+      "headline": "Surgeons may need as few as 15 vaginal myomectomies to meaningfully cut blood loss \u2014 but 30 to hit full efficiency",
       "journal": "BMC Women's Health",
       "pubdate": "2026 Jul 21",
       "doi": "10.1186/s12905-026-04715-5",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A retrospective single-center study followed 60 consecutive patients (mean age 38.1 years) who underwent vaginal myomectomy \u2014 surgical fibroid removal through the vagina \u2014 performed by one experienced gynecologic surgeon in Istanbul between 2021 and 2023. No major complications occurred in any of the 60 cases, and blood loss and hospitalization duration improved after the first 15 procedures, while operative time stabilized after approximately 30\u201334 cases. The findings map the learning curve for this less common surgical approach and suggest it can be performed safely even during a surgeon's initial experience with the technique.",
-      "why_it_matters": "Fibroids affect a substantial proportion of reproductive-age women, and vaginal myomectomy offers a potential minimally invasive alternative \u2014 but surgeons and patients need real-world data on how quickly the approach becomes reliably safe.",
-      "caveats": "small sample (N<100), single-center, single surgeon, retrospective design, short follow-up, regional context (single Turkish clinic)",
+      "summary": "Researchers retrospectively analyzed outcomes from 60 consecutive vaginal myomectomies performed by a single experienced gynecologic surgeon in Istanbul between 2021 and 2023. Participants (N=60, mean age 38.1 years) were divided into four sequential groups of 15 to track the surgical learning curve. Blood loss and hospitalization duration improved significantly after roughly 15 procedures, while operative time continued to decrease and stabilized around 30\u201334 cases; no major complications occurred in any group.",
+      "why_it_matters": "Understanding how quickly surgeons become proficient in this less-invasive fibroid removal technique could help women advocate for more experienced surgical teams and potentially inform hospital credentialing standards.",
+      "caveats": "small sample (N<100), observational design, single-center, single surgeon, short follow-up, regional context (Turkey) \u2014 findings may not generalize to training systems outside that healthcare context",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Fibroid surgery relevant to reproductive-age women, but very small single-surgeon study limits generalizability.",
+      "relevance_score_reason": "Relevant fibroid topic, but tiny single-surgeon sample and regional context limit generalizability.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / Women's Health Magazine",
-          "headline": "There's Another Way to Remove Fibroids \u2014 and It Gets Safer Fast",
-          "hook": "A surgeon tracked every one of her first 60 vaginal fibroid removals and found the procedure became dramatically safer and faster within the first 30 cases \u2014 with zero major complications throughout.",
-          "pitch_angle": "Vaginal myomectomy, an approach that avoids abdominal incisions, showed a reassuringly short learning curve in this small but closely tracked study of women with fibroids. For the millions of women exploring fibroid treatment options, the data suggest this technique may be both safe and practical \u2014 though larger multicenter studies are needed before it becomes widely adopted."
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "If You Need Fibroid Surgery, Here's Why Your Surgeon's Experience Number Actually Matters",
+          "hook": "A new study suggests a surgeon may need to perform as few as 15 vaginal myomectomies before blood loss drops significantly \u2014 a number that's surprisingly reachable.",
+          "pitch_angle": "Researchers tracked how quickly a skilled OB-GYN improved at vaginal myomectomy \u2014 a less-invasive fibroid removal \u2014 finding measurable safety gains early in the learning curve; this gives women concrete questions to ask before choosing a surgeon for fibroid treatment."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42480980",
+      "headline": "New CVD risk model for people with obesity gets validated across ethnic groups \u2014 but women's data isn't broken out",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "pubdate": "2026 Jul 21",
+      "doi": "10.1002/oby.70265",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in China developed and validated a nomogram to classify cardiovascular disease risk in people with obesity, incorporating age, hypertension, diabetes, visceral fat score, serum creatinine, and blood urea nitrogen. The model was trained on one cohort and externally validated, including a Korean cohort, achieving AUC values of 0.799 (internal) and 0.821 (external). The study does not report sex-disaggregated results, so whether the model performs equally well in women is unclear.",
+      "why_it_matters": "A validated CVD risk tool tailored to people with obesity could eventually support earlier, more targeted heart disease screening \u2014 but its applicability to women specifically remains unconfirmed.",
+      "caveats": "no sex-disaggregated data, observational design, China/Korea-based cohorts (generalizability to Western populations uncertain), preprint status unclear",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "No female-specific analysis; regional cohorts limit US applicability; no women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A New Algorithm Could Flag Heart Disease Risk in People With Obesity \u2014 With One Big Caveat",
+          "hook": "Researchers developed a nomogram that predicts cardiovascular disease in people with obesity with solid accuracy \u2014 but it hasn't been tested separately in women.",
+          "pitch_angle": "The model, validated across Asian cohorts, could one day support personalized heart risk screening, but the absence of sex-disaggregated data is a notable gap given that CVD presents differently in women than men."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42479104",
+      "headline": "The standard bone fracture risk calculator may be underestimating danger for older women",
+      "journal": "Archives of Osteoporosis",
+      "pubdate": "2026 Jul 21",
+      "doi": "10.1007/s11657-026-01745-2",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Taiwan followed 1,976 adults aged 40 and older for 10 years, comparing predicted versus actual fracture rates using the FRAX tool \u2014 the widely used standard for estimating 10-year fracture risk. FRAX without bone mineral density (BMD) calibrated well overall, but FRAX with BMD systematically underestimated fracture risk in adults aged 65 and older (observed-to-expected ratio 1.23). Female sex, age, prior fracture, and low BMD were all independent risk factors.",
+      "why_it_matters": "Because women make up the majority of osteoporosis cases and fracture events, a tool that underestimates risk in older adults \u2014 especially when BMD is included \u2014 could mean some high-risk women are not flagged for preventive care.",
+      "caveats": "single-center, Taiwan-specific population (fracture incidence rates and healthcare thresholds may not translate directly to US/global populations), industry funding [Eli Lilly, Novartis, Roche \u2014 one author]",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women's bone health relevance; large cohort; Taiwan-specific thresholds limit direct US applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "The Bone Fracture Risk Test Your Doctor Uses May Lowball Your Danger \u2014 Especially After 65",
+          "hook": "A 10-year study found that the most commonly used fracture risk calculator actually underestimates risk in older adults when bone density measurements are factored in.",
+          "pitch_angle": "Researchers tracking nearly 2,000 adults found FRAX with bone density data missed real fracture risk in people over 65 \u2014 a finding with particular implications for postmenopausal women, who already face elevated osteoporosis risk and may benefit from more tailored screening thresholds."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42473246",
-      "headline": "Eating more fish isn't protecting South Asians from heart disease \u2014 and researchers think they know why",
+      "headline": "Eating more fish doesn't protect South Asians from heart disease the way it should \u2014 here's the surprising reason why",
       "journal": "Public Health Nutrition",
       "pubdate": "2026 Jul 20",
       "doi": "10.1017/S1368980026103140",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This commentary analyzes why South Asian populations \u2014 among the world's highest fish consumers \u2014 carry disproportionate cardiometabolic risk, examining four mechanisms: aquaculture-driven species substitution replacing omega-3-rich fish with leaner farmed varieties, deep frying in high-omega-6 oils degrading beneficial fats, heavy metal contamination in arsenic- and mercury-affected watersheds, and urbanization eroding fish intake among highest-risk groups. The piece is a single-author commentary, not an original data study, drawing on existing literature rather than a new participant sample. The key argument is that generic 'eat more fish' guidance fails South Asian populations and must be replaced with ethnicity-sensitive, species-specific, and preparation-aware dietary recommendations.",
-      "why_it_matters": "South Asian women, who already face elevated cardiometabolic risk at lower BMI thresholds, may be getting little or no heart benefit from fish consumption if species, cooking method, or contamination exposure undercuts omega-3 bioavailability.",
-      "caveats": "observational design, no sex-disaggregated data, single non-US/non-multinational regional context unlikely to generalize directly to US readership, commentary not primary data",
+      "summary": "A commentary by a nutrition scientist at Texas Tech University examines why South Asian populations \u2014 among the world's highest fish consumers \u2014 still carry disproportionately high cardiometabolic risk. The author identifies four contributing mechanisms: aquaculture-driven species substitution (replacing omega-3-rich fish with leaner farmed varieties), deep frying in high-omega-6 oils, heavy metal contamination in regional waterways, and urbanization reducing fish intake among highest-risk groups. The piece argues that generic 'eat more fish' guidance is insufficient and calls for ethnicity-sensitive, species-specific dietary recommendations.",
+      "why_it_matters": "For South Asian women \u2014 who face elevated cardiometabolic risk at lower BMIs than Western populations \u2014 this finding suggests that fish type, cooking method, and contamination exposure may matter as much as fish consumption itself.",
+      "caveats": "observational design, no primary data, single-author commentary, finding is tied to a single non-US/non-multinational region's diet and environment in a way unlikely to generalize broadly to US/global audiences",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Counterintuitive angle, but commentary only, no female-specific data, regionally narrow.",
+      "relevance_score_reason": "Counterintuitive angle but commentary only, no primary data, region-specific context limits US relevance.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "Why 'Just Eat More Fish' Is Bad Advice for Millions of South Asian Women",
-          "hook": "Fish is supposed to protect your heart \u2014 but for South Asian women, the way it's farmed, cooked, and contaminated may cancel out every benefit.",
-          "pitch_angle": "A new commentary argues that aquaculture shifts, deep frying in omega-6 oils, and heavy metal contamination are erasing fish's cardioprotective effects in South Asian populations \u2014 a counterintuitive finding that challenges one-size-fits-all nutrition guidance and has particular relevance for South Asian women already at higher cardiometabolic risk."
+          "publication_type": "Prevention",
+          "headline": "Why Eating Fish Every Day Still Isn't Protecting Some Women's Hearts",
+          "hook": "New analysis finds that for South Asian populations, high fish consumption isn't delivering the heart-health benefits science promised \u2014 and the reasons are more complex than anyone realized.",
+          "pitch_angle": "A nutrition scientist finds that farmed fish species, frying methods, and water contamination may be stripping fish of its cardioprotective benefits in South Asian contexts. For South Asian women navigating cultural food traditions and heart-health advice, this reframing of 'healthy' fish eating could be eye-opening."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42476451",
-      "headline": "Vitamin D supplements don't reliably fight frailty in healthy older adults \u2014 but may still matter for those who are truly deficient",
+      "headline": "Vitamin D supplements may not fight frailty unless you're actually deficient \u2014 and high doses could make things worse",
       "journal": "Metabolism: Clinical and Experimental",
       "pubdate": "2026 Jul 20",
       "doi": "10.1016/j.metabol.2026.156697",
       "groundbreaking": "Counterintuitive finding / Overturns prior research",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review synthesized clinical, epidemiological, and mechanistic evidence on the relationship between vitamin D and frailty in older adults, finding a disconnect between strong biological plausibility and clinical trial results. While low vitamin D is observationally linked to sarcopenia, bone loss, immune decline, and frailty onset, randomized controlled trials in community-dwelling adults with adequate vitamin D status have largely shown neutral results. High-dose intermittent bolus regimens were actually associated with increased fall and fracture risk, and benefits appeared limited to individuals with true deficiency or heightened vulnerability.",
-      "why_it_matters": "For older women \u2014 who face disproportionate rates of osteoporosis, sarcopenia, and frailty \u2014 this review suggests that blanket vitamin D supplementation may not reduce frailty risk, and that high-dose supplementation could be actively harmful without confirmed deficiency.",
-      "caveats": "narrative review (not systematic meta-analysis), no sex-disaggregated data, industry funding [Abiogen \u2014 prior research funding to one author]",
+      "summary": "This narrative review synthesized clinical, epidemiological, and mechanistic evidence on vitamin D and frailty, drawing on observational cohort studies and randomized controlled trials in community-dwelling adults. Researchers found that while low vitamin D is associated with sarcopenia, bone loss, immune dysfunction, and frailty progression, RCTs have largely produced neutral results in people with adequate vitamin D levels. Notably, high-dose intermittent bolus regimens were associated with increased falls and fractures rather than protection.",
+      "why_it_matters": "For older women \u2014 who face disproportionate frailty risk \u2014 this suggests routine vitamin D supplementation without confirmed deficiency may not deliver expected benefits and could carry real harms.",
+      "caveats": "narrative review (not systematic), observational design for association data, heterogeneous frailty definitions across studies, industry funding [Abiogen \u2014 prior research funding to one author]",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive RCT disconnect finding; narrative review limits strength; no female-specific data.",
+      "relevance_score_reason": "Counterintuitive finding on a widely used supplement; review design limits strength.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / Well+Good",
-          "headline": "You Probably Don't Need More Vitamin D to Prevent Frailty \u2014 and Too Much Could Actually Hurt You",
-          "hook": "Despite a compelling biological story, clinical trials largely found that vitamin D supplements don't reduce frailty risk in older adults who already have adequate levels \u2014 and high doses may increase falls.",
-          "pitch_angle": "A new review finds that the popular belief in vitamin D as a frailty-fighter doesn't hold up in clinical trials for most people, with benefits appearing only in those with genuine deficiency. For older women already taking high-dose supplements as a health precaution, this is a reason to revisit that habit with a doctor."
-        },
-        {
-          "publication_type": "Shape / Self",
-          "headline": "The Vitamin D-Muscle Strength Connection Is More Complicated Than You've Been Told",
-          "hook": "Science has long suggested vitamin D protects aging muscles and bones, but clinical trials keep coming up empty \u2014 and mega-doses may actually raise fracture risk.",
-          "pitch_angle": "A narrative review reconciling decades of vitamin D research finds that its biological promise for preventing muscle loss and frailty doesn't translate to benefits in supplement trials for people who aren't deficient. The takeaway for women supplementing 'just in case': more isn't better, and the dose really matters."
+          "publication_type": "Prevention",
+          "headline": "Your Vitamin D Supplement May Not Protect You From Frailty \u2014 Unless You're Actually Low",
+          "hook": "Decades of enthusiasm for vitamin D as an anti-aging fix hits a wall: new research suggests supplements don't prevent frailty unless you're genuinely deficient.",
+          "pitch_angle": "A major review of clinical trials found neutral results for vitamin D supplementation in people with normal levels, and high-dose regimens were actually linked to more falls and fractures \u2014 a counterintuitive finding that matters most for older women who are the heaviest users of vitamin D."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42474953",
-      "headline": "Standard heart scans frequently fail in high-BMI bariatric patients \u2014 a nuclear imaging alternative picks up risks that ultrasound misses",
+      "headline": "Standard heart scans fail nearly half of bariatric surgery candidates because obesity itself blocks the imaging",
       "journal": "Obesity Surgery",
       "pubdate": "2026 Jul 20",
       "doi": "10.1007/s11695-026-08832-w",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a retrospective review of 66 adults evaluated for bariatric surgery at a single UK center, standard echocardiography (ECHO) produced poor-quality images in nearly half of cases due to high BMI. SPECT nuclear imaging detected reversible cardiac ischemia in 19.7% of patients and provided additional functional data where ECHO fell short. However, the small sample, single-center design, and low event rate mean no conclusions about clinical superiority can be drawn.",
-      "why_it_matters": "Since women undergoing bariatric surgery often have undiagnosed cardiac risk, understanding the limits of standard preoperative heart screening has direct implications for surgical safety.",
-      "caveats": "small sample (N<100), observational design, single-center, retrospective, no sex-disaggregated data, short follow-up",
+      "summary": "This retrospective single-center study at a UK hospital evaluated cardiac imaging in 66 adults being assessed for bariatric surgery, comparing standard echocardiography (ECHO) with nuclear SPECT imaging. ECHO was attempted in 68% of patients but produced limited-quality images in nearly half of those cases. SPECT imaging revealed reversible ischemia in approximately 20% of patients and provided additional functional data where ECHO fell short.",
+      "why_it_matters": "For women with obesity seeking bariatric surgery, inadequate cardiac screening tools could mean undetected heart risks going into a major operation.",
+      "caveats": "small sample (N=66), single-center, retrospective cohort, no sex-disaggregated data, very low event rate, UK healthcare system context",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Clinically relevant but small, single-center, no sex-disaggregated data.",
+      "relevance_score_reason": "Clinically relevant but small N=66, no sex-disaggregated data, limited generalizability.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Before Weight-Loss Surgery, Your Heart Scan May Not Be Telling the Full Story",
-          "hook": "Standard ultrasound heart scans failed nearly half the time in patients awaiting bariatric surgery \u2014 and a nuclear imaging alternative caught cardiac risks those scans missed.",
-          "pitch_angle": "A small UK study suggests that the go-to cardiac imaging tool for bariatric surgery candidates is often inadequate at high BMI, potentially leaving heart risks undetected before a major operation. The finding is preliminary but raises important questions about preoperative safety standards for a surgical population that skews female."
+          "headline": "The Heart Test Used Before Weight Loss Surgery Often Can't See Clearly Through Fat \u2014 And That's a Problem",
+          "hook": "In a UK study, standard cardiac echocardiography produced poor-quality images in nearly half of bariatric surgery candidates \u2014 precisely because of the obesity the surgery is meant to treat.",
+          "pitch_angle": "Researchers found that nuclear SPECT imaging caught heart abnormalities that routine echocardiography missed, raising questions about whether current pre-surgical cardiac screening is adequate for people with higher BMIs."
         }
       ],
-      "run_date": "2026-07-23",
+      "run_date": "2026-07-24",
       "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42477616",
+      "headline": "Two blood proteins may help flag pre-eclampsia earlier \u2014 but the discovery is still far from the clinic",
+      "journal": "BMC Pregnancy and Childbirth",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.1186/s12884-026-09361-1",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using bioinformatic analysis of existing datasets combined with single-cell sequencing and ELISA validation on blood samples, researchers at Jinan University in China identified two proteins \u2014 F2RL1 and GZMH \u2014 as candidate blood biomarkers for early-onset pre-eclampsia. The study used computational methods to explore immune cell changes and cell-to-cell communication patterns in maternal blood during pre-eclampsia onset. While both biomarkers showed diagnostic value in this dataset, the study did not report participant numbers clearly in the abstract, and the findings require prospective clinical validation.",
+      "why_it_matters": "Pre-eclampsia remains a leading cause of maternal and infant death worldwide, and reliable early blood biomarkers could one day enable faster diagnosis and intervention in pregnant women.",
+      "caveats": "observational design, single-center, bioinformatic/computational methodology with limited clinical validation, China-based population (may have limited generalizability), sample size not clearly reported in abstract, no prospective validation cohort",
+      "fact_check_note": "Abstract does not specify total N of human participants clearly; summary reflects this uncertainty.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant pregnancy complication, but computational/bioinformatic design with limited clinical validation and regional generalizability concerns.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Identify Two Blood Proteins That Could One Day Help Predict Dangerous Pregnancy Complications",
+          "hook": "New research points to two proteins in maternal blood that may signal early-onset pre-eclampsia before symptoms appear \u2014 though much more research is needed.",
+          "pitch_angle": "A computational and laboratory study from China identified F2RL1 and GZMH as candidate biomarkers for pre-eclampsia, a pregnancy complication linked to high blood pressure that can turn life-threatening; the early-stage findings suggest a blood test approach worth pursuing in larger, prospective trials."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42377342",
+      "headline": "Salt hiding in processed foods is the real blood pressure threat \u2014 and cutting back at the table barely helps",
+      "journal": "Nutricion Hospitalaria",
+      "pubdate": "2026 Jul 20",
+      "doi": "10.20960/nh.06959",
+      "groundbreaking": "",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review, published in Spanish, synthesizes evidence on dietary sodium intake and its health effects, with a focus on cardiovascular risk, hypertension, and other outcomes including gastric cancer, kidney stones, bone mineral balance, and cognitive decline. No original participant data were collected. The review concludes that robust evidence supports sodium reduction for lowering blood pressure \u2014 especially in hypertensive or salt-sensitive individuals \u2014 but that most dietary sodium now comes from processed and ultra-processed foods, making salt-shaker-focused interventions insufficient on their own.",
+      "why_it_matters": "Women with hypertension or elevated cardiovascular risk may be getting little benefit from seasoning less at the table if the bulk of their sodium intake is hidden in packaged foods.",
+      "caveats": "no sex-disaggregated data, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Practical nutrition finding; no sex-disaggregated data; review not original research.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "Putting Down the Salt Shaker Won't Fix Your Blood Pressure \u2014 Here's What Actually Will",
+          "hook": "A new evidence review finds that the majority of dietary sodium comes from processed and ultra-processed foods, meaning individual seasoning habits have limited impact on cardiovascular risk.",
+          "pitch_angle": "The science increasingly points to 'hidden salt' in packaged foods as the primary driver of high-sodium diets \u2014 and experts say label literacy and food reformulation matter far more than what you sprinkle at the table. For women managing blood pressure or cardiovascular risk, the takeaway is less about the salt shaker and more about what's already in the package."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42472358",
+      "headline": "Using cannabis before alcohol may mean drinking less \u2014 at least on nights when you use both",
+      "journal": "Substance Use & Misuse",
+      "pubdate": "2026 Jul 19",
+      "doi": "10.1080/10826084.2026.2670625",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers tracked alcohol and cannabis use among 370 undergraduate students (mean age 20.8) over 14 weekends using daily diary surveys. On days when both substances were used, students drank about 1.4 fewer drinks when cannabis was used first compared to alcohol first. The finding held regardless of whether students reported using substances to cope or for enhancement \u2014 suggesting context or setting, not motive, may drive the difference.",
+      "why_it_matters": "For young adult women who use both substances, the order of use may matter more than the reason for using when it comes to alcohol consumption levels.",
+      "caveats": "small sample (N<100 on some subgroups), observational design, self-reported outcomes, single-center, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant wellness topic but no sex-disaggregated data and undergraduate-only sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Mixing Weed and Alcohol? The Order You Use Them In May Actually Change How Much You Drink",
+          "hook": "Young adults who used cannabis before alcohol on a night out consumed about 1.4 fewer drinks than those who drank first \u2014 and it didn't matter why they were using.",
+          "pitch_angle": "A diary study of college students found that starting with cannabis before alcohol was associated with lighter drinking, regardless of whether the motivation was stress relief or fun. The finding raises questions about behavioral harm reduction for young women who use both substances socially."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42472434",
+      "headline": "Emergency room staff say substance use screening programs help patients \u2014 but funding gaps are gutting their reach",
+      "journal": "Substance Use & Addiction Journal",
+      "pubdate": "2026 Jul 19",
+      "doi": "10.1177/29767342261464001",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted in-depth interviews with 9 clinicians and supervisors delivering SBIRT (Screening, Brief Intervention, and Referral to Treatment) at 2 emergency departments in King County, Washington. Staff reported that the program created 'teachable moments' after substance-related injuries and improved interprofessional collaboration, but persistent challenges included limited reimbursement and gaps in available treatment options. The qualitative findings suggest SBIRT holds real clinical value in ED settings but cannot reach its potential without sustained funding and robust referral networks.",
+      "why_it_matters": "Women with substance use disorders are less likely to be identified and referred to treatment than men, making ER-based screening programs a potentially critical access point.",
+      "caveats": "small sample (N<100), qualitative design, single-center, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Substance use care access is relevant but study lacks women-specific data and is very small.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The ER Could Be Women's Best Shot at Addiction Treatment \u2014 If Funding Doesn't Kill the Program",
+          "hook": "Emergency rooms are quietly becoming one of the few places where people in crisis can get connected to substance use treatment \u2014 but underfunding may be undermining the effort.",
+          "pitch_angle": "A new qualitative study finds that ER-based substance use screening programs create critical 'teachable moments' for patients who have no other access to care, but chronic funding gaps and limited referral options are eroding their impact \u2014 a concern especially relevant for women, who are historically underidentified in addiction screening."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42492314",
+      "headline": "AI therapy apps are expanding mental health access \u2014 but experts warn cultural blind spots could do real harm",
+      "journal": "Asian Journal of Psychiatry",
+      "pubdate": "2026 Jul 19",
+      "doi": "10.1016/j.ajp.2026.105087",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review synthesized global and regional literature from 2019\u20132025 on AI-enabled therapy platforms, including chatbots and virtual therapists, with particular focus on the Indian sociocultural context. Authors examined clinical promise alongside ethical risks such as diagnostic validity concerns, data privacy issues, lack of informed consent frameworks, and cultural misalignment between AI design and users' psychological frameworks. The review concludes that AI therapy tools may be useful as adjunctive supports within professional care systems, but not as standalone replacements for human therapists.",
+      "why_it_matters": "Women are the primary users of mental health apps, making them most exposed to both the benefits and the risks of AI therapy tools that may not account for cultural or gender-specific mental health experiences.",
+      "caveats": "observational design, narrative review (not systematic), findings closely tied to India/South Asian regional context \u2014 generalizability to US/global audiences limited",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "AI mental health is timely but review is India-focused, narrative only, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Mental Health App Might Not Actually Understand You \u2014 Here's Why Experts Are Worried",
+          "hook": "AI therapy chatbots are booming, but a new review warns they may be culturally tone-deaf in ways that could undermine \u2014 or even harm \u2014 the people who rely on them most.",
+          "pitch_angle": "A new narrative review finds that while AI therapy platforms offer real promise for expanding mental health access, they carry significant risks around cultural misalignment, data privacy, and diagnostic accuracy \u2014 concerns that matter especially for women, who use mental health apps at higher rates than men."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42470151",
+      "headline": "Parents of children with a rare genetic syndrome face higher stigma than Down syndrome parents \u2014 and almost nowhere to turn for information",
+      "journal": "Journal of Intellectual Disability Research",
+      "pubdate": "2026 Jul 18",
+      "doi": "10.1111/jir.70147",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers surveyed 39 parents (mean age 43.1 years) of children with 1p36 deletion syndrome in Japan about their psychosocial well-being, information access, and caregiving challenges. Most parents relied on the internet for information rather than medical or genetic specialists, and the challenges they faced varied by the child's developmental stage. Affiliate stigma \u2014 the internalized shame linked to a family member's diagnosis \u2014 was significantly higher in this group than in parents of children with Down syndrome, and was associated with poorer mental health outcomes through increased parental strain and lowered self-esteem.",
+      "why_it_matters": "Because mothers typically bear a disproportionate share of caregiving for children with rare genetic conditions, understanding how stigma compounds mental health burden is essential for designing better support systems.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, single-center, Japan-specific sample (regional generalizability limited), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Caregiver mental health is women-relevant but very small sample and Japan-specific context.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Caring for a Child With a Rare Genetic Condition Carries a Hidden Mental Health Cost That Most Parents Never Get Help For",
+          "hook": "Parents of children with a rare chromosomal deletion reported higher levels of internalized stigma than parents of children with Down syndrome \u2014 a finding that points to a serious gap in rare-disease support.",
+          "pitch_angle": "A Japanese survey found that parents raising children with 1p36 deletion syndrome \u2014 a rare condition causing developmental delays and epilepsy \u2014 struggled with limited specialist guidance and unusually high levels of stigma that undermined their self-esteem and mental health. The findings suggest that rare-disease families need targeted psychosocial support, not just medical management."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42463968",
+      "headline": "Scientists identify new gene mutations that cause embryos to stop developing \u2014 and may explain why some IVF cycles keep failing",
+      "journal": "Journal of Assisted Reproduction and Genetics",
+      "pubdate": "2026 Jul 17",
+      "doi": "10.1007/s10815-026-03959-2",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used whole-exome sequencing in a small group of women experiencing recurrent IVF/ICSI failure due to early embryonic arrest, identifying five novel mutations in the NLRP2 and NLRP7 genes in affected patients at a Shanghai hospital. Lab experiments in HeLa cells confirmed that the mutations destabilized the resulting proteins and in some cases altered their cellular location. The findings expand the known mutational spectrum of these genes and suggest they may underlie a proportion of unexplained recurrent IVF failure in women.",
+      "why_it_matters": "For the many women who experience repeated IVF failure with no clear explanation, identifying genetic causes like NLRP2 and NLRP7 mutations may one day support earlier genetic diagnosis and more tailored fertility treatment.",
+      "caveats": "small sample (N<100), single-center, observational design, functional validation in cell study (HeLa cells) only, China-specific patient population",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Female infertility/IVF topic fit; very small sample, cell-based validation limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "Why Do Some IVF Embryos Just Stop Growing? New Research Points to a Genetic Clue",
+          "hook": "For women who've endured failed IVF cycles with no explanation, new findings suggest specific gene mutations may be quietly sabotaging embryo development.",
+          "pitch_angle": "Chinese researchers identified five previously unknown mutations in NLRP2 and NLRP7 genes in women whose embryos consistently arrested in early development during IVF. While the study is small and early-stage, it adds to a growing picture of genetic factors that may finally explain some cases of 'unexplained' infertility."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42469753",
+      "headline": "A card-based tool lets people map their own path to self-harm \u2014 and it's changing how clinicians listen",
+      "journal": "BMC Psychiatry",
+      "pubdate": "2026 Jul 17",
+      "doi": "10.1186/s12888-026-08377-3",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This paper reviews the development and application of the Card Sort Task for Self-Harm (CaTS), a structured interactive tool using 117 evidence-informed cards representing thoughts, feelings, events, and behaviors that individuals arrange along a timeline around a self-harm episode. Co-developed with people with lived experience, CaTS is designed to capture individualized, temporal pathways to self-harm rather than standard psychometric scores. The review covers the tool's evolution, adaptations for diverse populations and formats, and its potential uses in clinical, research, and training settings.",
+      "why_it_matters": "Self-harm disproportionately affects young women and girls, and tools that capture personal context \u2014 rather than just symptom scores \u2014 could improve clinical conversations and safety planning.",
+      "caveats": "no primary data reported, review article (not empirical study), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant mental health topic with women's health relevance, but no primary data or female-specific findings.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "This Card-Based Tool Is Helping Clinicians Finally Understand the 'Why' Behind Self-Harm",
+          "hook": "Instead of tick-box questionnaires, a new approach asks people to literally map out the moments that led to self-harm \u2014 using cards.",
+          "pitch_angle": "The Card Sort Task for Self-Harm (CaTS) gives individuals 117 cards representing feelings, events, and behaviors, which they arrange on a timeline to show their personal path to a self-harm episode. Developed with input from people with lived experience, it prioritizes story over statistics \u2014 a shift that could make clinical conversations more meaningful, especially for young women who are disproportionately affected."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42468292",
+      "headline": "Not all social thinking problems worsen together in psychosis \u2014 and the difference may matter for treatment",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Jul 17",
+      "doi": "10.1016/j.schres.2026.07.010",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers assessed five domains of social cognition in 359 participants spanning familial high-risk, ultra-high-risk, first-episode psychosis, chronic schizophrenia, and healthy controls. Only Theory of Mind and Social Knowledge showed a stage-ordered pattern of worsening across the psychosis spectrum; emotion recognition, social perception, and attributional bias did not follow this gradient. Better Theory of Mind and Social Knowledge performance was associated with better daily functioning, fewer negative symptoms, and later age of onset.",
+      "why_it_matters": "Women with psychosis spectrum conditions may benefit from targeted social cognition interventions focused on Theory of Mind rather than a one-size-fits-all approach.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, cross-sectional design limits within-person conclusions, modest effect sizes",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Clinically interesting but no female-specific analysis and single-center Turkish cohort.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Psychosis Doesn't Erode All Social Skills Equally \u2014 And That Could Change How We Treat It",
+          "hook": "A new study tracking hundreds of patients across the full psychosis spectrum found that the ability to understand others' mental states deteriorates in a predictable stage-ordered pattern \u2014 but the ability to read facial emotions does not.",
+          "pitch_angle": "Researchers found that social cognition in schizophrenia spectrum disorders is far more heterogeneous than previously assumed, with Theory of Mind showing a clear stage-ordered decline while emotion recognition stays relatively flat. The finding suggests that lumping all 'social skills' interventions together may be missing the most clinically meaningful targets."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42467594",
+      "headline": "A pink-pigmented algae supplement may shift women's bodies toward burning more fat during moderate exercise",
+      "journal": "Journal of Dietary Supplements",
+      "pubdate": "2026 Jul 17",
+      "doi": "10.1080/19390211.2026.2705844",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a randomized, double-blind, placebo-controlled crossover trial in 20 recreationally active young women (mean age 22 \u00b1 2 years) who took either 12 mg/day of astaxanthin or placebo for two weeks each, separated by a washout period, then completed a 30-minute graded cycling protocol. There were no differences between groups in heart rate, blood lactate, or perceived exertion at any intensity. However, overall respiratory exchange ratio (RER) was significantly lower during the astaxanthin condition, suggesting a shift toward greater fat \u2014 rather than carbohydrate \u2014 use as fuel during submaximal exercise.",
+      "why_it_matters": "Because women already rely more heavily on fat oxidation than men during exercise, this early evidence suggests astaxanthin supplementation may amplify that metabolic advantage \u2014 though the practical performance or body-composition implications remain unknown.",
+      "caveats": "small sample (N<100), short follow-up, single-center",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Female-only RCT; clean crossover design; novel supplement finding; small N limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "This Antioxidant Supplement May Help Women Burn More Fat During Workouts \u2014 Here's What the Science Actually Says",
+          "hook": "A small but tightly controlled study found that two weeks of astaxanthin \u2014 the pigment that turns salmon pink \u2014 shifted active women's metabolism toward burning more fat during cycling, without any change in heart rate or effort.",
+          "pitch_angle": "Because women's bodies already favor fat as fuel during exercise more than men's do, researchers hypothesized they might respond especially well to astaxanthin \u2014 and a new crossover trial suggests they were right. Experts caution the sample was tiny and the real-world performance payoff is still unclear, but it opens a genuinely female-specific conversation about workout nutrition."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Astaxanthin Is Already a Buzzy Antioxidant \u2014 Now There's a Women-Only Study Backing Its Workout Benefits",
+          "hook": "A new randomized trial found that recreationally active women who took astaxanthin for two weeks showed measurable shifts in how their bodies burned fuel during exercise \u2014 with zero change in how hard the workout felt.",
+          "pitch_angle": "The study is small, but it's one of the first to test this supplement exclusively in women, a group historically underrepresented in exercise science research. Wellness-minded readers will want to know what the finding means \u2014 and what it doesn't \u2014 before adding another capsule to their routine."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42463105",
+      "headline": "Nurses on the front lines of prenatal genetic testing are navigating a legal and ethical minefield \u2014 and most training hasn't caught up",
+      "journal": "Nursing for Women's Health",
+      "pubdate": "2026 Jul 17",
+      "doi": "10.1016/j.nwh.2026.05.007",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This clinical commentary (Part II of a series) from two nurse educators examines how rapidly shifting reproductive health policies \u2014 including post-Dobbs privacy concerns and legal scrutiny of pregnancy loss \u2014 are reshaping the landscape for nurses who counsel patients on prenatal genetic testing. The authors describe the documentation, disclosure, and liability risks now facing women's health nurses, and outline strategies for supporting informed patient decision-making in increasingly restrictive legal environments. No original empirical data or study participants are included.",
+      "why_it_matters": "As prenatal genetic testing becomes more routine, the nurses who guide women through the results face growing legal and ethical risks that could affect the quality and honesty of counseling patients receive.",
+      "caveats": "No empirical data \u2014 commentary/review article only, no study participants, no original findings, US policy context",
+      "fact_check_note": "This is a clinical commentary, not an original research study. No N, study design, or quantitative findings are reported. Scored and summarized accordingly.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Timely policy angle for women's health; no empirical data limits pitch utility.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "The Nurses Helping Women Navigate Prenatal Genetic Testing Are Now Navigating Legal Landmines Too",
+          "hook": "Women's health nurses counseling patients on prenatal genetic results now face real legal exposure \u2014 and experts say their training hasn't kept pace.",
+          "pitch_angle": "A new clinical commentary argues that post-Dobbs privacy laws and the criminalization of pregnancy loss have created a documentation and liability crisis for nurses in prenatal genetics care. For women seeking honest, complete counseling about fetal anomaly results, the chilling effect on their care providers may be as consequential as the policies themselves."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42472695",
+      "headline": "A wireless forehead sensor may make heart rate monitoring easier for premature babies in the NICU",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2698904",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers prospectively evaluated a wireless forehead-mounted heart rate monitoring device (SurePulse VS) in 62 preterm infants across two UK neonatal intensive care units between January 2022 and August 2023. Staff completed structured questionnaires on feasibility and acceptability. Clinical staff rated the device as easy to fit in 88% of cases and reported heart rate visibility for most or all of the monitoring period in 82% of deployments.",
+      "why_it_matters": "For parents of preterm infants, less-invasive wireless monitoring technology could reduce the tangle of wires in NICUs and potentially support earlier skin-to-skin contact, which is linked to better infant and maternal outcomes.",
+      "caveats": "small sample (N<100), observational design, single-center (two UK NICUs), self-reported outcomes, industry-linked device (SurePulse Medical Ltd), short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Neonatal device feasibility study; small sample, no female-specific or maternal health finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Wireless Sensor Could Change How Premature Babies Are Monitored in the NICU",
+          "hook": "A small forehead-worn device successfully tracked heart rates in preterm babies without the usual tangle of wires, staff reported in a new multicenter study.",
+          "pitch_angle": "Early feasibility data suggest a wireless NICU monitor is practical and well-accepted by clinical staff \u2014 a finding that, if replicated in larger trials, could one day make skin-to-skin contact easier for parents of premature babies."
+        }
+      ],
+      "run_date": "2026-07-24",
+      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
@@ -391,33 +916,6 @@
       "status": "new"
     },
     {
-      "pmid": "42477616",
-      "headline": "Two blood proteins may flag preeclampsia early \u2014 before symptoms strike",
-      "journal": "BMC Pregnancy and Childbirth",
-      "pubdate": "2026 Jul 20",
-      "doi": "10.1186/s12884-026-09361-1",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers combined single-cell sequencing and transcriptomic analysis of blood samples from pregnant women with and without preeclampsia to identify potential early diagnostic biomarkers. The study identified two proteins \u2014 F2RL1 and GZMH \u2014 in maternal blood and validated their expression levels using ELISA. The findings suggest these biomarkers may offer diagnostic value for early-onset preeclampsia and point to immune system changes, particularly in T cells, as part of the disease's development.",
-      "why_it_matters": "Preeclampsia remains a leading cause of maternal and fetal mortality, and blood-based biomarkers that flag the condition early could open a window for intervention before dangerous complications develop.",
-      "caveats": "small sample (N<100), single-center, observational design, bioinformatic/secondary analysis, regional context (single Chinese hospital \u2014 findings may not generalize)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Reproductive health topic, but small bioinformatic study from single Chinese center limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Self",
-          "headline": "Scientists Found Two Blood Proteins That Could Warn of Preeclampsia Before It Gets Dangerous",
-          "hook": "A pair of immune proteins found in pregnant women's blood may one day allow doctors to catch preeclampsia far earlier than current methods allow.",
-          "pitch_angle": "Researchers identified two proteins \u2014 F2RL1 and GZMH \u2014 that are elevated in the blood of women with preeclampsia, suggesting a potential early warning test. While the study is preliminary and conducted at a single Chinese hospital, the concept of a simple blood screen for this life-threatening pregnancy complication has broad relevance for expectant mothers everywhere."
-        }
-      ],
-      "run_date": "2026-07-23",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42377340",
       "headline": "Fiber, omega-3s, and probiotics may strengthen the gut-lung axis to reduce respiratory infection risk",
       "journal": "Nutricion Hospitalaria",
@@ -445,60 +943,6 @@
       "status": "new"
     },
     {
-      "pmid": "42472358",
-      "headline": "Drinking before lighting up leads to heavier alcohol use on nights young adults mix alcohol and cannabis",
-      "journal": "Substance Use & Misuse",
-      "pubdate": "2026 Jul 19",
-      "doi": "10.1080/10826084.2026.2670625",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tracked alcohol and cannabis use across 14 weekends using daily diary surveys in 370 undergraduates (mean age 20.8) at Carleton University in Canada. On days students used both substances simultaneously, they consumed about 1.4 fewer drinks when cannabis was used first compared to when alcohol was used first. The effect held regardless of whether students reported drinking to cope or to enhance a positive mood.",
-      "why_it_matters": "For young women who drink and use cannabis together, the order of use may meaningfully influence how much alcohol they consume in a given night.",
-      "caveats": "small sample (N<100 does not apply \u2014 N=370), observational design, self-reported outcomes, single-center, short follow-up, undergraduate sample limits generalizability, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Useful substance-use finding but no sex-disaggregated data and non-clinical sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Order You Use Alcohol and Cannabis Actually Changes How Much You Drink",
-          "hook": "Starting your night with a drink \u2014 not a hit \u2014 is linked to consuming significantly more alcohol overall, new research suggests.",
-          "pitch_angle": "A 14-weekend diary study found young adults drank about 1.4 fewer drinks when they used cannabis before alcohol. The finding adds nuance to harm-reduction conversations happening among women who combine the two substances socially."
-        }
-      ],
-      "run_date": "2026-07-23",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42472434",
-      "headline": "Emergency rooms could be a hidden lifeline for addiction treatment \u2014 but funding gaps keep getting in the way",
-      "journal": "Substance Use & Addiction Journal",
-      "pubdate": "2026 Jul 19",
-      "doi": "10.1177/29767342261464001",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted in-depth qualitative interviews with 9 clinicians and supervisors at 2 emergency departments in King County, Washington, to evaluate a Screening, Brief Intervention, and Referral to Treatment (SBIRT) program for substance use disorder. Staff reported that the ED setting created teachable moments after substance-related injuries and helped reduce stigma among healthcare providers. However, limited reimbursement and gaps in the behavioral health referral network were identified as persistent barriers to effective implementation.",
-      "why_it_matters": "For women, who face unique barriers to accessing addiction treatment including stigma and caregiving responsibilities, understanding whether emergency departments can serve as a bridge to care is especially relevant.",
-      "caveats": "small sample (N<100), qualitative design, single-center, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Systems-level SUD finding; no female-specific data; very small qualitative sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Your ER Visit Could Be the First Step Toward Addiction Treatment \u2014 If the System Lets It",
-          "hook": "Emergency rooms are uniquely positioned to catch substance use crises early \u2014 but underfunding keeps that promise from being fulfilled.",
-          "pitch_angle": "New qualitative research found that ER-based screening and brief intervention for substance use disorder helped reduce stigma and connect patients to care, but reimbursement gaps undercut its reach. For women navigating addiction amid caregiving and work responsibilities, ER access could be a rare, low-barrier entry point into treatment."
-        }
-      ],
-      "run_date": "2026-07-23",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42463907",
       "headline": "Exercise may fight Alzheimer's by suppressing a little-known enzyme linked to brain inflammation",
       "journal": "Metabolic Brain Disease",
@@ -522,87 +966,6 @@
       ],
       "run_date": "2026-07-23",
       "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42463968",
-      "headline": "Hidden gene mutations may explain why some women's embryos keep failing in IVF",
-      "journal": "Journal of Assisted Reproduction and Genetics",
-      "pubdate": "2026 Jul 17",
-      "doi": "10.1007/s10815-026-03959-2",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers performed whole-exome sequencing on female infertility patients experiencing early embryonic arrest during IVF/ICSI cycles, identifying five novel mutations in two genes \u2014 NLRP2 and NLRP7 \u2014 across affected individuals. Lab experiments in HeLa cells confirmed the mutations destabilized or mislocalized the resulting proteins. The findings suggest these genetic variants may be a diagnosable cause of recurrent IVF failure in some women.",
-      "why_it_matters": "For women who have experienced repeated unexplained IVF failures, this research suggests a genetic explanation may exist and could one day inform diagnostic testing.",
-      "caveats": "small sample (N<100), single-center, observational design, animal or cell study (functional validation in HeLa cells), finding is tied to a single non-US/non-multinational region's healthcare system",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Female-specific fertility finding with clear IVF hook; small sample and cell-study validation limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Self",
-          "headline": "Why Your Embryos Keep Failing: Scientists Find Hidden Gene Mutations That May Explain Recurrent IVF Loss",
-          "hook": "For women who have watched IVF cycle after cycle fail without explanation, new research points to mutations in two little-known genes that may be quietly sabotaging embryo development.",
-          "pitch_angle": "Researchers identified novel mutations in NLRP2 and NLRP7 genes in women with recurrent early embryonic arrest, offering a potential genetic explanation for some unexplained IVF failures. The finding is early but could eventually lead to targeted genetic screening before treatment \u2014 a meaningful development for the growing number of women navigating fertility treatment."
-        }
-      ],
-      "run_date": "2026-07-23",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42469753",
-      "headline": "A card-based tool is changing how clinicians map the personal path to self-harm \u2014 one timeline at a time",
-      "journal": "BMC Psychiatry",
-      "pubdate": "2026 Jul 17",
-      "doi": "10.1186/s12888-026-08377-3",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This paper reviews the development and evolution of the Card Sort Task for Self-Harm (CaTS), a structured interactive assessment tool using 117 evidence-informed cards representing thoughts, feelings, events, and behaviors. Co-developed with people with lived experience of self-harm, the tool asks participants to place cards on a timeline before and after a self-harm episode to map individual risk and protective pathways. The review covers the tool's clinical, research, and training applications across varied populations and delivery formats; it does not report primary data or sample statistics.",
-      "why_it_matters": "Given that young women are disproportionately represented among those who self-harm, a flexible, person-centered assessment tool that captures temporal and contextual dynamics could improve clinical understanding and support.",
-      "caveats": "no primary data reported, no sample size, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Clinically relevant self-harm tool but no primary data or female-specific findings.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "This Interactive Card Game Is Helping Clinicians Finally Understand What Leads Someone to Self-Harm",
-          "hook": "Instead of a standard questionnaire, imagine laying out cards on a timeline to trace exactly what thoughts and events preceded a moment of self-harm \u2014 that's the idea behind a growing clinical tool called CaTS.",
-          "pitch_angle": "Researchers have developed a 117-card sorting tool that helps clinicians and patients map the personal pathway to self-harm episode by episode. The approach prioritizes individual experience over one-size-fits-all screening, which could be especially meaningful for young women, who are heavily represented in self-harm statistics."
-        }
-      ],
-      "run_date": "2026-07-23",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42468292",
-      "headline": "Not all social brain skills decline equally as psychosis progresses \u2014 only one follows a clear stage pattern",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Jul 17",
-      "doi": "10.1016/j.schres.2026.07.010",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers administered a comprehensive battery of five social cognition tests to 359 participants spanning familial high-risk, ultra-high-risk, first-episode psychosis, chronic schizophrenia, and healthy controls in Turkey. Of the five domains tested, only Theory of Mind showed a significant stage-ordered pattern of worsening across the psychosis spectrum; emotion recognition, social perception, and attributional bias did not follow a staging gradient. The finding suggests that social cognition impairment in psychosis is heterogeneous rather than uniformly progressive.",
-      "why_it_matters": "Understanding which specific social brain skills decline earliest in psychosis could help identify targets for earlier intervention \u2014 a question relevant to women, who often experience psychosis onset at different ages and with different symptom profiles than men.",
-      "caveats": "observational design, single-center, cross-sectional (no within-person change can be inferred), no sex-disaggregated data, study population based in Turkey (generalizability to other regions uncertain)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Psychiatry topic but no female-specific analysis; cross-sectional, single-center, no sex-disaggregated data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Your Brain's 'Social Skills' Don't All Decline the Same Way in Psychosis",
-          "hook": "A new study finds that of five social cognition abilities, only one \u2014 reading others' minds \u2014 worsens in a predictable, stage-by-stage pattern as psychosis progresses.",
-          "pitch_angle": "Researchers mapped five distinct social brain skills across the full psychosis spectrum and found surprisingly uneven deterioration, challenging the idea that psychosis uniformly erodes social functioning. The finding could reshape how clinicians monitor at-risk individuals \u2014 and matters for women, who are underrepresented in psychosis staging research."
-        }
-      ],
-      "run_date": "2026-07-23",
-      "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
@@ -820,33 +1183,6 @@
       "status": "new"
     },
     {
-      "pmid": "42472695",
-      "headline": "A wireless forehead sensor could make heart rate monitoring easier for premature babies in the NICU",
-      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-      "pubdate": "2026 Dec (Epub 2026 Jul 19)",
-      "doi": "10.1080/14767058.2026.2698904",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers prospectively evaluated a wireless, forehead-mounted heart rate monitoring cap (SurePulse VS) in 62 preterm infants across two UK neonatal intensive care units between 2022 and 2023. Clinical staff rated the device as easy to fit in 88% of uses, and heart rate visibility was reported as available for most or all of the monitoring period in 82% of deployments. The study found the device was feasible and acceptable to NICU staff, supporting its potential as a practical alternative to conventional wired monitoring in preterm care.",
-      "why_it_matters": "For parents of premature babies \u2014 disproportionately affected by the stress and complexity of NICU care \u2014 wireless monitoring technology could reduce the tangle of wires on fragile infants and make care less intimidating.",
-      "caveats": "small sample (N<100), observational design, single-country (UK), short follow-up, no sex-disaggregated data, staff-reported (subjective) feasibility outcomes",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Neonatal tech study; indirect women's health relevance, small observational sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Parents-adjacent wellness",
-          "headline": "A Wireless Cap Could Replace the Tangle of Wires on Premature Babies in the NICU",
-          "hook": "A forehead-mounted wireless heart rate sensor was found to be easy to use and reliably effective by NICU nurses and doctors monitoring preterm infants \u2014 potentially simplifying care for some of the most vulnerable newborns.",
-          "pitch_angle": "Early feasibility data from UK neonatal units suggest a wireless monitoring cap for premature infants works well in real clinical settings, with staff rating it easy to fit in nearly 9 out of 10 uses. While the study is small and preliminary, the technology points toward a less invasive future for NICU monitoring \u2014 one that could ease anxiety for parents already navigating an overwhelming environment."
-        }
-      ],
-      "run_date": "2026-07-23",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42463445",
       "headline": "Once a twin flips head-down after 32 weeks, it almost always stays that way \u2014 new data could simplify delivery planning",
       "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
@@ -958,33 +1294,6 @@
       "run_date": "2026-07-22",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42470151",
-      "headline": "Parents of children with a rare genetic syndrome face higher stigma and fewer specialist resources than parents of kids with Down syndrome",
-      "journal": "Journal of Intellectual Disability Research",
-      "pubdate": "2026 Jul 18",
-      "doi": "10.1111/jir.70147",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers surveyed 39 parents (mean age 43.1 years) of children with 1p36 deletion syndrome \u2014 a rare chromosomal condition causing developmental delay, epilepsy, and distinctive features \u2014 through a Japanese family association, assessing psychological distress, well-being, parental strain, self-esteem, and affiliate stigma. Most parents relied on internet sources for information, with limited guidance from medical or genetic specialists. Affiliate stigma was significantly higher in this group than in parents of children with Down syndrome, and path analysis suggested this stigma worsened mental health partly by increasing parental strain and reducing self-esteem.",
-      "why_it_matters": "Parents \u2014 and disproportionately mothers \u2014 caring for children with rare, less-recognized genetic syndromes may face compounded mental health burdens from stigma and information gaps that exceed even those experienced by families of children with better-known conditions.",
-      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, no sex-disaggregated data, finding is tied to a single non-US region's specific context (Japan)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Very small sample, Japan-specific, no sex-disaggregated data; rare condition limits broad pitch.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Parents of Kids With Rare Genetic Conditions Face a Mental Health Crisis Nobody Talks About",
-          "hook": "A new study found that parents of children with a rare chromosomal syndrome experience higher stigma than parents of children with Down syndrome \u2014 and most are getting their medical information from Google, not doctors.",
-          "pitch_angle": "Research from Japan found that parents of children with 1p36 deletion syndrome \u2014 a rare but increasingly diagnosed genetic condition \u2014 had significantly elevated 'affiliate stigma' (shame by association) compared to parents of children with Down syndrome, with that stigma linked to worse mental health through heightened parental strain and lower self-esteem. The findings highlight how rare-disease families fall through the cracks of both clinical support systems and mainstream caregiver mental health conversations."
-        }
-      ],
-      "run_date": "2026-07-22",
-      "category": "Psychiatry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
