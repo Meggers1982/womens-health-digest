@@ -1,8 +1,767 @@
 {
-  "last_updated": "2026-07-30T12:24:58.388180+00:00",
-  "total_studies": 422,
-  "new_this_run": 0,
+  "last_updated": "2026-07-31T12:53:35.650039+00:00",
+  "total_studies": 440,
+  "new_this_run": 18,
   "studies": [
+    {
+      "pmid": "42530575",
+      "headline": "Why your blood sugar spikes every morning \u2014 and what your circadian clock has to do with it",
+      "journal": "Acta Diabetologica",
+      "pubdate": "2026 Jul 30",
+      "doi": "10.1007/s00592-026-02763-9",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers from Nanjing University of Chinese Medicine reviewed the pathophysiology of the 'dawn phenomenon' \u2014 spontaneous early-morning blood sugar rises in people with diabetes \u2014 focusing primarily on type 2 diabetes while addressing type 1 separately. The review synthesized evidence linking the dawn phenomenon to counterregulatory hormone surges (cortisol, catecholamines, growth hormone) and extended this to central nervous system circadian rhythm mechanisms. The authors discuss circadian rhythm-based therapeutic strategies as a framework for more targeted management.",
+      "why_it_matters": "Women with type 2 diabetes who experience unexplained morning blood sugar spikes may benefit from emerging circadian-informed treatment strategies, particularly as hormonal fluctuations across the menstrual cycle and menopause can affect glucose regulation.",
+      "caveats": "narrative review only \u2014 no primary data, no sex-disaggregated data, single-center (China-based academic institution)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Accessible wellness hook on circadian health; narrative review with no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Your Blood Sugar Is Highest When You Wake Up \u2014 And What to Do About It",
+          "hook": "A predictable morning blood sugar surge affects a large share of people with diabetes \u2014 and it's tied to your body clock, not just what you ate.",
+          "pitch_angle": "A new review explains that the 'dawn phenomenon' is driven by circadian hormone surges that ramp up liver glucose production overnight, and that circadian rhythm-based treatments \u2014 from meal timing to medication scheduling \u2014 may offer a more targeted fix. For women managing diabetes, understanding this rhythm could help explain why morning numbers stay stubbornly high despite good overnight control."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42530854",
+      "headline": "A 40-year-old woman's 'heart attack' turned out to be a hidden adrenal tumor \u2014 and her heart fully recovered after surgery",
+      "journal": "Hormones (Athens, Greece)",
+      "pubdate": "2026 Jul 30",
+      "doi": "10.1007/s42000-026-00817-9",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Clinicians in Athens report the case of a 40-year-old woman who presented with hypertensive emergency, chest pain, and ECG changes mimicking acute coronary syndrome, but whose coronary arteries were found to be completely normal on angiography. Echocardiography revealed reverse Takotsubo cardiomyopathy \u2014 a stress-induced heart syndrome \u2014 complicated by severe mitral regurgitation; imaging and biochemical testing then identified a left adrenal pheochromocytoma causing a catecholamine surge. After alpha-blocker preparation and laparoscopic adrenal surgery, she achieved full cardiac and biochemical remission.",
+      "why_it_matters": "Takotsubo cardiomyopathy disproportionately affects women, and this case illustrates how a treatable adrenal tumor can masquerade as a cardiac emergency \u2014 underscoring the importance of considering hormonal causes when young women present with atypical heart symptoms and no coronary disease.",
+      "caveats": "small sample (N<100), single-center, observational design, case report",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Compelling women's health case; rare but women-relevant condition; single case report limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Her 'Heart Attack' Had Nothing to Do With Her Heart \u2014 It Was a Hidden Tumor on Her Adrenal Gland",
+          "hook": "A 40-year-old woman with chest pain and a failing heart turned out to have a rare adrenal tumor \u2014 and after surgery, her heart function completely returned to normal.",
+          "pitch_angle": "Pheochromocytoma is a rare but often-missed adrenal tumor that can trigger a catecholamine flood mimicking cardiac emergencies; this case shows how a stress-induced heart syndrome called reverse Takotsubo can be the first visible sign. For women navigating unexplained heart symptoms with clean coronary arteries, it raises an important question: could a hormonal cause be hiding the real diagnosis?"
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Doctors Thought She Was Having a Heart Attack. The Real Answer Was in Her Adrenal Gland.",
+          "hook": "A young woman's dramatic cardiac crisis \u2014 chest pain, a crashing heart, emergency angiography \u2014 turned out to be caused by a hormone-secreting tumor that no one had thought to look for.",
+          "pitch_angle": "Takotsubo cardiomyopathy, sometimes called 'broken heart syndrome,' is already known to strike women far more often than men, but this case adds a layer: when it keeps recurring in a young woman with no cardiac risk factors, an endocrine cause may be the real culprit. The story taps into a broader theme of women's cardiac symptoms being misread \u2014 and the diagnostic gaps that follow."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42530347",
+      "headline": "Simple risk models predict opioid overdose just as well as complex AI \u2014 and prior overdose history is the biggest red flag",
+      "journal": "The American Journal of Drug and Alcohol Abuse",
+      "pubdate": "2026 Jul 30",
+      "doi": "10.1080/00952990.2026.2697750",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed electronic health records from 14,737 adults in the All of Us Research Program who had a first recorded opioid-related diagnosis, tracking overdose events within 30 days. Six prediction models \u2014 ranging from classical statistical to machine learning approaches \u2014 were compared; all performed similarly (C-indices 0.708\u20130.745). Prior overdose history and opioid misuse diagnosis were the strongest predictors of imminent overdose risk, and simpler models performed on par with complex ML algorithms.",
+      "why_it_matters": "Women's patterns of opioid use disorder and overdose risk differ from men's, and findings from large, diverse cohorts like All of Us could support more equitable early-intervention tools in clinical settings.",
+      "caveats": "observational design, no sex-disaggregated data, short follow-up (30 days), secondary analysis of EHR data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive finding on AI vs. simple models, but no sex-disaggregated data reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "When It Comes to Predicting Opioid Overdose, Simple Beats Sophisticated AI",
+          "hook": "A large study of nearly 15,000 patients found that basic clinical risk factors predicted imminent opioid overdose just as accurately as advanced machine learning models.",
+          "pitch_angle": "The finding challenges assumptions that algorithmic complexity improves healthcare decision-making, and highlights prior overdose history as the single most important signal clinicians can act on quickly \u2014 a practical takeaway for opioid crisis response efforts."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42529984",
+      "headline": "New moms are turning to breast milk and herbal oils for cracked nipples \u2014 but experts say that's only half the answer",
+      "journal": "Journal of Human Lactation",
+      "pubdate": "2026 Jul 30",
+      "doi": "10.1177/08903344261460213",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using a qualitative phenomenological design, Turkish researchers interviewed 24 first-time breastfeeding mothers in Istanbul about traditional remedies they used for nipple pain and cracking. Mothers reported using human milk application and herbal oils as primary remedies, which offered temporary relief, but professional lactation support and correcting latch technique were found to be essential for lasting improvement. The study identified four main themes including physical discomfort, impacts on self-confidence, and the limits of traditional approaches used alone.",
+      "why_it_matters": "Nipple pain is one of the most common reasons new mothers stop breastfeeding early, and understanding which home remedies women actually turn to \u2014 and why they fall short \u2014 can help clinicians offer more effective, culturally attuned support.",
+      "caveats": "small sample (N<100), qualitative design, self-reported outcomes, single-center, observational design, findings closely tied to Turkish cultural context",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Postpartum women's health topic with lifestyle hook; small qualitative sample and regional context limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Well+Good",
+          "headline": "Rubbing Breast Milk on Cracked Nipples Is a Go-To Remedy \u2014 But It's Not Enough on Its Own",
+          "hook": "A new qualitative study found that new moms widely use breast milk and herbal oils for nipple pain \u2014 but these remedies only go so far without fixing the real culprit: latch.",
+          "pitch_angle": "Researchers interviewed 24 first-time breastfeeding mothers and found that while traditional home remedies offered temporary comfort, they couldn't replace professional guidance on technique \u2014 suggesting that lactation support, not just soothing treatments, is the missing piece for women struggling with early breastfeeding pain."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42532418",
+      "headline": "Endometriosis affects both partners \u2014 and couples who cope together may fare better",
+      "journal": "American Journal of Obstetrics and Gynecology",
+      "pubdate": "2026 Jul 30",
+      "doi": "10.1016/j.ajog.2026.07.027",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted semi-structured qualitative interviews with 49 couples (both the person with endometriosis and their partner) to explore shared coping experiences. The study identified two major domains: Shared Challenges (including compounded illness burden, psychological barriers, and undermined agency) and Coping Together (including mutual support, resilience, lifestyle changes, and acceptance). Findings suggest that a relational, partnered approach to coping may benefit both the person with endometriosis and their partner, supporting the case for psychosocial care models that include partners.",
+      "why_it_matters": "For the millions of women living with endometriosis, this research suggests that including partners in care and coping strategies \u2014 not just the patient \u2014 may improve psychological outcomes for both people in the relationship.",
+      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Endometriosis topic fit; qualitative design and small sample limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Living With Endometriosis Is a Couples Issue \u2014 Here's What the Research Says About Coping Together",
+          "hook": "A new study found that partners of people with endometriosis experience their own psychological burden \u2014 and that coping as a team may help both people.",
+          "pitch_angle": "Researchers interviewed 49 couples living with endometriosis and found shared challenges extend well beyond the person in pain, affecting partners' mental health and agency too. The wellness angle: relational coping strategies \u2014 from emotional support to lifestyle adaptation \u2014 may be as important as any individual treatment."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Endometriosis Doesn't Just Affect You \u2014 It Affects Your Relationship",
+          "hook": "A new qualitative study highlights how endometriosis reshapes partnerships, and why partners are often invisible in the healthcare conversation.",
+          "pitch_angle": "By interviewing both halves of 49 couples, researchers found that partners feel the weight of the illness too \u2014 through constrained agency, psychological strain, and a system that rarely acknowledges their role. The cultural hook: why medicine continues to treat chronic women's pain as a solo problem when the evidence says otherwise."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42526689",
+      "headline": "Standard growth charts may be drastically underestimating malnutrition risk in children with cerebral palsy",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Jul 29",
+      "doi": "10.1016/j.clnesp.2026.103627",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A multicenter cross-sectional study of 809 Argentine children and adolescents aged 2\u201320 years with cerebral palsy compared standard CDC growth charts against specialized CP Growth Charts to assess nutritional status and morbidity-mortality risk. Using standard CDC charts, 49.6% of participants fell below the -2 z-score threshold for underweight; however, CP Growth Chart morbidity-mortality risk criteria \u2014 which correspond to approximately -4 to -5 z-scores on CDC charts \u2014 were met by 15.1% of the cohort, predominantly those with the most severe motor impairment requiring tube feeding (OR 3.91). The authors conclude that standard CDC charts significantly misclassify nutritional risk in children with CP, particularly those with severe motor involvement.",
+      "why_it_matters": "Mothers and female caregivers are disproportionately the primary caregivers of children with cerebral palsy, and understanding that standard growth tools may miss critical malnutrition risk in these children is directly relevant to caregiving and advocacy decisions.",
+      "caveats": "single-center, observational design, Argentina-specific rehabilitation-center cohort unlikely to generalize broadly, no sex-disaggregated data, cross-sectional design limits causal inference",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric specialty finding; limited women's health relevance; Argentina-specific cohort limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Growth Charts Doctors Use May Be Missing Dangerous Malnutrition in Kids with Cerebral Palsy",
+          "hook": "Standard CDC growth charts may be systematically underestimating how severely malnourished children with cerebral palsy actually are, a new study suggests.",
+          "pitch_angle": "Researchers found that the growth chart thresholds commonly used in pediatric care flagged far fewer children with cerebral palsy as critically malnourished compared to charts developed specifically for this population. For parents \u2014 most often mothers \u2014 navigating complex medical care for a child with CP, knowing that standard tools may miss serious nutritional risk could change the questions they ask their child's care team."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42522354",
+      "headline": "Childhood neglect may rewire the brain in ways that make depression harder to shake, new imaging study finds",
+      "journal": "Psychiatry and Clinical Neurosciences",
+      "pubdate": "2026 Jul 29",
+      "doi": "10.1111/pcn.70109",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers compared resting-state and task-based fMRI data from 42 MDD patients with childhood neglect, 23 MDD patients without childhood trauma, and 66 healthy controls (all from a single Chinese hospital). Adults with MDD and childhood neglect showed hyperconnectivity in a large brain subnetwork involving the default mode and dorsal attention networks, and this connectivity both predicted depressive symptom severity and mediated the relationship between neglect and depression. Reduced dynamic flexibility in network reconfiguration during a cognitive task was also identified as a second independent mechanism linking neglect to depression severity.",
+      "why_it_matters": "Childhood neglect is disproportionately experienced by girls, and understanding its lasting neurological signature in depression could inform trauma-informed mental health approaches for women.",
+      "caveats": "small sample (N<100), single-center, cross-sectional design, self-reported childhood neglect (recall bias), no sex-disaggregated data, single Chinese institution limiting generalizability",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Compelling childhood trauma-depression neuroscience link, but small sample, no female-specific analysis, limited generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Childhood Neglect May Leave a Lasting Imprint on Brain Wiring \u2014 Especially for People With Depression",
+          "hook": "A new brain imaging study found that adults with depression who experienced childhood neglect show a distinct pattern of hyperconnectivity that may help explain why their symptoms are more severe.",
+          "pitch_angle": "Researchers identified two brain-level mechanisms \u2014 overconnected neural networks and reduced flexibility in switching between brain states \u2014 that appear to link early neglect to more intense depression, adding neuroscience weight to the growing conversation about adverse childhood experiences and lifelong mental health."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42521616",
+      "headline": "A diabetes team before surgery slashes infection readmissions \u2014 and saves hospitals thousands",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1111/dom.71139",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Australian researchers conducted a trial-based economic analysis comparing multidisciplinary pre-operative diabetes care to usual care in adults with sub-optimally managed diabetes undergoing elective non-cardiac surgery. Using a decision analytic model built on a 3-year prospective interventional study at Royal Brisbane and Women's Hospital plus national surgical quality data, they found the intervention avoided 7 readmissions per 100 patients treated and saved an estimated A$3,967 per patient compared to usual care. Probabilistic sensitivity analysis showed an 89.5% probability the intervention was cost-saving.",
+      "why_it_matters": "Women with diabetes face elevated surgical complication risks, and this finding suggests that access to a pre-surgery diabetes care team \u2014 not always standard \u2014 could meaningfully reduce post-operative infections and hospital readmissions.",
+      "caveats": "single-center, observational design (interventional study, not RCT), no sex-disaggregated data, Australia-specific healthcare cost context",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically meaningful finding; Australia-specific costs, no female-specific analysis, non-RCT design.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "If You Have Diabetes and Need Surgery, a Specialist Team Beforehand Could Save Your Life \u2014 and the Hospital Money",
+          "hook": "A pre-surgical diabetes care team wasn't just safer \u2014 it cut infection-related hospital readmissions by 7 per 100 patients and saved thousands of dollars per person.",
+          "pitch_angle": "An Australian economic analysis finds that routing people with poorly controlled diabetes through a multidisciplinary pre-operative service \u2014 rather than standard care \u2014 significantly reduces costly post-surgical complications. For women with diabetes facing elective surgery, this suggests asking about pre-operative diabetes optimization could be one of the most impactful questions they raise with their surgical team."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42520950",
+      "headline": "A bone disease hiding behind 'stress fractures': 17 years of following siblings with a rare genetic condition reveals what happens when treatment stops",
+      "journal": "Bone",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1016/j.bone.2026.118034",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers report a 17-year follow-up of twin sisters and a brother diagnosed in middle age with hypophosphatasia (HPP), a rare genetic bone-mineralization disorder caused by ALPL gene mutations, initially presenting as painful femoral stress fractures and lifelong tooth loss. One sister received enzyme-replacement therapy (asfotase alfa) for three and a half years with substantial clinical improvement, then suffered significant deterioration including new fractures after unplanned treatment cessation, with bone biopsy confirming osteomalacia. Resuming treatment restored its benefits, and genetic testing of ten family members identified eight carriers across four generations.",
+      "why_it_matters": "For women experiencing unexplained stress fractures or early tooth loss, this case highlights that a rare but treatable genetic bone disorder can masquerade as ordinary musculoskeletal problems for years \u2014 and that treatment continuity is critical to prevent severe deterioration.",
+      "caveats": "small sample (N<100), single-center, observational design, case report/series",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Rare disease case series; women included; bone health hook but very small N.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Stress Fractures and Crumbling Teeth Since Childhood \u2014 It Took Decades to Find the Real Cause",
+          "hook": "Two sisters spent years being told their bone pain and fractures were ordinary \u2014 until a genetic diagnosis revealed a rare, treatable metabolic disorder.",
+          "pitch_angle": "Hypophosphatasia is chronically misdiagnosed as osteoporosis or unexplained bone fragility, and this 17-year case study shows what happens when the right treatment is delayed \u2014 or stopped. For readers navigating unexplained bone or dental problems, it's a powerful reminder that rare diagnoses deserve a second look."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42517456",
+      "headline": "First Nations caregivers raising autistic kids face racism and broken systems \u2014 but find strength in Indigenous worldviews",
+      "journal": "Autism: the international journal of research and practice",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1177/13623613261464661",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used a community-based participatory approach to interview 14 First Nations caregivers of autistic children in two Canadian communities (Maskwac\u00ees, Alberta and Six Nations of the Grand River, Ontario). Thematic analysis of semi-structured interviews identified eight themes including caregiver burnout, racism, diagnostic barriers, and lack of culturally appropriate services. Despite major systemic obstacles, caregivers drew strength from kinship, ceremony, and Indigenous frameworks that reframe autism as a gift from the Creator.",
+      "why_it_matters": "Caregivers \u2014 who are disproportionately women \u2014 in First Nations communities face unique, layered barriers to autism support that mainstream health systems and research have largely ignored.",
+      "caveats": "small sample (N<100), qualitative design, single-country (Canada), findings tied to specific First Nations communities unlikely to generalize to US context",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Caregiver and women's health angle, but very small qualitative study with limited US generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Indigenous Families Are Raising Autistic Kids Without Culturally Safe Support \u2014 And Finding Their Own Way Through",
+          "hook": "First Nations caregivers raising autistic children described navigating racism, bureaucratic barriers, and burnout \u2014 while also finding resilience in community and cultural identity.",
+          "pitch_angle": "A new Canadian study reveals how First Nations caregivers experience a system-wide failure to provide culturally appropriate autism services, while also documenting the profound strength drawn from Indigenous kinship and ceremony \u2014 a finding that challenges deficit-focused narratives in disability and caregiving coverage."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42518133",
+      "headline": "Thinking about your own thinking may help people recover from a first psychotic episode",
+      "journal": "Neuropsychiatrie",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1007/s40211-026-00585-3",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a systematic review of 15 studies published between 2014 and 2025 examining metacognitive therapy \u2014 interventions that teach patients to reflect on their own thought processes \u2014 in adults experiencing a first episode of psychosis. Across studies, metacognitive interventions consistently improved cognitive insight, particularly self-reflectivity and reduced overconfidence, though effects on psychotic symptom reduction were mixed. Results for social cognition were also inconsistent, and study designs varied widely in duration, format, and intensity.",
+      "why_it_matters": "First-episode psychosis often emerges during young adulthood in women, and this review suggests that therapies targeting self-reflection skills may offer meaningful cognitive benefits alongside standard care.",
+      "caveats": "small sample (N<100 in most included studies), observational design, heterogeneous study designs, short follow-up, no sex-disaggregated data, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Psychiatric topic with no female-specific analysis; mixed findings; no women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "A Therapy That Teaches You to Think About Your Own Thinking May Help After a First Psychotic Episode",
+          "hook": "Learning to reflect on your own thought patterns \u2014 a skill called metacognition \u2014 may be one of the most promising tools for people recovering from a first episode of psychosis.",
+          "pitch_angle": "A review of 15 studies found that metacognitive therapy consistently improved self-awareness and reduced overconfidence in people early in their psychosis journey; the wellness hook is that these are trainable mental flexibility skills with potential broader applications in mental health."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42509568",
+      "headline": "Black patients in residential addiction treatment face systemic gaps that go far beyond access \u2014 and insiders say they know exactly how to fix them",
+      "journal": "Addiction Science & Clinical Practice",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1186/s13722-026-00677-z",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at Boston Medical Center conducted interviews and focus groups with seven experts (patients and/or providers from programs focused on Black patients) and five focus groups with leadership, staff, and Black patients at a short-term residential addiction facility. The qualitative study identified five domains for improving treatment equity: increasing Black representation in staff, training staff to support Black patients, building organizational accountability, improving trauma responsiveness, and creating culturally tailored welcoming environments. The study notes that residential treatment is particularly challenging for Black patients because it requires living in an environment that may not adequately support them.",
+      "why_it_matters": "Black women face compounded barriers in addiction treatment settings \u2014 including racial bias and lack of culturally relevant care \u2014 and this study surfaces concrete, community-sourced recommendations that could inform more equitable residential programs.",
+      "caveats": "small sample (N<100), qualitative design, self-reported outcomes, single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Health equity topic with women's relevance; qualitative only; single-center; strong real-world hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Addiction Treatment Fails Black Patients \u2014 Especially When They Have to Live There. Here's What Needs to Change",
+          "hook": "Residential addiction treatment asks patients to live in a space that often doesn't reflect or support them \u2014 and for Black patients, experts say that gap is a major barrier to recovery.",
+          "pitch_angle": "A new qualitative study surfaced specific, community-driven recommendations for making residential treatment more equitable for Black patients, from hiring practices to culturally tailored programming; the findings are especially relevant for Black women, who face layered stigma and systemic gaps in addiction care."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Why Rehab Doesn't Work as Well for Black Women \u2014 and What They Say Would Actually Help",
+          "hook": "The people closest to the problem \u2014 Black patients and providers \u2014 have clear ideas about what residential addiction treatment is getting wrong and how to fix it.",
+          "pitch_angle": "A Boston-based study asked Black patients and staff directly what would make residential addiction treatment more equitable, revealing systemic issues from unconscious bias to culturally tone-deaf programming; the findings put community knowledge at the center of a policy conversation that too often excludes it."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42520833",
+      "headline": "A light-guided tube placement method achieves 100% stomach accuracy in preterm babies \u2014 no X-ray needed in real time",
+      "journal": "American Journal of Perinatology",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1055/a-2923-6620",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A prospective multicenter study across five Japanese NICUs enrolled 101 neonates (median corrected gestational age 36.1 weeks) to test whether a light-emitting diode source and fiber (LED-SF) device could accurately confirm feeding tube placement without immediate X-ray. In all 101 cases, the tube tip was confirmed to be in the stomach, with no adverse events, and insertion lengths correlated strongly with X-ray measurements (r\u00b2=0.844).",
+      "why_it_matters": "For mothers whose newborns require tube feeding in the NICU, a safer, faster bedside tool for confirming tube placement could reduce radiation exposure and procedural delays.",
+      "caveats": "single-center context (Japan-based, though multicenter within Japan), short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Neonatal tech finding; limited direct women's health angle, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Tiny Light Could Replace X-Rays for Checking Feeding Tubes in Premature Babies",
+          "hook": "A fiber-optic light device correctly confirmed stomach tube placement in every one of 101 preterm newborns tested \u2014 without a single X-ray required in real time.",
+          "pitch_angle": "Japanese researchers found that an LED-guided method accurately verified feeding tube position in preterm and term neonates across five NICUs, suggesting it could one day reduce radiation exposure for the most fragile patients in neonatal care."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42521916",
+      "headline": "A rare gene mutation disrupts a key hormonal pathway in men \u2014 and the same gene may matter for women's fertility too",
+      "journal": "Reproductive Sciences",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1007/s43032-026-02131-6",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Iranian researchers used whole-exome sequencing in 15 infertile men with asthenozoospermia (poor sperm motility) and identified a novel splice-site mutation in the TACR3 gene \u2014 which encodes the receptor for neurokinin B, a hormone that regulates the hypothalamic-pituitary-gonadal axis \u2014 segregating within one family. Two homozygous brothers showed hormonal profiles consistent with hypogonadotropic hypogonadism, while a heterozygous carrier had severe sperm motility impairment. RT-PCR confirmed the mutation dramatically reduced or abolished TACR3 expression.",
+      "why_it_matters": "Because neurokinin B signaling via TACR3 also regulates reproductive hormone cycles in women, this finding in male infertility may have implications for understanding hormonal disorders \u2014 including aspects of menopause and PCOS \u2014 in female patients.",
+      "caveats": "small sample (N<100), single-center, observational design, single non-US/non-multinational region (Iranian family), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Male-focused, very small single-family study; limited generalizability to women's health audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Gene That Controls Reproductive Hormones in Men \u2014 and May Be Just as Important for Women",
+          "hook": "A rare mutation in a gene that regulates reproductive hormones caused infertility in multiple men in one family \u2014 and the same gene is a key player in women's hormonal cycles.",
+          "pitch_angle": "The TACR3 gene encodes the receptor for neurokinin B, a neuropeptide that drives hormone release in both sexes; this small but striking case study is an entry point into explaining why male and female reproductive endocrinology are more intertwined than most people realize."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42522282",
+      "headline": "Men whose sperm literally lose their heads carry mutations in a gene scientists didn't know was responsible \u2014 and one still fathered a child",
+      "journal": "Asian Journal of Andrology",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.4103/aja2025109",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Chinese researchers used whole-exome sequencing in two infertile men with acephalic spermatozoa syndrome \u2014 an extremely rare condition where sperm tails are produced without heads \u2014 and identified novel truncating mutations in the ZMYND15 gene. Experiments showed the mutations impaired the ZMYND15 protein's interaction with SUN5, a protein critical for connecting sperm heads to tails during development. One patient achieved a live birth via intracytoplasmic sperm injection (ICSI), while the other experienced an early miscarriage.",
+      "why_it_matters": "For women whose male partners face unexplained infertility, this research expands the genetic map of rare sperm disorders and offers early evidence that ICSI may offer a path to parenthood even in severe cases.",
+      "caveats": "small sample (N<100), single-center, observational design, regional context (Chinese clinical centers)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Male-focused genetics study; minimal direct women's health relevance; very small sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "When Sperm Form Without Heads, a Genetic Clue May Point Toward Treatment",
+          "hook": "A rare condition in which sperm tails form without heads has been linked to mutations in a gene not previously connected to this syndrome \u2014 and one affected man still became a father through IVF.",
+          "pitch_angle": "For couples navigating unexplained male infertility, this small study adds a newly identified genetic cause to the diagnostic checklist and suggests that even the most unusual sperm disorders may be compatible with assisted reproduction."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42520897",
+      "headline": "A common plasticizer chemical found in everyday products is linked to sperm damage in both mice and human samples \u2014 via inflammation and oxidative stress",
+      "journal": "Reproductive Toxicology",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1016/j.reprotox.2026.109308",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Chinese researchers exposed male ICR mice to dicyclohexyl phthalate (DCHP), an endocrine-disrupting plasticizer, at varying doses for six weeks, and separately exposed 35 human semen samples to DCHP for 12 hours ex vivo. High-dose DCHP in mice was associated with testicular tissue damage and impaired sperm parameters, while human semen showed a dose-dependent reduction in sperm quality. Proposed mechanisms include oxidative stress, DNA damage, mitochondrial dysfunction, and inflammatory M1 macrophage activation in testicular tissue.",
+      "why_it_matters": "For women trying to conceive, research suggesting that a widely used phthalate plasticizer may impair sperm quality through inflammation adds to growing evidence that everyday chemical exposures in partners could affect couples' fertility outcomes.",
+      "caveats": "animal or cell study, small sample (N<100 for human component: N=35 ex vivo semen samples), observational design, single-center, no sex-disaggregated data, regional context (Chinese laboratory study), short follow-up, high doses used in animal model may not reflect real-world human exposure",
+      "fact_check_note": "The abstract explicitly notes that the human semen component was an 'exploratory acute ex vivo assessment' and states 'further functional studies are required to establish definitive causal relationships.' Pitch must not imply causation.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Primarily animal study; tiny ex vivo human component; male-focused; limited generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "Another Common Plastic Chemical Is Linked to Sperm Damage \u2014 Here's What the Research Actually Shows",
+          "hook": "A plasticizer called DCHP \u2014 found in industrial and consumer products \u2014 is associated with reduced sperm quality in both animal models and human semen samples, with inflammation as a proposed culprit.",
+          "pitch_angle": "For readers concerned about endocrine disruptors and fertility, this early-stage study adds DCHP to a growing list of phthalate chemicals under scrutiny \u2014 though researchers caution that the human evidence is preliminary and causal links are not yet established."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42521961",
+      "headline": "Standard genetic carrier testing missed a mother's mosaic mutation \u2014 IVF screening caught it before her next child could inherit a fatal immune disease",
+      "journal": "Journal of Assisted Reproduction and Genetics",
+      "pubdate": "2026 Jul 28",
+      "doi": "10.1007/s10815-026-03985-0",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers report a case study of a Thai couple who had lost one child to X-linked severe combined immunodeficiency (X-SCID) but initially tested negative for carrier status using standard genetic screening. Reanalysis revealed the mother carried a low-level mosaic mutation in the IL2RG gene at only ~12% allele frequency \u2014 below the standard 30% detection threshold. Preimplantation genetic testing (PGT-M) during IVF successfully identified three mutation-free embryos, and transfer of one resulted in an ongoing pregnancy.",
+      "why_it_matters": "This case suggests that standard parental carrier testing can miss low-level mosaic mutations in mothers, meaning some women may unknowingly be at risk of passing on serious genetic conditions even after receiving a 'negative' result.",
+      "caveats": "small sample (N<100), single-center, single-center, observational design, tied to Thailand-specific clinical context",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Niche reproductive genetics case; limited generalizability; single patient.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "Your Genetic Test Said 'Negative' \u2014 But That Might Not Be the Whole Story",
+          "hook": "A mother's routine genetic carrier test came back negative \u2014 but a deeper look revealed she was silently carrying a mutation that killed her first child.",
+          "pitch_angle": "This case study highlights a real gap in standard genetic screening: low-level 'mosaic' mutations can fly under the radar, potentially leaving women unaware of recurrence risk before IVF or pregnancy. It opens a conversation about what women planning families should ask their genetic counselors about the limits of carrier testing."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42508576",
+      "headline": "Cutting sugar in the first two years of life was linked to a dramatically lower cancer risk decades later",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Jul 27",
+      "doi": "10.1016/j.ajcnut.2026.101453",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used the natural experiment of post-WWII UK sugar rationing \u2014 which ended abruptly in September 1953 \u2014 to compare early-onset cancer rates (diagnosed at \u226450 years) in 63,819 UK Biobank participants, 56.3% female, born between 1951 and 1956. Those exposed to sugar rationing in utero and during infancy had a 34% lower risk of early-onset cancer (HR 0.66, 95% CI 0.53\u20130.81) compared to those born after rationing ended, with the strongest protection seen in those exposed for up to 24 months postnatally. No significant reduction in cancer-specific mortality was observed, suggesting early sugar restriction may delay tumor development rather than alter cancer aggressiveness.",
+      "why_it_matters": "With early-onset cancer rising globally and affecting women in their reproductive and peak career years, evidence that sugar intake in the first 1,000 days of life may influence cancer risk decades later has significant implications for infant and toddler nutrition guidance.",
+      "caveats": "observational design, secondary analysis, UK-specific historical context may limit generalizability, no sex-disaggregated cancer-site analyses reported, self-reported or registry-linked outcomes",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large human cohort, counterintuitive finding, strong women's health hook, clean quasi-experimental design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "What You Eat in Your Baby's First Two Years Could Shape Their Cancer Risk Decades Later, a Major Study Suggests",
+          "hook": "A natural experiment using WWII-era sugar rationing found that babies who ate less sugar in their first two years of life had dramatically lower cancer rates by age 50.",
+          "pitch_angle": "Analyzing data from over 63,000 UK adults, researchers found that limiting sugar in the first 1,000 days of life \u2014 from conception through toddlerhood \u2014 was associated with a 34% lower risk of developing cancer before age 50. The finding adds striking real-world evidence to growing concern about early-life sugar exposure, and arrives as early-onset cancers are rising among younger women."
+        },
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "A Post-War Sugar Shortage Accidentally Revealed Something Striking About Cancer Risk",
+          "hook": "When the UK abruptly ended sugar rationing in 1953, it created an unintentional experiment \u2014 and the results, seen 70 years later, are striking.",
+          "pitch_angle": "People born just before sugar rationing ended \u2014 who spent their earliest months with dramatically less sugar \u2014 went on to develop cancer at far lower rates before age 50 than those born after. The study reframes the conversation about infant nutrition from short-term health to lifelong disease risk, with particular relevance for women navigating feeding decisions for young children."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42508761",
+      "headline": "Infant formula still can't match breast milk \u2014 but precision fermentation may be closing the gap",
+      "journal": "Advances in Nutrition",
+      "pubdate": "2026 Jul 27",
+      "doi": "10.1016/j.advnut.2026.100710",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A multidisciplinary review from the Infant Nutrition Science Coalition \u2014 drawing on academics, industry scientists, and government researchers \u2014 examined the current state of infant formula (IF) relative to human milk (HM). The paper identifies emerging technologies including precision fermentation and cultured mammary epithelial cells as potential routes to close the compositional gap between IF and HM. Key findings highlight that despite 30 years of ingredient additions, IF remains functionally and compositionally inferior to HM, with significant regulatory and safety hurdles still to clear.",
+      "why_it_matters": "For the many mothers who cannot or choose not to exclusively breastfeed, understanding how close \u2014 or far \u2014 infant formula is from human milk has direct implications for infant feeding decisions.",
+      "caveats": "industry funding [ByHeart Inc., Kabrita North America, Nara Organics Inc. listed among authors' affiliations], review article (not primary research), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to postpartum and infant feeding; review design, industry conflicts lower score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Formula Has Come a Long Way \u2014 But Scientists Say It Still Can't Replicate Breast Milk. Here's What's Next.",
+          "hook": "Despite decades of advances, infant formula is still not equivalent to human milk \u2014 but new biotech approaches may be changing that.",
+          "pitch_angle": "Researchers from academia, industry, and government have mapped out where infant formula falls short of breast milk and what emerging technologies like precision fermentation could do to close the gap. For mothers who rely on formula \u2014 by choice or necessity \u2014 this signals a meaningful shift may be on the horizon."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42509306",
+      "headline": "A whiff of breast milk before a preterm baby's first feeding makes the experience go faster and smoother",
+      "journal": "Journal of Perinatology",
+      "pubdate": "2026 Jul 27",
+      "doi": "10.1038/s41372-026-02836-1",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a randomized controlled trial in a level-3 NICU in Istanbul with 60 preterm infants born at 26\u201334 weeks' gestation. The experimental group (n=29) received one hour of breast milk odor exposure before their first oral feeding, while controls (n=31) received standard pacifier-only care. Infants exposed to breast milk odor fed faster (3.84 vs. 3.22 mL/min), finished feeding sooner, and scored higher on alertness and energy during feeding.",
+      "why_it_matters": "For mothers of preterm infants, this suggests that a simple, low-cost intervention \u2014 exposing babies to the smell of their own mother's milk \u2014 may ease the often stressful milestone of a preemie's first oral feeding.",
+      "caveats": "small sample (N<100), single-center, short follow-up, trial registered after enrollment began",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "RCT with postpartum/neonatal hook; small sample and single-center limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Well+Good",
+          "headline": "The Simple Smell Trick That May Help Preemies Feed Better",
+          "hook": "Letting a premature baby sniff their mother's breast milk for just an hour before their first feeding may help them eat faster and stay more alert.",
+          "pitch_angle": "A small RCT found that preterm infants exposed to breast milk odor before their first oral feed performed measurably better \u2014 feeding more quickly and scoring higher on alertness \u2014 suggesting a low-tech, zero-cost tool for NICU families navigating one of early parenthood's most anxious milestones."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42508732",
+      "headline": "Low-dose aspirin prevents preeclampsia \u2014 but a massive French study finds it raises bleeding risk, and we still can't agree on who should take it",
+      "journal": "Gyn\u00e9cologie, Obst\u00e9trique, Fertilit\u00e9 & S\u00e9nologie",
+      "pubdate": "2026 Jul 27",
+      "doi": "10.1016/j.gofs.2026.07.005",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "French researchers reviewed evidence on low-dose aspirin for preeclampsia prevention during pregnancy, synthesizing data from major trials and a French nationwide cohort of 5.8 million pregnancies. They found that while aspirin (100\u2013160 mg, taken in the evening, started before 16 weeks) is the only drug with established efficacy for primary preeclampsia prevention, the new large-scale safety data show an excess of hemorrhagic complications in mothers. The review highlights that no screening strategy reliably identifies who benefits, explaining why international guidelines remain sharply divided.",
+      "why_it_matters": "Millions of pregnant women are prescribed low-dose aspirin for preeclampsia prevention, but this review suggests the benefit-risk balance hinges critically on identifying the right candidates \u2014 a question medicine has not yet resolved.",
+      "caveats": "observational design, single-center, article in French (narrative review with original trial synthesis), regional context (French healthcare system)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "High-stakes reproductive health topic, large safety dataset, counterintuitive maternal bleeding finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / SELF",
+          "headline": "Your Doctor May Prescribe Aspirin in Pregnancy \u2014 But a 5.8-Million-Woman Study Says It's Complicated",
+          "hook": "Low-dose aspirin is the only drug proven to reduce preeclampsia risk in pregnancy \u2014 but new data from millions of French pregnancies suggest it also raises the risk of serious bleeding.",
+          "pitch_angle": "Aspirin is widely recommended in pregnancy, yet a landmark French review finds we still can't reliably identify which pregnant women will benefit enough to outweigh the hemorrhage risk. For readers navigating prenatal care decisions, this is a timely reality check on a medication many assume is straightforwardly safe."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Is Aspirin During Pregnancy Safe? A Massive New Review Has a Nuanced Answer",
+          "hook": "A review of 5.8 million pregnancies finds that low-dose aspirin reduces dangerous preeclampsia \u2014 but may also raise bleeding risk, and doctors can't yet reliably predict who needs it.",
+          "pitch_angle": "Prevention readers interested in proactive health management will want to know that the aspirin-in-pregnancy conversation is more complex than headlines suggest, and that timing, dose, and patient selection all matter enormously."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42503325",
+      "headline": "A common vitamin deficiency found in diabetics may quietly accelerate memory loss \u2014 and the gut may be why",
+      "journal": "Progress in Neuro-Psychopharmacology & Biological Psychiatry",
+      "pubdate": "2026 Jul 26",
+      "doi": "10.1016/j.pnpbp.2026.111861",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review from Peking University synthesizes evidence on how vitamin B12 deficiency \u2014 highly prevalent in people with type 2 diabetes, including those taking metformin \u2014 may drive cognitive decline through microglial inflammation, disrupted one-carbon metabolism, mitochondrial dysfunction, and oxidative stress. The authors also highlight the gut-brain axis, noting that reduced abundance of B12-producing gut bacteria like Akkermansia muciniphila may further deplete B12 and worsen neuroinflammation. No original human participants were enrolled; this is a mechanistic review drawing on existing literature.",
+      "why_it_matters": "Women with type 2 diabetes \u2014 a population growing in midlife and beyond \u2014 may face compounded cognitive risk if B12 deficiency goes undetected, particularly those on long-term metformin therapy.",
+      "caveats": "observational design, no sex-disaggregated data, secondary analysis, single non-US region (China-based authors, though draws on global literature)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant nutrition-cognition link; review only; no female-specific data; moderate women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "If You Have Diabetes and Take Metformin, You May Need to Watch Your B12 \u2014 Here's the Brain Connection",
+          "hook": "A vitamin deficiency that's easy to miss \u2014 and common in people with diabetes \u2014 may be quietly fueling memory problems through gut and brain inflammation.",
+          "pitch_angle": "A new review suggests that B12 deficiency triggers a cascade of microglial inflammation and metabolic disruption that may accelerate cognitive decline in type 2 diabetes; the gut microbiome may amplify the damage by failing to produce enough B12 \u2014 a finding with real implications for midlife women managing blood sugar long-term."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42502138",
+      "headline": "The push to sort type 2 diabetes into neat subtypes may be built on shaky science",
+      "journal": "Diabetologia",
+      "pubdate": "2026 Jul 25",
+      "doi": "10.1007/s00125-026-06802-6",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers from Germany and the UK conducted a narrative review critically examining the growing effort to classify type 2 diabetes into four pathophysiology-based subtypes \u2014 severe insulin-deficient, severe insulin-resistant, moderate obesity-related, and moderate age-related diabetes. The review identified three major methodological problems: uncertainty about whether discrete subtypes actually exist, low reliability in assigning individuals to subtypes, and limited evidence that subtyping improves outcomes compared to other approaches. The authors suggest individualized prediction models using routine clinical data as a complementary alternative.",
+      "why_it_matters": "Women are disproportionately affected by obesity-related and age-related type 2 diabetes subtypes, and this finding suggests that widely promoted precision diabetes frameworks may not yet be ready to guide their care.",
+      "caveats": "narrative review only \u2014 no primary data, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive critique of precision medicine trend; no female-specific data reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The 'Precision Diabetes' Trend Is Getting Ahead of the Science, Researchers Warn",
+          "hook": "The idea that your type 2 diabetes belongs to a specific subtype \u2014 and should be treated accordingly \u2014 is compelling, but a new review suggests the evidence doesn't yet support it.",
+          "pitch_angle": "European diabetes researchers find that current methods for sorting people into diabetes subtypes are unreliable and not proven to improve outcomes, suggesting the precision medicine hype has outpaced the data. For women navigating diabetes care decisions, this is a call to ask hard questions about individualized treatment claims."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42501964",
+      "headline": "Surgeons expected endometriosis \u2014 and found something far rarer instead",
+      "journal": "Journal of Minimally Invasive Gynecology",
+      "pubdate": "2026 Jul 25",
+      "doi": "10.1016/j.jmig.2026.07.024",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This appears to be a case report or case series from UC Riverside and UCLA describing patients who presented with symptoms or imaging suggestive of endometriosis but received an unexpected diagnosis of adenomyomatous cysts. No sample size, participant demographics, or outcome data are available in the abstract.",
+      "why_it_matters": "Adenomyomatous cysts are a rare and poorly understood condition that can mimic endometriosis, and cases like these highlight the diagnostic complexity women with pelvic pain may face.",
+      "caveats": "small sample (N<100), no sample size reported in abstract, observational design, single-center",
+      "fact_check_note": "Abstract contains no quantitative data; summary reflects what is inferable from title, journal, and author affiliations only. Pitch angles should be treated as speculative pending full-text review.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Women-specific condition with diagnostic twist; case report limits generalizability significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self / Well+Good",
+          "headline": "Women Are Being Diagnosed With Endometriosis When They Have Something Else Entirely",
+          "hook": "A new case report from California describes patients whose symptoms looked exactly like endometriosis \u2014 but turned out to be a much rarer condition called adenomyomatous cysts.",
+          "pitch_angle": "The case highlights how overlapping symptoms in pelvic and gynecologic conditions can lead to misdiagnosis, and why women with unresolved pelvic pain may benefit from seeking specialists experienced in rare gynecologic diagnoses."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42526232",
+      "headline": "French birthing data show a quiet revolution: fewer episiotomies, less labor augmentation \u2014 but inductions are up sharply",
+      "journal": "European Journal of Obstetrics, Gynecology, and Reproductive Biology",
+      "pubdate": "2026 Jul 25",
+      "doi": "10.1016/j.ejogrb.2026.115327",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using data from three French National Perinatal Surveys (2010, 2016, 2021), researchers tracked obstetric intervention rates in 31,150 women who had singleton, term, cephalic vaginal births. Episiotomy rates fell dramatically from 15.3% to 3.5%, and labor augmentation dropped from 24.5% to 12.5%, while epidural use rose from 12.4% to 29.4% and labor induction climbed from 12.9% to 18.5%. Overall, the proportion of women avoiding major delivery interventions (episiotomy, operative vaginal delivery, and cesarean) rose from 60.9% to 71.9%, suggesting a net reduction in medicalization of childbirth.",
+      "why_it_matters": "These trends suggest that evidence-based efforts to reduce unnecessary obstetric procedures are working in at least one high-income country \u2014 relevant context for US readers advocating for less interventionist birth experiences.",
+      "caveats": "observational design, regional context (French healthcare system \u2014 episiotomy baseline and induction policy differ from US practice), cross-sectional surveys",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large population-based sample, clear women's health hook; French-specific context limits US generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / SELF",
+          "headline": "Episiotomies Are Nearly Gone in France \u2014 Here's What That Tells Us About the Future of Birth",
+          "hook": "In just over a decade, the episiotomy rate in France plummeted from 15% to under 4% \u2014 part of a broader shift toward less medicalized childbirth that has real implications for how women worldwide think about labor.",
+          "pitch_angle": "A massive French national survey of over 31,000 births found that unnecessary obstetric interventions dropped significantly from 2010 to 2021, even as inductions rose \u2014 a nuanced data point for readers interested in birth autonomy and evidence-based maternity care."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42496925",
+      "headline": "Brain damage from diabetes may be detectable long before symptoms appear \u2014 if we had better biomarkers",
+      "journal": "Acta Diabetologica",
+      "pubdate": "2026 Jul 24",
+      "doi": "10.1007/s00592-026-02754-w",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a narrative review of molecular biomarkers \u2014 including inflammatory mediators, oxidative stress markers, neuronal injury proteins, and circulating microRNAs \u2014 associated with diabetes-related neurological complications such as peripheral neuropathy, cognitive impairment, and cerebrovascular disease. The review emphasized human studies and translational research. While several biomarker classes showed consistent associations with neurological injury in people with diabetes, most remain exploratory and are not validated for routine clinical use.",
+      "why_it_matters": "Women with diabetes face elevated risk for cognitive decline and neuropathy, and early biomarker detection could eventually support more targeted prevention strategies.",
+      "caveats": "observational design, no sex-disaggregated data, narrative review only \u2014 no primary data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Narrative review, no female-specific analysis, early-stage biomarker evidence only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Diabetes Can Start Harming Your Brain Before You Notice Any Symptoms \u2014 Scientists Are Racing to Catch It Earlier",
+          "hook": "Neurological damage from diabetes may begin silently \u2014 and a wave of new molecular biomarkers could one day detect it years before symptoms appear.",
+          "pitch_angle": "A new review finds that blood-based markers of nerve and brain injury are associated with early diabetes-related neurological damage, but none are ready for clinical use yet. For the millions of women living with or at risk for diabetes, this research signals a future where catching brain complications early may become routine."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42498121",
+      "headline": "A specific brain region's activity may explain why some people with depression feel powerless to cope with stress",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Jul 24",
+      "doi": "10.1016/j.jad.2026.122313",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers enrolled 139 first-episode, drug-na\u00efve major depressive disorder (MDD) patients and 65 healthy controls, using propensity score matching to yield 63 matched pairs for fMRI analysis. Resting-state fMRI showed significantly reduced spontaneous neural activity (regional homogeneity) in the right precuneus in MDD patients compared to controls. Reduced precuneus activity was associated with lower stress-coping self-efficacy \u2014 but not with helplessness \u2014 even after controlling for depression and anxiety severity.",
+      "why_it_matters": "Understanding the brain circuits tied to stress-coping self-efficacy in depression could eventually inform more targeted treatments for women, who are disproportionately affected by MDD.",
+      "caveats": "small sample (N<100 after matching), single-center, no sex-disaggregated data, observational design, study population from a single Chinese institution limiting generalizability",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting depression neuroscience but no female-specific analysis and limited generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "Scientists Found a Brain Region Linked to Feeling Like You Can't Cope \u2014 And It May Help Explain Depression",
+          "hook": "A new brain imaging study suggests that reduced activity in one specific brain area is associated with low stress-coping confidence in people newly diagnosed with depression.",
+          "pitch_angle": "Researchers found that dampened activity in the right precuneus \u2014 a region involved in self-reflection \u2014 was linked to impaired stress-coping self-efficacy in first-episode depression patients, pointing to a possible neural target for future treatment research."
+        }
+      ],
+      "run_date": "2026-07-31",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
     {
       "pmid": "42508579",
       "headline": "The way you smell food may reveal how much you want to eat it \u2014 and your taste preferences drive that craving",
@@ -27,207 +786,6 @@
       ],
       "run_date": "2026-07-28",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42508576",
-      "headline": "Low sugar in the first 1,000 days of life linked to 34% lower early-onset cancer risk decades later",
-      "journal": "The American Journal of Clinical Nutrition",
-      "pubdate": "2026 Jul 27",
-      "doi": "10.1016/j.ajcnut.2026.101453",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used a natural experiment \u2014 the end of post-WWII UK sugar rationing in September 1953 \u2014 to compare early-onset cancer rates in 63,819 UK Biobank participants (56.3% female) born between 1951 and 1956, some of whom spent their first 1,000 days under rationing and some who did not. Those exposed to sugar restriction in utero and during infancy had a 34% lower risk of being diagnosed with cancer before age 50 (HR 0.66), with the strongest protection seen in those exposed for up to 24 months postnatally. The association held across solid tumor types, and no reduction in cancer-specific mortality was found, suggesting early sugar exposure may influence when cancer develops rather than how aggressive it becomes.",
-      "why_it_matters": "Findings suggest that what children eat in the first two years of life \u2014 including how much added sugar they consume \u2014 may shape their cancer risk decades later, a consideration with direct relevance to infant and toddler feeding guidelines.",
-      "caveats": "observational design, secondary analysis, UK Biobank population (predominantly white British), no sex-disaggregated cancer-site data reported, short postnatal follow-up window for exposure classification",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Large female-majority human cohort, counterintuitive finding, strong lifestyle/nutrition hook for women.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Limiting Sugar in Babies' First Two Years May Cut Their Cancer Risk by a Third, Landmark Study Finds",
-          "hook": "A natural experiment using post-WWII sugar rationing data found that children who ate less sugar in their first 1,000 days had dramatically lower early-onset cancer rates as adults.",
-          "pitch_angle": "Researchers leveraged a once-in-a-generation historical quirk \u2014 UK wartime sugar rationing \u2014 to show that early-life sugar restriction is associated with a 34% lower risk of developing cancer before 50. For parents of young children, the finding adds real-world urgency to conversations about added sugar in baby food and toddler snacks."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "What You Fed Your Baby Could Matter More Than You Think \u2014 New Research Links Early Sugar Intake to Lifelong Cancer Risk",
-          "hook": "A massive UK study found that babies and toddlers who ate less sugar during their first two years of life were significantly less likely to develop cancer before age 50.",
-          "pitch_angle": "Using a natural experiment spanning 63,000 people, scientists found that sugar restriction in the first 1,000 days \u2014 from conception through toddlerhood \u2014 was associated with a striking reduction in early-onset cancer risk, with the strongest protection in those exposed to low sugar for the full two years postnatally. The findings give new scientific weight to the growing wellness conversation around cutting added sugar from infant and toddler diets."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42508761",
-      "headline": "Infant formula still can't match breast milk \u2014 here's what scientists say needs to change",
-      "journal": "Advances in Nutrition",
-      "pubdate": "2026 Jul 27",
-      "doi": "10.1016/j.advnut.2026.100710",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A multidisciplinary review by academic, industry, and government researchers from the Infant Nutrition Science Coalition examines the gap between human milk and commercial infant formula, and maps out technological opportunities \u2014 including precision fermentation and cultured mammary cells \u2014 that could be used to add novel bioactive components to formula. The paper identifies key challenges including establishing safe dosing ranges, assessing functional safety of novel ingredients, and building regulatory consensus. No new clinical or experimental data are presented; this is a narrative and expert consensus review.",
-      "why_it_matters": "Millions of infants rely on formula as their sole or partial nutrition source, and understanding what still separates formula from breast milk matters directly to the feeding decisions parents \u2014 predominantly mothers \u2014 face.",
-      "caveats": "no sex-disaggregated data, industry funding [ByHeart Inc., Kabrita North America, Nara Organics Inc. \u2014 authors affiliated with industry contributors], review article with no primary data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant postpartum/infant feeding topic, broad audience appeal, but review only with industry ties.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Formula Has Come a Long Way \u2014 But Scientists Say It's Still Not Breast Milk. Here's the Gap They're Trying to Close",
-          "hook": "Despite decades of improvements, infant formula still doesn't match the complexity of human breast milk \u2014 and a new scientific coalition just published a detailed roadmap of what it would take to get closer.",
-          "pitch_angle": "A team of academic, government, and industry researchers outlines emerging technologies \u2014 including precision fermentation and lab-grown milk proteins \u2014 that could finally help formula replicate some of breast milk's most protective bioactive components, though significant safety and regulatory hurdles remain."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "What Formula Is Still Missing \u2014 And What Scientists Are Doing About It",
-          "hook": "A new consensus review finds that even the most advanced infant formulas fall short of breast milk's complex protective ingredients, but emerging biotech may be starting to close the gap.",
-          "pitch_angle": "For the many parents who use formula \u2014 by choice or necessity \u2014 understanding what it currently lacks and what's being done to improve it is practically useful; researchers now believe precision fermentation and cultured cell technologies could add critical missing components within the coming decade."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42509306",
-      "headline": "Letting preterm babies smell breast milk before their first feeding may help them eat faster and stay more alert",
-      "journal": "Journal of Perinatology",
-      "pubdate": "2026 Jul 27",
-      "doi": "10.1038/s41372-026-02836-1",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a randomized controlled trial with 60 preterm infants (26\u201334 weeks' gestation) in a level-3 NICU in Istanbul, Turkey, comparing standard non-nutritive sucking care alone to non-nutritive sucking plus one hour of breast milk odor exposure before the infant's first oral feeding. Infants exposed to breast milk scent fed faster (3.84 vs. 3.22 mL/min), completed feedings in less time (9.17 vs. 10.90 minutes), and scored higher on alertness and energy on the Early Feeding Skills Assessment. The study suggests that a simple, low-cost olfactory intervention using mothers' own breast milk may meaningfully improve early feeding outcomes in premature infants.",
-      "why_it_matters": "For mothers of premature babies \u2014 who often face intense pressure around breastfeeding and NICU discharge milestones \u2014 this finding suggests a simple, non-invasive way they may be able to actively support their infant's feeding readiness.",
-      "caveats": "small sample (N<100), single-center, short follow-up, trial registered after enrollment began",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "RCT design and postpartum/breastfeeding angle, offset by small sample and single-center limitations.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Self",
-          "headline": "Letting Preemies Smell Their Mom's Breast Milk Before Feeding Could Be a Game-Changer in the NICU",
-          "hook": "A small but promising RCT found that preterm babies who smelled breast milk for an hour before their first feeding ate faster and were more alert \u2014 with no extra equipment needed.",
-          "pitch_angle": "For parents of premature babies navigating the stress of NICU feeding milestones, this low-tech intervention offers a tangible way mothers can contribute to their infant's care using their own breast milk. Researchers say the scent may prime the infant's nervous system for feeding \u2014 though larger studies are needed before this becomes standard practice."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42508732",
-      "headline": "Low-dose aspirin prevents preeclampsia \u2014 but identifying which pregnant women actually need it remains unsolved",
-      "journal": "Gyn\u00e9cologie Obst\u00e9trique Fertilit\u00e9 & S\u00e9nologie",
-      "pubdate": "2026 Jul 27",
-      "doi": "10.1016/j.gofs.2026.07.005",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This French-language narrative review synthesizes evidence on low-dose aspirin for preeclampsia prevention, covering clinical risk-factor strategies, uterine artery Doppler screening, and combined first-trimester algorithms. The authors highlight that uterine artery Doppler alone failed to identify women who benefit in randomized trials \u2014 including a French trial of 1,104 nulliparous women \u2014 while combined algorithms (ASPRE trial) reduced early preeclampsia by 62%. A French nationwide cohort of 5.8 million pregnancies showed an excess of hemorrhagic complications with aspirin, underscoring that over-broad eligibility criteria carry real maternal risk.",
-      "why_it_matters": "For pregnant women and their clinicians, this review clarifies that aspirin's preeclampsia benefit is real but dose- and timing-dependent, and that who receives it matters as much as whether they do \u2014 because unnecessary use carries hemorrhage risk.",
-      "caveats": "review article (not primary research), article in French, single-center review team",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "High clinical relevance for pregnancy; review design and French-only publication limit pitch freshness.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "Aspirin During Pregnancy Can Cut Preeclampsia Risk by 62% \u2014 But Only If You're the Right Candidate",
-          "hook": "Low-dose aspirin is one of the only drugs proven to prevent preeclampsia, but a sweeping new review warns that giving it to too many pregnant women may cause more harm than good.",
-          "pitch_angle": "French researchers reviewed decades of evidence and found that while aspirin taken before 16 weeks dramatically reduces early preeclampsia in high-risk women, uterine artery ultrasound alone is not enough to identify who those women are \u2014 and a national study of 5.8 million pregnancies found excess bleeding in women who may not have needed it. The takeaway: the question isn't whether aspirin works, but for whom \u2014 and that answer is still being worked out."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42503325",
-      "headline": "Vitamin B12 deficiency may fuel the brain inflammation that drives diabetes-related memory loss, new review suggests",
-      "journal": "Progress in Neuro-Psychopharmacology & Biological Psychiatry",
-      "pubdate": "2026 Jul 26",
-      "doi": "10.1016/j.pnpbp.2026.111861",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review synthesizes evidence linking vitamin B12 deficiency \u2014 highly prevalent in people with type 2 diabetes, particularly those on metformin \u2014 to diabetes-associated cognitive impairment (DCI) via microglial neuroinflammation, disrupted one-carbon metabolism, and gut microbiome changes. No original human trial was conducted; the review draws on existing mechanistic and observational studies. The authors propose that B12 deficiency promotes homocysteine accumulation and pro-inflammatory microglial activation, potentially driving hippocampal atrophy and cognitive decline in diabetic populations.",
-      "why_it_matters": "Women with type 2 diabetes are disproportionately affected by cognitive decline and are more likely to be on metformin long-term, a drug that depletes B12 \u2014 making this proposed mechanism especially relevant to their brain health.",
-      "caveats": "observational design, no sex-disaggregated data, animal or cell study (mechanistic review includes preclinical data), no original human trial data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Lifestyle-relevant nutrition-brain link; review only; no female-specific data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "If You Have Diabetes and Take Metformin, You May Want to Check Your B12 Levels",
-          "hook": "A new review suggests that the vitamin B12 depletion commonly caused by the world's most prescribed diabetes drug may be quietly fueling brain inflammation and memory problems.",
-          "pitch_angle": "Researchers outline a biological chain reaction in which low B12 triggers microglial inflammation in the brain \u2014 a pathway that may explain why cognitive decline is so common in people with type 2 diabetes, and why routine B12 monitoring could matter more than previously recognized."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42502138",
-      "headline": "The push to sort type 2 diabetes into four subtypes for 'precision medicine' may be premature, researchers warn",
-      "journal": "Diabetologia",
-      "pubdate": "2026 Jul 25",
-      "doi": "10.1007/s00125-026-06802-6",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review from German and UK researchers critically evaluates the growing evidence base for classifying type 2 diabetes into four pathophysiology-based subtypes (SIDD, SIRD, MOD, MARD). The authors identify three core methodological problems: uncertainty that four discrete subtypes truly exist, low confidence in subtype assignment for individual patients, and limited evidence that subtyping improves clinical outcomes compared to individualized prediction models. They propose personalized prediction models as a complementary \u2014 rather than replacement \u2014 approach to subtyping.",
-      "why_it_matters": "Women with type 2 diabetes may one day be told they belong to a specific subtype guiding their treatment, but this review suggests that framework is not yet clinically reliable.",
-      "caveats": "observational design, narrative review only, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant chronic disease topic but narrative review, no female-specific data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "The 'Personalized Diabetes' Promise Has a Problem \u2014 Experts Say the Science Isn't There Yet",
-          "hook": "Researchers are pumping the brakes on the popular idea that sorting people with type 2 diabetes into four distinct subtypes will revolutionize treatment.",
-          "pitch_angle": "A new review finds that widely hyped diabetes subtyping faces serious methodological flaws, and individualized prediction models may be more useful for now \u2014 a finding that matters for the millions of women managing type 2 diabetes."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42501964",
-      "headline": "Case report: Adenomyomatous cysts mistaken for endometriosis highlight a rare diagnostic pitfall",
-      "journal": "Journal of Minimally Invasive Gynecology",
-      "pubdate": "2026 Jul 25",
-      "doi": "10.1016/j.jmig.2026.07.024",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This appears to be a case report describing an unexpected diagnosis of adenomyomatous cysts in a patient presenting with suspected endometriosis; no abstract body with participant data, sample size, or study design was provided beyond title and author information. Without a full abstract, the study design, population, and findings cannot be verified. Given the absence of abstract data, this entry is based solely on available metadata.",
-      "why_it_matters": "Misdiagnosis of pelvic cysts in women with suspected endometriosis can delay appropriate treatment and warrants awareness among clinicians and patients navigating complex gynecological diagnoses.",
-      "caveats": "small sample (N<100), single-center, observational design, no abstract available for verification",
-      "fact_check_note": "No abstract body was available for this PMID \u2014 only title, author, and institutional affiliations were provided. Summary and pitch are speculative based on title; this entry should not be published without full abstract review.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Endometriosis topic relevant, but case report with no verifiable abstract data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "When 'Endometriosis' Isn't: The Rare Cyst That Mimics the Condition",
-          "hook": "A new case report highlights how adenomyomatous cysts can be mistaken for endometriosis \u2014 a reminder of how complex pelvic pain diagnosis can be.",
-          "pitch_angle": "For the millions of women already navigating a notoriously delayed endometriosis diagnosis, this case report underscores that look-alike conditions can complicate the picture further. Editors should note no abstract was available \u2014 full-text review required before development."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
@@ -322,60 +880,6 @@
       "run_date": "2026-07-28",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42496925",
-      "headline": "Nerve damage from diabetes may be detectable in the blood long before symptoms appear \u2014 but most biomarkers still aren't ready for clinics",
-      "journal": "Acta Diabetologica",
-      "pubdate": "2026 Jul 24",
-      "doi": "10.1007/s00592-026-02754-w",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review from Greek researchers synthesizes current evidence on molecular biomarkers \u2014 including inflammatory mediators, oxidative stress markers, neuronal injury proteins, and microRNAs \u2014 associated with neurological complications of diabetes mellitus. The review emphasizes human studies and prospective cohorts and finds that while several biomarker classes show consistent associations with neurological injury, most remain at an exploratory stage lacking prospective validation for routine clinical use. Major barriers include study heterogeneity, assay variability, and insufficient evaluation in diabetes-specific populations.",
-      "why_it_matters": "Women with diabetes face elevated risks of cognitive impairment and neuropathy, and earlier biomarker-based detection could eventually support earlier intervention before symptoms emerge.",
-      "caveats": "narrative review only, no sex-disaggregated data, observational design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Chronic disease relevance for women but narrative review, no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Diabetes Can Damage Your Nerves and Brain Before You Notice \u2014 Scientists Are Hunting for Early Warning Signs in Your Blood",
-          "hook": "A new review finds that blood-based biomarkers may one day flag diabetes-related nerve and brain damage years before symptoms appear \u2014 but most aren't ready for your doctor's office yet.",
-          "pitch_angle": "Researchers reviewed dozens of molecular markers tied to diabetes-related neurological complications and found promising early signals, though none are validated for clinical use \u2014 an important caveat for women managing diabetes who may be hoping for earlier answers."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42498121",
-      "headline": "A specific brain region may explain why people with depression struggle to believe they can cope with stress",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Jul 24",
-      "doi": "10.1016/j.jad.2026.122313",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used resting-state fMRI to compare brain activity in 63 first-episode, drug-na\u00efve major depressive disorder (MDD) patients and 63 matched healthy controls in China, finding that patients showed significantly reduced neural synchronization in the right precuneus. Within the MDD group, lower precuneus activity was associated with poorer stress-coping self-efficacy \u2014 the belief that one can manage stressors \u2014 even after controlling for depression and anxiety severity. No significant association was found between precuneus activity and overall helplessness.",
-      "why_it_matters": "Since women are diagnosed with major depression at roughly twice the rate of men, understanding the brain circuit behind stress-coping confidence could point toward more targeted therapies for a condition that disproportionately affects women.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Depression finding relevant to women but no female-specific analysis; single-center China sample limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "Scientists Found the Brain Region Tied to Feeling Like You Can't Cope \u2014 and It Looks Different in Depression",
-          "hook": "A brain area called the precuneus may hold the key to why some people with depression feel powerless to manage stress, even after accounting for how depressed or anxious they feel.",
-          "pitch_angle": "A new brain imaging study found that reduced activity in a specific region was linked to lower confidence in handling stress among people with first-episode depression \u2014 a finding that could eventually help explain why standard treatments don't work for everyone."
-        }
-      ],
-      "run_date": "2026-07-28",
-      "category": "Psychiatry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
