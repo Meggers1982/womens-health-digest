@@ -1,8 +1,935 @@
 {
-  "last_updated": "2026-08-12T11:41:56.784264+00:00",
-  "total_studies": 588,
-  "new_this_run": 15,
+  "last_updated": "2026-08-13T11:42:16.067938+00:00",
+  "total_studies": 601,
+  "new_this_run": 13,
   "studies": [
+    {
+      "pmid": "42572146",
+      "headline": "Bee pollen is being sold as a superfood \u2014 but experts warn it may carry pesticides, heavy metals, and allergy risks",
+      "journal": "Journal of the science of food and agriculture",
+      "pubdate": "2026 Aug 9",
+      "doi": "10.1002/jsfa.70971",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers reviewed existing evidence on bee pollen as a functional food and found that while it contains proteins, amino acids, vitamins, minerals, and bioactive compounds with antioxidant and anti-inflammatory properties, its composition is highly variable depending on geographic origin, environmental conditions, and handling. The review \u2014 not a human study \u2014 found bee pollen can carry pesticides, heavy metals, persistent organic pollutants, pyrrolizidine alkaloids, and mycotoxins, and poses allergenic risks including cross-reactivity with airborne pollens. Authors conclude that safe use requires stronger contaminant monitoring, standardized processing, and clearer regulatory oversight.",
+      "why_it_matters": "Bee pollen is widely marketed to women as a wellness supplement for energy, skin, and immunity, but this review suggests real contamination and allergy risks that consumers are rarely warned about.",
+      "caveats": "animal or cell study, no sex-disaggregated data, review paper \u2014 not a human clinical study, no controlled human data on safety or efficacy",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive wellness supplement safety angle; no human data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Before You Add Bee Pollen to Your Smoothie, Read This",
+          "hook": "Bee pollen is one of the trendiest wellness supplements on the market \u2014 but a new review finds it can carry pesticides, heavy metals, and allergy-triggering compounds.",
+          "pitch_angle": "Researchers found that bee pollen's nutritional profile varies dramatically depending on where it was collected and how it was processed, and that it can be contaminated with pesticides, heavy metals, and toxins linked to liver damage. For women drawn to bee pollen for its supposed immune and energy benefits, the science suggests the risks are more complicated than the marketing implies."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Is Bee Pollen Actually Good for You? Scientists Have Concerns",
+          "hook": "A new scientific review found that the bee pollen supplement in your pantry could contain pesticide residues, heavy metals, and compounds that trigger allergic reactions.",
+          "pitch_angle": "Despite its popularity as a natural superfood, bee pollen lacks standardized safety testing, and its composition can shift dramatically based on geography and farming practices. Experts say stronger regulation and contaminant monitoring are needed before consumers can know what they're actually getting."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42570794",
+      "headline": "A plant-based tube-feeding formula helped medically complex kids gain weight without GI problems in a small early study",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Aug 8",
+      "doi": "10.1016/j.clnesp.2026.105010",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers enrolled 26 tube-fed children aged 1\u201313 years with medical complexities at a Canadian tertiary care hospital and switched them to a commercial hypercaloric (1.5 kcal/mL) plant- and food-based formula exclusively for 14 days. Children showed a modest but statistically significant increase in weight-for-age and BMI-for-age z-scores, with no significant worsening of GI symptoms or bowel movements. Caregivers reported high satisfaction (84.6%), and children met nearly all prescribed energy and protein targets.",
+      "why_it_matters": "For parents and caregivers \u2014 disproportionately mothers \u2014 managing tube feeding for children with complex medical needs, this early evidence suggests a plant-based formula option may support weight gain without worsening the GI issues that make feeding so difficult.",
+      "caveats": "small sample (N<100), short follow-up (14 days), single-center, no control group, majority male sample (59% male), exploratory design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric/caregiver angle relevant; very small sample, no control group, 2-week follow-up only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "A Plant-Based Tube Feeding Formula Helped Kids With Complex Medical Needs Gain Weight Without Stomach Troubles",
+          "hook": "In a small early study, medically complex children on a plant-based tube formula gained weight and tolerated feedings well \u2014 and their caregivers loved it.",
+          "pitch_angle": "The 14-day exploratory study found that a commercial food-based, plant-derived formula met energy and protein targets and produced modest weight gains with no increase in GI symptoms in children who often struggle with standard formulas. While the study was tiny and short-term, it points to a potentially more tolerable option for families navigating the physical and emotional burden of tube feeding."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42580173",
+      "headline": "More selenium, zinc, or iron isn't always better \u2014 a sweeping review finds trace minerals cut both ways for your cells",
+      "journal": "Journal of Trace Elements in Medicine and Biology",
+      "pubdate": "2026 Aug 8",
+      "doi": "10.1016/j.jtemb.2026.127937",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A PRISMA-guided scoping review synthesized experimental, observational, and interventional evidence on how dysregulation of selenium, zinc, iron, copper, and manganese contributes to mitochondrial dysfunction, oxidative stress, ferroptosis, and disease. The review found that both deficiency and excess of these trace elements can be harmful, and that the relationship between micronutrient status and oxidative injury is bidirectional and context-dependent rather than linear. The author concludes that the human literature remains largely observational with significant methodological limitations, and that indiscriminate supplementation is not supported by current evidence.",
+      "why_it_matters": "Women are among the most frequent consumers of mineral supplements, and this review's finding that excess trace elements can be as harmful as deficiency is a direct caution against over-supplementation.",
+      "caveats": "review article (no original data), observational design in underlying human studies, no sex-disaggregated data, reverse causality noted by authors, single author",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Wellness/nutrition hook for women; review only, no sex-disaggregated data, no original data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Scientists say taking more trace minerals isn't making you healthier \u2014 and could be doing the opposite",
+          "hook": "A sweeping review of research on selenium, zinc, iron, copper, and manganese finds that too much of these minerals can trigger the same cellular damage as too little.",
+          "pitch_angle": "The review challenges the popular wellness idea that more micronutrients equal better health, finding that both deficiency and excess can drive mitochondrial damage, inflammation, and a form of cell death called ferroptosis. For women who routinely take mineral supplements, the takeaway is that dose matters enormously \u2014 and that the science doesn't yet support blanket supplementation with any of these five minerals."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42563717",
+      "headline": "One job-support program nearly triples competitive employment odds for young people after a first psychotic episode",
+      "journal": "The Australian and New Zealand Journal of Psychiatry",
+      "pubdate": "2026 Aug 7",
+      "doi": "10.1177/00048674261471316",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A PROSPERO-registered meta-analysis of 31 studies (N=8,651) evaluated vocational interventions for people recovering from a first episode of psychosis, analyzing employment, education, and combined vocational outcomes. Individual Placement and Support (IPS) \u2014 a structured, evidence-based supported employment model \u2014 was associated with nearly three times the odds of competitive employment compared with control conditions (OR=2.86). No intervention showed a consistent advantage for improving education rates, and the combined endpoint showed substantial heterogeneity and possible publication bias.",
+      "why_it_matters": "Young women experiencing a first psychotic episode often see their careers and education derailed at a pivotal life stage, and this evidence suggests structured employment support \u2014 not just symptom treatment \u2014 should be a standard part of early psychosis care.",
+      "caveats": "no sex-disaggregated data, substantial heterogeneity (I\u00b2=69.6%), possible publication bias in combined endpoint, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large meta-analysis with clear wellness hook; no sex-disaggregated data limits women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Structured Job-Support Program May Be One of the Best Treatments for First-Episode Psychosis \u2014 And It Has Nothing to Do With Medication",
+          "hook": "A meta-analysis of more than 8,000 patients found that a specific employment support model nearly tripled the odds of getting and keeping a competitive job after a first psychotic episode.",
+          "pitch_angle": "Individual Placement and Support \u2014 a model that places people in real jobs while providing wraparound coaching \u2014 consistently outperformed standard care for employment outcomes in young adults recovering from first-episode psychosis. The finding challenges the idea that psychiatric recovery is purely about symptom management, and has particular stakes for young women whose career trajectories are often derailed by a first episode at a critical professional juncture."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42566066",
+      "headline": "Breast milk's complex sugars may shape how babies fight infections and allergies \u2014 but the science is still early",
+      "journal": "European journal of nutrition",
+      "pubdate": "2026 Aug 7",
+      "doi": "10.1007/s00394-026-04074-9",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers measured 11 human milk oligosaccharides (HMOs) and 28 N-/O-glycans in breast milk samples collected from 200 Japanese mothers at 1\u20132 months postpartum, then tracked their infants' infections and allergies over the first year of life. Several milk glycans showed nominal associations with lower odds of bronchitis and food allergy, and some with higher odds of atopic dermatitis, but none of the associations survived false discovery rate correction. Researchers caution all findings are exploratory and hypothesis-generating only.",
+      "why_it_matters": "For breastfeeding women, this early-stage research suggests that specific components in breast milk may influence infant immune outcomes, though the findings are not yet strong enough to inform feeding decisions.",
+      "caveats": "small sample (N=200), observational design, self-reported outcomes, single-center, industry funding [Bean Stalk Snow Co. / MEGMILK SNOW BRAND Co.], no results survived false discovery rate correction, Japanese cohort only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Postpartum/breastfeeding angle relevant; industry funding and null FDR results limit pitchability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Scientists Are Mapping the Hidden Sugars in Breast Milk That May Protect Babies From Allergies",
+          "hook": "Breast milk contains dozens of complex sugars that may do more than feed your baby \u2014 early research suggests some could shape how their immune system responds to infections and allergens.",
+          "pitch_angle": "A Japanese cohort study found several human milk glycans were nominally linked to lower odds of bronchitis and food allergy in the first year of life, though none of the associations were statistically robust after correction. It's early science, but it adds to a growing picture of breast milk as a dynamic, immunologically active food \u2014 not just a source of calories."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42579964",
+      "headline": "Brain 'timing' patterns in schizophrenia look different above and below the cortex \u2014 even before medication starts",
+      "journal": "Asian Journal of Psychiatry",
+      "pubdate": "2026 Aug 7",
+      "doi": "10.1016/j.ajp.2026.105112",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used resting-state fMRI to measure intrinsic neural timescales (the pace at which brain regions process information) in 123 first-episode schizophrenia patients who were drug-na\u00efve or minimally treated, compared with 102 healthy controls. They found a striking divergent pattern: cortical regions processed signals faster than normal while subcortical regions processed them more slowly. Altered regions were concentrated in the default mode, subcortical, sensorimotor, and salience networks and were linked to cerebral blood flow and synapse-related genes.",
+      "why_it_matters": "Understanding early, medication-independent brain signatures of schizophrenia could eventually help clinicians identify and support women at risk before symptoms become entrenched.",
+      "caveats": "no sex-disaggregated data, single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting neuroscience but no female-specific data and limited women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Found a New Brain 'Timing' Marker for Schizophrenia \u2014 Before Any Medication",
+          "hook": "A brain scan study suggests schizophrenia leaves a measurable timing signature in neural activity even before patients ever take a drug.",
+          "pitch_angle": "Researchers identified opposite-direction timing disruptions in the cortex versus subcortical brain regions in early schizophrenia, pointing toward a potential early biological marker. The finding is notable because it was detected in drug-na\u00efve patients, separating illness biology from medication effects."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42567281",
+      "headline": "Insurance covers thyroid radiofrequency ablation \u2014 but most community endocrinologists still can't offer it to patients",
+      "journal": "Endocrine Practice",
+      "pubdate": "2026 Aug 7",
+      "doi": "10.1016/j.eprac.2026.07.019",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This commentary, authored by a Florida-based endocrinologist, addresses the gap between insurance coverage and real-world access to thyroid radiofrequency ablation (RFA) \u2014 a minimally invasive alternative to surgery for benign thyroid nodules. No original study data or participant population is reported; the piece is a perspective on reimbursement and structural barriers in community endocrine practice. No abstract text with data was provided.",
+      "why_it_matters": "Thyroid conditions affect women at significantly higher rates than men, making access barriers to minimally invasive thyroid treatments a direct women's health equity issue.",
+      "caveats": "No original research data \u2014 commentary/opinion piece only, no sample population, no abstract data available",
+      "fact_check_note": "No abstract data available beyond the title and author affiliation; summary reflects only what can be verified from the provided text.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Women's health-relevant condition; commentary only, no study data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Well+Good",
+          "headline": "Your insurance says it covers this thyroid procedure \u2014 so why can't you actually get it?",
+          "hook": "A minimally invasive alternative to thyroid surgery is technically covered by insurance, but most community endocrinologists still can't provide it.",
+          "pitch_angle": "Thyroid radiofrequency ablation offers a needle-based, outpatient option for benign thyroid nodules \u2014 a condition affecting far more women than men \u2014 but reimbursement structures mean many patients face a coverage-without-access gap. This piece explores the systemic barriers keeping a promising procedure out of reach for most patients outside academic medical centers."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42563371",
+      "headline": "A single blood test in childhood could predict whether siblings of type 1 diabetics will develop the disease \u2014 or other autoimmune conditions \u2014 decades later",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1111/dom.71194",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers screened 1,417 Danish siblings of children newly diagnosed with type 1 diabetes for autoantibodies linked to T1D, celiac disease, and autoimmune thyroid disease, then tracked their health outcomes via national registries for up to 27 years. Among siblings with multiple islet autoantibodies, the incidence rate of T1D was more than 70 times higher than in autoantibody-negative siblings. A combined autoantibody screening plus genetic risk score effectively stratified long-term risk of developing clinically diagnosed autoimmune disease.",
+      "why_it_matters": "Autoimmune thyroid disease and celiac disease affect women at significantly higher rates than men, and this study suggests a single childhood screening could identify high-risk siblings years before symptoms appear.",
+      "caveats": "observational design, single country (Denmark), no sex-disaggregated data, autoantibodies measured at one time point only",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large cohort, long follow-up, autoimmune thyroid link relevant to women; no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "If Your Sibling Has Type 1 Diabetes, One Early Blood Test Could Flag Your Risk for Multiple Autoimmune Diseases",
+          "hook": "A 27-year study found that a single childhood screening test predicted which siblings of type 1 diabetics would go on to develop T1D, thyroid disease, or celiac disease \u2014 long before any symptoms appeared.",
+          "pitch_angle": "Researchers tracked over 1,400 siblings using autoantibody screening and genetic risk scoring, finding dramatically elevated disease rates in those who tested positive early. Since autoimmune thyroid disease and celiac disease disproportionately affect women, this screening approach could have outsized benefits for female family members of people with T1D."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42562219",
+      "headline": "A machine learning model can predict which kids with suicidal thoughts will attempt suicide \u2014 and female sex is the top risk factor",
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1016/j.jaac.2026.07.1245",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using data from the large, multisite ABCD Study (N=660 children aged ~9\u201310 with suicidal ideation at baseline, 42% female), researchers trained a machine learning model to predict which children would make a first suicide attempt within four years. The model \u2014 which used 187 sociodemographic, clinical, and neurocognitive features but not brain imaging \u2014 achieved an AUC of 0.75 and performed without bias across race and sex subgroups. Female sex was the top contributing predictor, alongside self-harm history, access to means, anxiety, impulsivity, and ideation severity.",
+      "why_it_matters": "The finding that female sex is the strongest predictor of the ideation-to-attempt transition in pre-adolescence suggests girls with suicidal thoughts may need more urgent, targeted clinical attention even at very young ages.",
+      "caveats": "observational design, self-reported outcomes, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Female sex top predictor; large longitudinal cohort; urgent mental health relevance for girls.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self / The Cut",
+          "headline": "Girls With Suicidal Thoughts Are More Likely to Attempt \u2014 and a New AI Model Can Now Predict Who's at Highest Risk",
+          "hook": "Female sex was the single strongest predictor in a model that could identify which children with suicidal ideation will go on to attempt suicide.",
+          "pitch_angle": "A machine learning model trained on nearly 700 children found that being female topped the list of risk factors for a first suicide attempt in early adolescence \u2014 above anxiety, impulsivity, and access to lethal means. Most of the risk factors identified are modifiable, which researchers say highlights urgent, actionable intervention targets for clinicians and parents."
+        },
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "AI Can Predict Which Kids Are Most Likely to Attempt Suicide \u2014 Here's What Parents Need to Know",
+          "hook": "A new study found that girls who express suicidal thoughts face higher odds of acting on them than boys \u2014 and a predictive AI model can now flag who needs help most.",
+          "pitch_angle": "Using clinically accessible information (no brain scans required), researchers built a model that identifies high-risk children before a suicide attempt occurs. The key warning signs \u2014 suicidal ideation severity, anxiety, impulsivity, and access to means \u2014 are all things clinicians and caregivers can assess and address."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42557913",
+      "headline": "Autistic adults use their 'special interests' as a powerful stress-regulation tool \u2014 and are penalized socially for it",
+      "journal": "Autism: The International Journal of Research and Practice",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1177/13623613261471572",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "An online survey compared 60 autistic and 122 non-autistic adults on how they use personal interests for emotion regulation, well-being, and coping across a range of emotional situations. Autistic participants reported significantly greater reliance on their special interests for stress and emotion regulation and as sources of learning, but also experienced substantially more stigma and negative social consequences than non-autistic participants. The study also found autistic individuals were more likely than non-autistic peers to turn to their interests rather than seek social contact when emotionally depleted.",
+      "why_it_matters": "For autistic women \u2014 who are frequently underdiagnosed and pressured to mask their traits \u2014 this suggests that honoring special interests rather than discouraging them may be a legitimate and effective mental health strategy.",
+      "caveats": "small sample (N<100 autistic participants), self-reported outcomes, observational design, no sex-disaggregated data, online convenience sample",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Mental health wellness hook for women; small sample and no sex-disaggregated data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Autistic Adults Who Lean Into Their Passions Are Doing Something Therapeutically Smart \u2014 Science Agrees",
+          "hook": "Autistic adults who retreat into their favorite topics when stressed aren't avoiding life \u2014 they're regulating their nervous systems in a measurably effective way.",
+          "pitch_angle": "A new study found autistic people rely on their intense personal interests for emotion regulation far more than non-autistic peers, and that this coping strategy is associated with well-being and learning. But the same people are also penalized socially for those interests \u2014 a tension that's especially relevant for autistic women, who are often told to suppress the very behaviors that help them cope."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Society Tells Autistic Women to Suppress Their Passions. New Research Says That's Harmful.",
+          "hook": "Autistic adults use deep personal interests as a genuine mental health tool \u2014 and they face stigma for it.",
+          "pitch_angle": "A study comparing autistic and non-autistic adults found that special interests function as a primary emotion regulation strategy for autistic people, not a quirky distraction. Yet autistic individuals \u2014 and autistic women in particular, who already face higher pressure to mask \u2014 face greater social consequences for the very behavior that keeps them emotionally stable."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42562814",
+      "headline": "Most New Zealand Babies Start Breastfed \u2014 But Only 1 in 3 Hits the Recommended Milestone",
+      "journal": "Journal of Human Lactation",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1177/08903344261468562",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed electronic health records from 103,893 maternal-infant dyads in New Zealand between January 2023 and June 2024, tracking breastfeeding prevalence from approximately 1 month to 28 months of age. Any breastfeeding declined from 85% at 1 month to just 12% by 28 months, and exclusive or full breastfeeding fell from ~57% at 1\u20133 months to 32% by around 5 months \u2014 short of the recommended 6-month exclusive breastfeeding target. Breastfeeding rates were significantly higher among mothers in the least deprived neighborhoods, those with greater health literacy, and those of MELAA or Asian ethnicity, while infant sex and first-time parenting status had little effect.",
+      "why_it_matters": "Socioeconomic and ethnic disparities in breastfeeding persistence \u2014 not just initiation \u2014 suggest that support needs to be targeted and sustained well past the newborn stage.",
+      "caveats": "observational design, single-country (New Zealand), self-reported outcomes possible within routine records, limited generalizability to US context",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large cohort, postpartum/maternal focus, clear equity angle; NZ-specific context limits US pitch.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Nearly Every Mom Starts Breastfeeding \u2014 So Why Do Most Stop Way Before Recommendations Say To?",
+          "hook": "A study of more than 100,000 mother-baby pairs found that while 85% of babies are breastfed at one month, that number collapses long before the 6-month exclusive breastfeeding goal.",
+          "pitch_angle": "The drop-off isn't random \u2014 socioeconomic status and health literacy are closely tied to who keeps breastfeeding longest, pointing to structural gaps in postpartum support rather than individual motivation."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42556584",
+      "headline": "Toxic fat molecules in the blood may be a biological fingerprint of first-episode depression \u2014 even before antidepressants enter the picture",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1016/j.jad.2026.122351",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers compared plasma lipid profiles in 88 university students in Thailand (44 with first-episode depression, 44 healthy controls) using untargeted metabolomics and machine learning. Students with first-episode depression showed significantly elevated ceramides, diacylglycerides, and other lipid species, alongside increased oxidative stress markers and reduced LCAT enzyme activity. These lipid patterns \u2014 influenced by childhood adversity and negative life events \u2014 explained up to 46% of variance in depression severity and also predicted suicidal behaviors.",
+      "why_it_matters": "Depression disproportionately affects women, and identifying early blood-based lipid signatures could eventually support earlier biological detection of first-episode depression \u2014 though these findings are preliminary.",
+      "caveats": "small sample (N<100), observational design, single-center, no sex-disaggregated data, study population specific to Thailand (university students)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting biological angle but small sample, no sex breakdown, single-center Thai student cohort.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "Depression May Leave a Biological Signature in Your Blood \u2014 Even the Very First Time",
+          "hook": "Specific fat molecules in the bloodstream spiked in young adults with their first-ever depressive episode \u2014 suggesting depression has measurable biological markers from the start.",
+          "pitch_angle": "A small study found that people experiencing depression for the first time had distinct lipid profiles in their blood \u2014 including elevated ceramides linked to psychological stress \u2014 even before any medication. While far from clinical application, the finding raises the possibility that future blood tests could help identify depression earlier, particularly in young women who face higher rates of first-episode depression."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42560401",
+      "headline": "A rare calcium disorder is causing serious long-term nerve and kidney damage \u2014 and new genetic clues explain why some cases run in families",
+      "journal": "Endocrine",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1007/s12020-026-04731-3",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers followed 27 patients with non-surgical hypoparathyroidism at a university hospital in India from 2013 to 2025, tracking clinical outcomes, complications, and genetic findings over a mean follow-up of nearly seven years. Most patients presented with severe hypocalcemia, and complications included basal ganglia calcification (56%), cataracts (26%), and nephrocalcinosis (15%). Whole-exome sequencing identified three novel genetic variants in the AIRE and GATA3 genes in patients with syndromic forms of the disease, expanding the known genetic spectrum.",
+      "why_it_matters": "Non-surgical hypoparathyroidism often strikes young women and can cause decades of neurological and kidney complications \u2014 findings that higher treatment doses raise kidney risk may inform safer management approaches.",
+      "caveats": "small sample (N<100), single-center, observational design, single region (India \u2014 Kashmir), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Rare condition, small single-center sample, no female-specific analysis, regional population.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "This Rare Calcium Disorder Can Damage Your Brain and Kidneys for Years \u2014 and New Genetic Findings Show Why",
+          "hook": "A long-term study found that people with a rare parathyroid disorder face serious neurological and kidney complications lasting years \u2014 and the very treatment meant to help may raise kidney risk.",
+          "pitch_angle": "Researchers tracked patients with non-surgical hypoparathyroidism for nearly seven years, finding that higher calcium doses correlated with kidney damage, while brain and eye complications appeared to develop independently. New genetic mutations identified in the AIRE and GATA3 genes could help families understand inherited risk."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42588188",
+      "headline": "Low-protein diets may control toxic waste buildup just as well as higher-protein diets in kidney patients starting dialysis",
+      "journal": "Nutrients",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.3390/nu18152565",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed one-year data from 205 adults (mean age 63, 34% women) starting incremental peritoneal dialysis across multiple Italian centers, comparing outcomes between those prescribed low-protein diets (\u22640.6 g/kg/day) and higher-protein diets (>0.6 g/kg/day). Both groups showed similar serum albumin trends and BMI changes over 12 months. However, the low-protein group had significantly lower levels of uremic toxins \u2014 urea, phosphate, and potassium \u2014 suggesting better metabolic control without nutritional compromise.",
+      "why_it_matters": "For the roughly one-third of dialysis patients who are women, this finding suggests a lower-protein diet may help manage dangerous metabolic byproducts without sacrificing nutritional status \u2014 potentially simplifying a burdensome treatment regimen.",
+      "caveats": "observational design, majority male sample (66% male), short follow-up, single-country (Italy), secondary analysis (interim cohort analysis)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant nutrition finding but majority-male sample, observational design, niche clinical population.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "Eating Less Protein on Dialysis Might Actually Be Better \u2014 Here's What New Research Found",
+          "hook": "Kidney patients on a low-protein diet controlled dangerous metabolic waste just as well nutritionally \u2014 and better toxin-wise \u2014 than those on higher-protein plans.",
+          "pitch_angle": "A year-long multicenter study found that dialysis patients eating less protein maintained similar albumin levels and body weight but had meaningfully lower levels of harmful uremic toxins. The finding challenges the assumption that more protein is always better for dialysis patients, though the study was mostly male and observational."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42562321",
+      "headline": "Feeding critically ill ICU patients more may only save lives during a narrow physiological window \u2014 not across the board",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1016/j.clnesp.2026.105009",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers retrospectively analyzed data from 5,370 adult ICU patients in the MIMIC-IV database and validated findings in an independent cohort of 1,322 patients, examining whether achieving adequate energy and protein intake reduced 28-day mortality. Higher nutritional adequacy was associated with lower mortality overall, but only within specific physiological windows \u2014 patients with relatively stable hemodynamics (low vasopressor doses and low lactate) and adequate kidney function. Outside these windows, the survival benefit disappeared or was not statistically significant.",
+      "why_it_matters": "For women admitted to the ICU \u2014 who may face different metabolic trajectories than men \u2014 this finding suggests that aggressive nutritional support may only help during specific, measurable physiological states, which could shift how critical care teams time nutritional interventions.",
+      "caveats": "observational design, retrospective cohort, no sex-disaggregated data, secondary analysis of existing databases, short follow-up (28-day mortality only)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive clinical finding; large sample but no female-specific analysis; observational.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Prevention",
+          "headline": "When You're in the ICU, Eating More Might Only Help If Your Body Is Already Stable Enough to Use It",
+          "hook": "A large ICU study found that nutritional support cut death rates \u2014 but only in patients whose bodies were already hemodynamically stable, flipping assumptions about aggressive early feeding.",
+          "pitch_angle": "The research, drawing on nearly 7,000 critically ill patients across two datasets, found that meeting energy and protein targets was associated with survival gains only when vasopressor doses were low and lactate levels were near-normal. The finding suggests that 'feed them more' isn't universally right in intensive care \u2014 timing and physiology may matter as much as the nutrition itself."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42558024",
+      "headline": "Spirituality \u2014 not resilience \u2014 may be the stronger buffer against depression stigma, and it varies by country",
+      "journal": "The International Journal of Social Psychiatry",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1177/00207640261473300",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers surveyed 101 adults diagnosed with major depressive disorder \u2014 51 from Austria and 50 from Japan \u2014 using validated measures of perceived stigma, spirituality, resilience, quality of life, and social functioning. Spirituality was the strongest predictor of lower perceived stigma in regression models, explaining up to 48% of variance after controlling for age and depression severity, and outperforming resilience as a protective factor. The protective effect of spirituality was more pronounced in the Japanese sample, while stigma's negative impact on quality of life was universal across both countries.",
+      "why_it_matters": "Women are diagnosed with depression at roughly twice the rate of men, making culturally sensitive, non-pharmacological buffers against stigma \u2014 like spirituality \u2014 directly relevant to their help-seeking and recovery.",
+      "caveats": "small sample (N<100), observational design, two-country sample limits generalizability, no sex-disaggregated data, self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive spirituality finding; small sample and no female-specific data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Surprising Factor That Helps People With Depression Feel Less Shame About It",
+          "hook": "A new cross-cultural study found that spirituality \u2014 more than resilience \u2014 predicted lower stigma among people living with major depression.",
+          "pitch_angle": "Researchers comparing depression patients in Austria and Japan found that spiritual well-being was the single strongest predictor of reduced self-stigma, even after accounting for how severe the depression was \u2014 a counterintuitive finding given wellness culture's emphasis on resilience. The result held across two very different cultural contexts, suggesting the relationship between spirituality and shame around mental illness may be broader than one society's norms."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42563452",
+      "headline": "85% of Ethiopian Mothers Attended Prenatal Care \u2014 But Only 19% Got Breastfeeding Technique Guidance",
+      "journal": "Journal of Human Lactation",
+      "pubdate": "2026 Aug 6",
+      "doi": "10.1177/08903344261451968",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A cross-sectional facility-based study enrolled 420 lactating mothers attending public hospitals in northwest Ethiopia, assessing breastfeeding technique via direct observation using the WHO B-R-E-A-S-T Feed tool and measuring maternal knowledge via questionnaire. More than half of mothers (54.3%) demonstrated ineffective breastfeeding technique and 56% had poor knowledge of optimal breastfeeding practice, despite 85% having attended antenatal care. Key risk factors for ineffective technique included being a first-time mother, lacking formal education, not receiving prior breastfeeding information, and not completing ANC follow-up.",
+      "why_it_matters": "The finding that high antenatal care attendance did not translate to adequate breastfeeding skill highlights a critical gap in how prenatal visits address practical infant feeding support.",
+      "caveats": "small sample (N=420), observational design, single-country (Ethiopia), cross-sectional, self-reported outcomes, single-center context, limited global generalizability",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Narrow regional context (northwest Ethiopia), observational, limited US/global pitch potential.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Prenatal Visits Aren't Teaching New Moms How to Breastfeed \u2014 And It's Costing Babies",
+          "hook": "Despite nearly universal prenatal care attendance, more than half of new mothers in a new study couldn't demonstrate effective breastfeeding technique.",
+          "pitch_angle": "The gap between attending prenatal appointments and actually learning hands-on breastfeeding skills is stark \u2014 a finding that echoes concerns raised in maternal care systems globally, even if this study is rooted in one Ethiopian region."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42581486",
+      "headline": "Two blood markers measured in early pregnancy together predict gestational diabetes with over 90% accuracy \u2014 in a small Chinese hospital study",
+      "journal": "Hormone Molecular Biology and Clinical Investigation",
+      "pubdate": "2026 Aug 13",
+      "doi": "10.1515/hmbci-2026-0012",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a retrospective case-control study of 100 pregnant women (50 with gestational diabetes mellitus, 50 with normal glucose tolerance) at a single Beijing hospital in 2022, measuring serum SHBG and vaspin levels at 8\u201314 weeks of gestation. Women with GDM had significantly lower SHBG and higher vaspin levels in the first trimester compared to controls. A combined model of both biomarkers showed an AUC of 0.934 and 91% accuracy in predicting GDM, outperforming either marker alone \u2014 though the vaspin assay used is currently research-use only.",
+      "why_it_matters": "Earlier, more accurate prediction of gestational diabetes could help clinicians intervene sooner to reduce pregnancy complications for women and their babies.",
+      "caveats": "small sample (N<100 per group, N=100 total), observational design, single-center, retrospective, vaspin assay not clinically validated, study population limited to single Beijing hospital",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Reproductive health focus, human female sample; small N, single-center, observational limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "Two hormone markers in early pregnancy may flag gestational diabetes months before standard screening",
+          "hook": "A pair of blood proteins measured in the first trimester correctly identified gestational diabetes with 91% accuracy \u2014 well before the standard glucose test at 24\u201328 weeks.",
+          "pitch_angle": "Researchers found that combining SHBG (a sex-hormone binding protein) and vaspin (a fat-tissue protein) in early pregnancy outperformed either marker alone in predicting gestational diabetes in a small study of 100 pregnant women. If validated in larger, more diverse populations, this dual-marker approach could shift GDM screening earlier and give women more time to make lifestyle changes."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42581029",
+      "headline": "The lab test used to predict mineral absorption from plant foods has a major flaw researchers are racing to fix",
+      "journal": "The Proceedings of the Nutrition Society",
+      "pubdate": "2026 Aug 12",
+      "doi": "10.1017/S0029665126105394",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers reviewed the INFOGEST in vitro digestion method \u2014 the most widely used lab protocol for estimating how much iron, zinc, and calcium the body can absorb from food \u2014 and found it has unresolved methodological problems that may make results unreliable. The review is not a human study; it critiques a laboratory method used in nutrition research and food product development. Key problems include contamination from lab reagents, variable interactions between minerals and food components, and no agreed-upon standard for what counts as the 'bioaccessible' fraction.",
+      "why_it_matters": "Iron and calcium deficiencies disproportionately affect women, and if the lab models used to assess mineral absorption from plant-based foods are flawed, dietary guidance and food product claims built on that data may be unreliable.",
+      "caveats": "animal or cell study, no sex-disaggregated data, review/methodological paper \u2014 not a human study",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant minerals for women but lab-method review, no human subjects.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Science Behind How We Measure Mineral Absorption From Plant Foods May Be Broken",
+          "hook": "If you've ever been told a plant-based diet can meet your iron or calcium needs, the lab test behind that reassurance may have a fundamental flaw.",
+          "pitch_angle": "Researchers found the standard lab method used to estimate how much iron, zinc, and calcium your body actually absorbs from food has unresolved accuracy problems. For women eating plant-based diets \u2014 already at higher risk for iron and calcium deficiency \u2014 that means some nutritional reassurances may rest on shaky science."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42587009",
+      "headline": "Some people with high Alzheimer's genetic risk never get the disease \u2014 a new AI model may explain why",
+      "journal": "Molecular Psychiatry",
+      "pubdate": "2026 Aug 12",
+      "doi": "10.1038/s41380-026-03814-x",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers developed a novel adversarial neural network model designed to separate genetic resilience from simply having low genetic risk for Alzheimer's disease, applied to existing AD datasets. The model identified five specific genetic variants (SNPs) associated with resilience \u2014 distinct from polygenic risk scores \u2014 that may help explain why some high-risk individuals never develop the disease. The AI-generated resilience scores were independent of standard risk scores and showed high specificity and sensitivity in both simulations and real-world data.",
+      "why_it_matters": "For women \u2014 who are disproportionately affected by Alzheimer's \u2014 understanding why some high-risk individuals remain unaffected could eventually open new avenues for targeted prevention strategies.",
+      "caveats": "secondary analysis, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Alzheimer's relevant to women but no female-specific analysis; primarily a methods paper.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "Some People Have the Alzheimer's Genes and Never Get It \u2014 AI Is Finally Figuring Out Why",
+          "hook": "A new AI model found that genetic resilience to Alzheimer's is real \u2014 and measurable \u2014 and it's separate from just having low risk.",
+          "pitch_angle": "Researchers built an AI that can identify people who should, genetically speaking, develop Alzheimer's \u2014 but don't. Since women account for nearly two-thirds of all Alzheimer's cases, understanding what protects high-risk people could eventually reshape how we think about prevention."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42584904",
+      "headline": "Sound waves aimed at the brain could replace deep brain surgery for mental health treatment",
+      "journal": "JAMA Psychiatry",
+      "pubdate": "2026 Aug 12",
+      "doi": "10.1001/jamapsychiatry.2026.2401",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This viewpoint article in JAMA Psychiatry explores the therapeutic potential of low-intensity focused ultrasound as a noninvasive, reversible method for stimulating deep brain regions in psychiatric conditions. The authors \u2014 researchers at Brown University and the Providence VA \u2014 outline both the promise of the technology (precision targeting without surgery) and the significant scientific and clinical challenges that remain. No primary data or participant sample is reported; this is a perspective/commentary piece.",
+      "why_it_matters": "Noninvasive deep brain stimulation could eventually expand treatment options for women with treatment-resistant depression, OCD, or PTSD \u2014 conditions disproportionately affecting women \u2014 without surgical risk.",
+      "caveats": "no sex-disaggregated data, no primary data (commentary/perspective only), short follow-up",
+      "fact_check_note": "This is a viewpoint/commentary, not a primary research study. No participant data, sample size, or original findings are reported.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Compelling emerging-tech angle; commentary only, no primary data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Could Sound Waves Replace Brain Surgery for Depression? Scientists Are Getting Closer",
+          "hook": "A new medical commentary suggests focused ultrasound could one day treat severe depression and OCD without a single incision.",
+          "pitch_angle": "Researchers writing in JAMA Psychiatry outline how low-intensity focused ultrasound could offer a noninvasive, reversible alternative to deep brain stimulation surgery for psychiatric conditions. While still in early stages, the technology's precision targeting of deep brain regions represents a potentially significant shift for the millions of women living with treatment-resistant mental health conditions."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42586238",
+      "headline": "ADHD may not mean an atypical brain \u2014 it may just mean a slower-maturing one, and the science is more complicated than we thought",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "pubdate": "2026 Aug 12",
+      "doi": "10.1016/j.bpsc.2026.07.018",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review integrates behavioral, EEG, structural, diffusion, and functional MRI data, plus genetics research, to evaluate the hypothesis that ADHD reflects delayed rather than atypical brain maturation. Authors from Beijing Normal University and the University of Southampton identify four unresolved challenges to this model \u2014 including whether delayed brains ever fully 'catch up' and how to account for heterogeneity across individuals. They propose longitudinal high-density tracking cohorts and multimodal brain-age modeling as paths forward.",
+      "why_it_matters": "As ADHD diagnoses in adult women rise sharply, understanding whether the condition represents delay versus difference could reshape how women are assessed and supported across the lifespan.",
+      "caveats": "no sex-disaggregated data, observational design, narrative review (not systematic)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Timely ADHD-in-women hook; narrative review design and no female-specific data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "ADHD Might Be a Delayed Brain \u2014 Not a Broken One. Here's What That Could Mean for Women",
+          "hook": "A major review of brain research suggests ADHD may reflect a slower-developing brain rather than a fundamentally different one \u2014 a distinction that could change how the condition is understood and treated.",
+          "pitch_angle": "Scientists synthesizing decades of neuroscience research find that the 'delayed maturation' theory of ADHD is well-supported but far from settled, with open questions about whether delayed brains ever fully catch up. As more women are diagnosed with ADHD in adulthood, the framing of delay versus difference has real implications for how they understand their own neurology."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42584400",
+      "headline": "Blood metabolites may predict which men will benefit from the only approved premature ejaculation pill",
+      "journal": "Andrology",
+      "pubdate": "2026 Aug 12",
+      "doi": "10.1111/andr.70360",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed serum metabolomics profiles from 116 men with lifelong premature ejaculation before an 8-week course of dapoxetine, the only FDA-approved oral treatment for the condition. Six metabolites \u2014 including indoleacrylic acid and riboflavin (elevated in responders) and hippuric acid (lower in responders) \u2014 were identified as potential predictors of treatment response. Adding these biomarkers to a predictive model improved accuracy from 0.738 to 0.892, suggesting blood-based profiling could help personalize PE treatment.",
+      "why_it_matters": "For women whose partners struggle with premature ejaculation, research that could help predict treatment success before months of failed medication trials has real relationship and sexual health implications.",
+      "caveats": "small sample (N<100 per group), single-center, observational design, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Male-only condition, no women's health angle, single-center small sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Blood Test May Soon Tell You if the Only PE Pill Will Work for Your Partner",
+          "hook": "A new study found that six metabolites in the blood could predict \u2014 before treatment even starts \u2014 whether the only approved premature ejaculation medication will actually work.",
+          "pitch_angle": "Researchers found that a panel of blood biomarkers could predict dapoxetine response with nearly 90% accuracy, potentially sparing couples months of ineffective treatment. For women navigating sexual dissatisfaction related to a partner's PE, this early-signal research could eventually reshape how quickly couples find solutions."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42520833",
+      "headline": "A Simple LED Light May Make Feeding Tubes Safer for Premature Newborns",
+      "journal": "American Journal of Perinatology",
+      "pubdate": "2026 Aug 11",
+      "doi": "10.1055/a-2923-6620",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a prospective multicenter study across five NICUs in Japan, enrolling 101 neonates (median corrected gestational age 36.1 weeks, range 24.3\u201345.7 weeks) to test whether a light-emitting diode source and fiber (LED-SF) device could accurately confirm nasogastric or orogastric tube tip placement. The LED-SF correctly identified the tube as being in the stomach in 100% of cases, with no adverse events, and showed a strong correlation with X-ray confirmation (r\u00b2=0.844). Researchers concluded the method is safe, user-friendly, and could reduce reliance on radiation-based verification in NICUs.",
+      "why_it_matters": "For parents of premature or critically ill newborns, a safer, radiation-free way to confirm feeding tube placement could reduce procedural risk and NICU stress.",
+      "caveats": "small sample (N<100 effectively for subgroups), single-country (Japan), observational design, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Neonatal device study; limited direct relevance to women's health readership.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Prevention",
+          "headline": "A Tiny LED Light Could Replace X-Rays for Checking Premature Baby Feeding Tubes",
+          "hook": "A simple LED fiber device confirmed feeding tube placement in 100% of premature newborns tested \u2014 with no radiation required.",
+          "pitch_angle": "For families in the NICU, a new light-based tool may offer a faster, safer way to verify feeding tube position without repeated X-ray exposure \u2014 though larger trials are needed before it becomes standard care."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42578312",
+      "headline": "Women's UTIs Are Getting Harder to Treat \u2014 and New Antibiotics May Finally Catch Up",
+      "journal": "BJOG: An International Journal of Obstetrics and Gynaecology",
+      "pubdate": "2026 Aug 11",
+      "doi": "10.1111/1471-0528.70316",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This review examines the evolving landscape of antimicrobial treatments for urinary tract infections (UTIs) in women, focusing on novel agents entering clinical use. No abstract with sample size or study design details was provided \u2014 only author and journal metadata are available. The piece appears to survey emerging antibiotic options against resistant UTI pathogens, a condition that disproportionately affects women.",
+      "why_it_matters": "Women account for the vast majority of UTI cases, and rising antibiotic resistance means new treatment options are urgently needed for a condition most women will experience multiple times in their lives.",
+      "caveats": "No abstract available for verification \u2014 review/opinion piece likely, not primary research, single-center (Manchester, UK)",
+      "fact_check_note": "No abstract text was provided for this study \u2014 summary is based solely on title and author metadata. All claims should be independently verified against the full text before publication.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women-specific condition, clinically relevant, but no verifiable abstract or primary data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "UTIs Are Becoming Antibiotic-Resistant \u2014 Here's What New Treatments Could Mean for You",
+          "hook": "The antibiotics women have relied on for UTIs for decades are increasingly failing \u2014 and researchers are racing to close the gap.",
+          "pitch_angle": "Antibiotic resistance is quietly making one of the most common infections women face harder to treat; this review surveys the new drugs that may soon change the standard of care for recurrent UTI sufferers."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42578601",
+      "headline": "A new cesarean suture technique may sharply cut the risk of a common \u2014 and often ignored \u2014 post-C-section complication",
+      "journal": "International Journal of Gynaecology and Obstetrics",
+      "pubdate": "2026 Aug 11",
+      "doi": "10.1002/ijgo.71294",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Turkish researchers conducted a retrospective matched cohort study of 60 women who had cesarean deliveries, comparing a new single-layer unlocked suture technique (the 'Yilmaz technique,' n=30) to the standard locked suture method (n=30) over a three-year follow-up. Women in the new-technique group had significantly lower rates of spotting (13.3% vs. 40%) and fewer postmenstrual bleeding days, and after adjustment for number of prior cesareans, the technique was associated with lower odds of isthmocele \u2014 a uterine wall defect at the scar site \u2014 (aOR 0.26). The difference in raw isthmocele prevalence (26.7% vs. 43.3%) did not reach statistical significance without adjustment.",
+      "why_it_matters": "Isthmocele affects a meaningful proportion of women after cesarean delivery and can cause chronic spotting, pelvic pain, and fertility complications \u2014 so a simple change in suture technique that may reduce its occurrence is directly relevant to the millions of women who give birth by C-section each year.",
+      "caveats": "small sample (N<100), single-center, retrospective, observational design, Turkey (single-region)",
+      "fact_check_note": "The unadjusted isthmocele prevalence difference (26.7% vs. 43.3%) did not reach statistical significance (P=0.176); significance was only achieved after adjustment for prior cesarean sections. Both figures should be reported accurately.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly relevant postpartum/reproductive health finding, but very small and single-center.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "A Tweak in How Your C-Section Is Stitched Up Could Prevent a Painful Complication No One Talks About",
+          "hook": "A small but striking study found that a different suture method during cesarean delivery was associated with a dramatically lower rate of isthmocele \u2014 a uterine scar defect that can cause chronic spotting, pain, and fertility problems.",
+          "pitch_angle": "Isthmocele affects a significant share of women who've had C-sections and often goes undiagnosed, yet this Turkish study suggests that simply changing the way the uterine incision is closed could cut the odds substantially. For the growing number of women navigating postpartum recovery after cesarean birth, the idea that a surgical technique \u2014 not just lifestyle choices \u2014 may shape long-term uterine health is both surprising and empowering."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42580660",
+      "headline": "A minimally invasive fibroid procedure works on larger fibroids than previously studied \u2014 and women were leaving the hospital in under 3 hours",
+      "journal": "Journal of Obstetrics and Gynaecology Canada",
+      "pubdate": "2026 Aug 11",
+      "doi": "10.1016/j.jogc.2026.103494",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a retrospective case series of the first 60 laparoscopic radiofrequency fibroid ablation (Lap-RFA) procedures at a single Canadian centre, treating women with a median age of 43 with symptomatic fibroids including those up to 10 cm \u2014 larger than typically studied. Median fibroid volume shrank by roughly 40% at 3, 6, and 12 months post-procedure, with a median hospital stay of under 3 hours. Three patients (5%) subsequently conceived and delivered at term.",
+      "why_it_matters": "For women with symptomatic fibroids who want to avoid hysterectomy or myomectomy, this case series suggests that a same-day, uterus-preserving procedure may be effective even for larger fibroids not typically eligible for the technique.",
+      "caveats": "small sample (N<100), single-center, observational design, retrospective, no validated patient-reported outcome measures, short follow-up for some participants",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant uterine health finding, but small retrospective single-center case series limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "This Fibroid Procedure Lets You Go Home the Same Day \u2014 and New Data Shows It Works on Bigger Fibroids Too",
+          "hook": "A minimally invasive fibroid procedure shrank fibroids by about 40% \u2014 and most women were out of the hospital in less than three hours.",
+          "pitch_angle": "Laparoscopic radiofrequency ablation has largely been studied on smaller fibroids, but this Canadian case series found similar volume reductions in fibroids up to 10 cm, with no hysterectomies and some patients going on to conceive. For the millions of women living with fibroid symptoms and hoping to preserve fertility or avoid major surgery, this early data signals that their options may be broader than they've been told."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42578614",
+      "headline": "Lacunar strokes may silently set off a chain reaction of brain damage \u2014 and genetics helps explain why",
+      "journal": "Journal of Cerebral Blood Flow and Metabolism",
+      "pubdate": "2026 Aug 11",
+      "doi": "10.1177/0271678X261479278",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used large-scale genome-wide association study data and Mendelian randomization analyses to assess causal genetic relationships among five imaging markers of cerebral small vessel disease, including lacunar stroke, white matter hyperintensities, perivascular spaces, cerebral microbleeds, and brain volume, in populations totaling up to 248,929 controls. Lacunar stroke emerged as a key upstream factor causally linked to white matter hyperintensities, enlarged perivascular spaces, and reduced brain volume, while white matter changes and brain atrophy showed a potential bidirectional relationship. Cerebral microbleeds appeared genetically distinct from the other markers, suggesting different underlying mechanisms.",
+      "why_it_matters": "Women face distinct stroke risk patterns across their lifespan, and understanding the genetic cascade linking small vessel disease markers to brain atrophy could eventually inform earlier intervention strategies.",
+      "caveats": "no sex-disaggregated data, Mendelian randomization (causal inference limitations), predominantly European-ancestry GWAS data, no direct clinical outcomes measured",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Genetics/neurology focus, no female-specific data, limited lifestyle hook for women's health outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Small Strokes May Trigger a Cascade of Brain Damage That Was Previously Thought to Happen Independently",
+          "hook": "A genetic analysis of hundreds of thousands of brain scans suggests that lacunar strokes \u2014 often called 'silent' strokes \u2014 may actually set off a chain of brain changes including white matter damage and shrinkage.",
+          "pitch_angle": "Using Mendelian randomization, researchers found that lacunar strokes appear to causally drive multiple other signs of cerebral small vessel disease, challenging the idea that these brain changes are unrelated. The finding is particularly relevant for women, who are more likely to survive strokes and live longer with their neurological consequences."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42580475",
+      "headline": "Fatty liver disease isn't one condition \u2014 it's at least three genetically distinct subtypes with completely different heart and metabolic risks",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Aug 11",
+      "doi": "10.1016/j.metabol.2026.156734",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers performed a genome-wide association study of liver fat content in 33,592 UK Biobank participants to identify genetic subtypes of metabolic dysfunction-associated steatotic liver disease (MASLD), then assessed disease outcomes in 427,030 participants. They identified three genetically distinct MASLD subtypes based on different lipid metabolism pathways \u2014 hepatic lipid retention, hepatic lipid synthesis, and systemic lipid metabolism \u2014 each with a different risk profile across 22 diseases. While all three subtypes raised liver disease risk, they showed opposite cardiovascular risk profiles: the systemic lipid metabolism subtype was linked to elevated PCSK9 and higher heart disease risk, while the hepatic retention subtype showed the reverse.",
+      "why_it_matters": "MASLD is rising rapidly in women, particularly around menopause, and the finding that different genetic subtypes carry opposite cardiovascular risks suggests that blanket treatment or lifestyle advice may be missing critical individual variation.",
+      "caveats": "observational design, predominantly European-ancestry cohort, no sex-disaggregated data reported, secondary analysis of biobank data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large cohort, counterintuitive finding, metabolic relevance to women; no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "You Might Have 'Fatty Liver' \u2014 But Which Kind Matters More Than You Think for Your Heart",
+          "hook": "A massive genetic study found that fatty liver disease is actually three distinct conditions \u2014 and one type raises heart disease risk while another appears protective for the heart.",
+          "pitch_angle": "Researchers analyzing nearly half a million UK Biobank participants found that MASLD subtypes based on genetic lipid pathways have completely different cardiovascular risk profiles, upending the idea that all fatty liver disease is equally dangerous. As MASLD rates climb in women around menopause, understanding which subtype is driving symptoms could eventually reshape personalized prevention strategies."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Not All Fatty Liver Disease Is the Same \u2014 and the Differences Could Change How Doctors Treat Your Heart Risk",
+          "hook": "Researchers identified three genetically distinct types of fatty liver disease that carry opposite cardiovascular risk profiles \u2014 a finding that could explain why some patients with liver disease seem protected from heart disease while others are not.",
+          "pitch_angle": "Using genome-wide data from over 427,000 people, scientists found that MASLD subtypes tied to systemic lipid metabolism were linked to higher PCSK9 and heart risk, while fat retention in the liver itself showed the opposite pattern. For women navigating metabolic changes around midlife, this research suggests that a 'one-size-fits-all' approach to fatty liver management may need a rethink."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42572818",
+      "headline": "In psilocybin therapy for anxiety, having two therapists in the room changes everything \u2014 according to patients",
+      "journal": "Psychology and Psychotherapy",
+      "pubdate": "2026 Aug 10",
+      "doi": "10.1111/papt.70098",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted longitudinal qualitative interviews with 18 participants (29 interviews total) enrolled in a phase 2 randomized open-label clinical trial of psilocybin-assisted therapy for Generalized Anxiety Disorder, exploring how the co-therapy model \u2014 two therapists supporting one patient \u2014 shaped the experience. Three major themes emerged: co-therapy enhanced safety and trust on dosing days, influenced core therapeutic processes, and shaped participants' confidence in their own insights. Participants described the relational complexity as both a challenge and a potentiator of healing.",
+      "why_it_matters": "As psychedelic-assisted therapy moves closer to clinical availability, understanding how the therapeutic relationship structure affects outcomes matters especially for women, who are disproportionately affected by anxiety disorders.",
+      "caveats": "small sample (N<100), single-center, self-reported outcomes, observational design",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong wellness hook; anxiety skews female; qualitative design limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Psilocybin Therapy Works Better With Two Therapists \u2014 Here's What Patients Actually Said",
+          "hook": "People going through psilocybin-assisted therapy for anxiety say having two therapists in the room made their insights feel more real and trustworthy.",
+          "pitch_angle": "A new qualitative study found that the co-therapy model \u2014 two clinicians supporting one patient \u2014 wasn't just a safety measure but actively deepened the therapeutic process during psilocybin sessions. Participants described it as creating a unique relational environment that amplified emotional breakthroughs, a finding with direct implications for how psychedelic clinics are designed."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Psilocybin Therapy Sessions With Two Therapists Are More Complicated Than They Sound",
+          "hook": "Having two therapists guide you through a psilocybin session sounds like double the support \u2014 but patients say the relational dynamics are far more nuanced.",
+          "pitch_angle": "New research reveals that co-therapy in psychedelic-assisted treatment creates layered relationship dynamics that can both help and complicate the experience for patients with anxiety. As psychedelic therapy edges toward mainstream clinical use, this study raises important questions about who gets access to well-resourced two-therapist models."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42573163",
+      "headline": "A new injectable drug slashes IGF-1 levels in healthy people \u2014 and could finally help acromegaly patients who don't respond to standard treatment",
+      "journal": "European Journal of Endocrinology",
+      "pubdate": "2026 Aug 10",
+      "doi": "10.1093/ejendo/lvag148",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a Phase 1 randomized, double-blind, placebo-controlled trial of ALXN2420, a novel peptide growth hormone receptor antagonist, in 101 healthy subjects across single and two-week multiple ascending dose cohorts. The drug was tested via subcutaneous injection at doses up to 120 mg/day. ALXN2420 was well tolerated and reduced IGF-1 levels by 40\u201350% after two weeks of daily dosing, supporting its potential as a combination therapy for acromegaly patients insufficiently controlled by existing treatments.",
+      "why_it_matters": "Acromegaly disproportionately affects women's quality of life through hormonal disruption, and a new treatment option could help the subset of patients for whom current therapies fall short.",
+      "caveats": "small sample (N<100 per cohort), single-center, healthy subjects only (not acromegaly patients), short follow-up, industry funding [Amolyt Pharma], no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "First-in-human study, but no female-specific data; niche endocrine condition.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A New Drug Could Finally Help People With a Rare Hormone Disorder That Doesn't Respond to Current Meds",
+          "hook": "For people with acromegaly whose growth hormone levels stay dangerously high despite standard treatment, a new injectable drug just passed its first human safety test \u2014 with promising hormonal results.",
+          "pitch_angle": "ALXN2420 cut IGF-1 levels by up to 50% in healthy volunteers over two weeks, suggesting it could become the first new combination option for treatment-resistant acromegaly. The condition, often underdiagnosed in women, causes joint pain, fatigue, and metabolic complications that significantly reduce quality of life."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42574776",
+      "headline": "Brain scan patterns before treatment may predict who responds to antipsychotics in first-episode schizophrenia",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Aug 10",
+      "doi": "10.1016/j.schres.2026.07.032",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used MRI-based functional connectivity data and machine learning to predict antipsychotic treatment response in 119 individuals with first-episode schizophrenia, assessed over 12 weeks. The study identified a distinctive striatum-dominated subcortical connectivity pattern at baseline that correlated with subsequent symptom reduction on the PANSS scale. Machine learning models trained on these patterns successfully predicted actual treatment outcomes, suggesting baseline brain connectivity may serve as a biomarker.",
+      "why_it_matters": "If validated, brain-based biomarkers could eventually help clinicians identify which women with first-episode schizophrenia are likely to respond to antipsychotics before treatment begins, potentially shortening the often-lengthy trial-and-error medication process.",
+      "caveats": "small sample (N<100 per sex breakdown unclear), no sex-disaggregated data, single-center, short follow-up, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Psychiatry finding but no female-specific analysis; small, single-center sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Brain Scan Before You Start Medication Could Predict Whether It Will Work for Schizophrenia",
+          "hook": "A machine learning analysis of brain scans taken before treatment began could accurately predict which patients would respond to antipsychotic medications.",
+          "pitch_angle": "Researchers found that functional connectivity patterns in the striatum \u2014 measurable before a single pill is taken \u2014 were associated with how much symptoms improved after 12 weeks of antipsychotics. The finding suggests personalized psychiatry may one day replace the frustrating medication guessing game, which disproportionately affects women who often experience different schizophrenia symptom profiles than men."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42575432",
+      "headline": "For teens with severe uterine bleeding, a hormone most doctors reach for first may cause far more nausea than the alternative",
+      "journal": "Journal of Obstetrics and Gynaecology Canada",
+      "pubdate": "2026 Aug 10",
+      "doi": "10.1016/j.jogc.2026.103495",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at a Montreal tertiary-care hospital conducted a 10-year retrospective cohort study of 150 adolescents under 19 treated for acute uterine bleeding, comparing high-dose estrogen (n=116) versus high-dose progestin (n=34). There was no statistically significant difference in time to bleeding cessation (median 36 hours overall) or hemoglobin recovery between the two treatment groups. However, adolescents treated with progestins experienced significantly fewer side effects, particularly nausea (adjusted OR 0.31 for composite nausea outcome vs. estrogen group).",
+      "why_it_matters": "Acute heavy uterine bleeding is a common and frightening emergency for adolescents and their families, and understanding that a hormonal treatment with fewer side effects performs just as well as the standard approach could shift clinical practice toward better tolerated care for young patients.",
+      "caveats": "observational design, single-center, retrospective, small progestin group (n=34), self-reported outcomes not specified",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Adolescent reproductive health, clinically meaningful side-effect finding, decent sample size.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self / Women's Health Magazine",
+          "headline": "For Teen Girls With Severe Period Bleeding, a Lesser-Used Hormone Treatment May Be Easier to Tolerate",
+          "hook": "A 10-year study found that when it comes to stopping severe uterine bleeding in adolescents, high-dose progestins worked just as well as estrogens \u2014 but caused far less nausea.",
+          "pitch_angle": "Acute heavy menstrual bleeding sends thousands of adolescents to emergency rooms each year, and high-dose estrogens are typically the go-to treatment, but this Canadian study suggests progestins stop bleeding just as effectively with significantly fewer side effects. For parents and young women navigating a frightening and often undertreated condition, the finding raises important questions about why the harsher option is still the default."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "What Doctors Give Teens for Severe Period Bleeding May Not Be the Best Option Anymore",
+          "hook": "New research suggests that the hormone treatment most commonly used to stop severe uterine bleeding in teenagers works no better than an alternative \u2014 and causes a lot more nausea.",
+          "pitch_angle": "For adolescents already distressed by heavy bleeding and anemia, adding significant nausea from treatment can be a barrier to recovery and follow-through \u2014 and this study suggests it may be avoidable. Experts say the findings highlight the need to revisit default treatment protocols for one of adolescence's most common gynecologic emergencies."
+        }
+      ],
+      "run_date": "2026-08-13",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
     {
       "pmid": "42559924",
       "headline": "The anti-inflammatory diet score that researchers say could finally make 'eating to fight inflammation' measurable",
@@ -54,33 +981,6 @@
       ],
       "run_date": "2026-08-12",
       "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42572146",
-      "headline": "Bee pollen is being sold as a superfood \u2014 but it may harbor pesticides, heavy metals, and allergy risks",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Aug 9",
-      "doi": "10.1002/jsfa.70971",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review examined the nutritional composition, health-promoting properties, and safety risks of bee pollen as a functional food, drawing on existing published evidence. Researchers found that while bee pollen contains proteins, amino acids, polyphenols, and flavonoids with antioxidant and anti-inflammatory properties, its composition is highly variable depending on botanical origin, geography, and handling. The review also found that bee pollen can carry pesticide residues, heavy metals, mycotoxins, pyrrolizidine alkaloids, and microbiological hazards, and poses allergenic risks \u2014 including severe reactions in people sensitized to airborne pollen.",
-      "why_it_matters": "As bee pollen supplements grow in popularity among wellness-focused women, this review highlights that the product's safety and quality are far less standardized than marketing suggests, and that allergic reactions and contaminant exposure are real risks.",
-      "caveats": "no sex-disaggregated data, narrative review (not systematic), no human clinical trial data, variability limits generalizability",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive wellness supplement safety angle; no female-specific data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "Bee Pollen Is Everywhere on Wellness Feeds \u2014 But Experts Say It Comes With Hidden Risks",
-          "hook": "Bee pollen is widely promoted as a superfood packed with protein and antioxidants, but a new review finds it may also carry pesticide residues, heavy metals, and a serious allergy risk.",
-          "pitch_angle": "A comprehensive review of bee pollen's nutritional and safety profile found that its composition varies wildly depending on where it comes from and how it's handled \u2014 and that contamination with pesticides, mycotoxins, and allergens is a genuine public health concern. For the wellness audience stocking bee pollen on their smoothie bowls, the science suggests the supplement market is well ahead of the safety research."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
@@ -145,87 +1045,6 @@
       "status": "new"
     },
     {
-      "pmid": "42563717",
-      "headline": "One specific job-support program nearly triples the odds of competitive employment after a first psychosis episode",
-      "journal": "Australian and New Zealand Journal of Psychiatry",
-      "pubdate": "2026 Aug 7",
-      "doi": "10.1177/00048674261471316",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A PROSPERO-registered meta-analysis of 31 studies (N=8,651 young people with first-episode psychosis) evaluated vocational interventions for improving employment and education outcomes. Individual Placement and Support (IPS) was associated with nearly tripled odds of competitive employment compared to control conditions (OR=2.86). No intervention showed a consistent benefit for educational outcomes, and the combined vocational endpoint showed substantial heterogeneity.",
-      "why_it_matters": "Young women recovering from a first psychosis episode \u2014 a group at high risk of long-term economic marginalization \u2014 may benefit most from access to structured employment support programs like IPS.",
-      "caveats": "no sex-disaggregated data, observational design, publication bias flagged by authors, heterogeneity in combined endpoint",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large meta-analysis; clear real-world hook; no sex-disaggregated data limits women's health angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "The Job Program That's Changing Recovery From Psychosis \u2014 But Almost No One Has Heard of It",
-          "hook": "A meta-analysis of nearly 9,000 young people found that a structured employment program called Individual Placement and Support nearly tripled the odds of getting and keeping a competitive job after a first episode of psychosis.",
-          "pitch_angle": "Early psychosis often derails careers and education for young women at a pivotal life stage; this analysis suggests a specific, underused intervention could significantly change those odds."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42566066",
-      "headline": "Breast milk's complex sugars may shape babies' allergy and infection risk \u2014 but the science isn't settled yet",
-      "journal": "European Journal of Nutrition",
-      "pubdate": "2026 Aug 7",
-      "doi": "10.1007/s00394-026-04074-9",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed 11 human milk oligosaccharides (HMOs) and 28 N-/O-glycans in breast milk samples from 200 Japanese mother-infant dyads collected 1\u20132 months postpartum, tracking infant infectious and allergic outcomes over the first year of life. Several milk glycans showed nominal associations with lower odds of bronchitis and food allergy, while some were associated with higher odds of atopic dermatitis. However, no association survived false discovery rate correction, meaning all findings are exploratory and hypothesis-generating only.",
-      "why_it_matters": "These findings suggest that specific sugars in breast milk may influence infant immune outcomes, offering a direction for future research into how a mother's milk composition connects to her baby's health in the first year.",
-      "caveats": "small sample (N=200), observational design, single-center, self-reported outcomes, industry funding [Bean Stalk Snow Co. / MEGMILK SNOW BRAND Co.], no findings survived FDR correction, Japan-only cohort",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Postpartum/lactation angle, but industry-funded, exploratory only, no significant findings.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "The Sugars in Your Breast Milk Could Shape Your Baby's Allergy Risk \u2014 Here's What We Know So Far",
-          "hook": "Breast milk contains hundreds of complex sugars, and early research suggests some may be linked to lower odds of bronchitis and food allergy in infants \u2014 though scientists say it's too soon to draw firm conclusions.",
-          "pitch_angle": "A new exploratory study found that specific human milk oligosaccharides were nominally associated with infant immune outcomes in the first year of life. The findings are preliminary and industry-funded, but they open a compelling window into how breast milk composition might do more than just nourish \u2014 and what future research could mean for breastfeeding guidance."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42579964",
-      "headline": "Brain timing patterns may signal schizophrenia before medication ever enters the picture",
-      "journal": "Asian Journal of Psychiatry",
-      "pubdate": "2026 Aug 7",
-      "doi": "10.1016/j.ajp.2026.105112",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used resting-state fMRI to measure intrinsic neural timescales (INT) \u2014 the speed at which brain regions process information \u2014 in 123 first-episode schizophrenia patients who were drug-na\u00efve or minimally treated, compared to 102 healthy controls. They found a divergent pattern: cortical regions showed shorter timescales while subcortical regions showed longer ones, particularly in the default mode and subcortical networks. These timing disruptions were linked to cerebral blood flow and synapse-related genes, suggesting a potential early neurobiological marker of schizophrenia independent of medication effects.",
-      "why_it_matters": "Schizophrenia often goes undetected or misdiagnosed in women due to later onset and different symptom profiles, and brain-based markers that appear before heavy medication exposure could improve early detection in this population.",
-      "caveats": "no sex-disaggregated data, single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting neuroscience but no female-specific analysis and limited women's health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Scientists Found a Brain Timing 'Fingerprint' That Could Help Catch Schizophrenia Early",
-          "hook": "Brain scans can detect a distinctive pattern of disrupted timing in people newly diagnosed with schizophrenia \u2014 before any medication changes the picture.",
-          "pitch_angle": "A new study found that the speed at which different brain regions process information is measurably off in early schizophrenia patients, offering a potential biological marker for earlier diagnosis. This matters for women, who tend to develop schizophrenia later than men and are frequently misdiagnosed with mood disorders first."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42567270",
       "headline": "A teen's sleep pattern \u2014 measured across multiple dimensions \u2014 could be an early warning system for mental illness",
       "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
@@ -280,99 +1099,6 @@
       "status": "new"
     },
     {
-      "pmid": "42563371",
-      "headline": "A single childhood blood test predicts decades of autoimmune disease risk in siblings of kids with Type 1 diabetes",
-      "journal": "Diabetes, Obesity & Metabolism",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1111/dom.71194",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers followed 1,427 Danish siblings of children newly diagnosed with Type 1 diabetes from 1997\u20132010 through national registries until 2024, measuring autoantibodies for Type 1 diabetes, celiac disease, and autoimmune thyroid disease alongside genetic risk scores. Siblings with multiple islet autoantibodies had an incidence rate of 8.10 per 100 person-years for Type 1 diabetes, compared to just 0.11 in antibody-negative siblings. The study found that a single screening for all three autoantibody panels combined with genetic risk scoring effectively stratified long-term disease risk across all three conditions.",
-      "why_it_matters": "Because autoimmune thyroid disease and celiac disease are significantly more common in women, a single early screening test that predicts lifetime risk across multiple autoimmune conditions could have outsized implications for women with a family history of Type 1 diabetes.",
-      "caveats": "observational design, self-reported outcomes, no sex-disaggregated data, Danish population only",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large cohort, long follow-up, autoimmune thyroid hook for women, no sex-disaggregated data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Well+Good",
-          "headline": "If Your Sibling Has Type 1 Diabetes, One Blood Test Could Predict Your Autoimmune Future",
-          "hook": "A 27-year follow-up study found that a single childhood screening for three autoimmune markers \u2014 including one linked to thyroid disease \u2014 predicted who would develop serious conditions decades later.",
-          "pitch_angle": "Since autoimmune thyroid disease disproportionately affects women, this research suggests early family-based screening could flag risk long before symptoms appear, opening a window for monitoring and potentially earlier intervention."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42562219",
-      "headline": "Female sex is the top predictor of suicide attempts in children who already have suicidal thoughts",
-      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1016/j.jaac.2026.07.1245",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used machine learning to identify which children with suicidal ideation (ages 9\u201310) would go on to make a first suicide attempt within 4 years, drawing on 187 predictors from the ABCD study (N=660 child ideators, 42% female, followed across 21 US sites). The model achieved an AUC of 0.75 and was validated in independent holdout sites. Female sex was the single top contributing feature predicting the ideation-to-attempt transition, followed by presence of self-harm, access to means, anxiety disorders, impulsivity, and severity of suicidal ideation.",
-      "why_it_matters": "This suggests girls who express suicidal thoughts may need more urgent clinical attention than current practice recognizes, even at ages as young as 9\u201310.",
-      "caveats": "observational design, short follow-up, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Female sex as top predictor in pediatric suicide; large longitudinal US cohort.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Girls Are the Highest-Risk Group for a First Suicide Attempt \u2014 Even at Age 9",
-          "hook": "A machine learning model trained on nearly 700 children found that being female was the single strongest predictor of going from suicidal thoughts to an actual attempt.",
-          "pitch_angle": "Researchers analyzed 187 factors in children as young as 9 and found that girls with suicidal ideation are at disproportionately elevated risk of attempting suicide within four years \u2014 a finding that challenges assumptions about who needs the most urgent intervention."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "What Predicts a Child's First Suicide Attempt? An AI Just Gave Doctors a Clearer Answer",
-          "hook": "A new AI model can flag which kids with suicidal thoughts are most likely to attempt suicide \u2014 and being a girl tops the risk list.",
-          "pitch_angle": "The model identified modifiable risk factors like anxiety, impulsivity, and access to means alongside female sex, suggesting parents and clinicians have concrete targets to address early \u2014 before a crisis occurs."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42557913",
-      "headline": "Autistic Adults Use Their Special Interests Like a Mental Health Tool \u2014 and It Actually Works",
-      "journal": "Autism: The International Journal of Research and Practice",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1177/13623613261471572",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers surveyed 182 adults in Germany \u2014 60 autistic and 122 non-autistic \u2014 about how they engage with personal interests across different emotional states, measuring social anxiety, self-esteem, and stigma. Autistic participants reported that their special interests played a significantly stronger role in emotion regulation, stress coping, and self-directed learning compared to non-autistic participants. However, autistic adults also reported greater stigma and negative social consequences tied to their intense interests.",
-      "why_it_matters": "Autistic women are frequently underdiagnosed and often rely on masking rather than authentic coping strategies, so findings that validate special interests as a genuine mental health resource could reshape how clinicians and loved ones support them.",
-      "caveats": "small sample (N<100 autistic participants), observational design, self-reported outcomes, single-center, online survey, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Women's mental health and autism angle; no sex-disaggregated data limits specificity.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Autistic Adults Who Lean Into Their Special Interests Are Actually Using a Legit Emotion Regulation Strategy",
-          "hook": "New research found that autistic adults who turn to their intense interests during stressful or exhausting moments aren't just escaping \u2014 they're actively regulating their emotions more effectively than non-autistic people do with the same strategy.",
-          "pitch_angle": "A study comparing autistic and non-autistic adults found that special interests function as a meaningful psychological resource, helping autistic individuals manage stress and build self-knowledge. The research suggests that encouraging \u2014 rather than discouraging \u2014 deep interests could be a valuable and underused mental health tool."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Society Keeps Telling Autistic People Their Obsessions Are a Problem. Science Says Otherwise.",
-          "hook": "Autistic adults reported that their intense special interests are one of their most effective tools for managing stress and emotions \u2014 but they also face more stigma and social judgment for having them than non-autistic people do.",
-          "pitch_angle": "A new study highlights a painful contradiction: the very coping strategies that help autistic adults regulate their emotions are also the ones most likely to draw negative reactions from others. For autistic women, who are already socialized to suppress their differences, the findings raise pointed questions about whose comfort is being prioritized."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42557604",
       "headline": "Suicide statistics may be hiding a troubling truth about who is at risk \u2014 due to a math quirk",
       "journal": "Psychiatric Services",
@@ -392,66 +1118,6 @@
           "headline": "The Way We Count Suicide Deaths May Be Hiding Who's Most at Risk",
           "hook": "A statistical quirk called Simpson's Paradox means that combining suicide data across groups can make real trends \u2014 including spikes in specific populations \u2014 vanish entirely.",
           "pitch_angle": "VA researchers warn that aggregated suicide surveillance numbers can be deeply misleading, a problem with serious implications for women's mental health policy and prevention funding."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42562814",
-      "headline": "Only 1 in 3 New Zealand babies is exclusively breastfed as long as recommended \u2014 and where you live matters",
-      "journal": "Journal of Human Lactation",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1177/08903344261468562",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed electronic health records from 103,893 maternal-infant dyads in New Zealand between January 2023 and June 2024, tracking breastfeeding prevalence at seven contacts from 4\u20136 weeks to 2\u20133 years of age. Any breastfeeding declined from 85% at around 1 month to just 12% by 28 months, and exclusive or full breastfeeding fell from ~57% at 1\u20133 months to 32% by around 5 months \u2014 short of the recommended 6-month exclusive threshold. Breastfeeding rates were highest among mothers in less deprived neighborhoods, those with greater health literacy, and those of MELAA or Asian ethnicity, while infant sex and first-time parenting status had little impact.",
-      "why_it_matters": "The data suggest that socioeconomic and ethnic disparities \u2014 not individual choice alone \u2014 drive breastfeeding gaps, pointing to systemic barriers that affect mothers' ability to meet feeding goals.",
-      "caveats": "observational design, single-country (New Zealand), self-reported outcomes possible via routine health contacts, no causal inference possible",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large cohort, postpartum/lactation focus, equity angle; NZ-specific limits US generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "Most moms want to breastfeed longer \u2014 so why are so many stopping early?",
-          "hook": "A study of over 100,000 mother-baby pairs found that where you live and how much health system support you have may predict breastfeeding success more than intention ever could.",
-          "pitch_angle": "New data from New Zealand found that exclusive breastfeeding rates drop sharply before the 6-month recommendation, with neighborhood deprivation and health literacy strongly linked to who continues. The finding reframes the 'breastfeeding is a personal choice' narrative by highlighting the structural barriers many new mothers face."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Breastfeeding longer than 6 months is rare \u2014 and new data shows it's not random who stops",
-          "hook": "Only about 1 in 3 babies is exclusively breastfed to the age experts recommend, and the gap isn't explained by who wants to breastfeed.",
-          "pitch_angle": "Analysis of more than 100,000 New Zealand infants found that socioeconomic disadvantage and lower health literacy \u2014 not infant sex or first-time parenting \u2014 were most strongly associated with early breastfeeding cessation. For readers navigating postpartum decisions, the findings underscore why support systems, not willpower, may be the key variable."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42556584",
-      "headline": "Specific Fat Molecules in the Blood May Signal Early-Stage Depression \u2014 Even Before Metabolic Disease Sets In",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1016/j.jad.2026.122351",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers collected plasma samples from 88 university students in Bangkok, Thailand \u2014 44 with first-episode depression and 44 healthy controls \u2014 and performed untargeted lipid profiling using mass spectrometry. Participants also completed assessments of adverse childhood experiences, stress, anxiety, and suicidal behaviors. Elevated ceramides, diacylglycerides, and related lipid molecules were the strongest predictors of depression severity and suicidal behaviors, even in the absence of metabolic syndrome, suggesting lipid toxicity may contribute to early depression biology.",
-      "why_it_matters": "If lipid profiles can flag depression risk early \u2014 before other metabolic conditions develop \u2014 this could eventually support earlier screening in young women, who face disproportionate rates of first-episode depression.",
-      "caveats": "small sample (N<100), single-center, observational design, no sex-disaggregated data, young adult university students only (findings may not generalize), narrow regional population (Bangkok, Thailand)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Mechanistic depression finding; small sample and no female-specific analysis limit relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Blood Fat Profile Might Reveal Depression Risk \u2014 Long Before You Feel Depressed",
-          "hook": "Specific fat molecules called ceramides and diacylglycerides were found elevated in people experiencing their first bout of depression \u2014 even when they had no other metabolic health issues.",
-          "pitch_angle": "A small study of university students found that lipid biomarkers in the blood could distinguish people with early-stage depression from healthy peers with surprising accuracy. The research suggests the biology of depression may be written in fat metabolism far earlier than previously understood \u2014 opening a potential new window for detection."
         }
       ],
       "run_date": "2026-08-12",
@@ -607,60 +1273,6 @@
       "status": "new"
     },
     {
-      "pmid": "42581029",
-      "headline": "The lab test used to measure how much iron your food actually delivers may be less reliable than scientists thought",
-      "journal": "Proceedings of the Nutrition Society",
-      "pubdate": "2026 Aug 12",
-      "doi": "10.1017/S0029665126105394",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This review critically examined the INFOGEST in vitro digestion method \u2014 the most widely used lab protocol for estimating how much iron, zinc, and calcium the body can absorb from food \u2014 and found significant unresolved methodological problems. Key issues include contamination from lab reagents skewing mineral readings, strong interactions between minerals and food matrix components, and no consensus on how to define the 'bioaccessible' fraction. The review calls for standardized protocols and validation against human (in vivo) data before results are used to inform nutrition policy.",
-      "why_it_matters": "Iron deficiency is the most common nutritional deficiency among women of reproductive age, meaning the reliability of the lab methods used to guide food fortification and dietary recommendations directly affects how well those recommendations serve women.",
-      "caveats": "no sex-disaggregated data, no human subjects (methodological review only), no original data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant to iron deficiency in women; indirect/methodological angle limits pitch-ability.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Prevention",
-          "headline": "The Science Behind 'Iron-Rich Foods' May Be Shakier Than We Realized",
-          "hook": "The standard lab test used to figure out how much iron your body actually absorbs from food has major unresolved flaws \u2014 which means dietary guidelines built on that data may be less solid than they appear.",
-          "pitch_angle": "A new review found that the most widely used method for measuring mineral absorption from food produces unreliable results due to reagent contamination and inconsistent definitions \u2014 raising questions about the accuracy of iron and calcium recommendations. For women, who already face disproportionate rates of iron deficiency, this is a quiet but meaningful crack in the foundation of nutrition science."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42520833",
-      "headline": "A light-emitting fiber may make feeding tube placement safer for fragile newborns \u2014 no X-ray required",
-      "journal": "American Journal of Perinatology",
-      "pubdate": "2026 Aug 11",
-      "doi": "10.1055/a-2923-6620",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested a light-emitting diode source and fiber (LED-SF) device to confirm stomach placement of feeding tubes in neonates across five Japanese NICUs. The prospective multicenter study enrolled 101 neonates with corrected gestational ages ranging from 24.3 to 45.7 weeks. The device achieved 100% accuracy in confirming tube placement, with insertion lengths strongly correlating with X-ray-confirmed final lengths (r\u00b2=0.844).",
-      "why_it_matters": "For postpartum families with premature or medically fragile newborns, a safer, radiation-free method for confirming feeding tube placement could reduce procedural risk and NICU stress.",
-      "caveats": "small sample (N<100 by strict count \u2014 N=101 borderline), single-center country (Japan only, five sites), observational design, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Neonatal device study; minimal direct women's health or lifestyle hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A tiny LED fiber could make one of the most common NICU procedures radiation-free",
-          "hook": "A glowing fiber thread may be all it takes to confirm a feeding tube is in the right place \u2014 no X-ray needed.",
-          "pitch_angle": "Researchers found that a light-emitting fiber device accurately confirmed feeding tube placement in premature and full-term newborns 100% of the time, matching X-ray results. For NICU families, a less invasive, faster verification method could mean fewer radiation exposures and smoother feeding care for the most vulnerable newborns."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42580618",
       "headline": "A preservative found in cosmetics and food may be causally linked to gallstone formation, new research suggests",
       "journal": "Food and Chemical Toxicology",
@@ -685,153 +1297,6 @@
       "run_date": "2026-08-12",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42578312",
-      "headline": "New antibiotics are reshaping how UTIs in women get treated \u2014 here's what's changing",
-      "journal": "BJOG: An International Journal of Obstetrics and Gynaecology",
-      "pubdate": "2026 Aug 11",
-      "doi": "10.1111/1471-0528.70316",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This article, published in a leading obstetrics and gynaecology journal, reviews the emerging landscape of novel antimicrobials for urinary tract infection (UTI) management specifically in women. No abstract with participant data or study design was available for verification; the entry appears to be a review or commentary rather than an original research study. Key findings and sample details cannot be confirmed from the available information.",
-      "why_it_matters": "UTIs are among the most common infections affecting women, and rising antibiotic resistance makes new treatment options directly relevant to women's everyday health.",
-      "caveats": "No abstract available \u2014 unable to verify study design, sample size, or findings; likely review or commentary rather than original research",
-      "fact_check_note": "No abstract was provided; summary and pitch angles are based solely on title and journal context and should not be treated as verified findings.",
-      "relevance_score": 5,
-      "relevance_score_reason": "Women-specific condition, high-relevance topic; no verifiable data to score further.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Self",
-          "headline": "Your UTI treatment options just got a major upgrade \u2014 new drugs are finally here",
-          "hook": "For the millions of women who get recurring UTIs, a new class of antibiotics may offer relief when standard treatments stop working.",
-          "pitch_angle": "A review in a leading OB-GYN journal outlines novel antimicrobials entering the UTI treatment landscape for women, at a moment when antibiotic resistance is making standard drugs less effective. This is a timely, practical angle for readers who have experienced recurring or treatment-resistant infections."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42578601",
-      "headline": "A new C-section suturing technique may sharply reduce isthmocele \u2014 the uterine defect causing months of post-period bleeding",
-      "journal": "International Journal of Gynaecology and Obstetrics",
-      "pubdate": "2026 Aug 11",
-      "doi": "10.1002/ijgo.71294",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Turkish researchers conducted a retrospective matched cohort study comparing a new single-layer unlocked horizontal suture technique (the Yilmaz technique) with the standard locked suture method for closing the uterine incision during cesarean delivery, following 60 women over three years. After adjusting for number of previous C-sections, the Yilmaz technique was associated with significantly lower odds of isthmocele (a uterine niche at the scar site), spotting, and post-menstrual bleeding days compared to controls. Isthmocele prevalence was 26.7% in the Yilmaz group versus 43.3% in controls, though the unadjusted difference did not reach statistical significance.",
-      "why_it_matters": "Isthmocele affects a substantial proportion of women after cesarean delivery and is linked to chronic spotting, pelvic pain, and fertility problems \u2014 a simpler suturing technique that may reduce its occurrence could meaningfully improve quality of life for the millions of women who give birth by C-section annually.",
-      "caveats": "small sample (N<100), retrospective cohort, single-center, short follow-up",
-      "fact_check_note": "The unadjusted isthmocele prevalence difference (26.7% vs. 43.3%) did not reach statistical significance (P=0.176); significance was only achieved after adjustment for prior cesarean sections. This distinction is important for accurate reporting.",
-      "relevance_score": 7,
-      "relevance_score_reason": "Directly relevant to postpartum/reproductive health; addresses common underreported C-section complication.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "Millions of Women Have C-Section Scars That Cause Ongoing Bleeding \u2014 A New Stitch Technique May Help",
-          "hook": "A uterine defect called isthmocele forms in up to 60% of cesarean scars and causes months of unexplained spotting \u2014 and a new way of closing the incision may significantly reduce the risk.",
-          "pitch_angle": "Isthmocele is a widely underdiagnosed aftermath of C-section delivery that can cause chronic spotting, pain, and fertility issues; a small but carefully matched study found a new suturing technique was associated with significantly fewer cases, offering a potential low-tech fix to a surprisingly common problem."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Why Post-Period Spotting After a C-Section Isn't Normal \u2014 and What Surgeons Are Doing About It",
-          "hook": "A uterine niche left by cesarean scarring affects a substantial share of women who've had C-sections, and a new suture technique found in a small study may cut that risk nearly in half.",
-          "pitch_angle": "Many women assume prolonged spotting after a C-section is just part of recovery, but it's often a sign of isthmocele \u2014 a defect in the uterine scar \u2014 and new research suggests the way surgeons close the incision may make a measurable difference."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42580660",
-      "headline": "Radiofrequency fibroid ablation shrank fibroids by 40% \u2014 even the large ones doctors rarely treat this way",
-      "journal": "Journal of Obstetrics and Gynaecology Canada",
-      "pubdate": "2026 Aug 11",
-      "doi": "10.1016/j.jogc.2026.103494",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Canadian researchers retrospectively analyzed 60 consecutive cases of ultrasound-guided laparoscopic radiofrequency ablation (Lap-RFA) for symptomatic uterine fibroids at a Toronto center between 2022 and 2024, including fibroids up to 10 cm \u2014 larger than typically studied. Median fibroid volume shrank by approximately 40% across 3-, 6-, and 12-month follow-up, with a median operative time of 105 minutes and recovery stay of under 3 hours. Three patients (5%) conceived after the procedure, all delivering at term.",
-      "why_it_matters": "Uterine fibroids affect up to 80% of women by age 50, and this early Canadian data suggests a minimally invasive ablation option may be effective even for larger fibroids previously considered outside its scope \u2014 potentially expanding treatment choices for women who want to preserve their uterus.",
-      "caveats": "small sample (N<100), retrospective cohort, single-center, short follow-up, no validated patient-reported outcome measures",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Common women's condition; uterus-preserving angle; fertility outcomes noted; limited by small retrospective design.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "This Minimally Invasive Fibroid Treatment Works on Bigger Fibroids Than We Thought",
-          "hook": "A new Canadian study found that radiofrequency ablation shrank fibroids by nearly 40% \u2014 even those up to 10 centimeters \u2014 with patients going home in under three hours.",
-          "pitch_angle": "Laparoscopic radiofrequency ablation has typically been reserved for smaller fibroids, but this first Canadian case series expanded the approach to larger ones and saw comparable results, offering a potential uterus-preserving option for more women suffering from fibroid bulk symptoms."
-        },
-        {
-          "publication_type": "Self",
-          "headline": "Could This Outpatient Fibroid Procedure Replace Surgery for More Women?",
-          "hook": "Women with large, symptomatic fibroids often feel their only option is major surgery \u2014 but new data suggests a minimally invasive alternative may work on bigger fibroids than previously studied.",
-          "pitch_angle": "A small but notable Canadian case series found that radiofrequency ablation shrank fibroids by roughly 40% at one year \u2014 even in fibroids up to 10 cm \u2014 with short recovery times and three subsequent full-term pregnancies, adding to the growing evidence for fertility-sparing fibroid treatment."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42572818",
-      "headline": "Two therapists in the room during a psychedelic session feels safer \u2014 but also more complicated",
-      "journal": "Psychology and Psychotherapy",
-      "pubdate": "2026 Aug 10",
-      "doi": "10.1111/papt.70098",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a qualitative analysis of 29 semi-structured interviews with 18 participants in a phase 2 randomised clinical trial of psilocybin-assisted therapy for Generalised Anxiety Disorder, examining their experiences of having two therapists (co-therapy) present during dosing and psychotherapy sessions. Three major themes emerged: co-therapy on dose day provided safety and trust but raised access concerns; it shaped therapeutic processes; and it influenced how participants integrated therapeutic insights. Findings suggest co-therapy can both protect participants and amplify therapeutic outcomes, though feasibility and accessibility remain real-world challenges.",
-      "why_it_matters": "As psychedelic-assisted therapy moves closer to clinical availability, women with anxiety disorders \u2014 who are diagnosed at roughly twice the rate of men \u2014 need to know how the therapeutic structure itself shapes the experience and outcome.",
-      "caveats": "small sample (N<100), qualitative design, single clinical trial context, open-label, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Timely psychedelics topic with wellness hook; small qualitative sample limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "What It's Actually Like to Have Two Therapists With You During a Psilocybin Session",
-          "hook": "Patients in a clinical psilocybin trial said having two therapists in the room felt safer \u2014 but also stirred up unexpected relational complexity.",
-          "pitch_angle": "A new qualitative study from a phase 2 psilocybin trial found that co-therapy \u2014 two therapists supporting one patient \u2014 can deepen the therapeutic experience but also creates interpersonal dynamics that patients have to actively navigate. As psychedelic therapy inches toward mainstream clinical use, understanding what the therapeutic structure actually feels like from the inside is essential for women considering it for anxiety."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42573163",
-      "headline": "A pill-sized peptide drug slashes IGF-1 levels by up to 50% in healthy people \u2014 and could transform acromegaly treatment",
-      "journal": "European Journal of Endocrinology",
-      "pubdate": "2026 Aug 10",
-      "doi": "10.1093/ejendo/lvag148",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a Phase 1 randomized, double-blind, placebo-controlled first-in-human trial of ALXN2420, a novel peptide growth hormone receptor antagonist, in 101 healthy subjects using single and two-week multiple ascending dose designs. The drug was administered via subcutaneous injection at doses up to 120 mg/day. ALXN2420 was well tolerated and produced dose-related reductions in IGF-1 levels of 40\u201350% after two weeks of daily dosing, supporting further testing in acromegaly patients.",
-      "why_it_matters": "Women with acromegaly \u2014 a condition that disproportionately goes undiagnosed for years \u2014 may one day benefit from a new injectable treatment option that works differently from existing therapies.",
-      "caveats": "small sample (N<100 per arm), single-center, short follow-up, healthy subjects only (not acromegaly patients), industry funding [Amolyt Pharma], no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Rare endocrine disease, first-in-human, but no women-specific data or lifestyle hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A New Injectable Drug Could Finally Give People With a Rare Hormone Disorder Better Control",
-          "hook": "A first-in-human trial found a novel peptide drug cut a key growth hormone marker by up to 50% \u2014 a potential game-changer for acromegaly, a condition that often takes a decade to diagnose.",
-          "pitch_angle": "Acromegaly is notoriously underdiagnosed, and current treatments don't work for everyone; this early trial suggests a new mechanism could fill that gap, though larger studies in actual patients are needed."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -862,33 +1327,6 @@
       "status": "new"
     },
     {
-      "pmid": "42574776",
-      "headline": "Brain scans before starting antipsychotics may predict how well schizophrenia treatment will work",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Aug 10",
-      "doi": "10.1016/j.schres.2026.07.032",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers recruited 119 people with first-episode schizophrenia who underwent resting-state MRI before and after 12 weeks of antipsychotic medication, then used machine learning to test whether baseline subcortical brain connectivity patterns could predict treatment response. A distinctive pattern centered on the striatum was associated with overall symptom improvement as measured by PANSS scores. Predicted reductions in symptom severity correlated positively with actual reductions, suggesting baseline brain connectivity could serve as a biomarker for treatment outcomes.",
-      "why_it_matters": "If validated, this approach could help clinicians personalize antipsychotic treatment earlier for women with first-episode schizophrenia, a population where treatment delays are common.",
-      "caveats": "small sample (N<100 effective given split), single-center, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Promising biomarker finding but no sex-disaggregated data; single-center, small sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Brain Scan Before Starting Medication Could Show Whether It Will Actually Work for Schizophrenia",
-          "hook": "Researchers found that patterns of brain connectivity before treatment began predicted how much a person's schizophrenia symptoms would improve after 12 weeks on antipsychotics.",
-          "pitch_angle": "The study points toward a future where a single MRI could guide treatment decisions for first-episode schizophrenia, potentially sparing patients weeks of trial-and-error with medications that aren't right for them."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42575851",
       "headline": "A pill that could replace cholesterol injections drops LDL by nearly 50 points \u2014 and early data says it's safe",
       "journal": "Diabetes, Obesity & Metabolism",
@@ -913,60 +1351,6 @@
       "run_date": "2026-08-12",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42570794",
-      "headline": "A plant-based tube-feeding formula helped medically complex kids gain weight without worsening stomach symptoms",
-      "journal": "Clinical Nutrition ESPEN",
-      "pubdate": "2026 Aug 8",
-      "doi": "10.1016/j.clnesp.2026.105010",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a two-week exploratory study at a Canadian tertiary care children's hospital, 26 medically complex tube-fed children aged 1\u201313 years (median age 5.5 years, 59% male) were switched to a commercial hypercaloric plant- and food-based enteral formula (1.5 kcal/mL). Children showed modest but statistically significant increases in weight-for-age and BMI-for-age z-scores, met or exceeded prescribed energy and protein targets on nearly all study days, and reported no worsening of GI symptoms, with 84.6% of caregivers expressing high satisfaction.",
-      "why_it_matters": "For parents and caregivers \u2014 disproportionately mothers \u2014 navigating tube feeding for children with medical complexity, this early evidence suggests plant-based formulas may be a well-tolerated option that supports weight gain without digestive setbacks.",
-      "caveats": "small sample (N<100), short follow-up, single-center, observational design, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Pediatric caregiver angle; not women's health directly; very small short-term pilot.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "Plant-Based Tube Feeding Helped Medically Complex Kids Gain Weight \u2014 Without the Stomach Troubles",
-          "hook": "A new study found that a plant-based, food-derived tube-feeding formula helped children with serious medical conditions gain weight over two weeks without triggering extra digestive problems.",
-          "pitch_angle": "For the many mothers and caregivers managing tube feeding at home, this small study offers early reassurance that plant- and food-based formulas can meet energy needs and support weight gain in medically fragile children without worsening GI symptoms. Larger long-term studies are needed, but caregiver satisfaction was high."
-        }
-      ],
-      "run_date": "2026-08-11",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42567281",
-      "headline": "Insurance covers thyroid ablation \u2014 but many patients still can't get it",
-      "journal": "Endocrine Practice",
-      "pubdate": "2026 Aug 7",
-      "doi": "10.1016/j.eprac.2026.07.019",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This commentary by a community endocrinologist in Florida examines why thyroid radiofrequency ablation (RFA) \u2014 a minimally invasive, non-surgical alternative to thyroid surgery \u2014 remains inaccessible to many patients despite insurance coverage, citing reimbursement barriers in community practice settings. No study sample or empirical data are reported; this is an opinion/perspective piece. The piece highlights structural gaps between policy approval and real-world patient access.",
-      "why_it_matters": "Thyroid nodules and thyroid disease disproportionately affect women, making access barriers to less-invasive thyroid treatments a directly relevant women's health equity issue.",
-      "caveats": "no original research data, opinion/commentary only, single-center perspective, no sex-disaggregated data",
-      "fact_check_note": "This PMID links to a commentary with no abstract text provided; summary is based on title and available metadata only. No empirical findings to verify.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Women's thyroid health equity angle relevant but commentary only, no original data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "Your Insurance Says It Covers This Thyroid Procedure. Your Doctor Says Good Luck Getting It.",
-          "hook": "A less-invasive alternative to thyroid surgery is technically covered by insurance \u2014 yet community endocrinologists say reimbursement rules are making it nearly impossible to offer patients.",
-          "pitch_angle": "Thyroid disease overwhelmingly affects women, and radiofrequency ablation promised a needle-based alternative to the operating room \u2014 but a new commentary reveals the coverage-versus-access gap that's quietly keeping patients from this option."
-        }
-      ],
-      "run_date": "2026-08-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -1629,33 +2013,6 @@
       ],
       "run_date": "2026-08-10",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42560401",
-      "headline": "A rare calcium disorder causes hidden kidney and brain damage over years \u2014 and treatment itself may drive some of the harm",
-      "journal": "Endocrine",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1007/s12020-026-04731-3",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a single-center observational cohort study at a university hospital in Kashmir, India, following 27 patients (median age 16 years) with non-surgical hypoparathyroidism over a mean of nearly seven years. Over half developed basal ganglia calcification, a quarter developed cataracts, and nearly 15% developed nephrocalcinosis; three novel genetic variants in AIRE and GATA3 were identified. Notably, kidney damage (nephrocalcinosis) correlated with treatment intensity \u2014 specifically calcium dose and urinary calcium excretion \u2014 suggesting the standard treatment itself may contribute to renal complications.",
-      "why_it_matters": "For women living with rare parathyroid conditions, this suggests long-term monitoring of kidney health may be essential even when calcium levels appear controlled on standard therapy.",
-      "caveats": "small sample (N<100), observational design, single-center, finding tied to a single non-US/non-multinational region's healthcare context (Kashmir, India), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Rare endocrine condition; small regional single-center sample; limited generalizability to US audience.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "For People With This Rare Calcium Disorder, the Treatment Itself May Damage the Kidneys Over Time",
-          "hook": "A long-term study found that patients with a rare parathyroid condition developed serious kidney and brain complications \u2014 and higher calcium doses were linked to greater kidney damage.",
-          "pitch_angle": "Researchers followed 27 patients with non-surgical hypoparathyroidism for nearly seven years and found that while standard calcium therapy improved blood calcium levels, higher doses correlated with nephrocalcinosis. Three novel genetic mutations were also identified, expanding understanding of who may be at hereditary risk for this underdiagnosed condition."
-        }
-      ],
-      "run_date": "2026-08-10",
-      "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
