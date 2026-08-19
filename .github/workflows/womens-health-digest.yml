@@ -66,14 +66,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SERPAPI_KEY:       ${{ secrets.SERPAPI_KEY }}
-          RESEND_API_KEY:    ${{ secrets.RESEND_API_KEY }}
-          RECIPIENT_EMAIL:   REDACTED@example.com
           CATEGORIES:        ${{ matrix.category }}
           CHUNK_INDEX:       ${{ matrix.chunk_index }}
           CHUNK_TOTAL:       ${{ matrix.chunk_total }}
           TOPIC_FOCUS:       ""
           FILTER_CATEGORY:   ${{ github.event.inputs.category }}
-          DASHBOARD_URL:     ${{ secrets.DASHBOARD_URL }}
           SUPABASE_URL:      ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY:      ${{ secrets.SUPABASE_KEY }}
         run: python scripts/womens_health_digest.py
@@ -118,10 +115,7 @@ jobs:
       - name: List downloaded artifacts
         run: find /tmp/artifacts -name "*.json" | sort
 
-      - name: Merge results and send digest email
-        env:
-          RECIPIENT_EMAIL: REDACTED@example.com
-          DASHBOARD_URL:   ${{ secrets.DASHBOARD_URL }}
+      - name: Merge results
         run: python scripts/merge_results.py
 
       - name: Commit and push updated results

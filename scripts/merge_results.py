@@ -8,15 +8,8 @@ Writes to data/results.json (appends new studies, deduplicates by PMID)
 """
 
 import json
-import os
-import requests
 from datetime import datetime, timezone
 from pathlib import Path
-
-RESEND_KEY    = os.environ.get("RESEND_API_KEY", "")
-FROM_EMAIL    = os.environ.get("FROM_EMAIL", "onboarding@resend.dev")
-RECIPIENT     = os.environ.get("RECIPIENT_EMAIL", "REDACTED@example.com")
-DASHBOARD_URL = os.environ.get("DASHBOARD_URL", "")
 
 ARTIFACTS_DIR = Path("/tmp/artifacts")
 OUTPUT_PATH   = Path("data/results.json")

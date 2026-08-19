@@ -10,8 +10,7 @@ A GitHub Actions workflow that searches curated women's health, reproductive med
 4. **Abstract fetch** - Retrieves full abstracts for shortlisted studies
 5. **Claude pass** - Writes structured JSON: headline, summary, why it matters, caveats, relevance score, and pitch angles per publication type
 6. **Artifact upload** - Saves JSON results as a GitHub Actions artifact
-7. **Deploy job** - Downloads all job artifacts, merges and deduplicates by PMID, commits `data/results.json`, serves via GitHub Pages
-8. **Email notification** - Sends a short email with study count and a dashboard link
+7. **Deploy job** - Downloads all job artifacts, merges and deduplicates by PMID, commits `data/results.json`, serves via GitHub Pages, and publishes to the shared research-digest dashboard
 
 ## Dashboard
 
@@ -62,8 +61,9 @@ Add these in **Settings -> Secrets and variables -> Actions**:
 |---|---|
 | `ANTHROPIC_API_KEY` | Anthropic API key |
 | `SERPAPI_KEY` | SerpAPI key for Google News filtering |
-| `RESEND_API_KEY` | Resend API key for email delivery |
-| `DASHBOARD_URL` | Full URL of your GitHub Pages dashboard |
+| `SUPABASE_URL` | Supabase project URL (enables personalization from dashboard save/delete feedback) |
+| `SUPABASE_KEY` | Supabase API key (read-only use; skips personalization if not set) |
+| `DASHBOARD_REPO_TOKEN` | Token with push access to `Meggers1982/research-digest-dashboard`, used to publish results to the shared dashboard |
 
 ## Repo Structure
 

@@ -1,24 +1,20 @@
 #!/usr/bin/env python3
 """
 Women's Health Research Digest
-Searches PubMed, filters via SERPAPI, writes structured JSON with Claude, sends short email via Resend.
+Searches PubMed, filters via SERPAPI, writes structured JSON with Claude.
 Results are saved as a GitHub Actions artifact and merged into data/results.json by the deploy job,
-which powers the GitHub Pages dashboard.
+which publishes to the shared research-digest dashboard.
 
 Required environment variables:
   ANTHROPIC_API_KEY   — Anthropic API key
-  RESEND_API_KEY      — Resend API key
 
 Optional environment variables:
   SERPAPI_KEY         — SerpAPI key (skips news filter if not set)
-  RECIPIENT_EMAIL     — Override recipient (default: REDACTED@example.com)
-  FROM_EMAIL          — Verified Resend sender (default: onboarding@resend.dev)
   CATEGORIES          — Comma-separated category names or "all" (default: all)
   TOPIC_FOCUS         — Optional topic to narrow the search
   CHUNK_INDEX         — 1-based chunk index (default: 1)
   CHUNK_TOTAL         — Total chunks for this category (default: 1)
   FILTER_CATEGORY     — If set, jobs whose CATEGORIES don't match will exit early
-  DASHBOARD_URL       — URL of the GitHub Pages dashboard for the notification email
   SUPABASE_URL        — Supabase project URL (enables personalization from dashboard save/delete feedback)
   SUPABASE_KEY        — Supabase API key (read-only use; skips personalization if not set)
 """
@@ -39,15 +35,11 @@ import requests
 
 ANTHROPIC_KEY    = os.environ["ANTHROPIC_API_KEY"]
 SERPAPI_KEY      = os.environ.get("SERPAPI_KEY", "")
-RESEND_KEY       = os.environ["RESEND_API_KEY"]
-FROM_EMAIL       = os.environ.get("FROM_EMAIL", "onboarding@resend.dev")
-RECIPIENT        = os.environ.get("RECIPIENT_EMAIL", "REDACTED@example.com")
 CATEGORIES_INPUT = os.environ.get("CATEGORIES", "all")
 TOPIC_FOCUS      = os.environ.get("TOPIC_FOCUS", "").strip()
 CHUNK_INDEX      = int(os.environ.get("CHUNK_INDEX", "1"))
 CHUNK_TOTAL      = int(os.environ.get("CHUNK_TOTAL", "1"))
 FILTER_CATEGORY  = os.environ.get("FILTER_CATEGORY", "").strip()
-DASHBOARD_URL    = os.environ.get("DASHBOARD_URL", "")
 SUPABASE_URL     = os.environ.get("SUPABASE_URL", "").rstrip("/")
 SUPABASE_KEY     = os.environ.get("SUPABASE_KEY", "")
 SOURCE_ID        = "womens-health"
@@ -79,7 +71,6 @@ CLAUDE_MODEL      = "claude-sonnet-4-6"
 
 PUBMED_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 SERPAPI_URL = "https://serpapi.com/search.json"
-RESEND_URL  = "https://api.resend.com/emails"
 
 GROUNDBREAKING_SIGNALS = [
     "first", "novel", "unexpected", "contrary", "paradox", "no evidence",
@@ -514,39 +505,6 @@ Studies:
                  "fact_check_note": "", "excluded": False,
                  "relevance_score": 5, "relevance_score_reason": "",
                  "pitch_angles": []} for s in batch]
-
-
-# ── Step 7: Email notification ───────────────────────────────────────────────
-
-def send_notification(category: str, chunk_label: str, study_count: int, run_date: str):
-    subject = f"Women's Health Research Digest — {run_date} | {study_count} {'Study' if study_count == 1 else 'Studies'}"
-    html = f"""<!DOCTYPE html>
-<html>
-<body style="font-family:Georgia,serif;max-width:500px;margin:auto;padding:24px;color:#222;">
-<h2 style="color:#1a3a2e;">Women&#39;s Health Research Digest</h2>
-<p><strong>{study_count} new {'study' if study_count == 1 else 'studies'}</strong> found in
-<strong>{category}{chunk_label}</strong> — {run_date}</p>
-<p>
-  <a href="{DASHBOARD_URL}" style="display:inline-block;background:#2563eb;color:white;
-  padding:10px 20px;border-radius:6px;text-decoration:none;font-size:15px;">
-  View Dashboard →</a>
-</p>
-<p style="font-size:0.85em;color:#888;margin-top:2em;">
-  Women&#39;s Health Research Digest · PubMed + Claude + SERPAPI
-</p>
-</body>
-</html>"""
-    try:
-        r = requests.post(
-            RESEND_URL,
-            headers={"Authorization": f"Bearer {RESEND_KEY}", "Content-Type": "application/json"},
-            json={"from": FROM_EMAIL, "to": [RECIPIENT], "subject": subject, "html": html},
-            timeout=20,
-        )
-        r.raise_for_status()
-        print(f"Notification sent ✓  id={r.json().get('id', 'unknown')}")
-    except Exception as e:
-        print(f"Email error: {e}")
 
 
 # ── Main ─────────────────────────────────────────────────────────────────────
