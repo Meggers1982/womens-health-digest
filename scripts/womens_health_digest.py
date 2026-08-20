@@ -398,7 +398,10 @@ def extract_json(text: str) -> list:
     return json.loads(text)
 
 
-def process_batch(batch: list[dict], start_num: int, media_checked: bool, personalization: str = "") -> list[dict]:
+def process_batch(
+    batch: list[dict], start_num: int, media_checked: bool, personalization: str = "",
+    previous_message_id: str | None = None,
+) -> tuple[list[dict], str | None]:
     media_note = "Not widely covered ✓ (SERPAPI verified)" if media_checked else "Not verified — SERPAPI unavailable"
 
     studies_block = ""
@@ -484,18 +487,30 @@ Studies:
     )
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
-    message = client.messages.create(
+    # TEMPORARY DIAGNOSTIC (remove once the 1h-TTL cache fix is confirmed working):
+    # cache-diagnosis beta reports exactly why a cache miss happened on this batch,
+    # instead of us having to infer it from the aggregate Console dashboard.
+    message = client.beta.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=6000,
         system=[{"type": "text", "text": _system, "cache_control": {"type": "ephemeral", "ttl": "1h"}}],
         messages=[{"role": "user", "content": _user}],
+        diagnostics={"previous_message_id": previous_message_id},
+        betas=["cache-diagnosis-2026-04-07"],
     )
+    diag = message.diagnostics
+    if diag is None:
+        print(f"  [cache-diagnostics] no divergence vs previous batch (or first batch of run) — cache_read_input_tokens={message.usage.cache_read_input_tokens}")
+    elif diag.cache_miss_reason is None:
+        print("  [cache-diagnostics] comparison still pending")
+    else:
+        print(f"  [cache-diagnostics] cache_miss_reason={diag.cache_miss_reason.type} cache_read_input_tokens={message.usage.cache_read_input_tokens}")
     try:
         results = extract_json(message.content[0].text)
         for i, r in enumerate(results):
             if not r.get("pmid"):
                 r["pmid"] = batch[i]["pmid"]
-        return results
+        return results, message.id
     except Exception as e:
         print(f"  JSON parse error in process_batch: {e}")
         return [{"pmid": s["pmid"], "headline": s["title"], "journal": s["journal"],
@@ -504,7 +519,7 @@ Studies:
                  "summary": "", "why_it_matters": "", "caveats": "",
                  "fact_check_note": "", "excluded": False,
                  "relevance_score": 5, "relevance_score_reason": "",
-                 "pitch_angles": []} for s in batch]
+                 "pitch_angles": []} for s in batch], message.id
 
 
 # ── Main ─────────────────────────────────────────────────────────────────────
@@ -577,10 +592,11 @@ def main():
     print(f"\nClaude pass ({CLAUDE_MODEL}) — writing, fact-checking, pitching...")
     enriched = []
     total_batches = (len(studies) + CLAUDE_BATCH_SIZE - 1) // CLAUDE_BATCH_SIZE
+    prev_message_id = None
     for i in range(0, len(studies), CLAUDE_BATCH_SIZE):
         batch = studies[i : i + CLAUDE_BATCH_SIZE]
         print(f"  Batch {i//CLAUDE_BATCH_SIZE+1}/{total_batches}...")
-        results = process_batch(batch, i + 1, media_checked, personalization)
+        results, prev_message_id = process_batch(batch, i + 1, media_checked, personalization, prev_message_id)
         enriched.extend(results)
 
     enriched = [s for s in enriched if not s.get("excluded") and s.get("relevance_score", 0) >= MIN_RELEVANCE_SCORE]
