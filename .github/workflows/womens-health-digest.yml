@@ -65,7 +65,7 @@ jobs:
       - name: Run digest
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SERPAPI_KEY:       ${{ secrets.SERPAPI_KEY }}
+          SERPAPI_KEY:       ${{ secrets.SERPAPI_API_KEY }}
           CATEGORIES:        ${{ matrix.category }}
           CHUNK_INDEX:       ${{ matrix.chunk_index }}
           CHUNK_TOTAL:       ${{ matrix.chunk_total }}
