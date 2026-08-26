@@ -1,228 +1,690 @@
 {
-  "last_updated": "2026-08-25T11:34:37.862661+00:00",
-  "total_studies": 719,
-  "new_this_run": 4,
+  "last_updated": "2026-08-26T11:35:44.892987+00:00",
+  "total_studies": 729,
+  "new_this_run": 10,
   "studies": [
     {
       "pmid": "42625406",
-      "headline": "Lipedema and obesity are often mistaken for each other \u2014 but they frequently exist together and make each other worse",
+      "headline": "Lipedema and obesity are not the same thing \u2014 and treating them as if they are may be harming women",
       "journal": "Adipocyte",
       "pubdate": "2026 Dec",
       "doi": "10.1080/21623945.2026.2719267",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a narrative review synthesizing clinical, biological, and diagnostic evidence on lipedema and obesity in predominantly adult women with suspected or confirmed lipedema. The review found that the two conditions frequently coexist and may biologically worsen one another \u2014 for example, obesity can impair lymphatic function, which in turn may promote the subcutaneous fat expansion characteristic of lipedema. The authors propose a staged interdisciplinary management framework to support clinical reasoning for this often-misdiagnosed population.",
-      "why_it_matters": "Lipedema affects millions of women and is routinely misdiagnosed as ordinary obesity, meaning many women may be receiving incorrect or inadequate care for years.",
-      "caveats": "observational design, narrative review (no systematic screening or formal risk-of-bias assessment), no primary data collected",
+      "summary": "This narrative review synthesized clinical and biological evidence on how lipedema \u2014 a chronic, largely female-specific condition of abnormal fat distribution \u2014 and obesity overlap, interact, and are frequently misdiagnosed or conflated. The authors, writing specifically about predominantly adult women with suspected or confirmed lipedema, reviewed PubMed, Embase, and Cochrane Library literature to map biological mechanisms (including lymphatic dysfunction and adipose tissue fibrosis) and propose a staged interdisciplinary management framework. The review found that the two conditions frequently coexist and can worsen each other, but require distinct diagnostic and treatment approaches.",
+      "why_it_matters": "Lipedema affects an estimated 11% of women yet is routinely misdiagnosed as simple obesity, meaning many women may be receiving the wrong treatment \u2014 or being blamed for a condition they cannot diet or exercise away.",
+      "caveats": "narrative review (no systematic screening or formal risk-of-bias assessment), no primary data, no RCTs included",
       "fact_check_note": "",
       "relevance_score": 7,
-      "relevance_score_reason": "Women-specific condition, strong lifestyle hook, but narrative review limits strength.",
+      "relevance_score_reason": "Female-specific condition, high misdiagnosis stakes, strong wellness hook; narrative review limits score.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "Millions of Women Have Lipedema \u2014 and Doctors Keep Calling It Obesity",
-          "hook": "A new review finds that lipedema and obesity are biologically distinct but often coexist \u2014 and confusing them can leave women without effective care.",
-          "pitch_angle": "Lipedema, a chronic fat-distribution disorder affecting predominantly women, is frequently dismissed as standard obesity. This review argues that treating them as interchangeable not only misses the mark biologically but may actively worsen outcomes for women living with both conditions."
+          "publication_type": "Self",
+          "headline": "Your Doctor Might Be Calling It Obesity \u2014 But It Could Be Lipedema",
+          "hook": "A new review warns that lipedema, a fat-distribution condition affecting millions of women, is routinely mistaken for obesity \u2014 and the mix-up has real consequences for treatment.",
+          "pitch_angle": "Researchers synthesized the latest evidence on lipedema and obesity, finding that while the two conditions often coexist, they have distinct biological mechanisms and require different management strategies. Women with lipedema frequently face years of misdiagnosis and are told to simply lose weight \u2014 an approach the review suggests fails to address the underlying lymphatic and adipose tissue dysfunction driving their symptoms."
         },
         {
-          "publication_type": "Prevention",
-          "headline": "The Condition That Looks Like Obesity but Isn't \u2014 and Why the Difference Matters for Women",
-          "hook": "New research suggests that lipedema and obesity can spiral together in a vicious biological cycle \u2014 and untangling them requires an entirely different approach to care.",
-          "pitch_angle": "For women whose legs or arms remain disproportionately large despite diet and exercise, lipedema may be the missing diagnosis. A new narrative review outlines how the two conditions interact and why an interdisciplinary treatment plan is essential."
+          "publication_type": "The Cut",
+          "headline": "Millions of Women Have Been Told Their Body Fat Is a Willpower Problem. A Growing Body of Research Says Otherwise.",
+          "hook": "Lipedema \u2014 a chronic condition causing painful, disproportionate fat accumulation in women \u2014 is systematically confused with obesity, and a new review says that confusion is costing women appropriate care.",
+          "pitch_angle": "A narrative review by plastic surgery and metabolic specialists lays out the biological case for treating lipedema as a distinct disease from obesity, with its own lymphatic and fat-tissue mechanisms \u2014 and argues that current diagnostic failures leave women undertreated and over-blamed. The piece raises uncomfortable questions about how medicine conflates female bodies with lifestyle failure."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
+      "pmid": "42640938",
+      "headline": "A calcium disorder that's often mistaken for a more serious condition turns out to be three times more common than doctors thought",
+      "journal": "Journal of Bone and Mineral Research",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1093/jbmr/zjag129",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using UK Biobank whole-exome and whole-genome sequencing data linked to health records (N=454,787 to 490,640), researchers estimated the prevalence of familial hypocalciuric hypercalcemia type 1 (FHH1) at roughly 1 in 3,000 people \u2014 far higher than prior estimates. They found that FHH1 causes variable degrees of elevated calcium that overlap with the general population, making diagnosis difficult, and found no population-level evidence supporting previously reported associations with pancreatitis or diabetes. The study did not report sex-disaggregated findings.",
+      "why_it_matters": "Elevated calcium is often discovered incidentally on routine blood tests in women, and this finding suggests a benign genetic cause may be far more commonly misidentified as a condition requiring surgery than previously recognized.",
+      "caveats": "observational design, no sex-disaggregated data, unavailable urinary calcium and parathyroid hormone data in biobank",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large cohort, counterintuitive prevalence finding; limited by no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "That High Calcium on Your Blood Test Might Not Mean What Your Doctor Thinks",
+          "hook": "A genetic condition that mimics a disorder sometimes treated with surgery is far more common than anyone realized \u2014 and it often looks normal on standard tests.",
+          "pitch_angle": "A massive UK Biobank analysis found that familial hypocalciuric hypercalcemia type 1, a benign inherited calcium condition, affects roughly 1 in 3,000 people \u2014 much more common than prior estimates \u2014 and that its calcium levels overlap with those of the general population, making misdiagnosis likely. The finding matters because the condition it's most often confused with, primary hyperparathyroidism, is frequently treated with surgery that FHH1 patients don't need."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42640325",
+      "headline": "What a breastfeeding mother eats shows up in her milk within weeks \u2014 including trans fats and omega-3s",
+      "journal": "European Journal of Nutrition",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1007/s00394-026-04083-8",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed the relationship between dietary intake and human milk fatty acid composition in 109 breastfeeding mothers (milk collected at 6\u20138 weeks postpartum) using repeated 24-hour food records and a short food frequency questionnaire in the Netherlands-based MELK study. Higher maternal intake of omega-3 PUFAs, omega-6 PUFAs, and trans fatty acids were each associated with higher proportions of those same fatty acids in breast milk. The study also found that higher micronutrient and vitamin intake was associated with increased milk PUFA levels and lower saturated and trans fat levels \u2014 suggesting vitamins may play a role beyond just dietary fat intake.",
+      "why_it_matters": "For postpartum women who are breastfeeding, the study suggests that overall diet quality \u2014 including micronutrient intake \u2014 may shape the nutritional profile of their milk, not just the types of fat they eat.",
+      "caveats": "small sample (N<100 \u2014 N=109, borderline), observational design, single-center, short follow-up, industry funding [Ausnutria B.V.], self-reported outcomes",
+      "fact_check_note": "N=109 is technically above the small-sample threshold of 100; flagged as borderline given the observational design and industry funding context.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Postpartum/breastfeeding population, clear lifestyle hook, but industry funding and observational design limit strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Prevention",
+          "headline": "The Trans Fats You Eat While Breastfeeding Show Up Directly in Your Milk \u2014 But So Do Omega-3s",
+          "hook": "A new study found that what breastfeeding mothers eat is reflected in their milk's fat composition within weeks \u2014 for better and for worse.",
+          "pitch_angle": "Researchers tracking 109 postpartum women found that higher omega-3 intake raised beneficial fatty acids in breast milk, while trans fat consumption did the same for harmful ones \u2014 and micronutrient intake appeared to independently nudge milk fat profiles in a healthier direction. The finding adds nuance to postpartum nutrition advice, suggesting that vitamins and minerals may matter as much as which fats a new mother chooses."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Vitamins Might Be Shaping Your Breast Milk Just as Much as Your Diet",
+          "hook": "It's not just fish oil and avocado \u2014 a new study suggests that micronutrients like vitamins may independently influence the fatty acid makeup of breast milk.",
+          "pitch_angle": "The MELK study found that breastfeeding mothers with higher micronutrient and vitamin intake had milk with more beneficial PUFAs and lower saturated and trans fat levels, even after accounting for dietary fat intake. For wellness-minded new parents, the research offers early evidence that a well-rounded postpartum supplement routine may have downstream effects on infant nutrition."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42641861",
+      "headline": "Parabens found in nearly all breast milk samples \u2014 but exposure is 28,000 times below safety limits",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1016/j.fct.2026.116354",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers measured methylparaben and ethylparaben in 63 breast milk samples from 54 Taiwanese mothers across the first six months postpartum, distinguishing colostrum from later milk. Ethylparaben was detected in 100% of samples and methylparaben in 81%, with both significantly higher in colostrum than in post-colostrum milk. Estimated daily infant intake of the two parabens combined was approximately 28,000-fold below the EFSA acceptable daily intake, though body-weight-normalized ethylparaben exposure was modestly higher in colostrum-fed newborns than in older infants.",
+      "why_it_matters": "For breastfeeding women concerned about cosmetic and food preservative exposure, this study suggests paraben transfer through breast milk is detectable but well within established safety thresholds \u2014 though the colostrum window warrants ongoing monitoring.",
+      "caveats": "small sample (N<100), single-center, observational design, single-region population (Taiwan) \u2014 findings may not fully generalize to other dietary/cosmetic exposure contexts",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postpartum/lactation topic fit; small Taiwanese cohort limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Yes, Parabens Show Up in Breast Milk \u2014 Here's What the Actual Numbers Mean for You",
+          "hook": "Parabens turned up in virtually every breast milk sample tested \u2014 but the amounts were tens of thousands of times below what regulators consider harmful.",
+          "pitch_angle": "A new Taiwanese study found paraben preservatives in nearly all breast milk samples from new mothers, with the highest levels in early colostrum. The reassuring finding: estimated infant exposure was about 28,000-fold below safety limits, offering context for breastfeeding parents anxious about everyday chemical exposures."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42641794",
+      "headline": "Admitting 'I'm powerless' over addiction may actually be a form of active agency, not surrender",
+      "journal": "Journal of Substance Use and Addiction Treatment",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1016/j.josat.2026.210101",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A phenomenological qualitative study interviewed 49 participants in Israel \u2014 31 individuals in recovery from substance or behavioral addiction, 9 family members, and 9 therapists \u2014 about their experiences and perceptions of powerlessness in recovery. Researchers identified a concept called 'Active Powerlessness' (AP), describing how acknowledging powerlessness within frameworks like the Twelve-Step Program can function as a structured, empowering tool rather than a passive state. Four themes emerged: mental/emotional, spiritual, behavioral, and cross-life-domain aspects of AP.",
+      "why_it_matters": "Women in addiction recovery are often caught between frameworks that emphasize powerlessness and feminist critiques of that framing \u2014 this research suggests the two may not be as incompatible as assumed.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, single-center, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive angle but small qualitative study with no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The '12-Step Paradox': How Saying 'I'm Powerless' Might Actually Give Women in Recovery More Control",
+          "hook": "New qualitative research suggests that admitting powerlessness over addiction isn't giving up \u2014 it's a specific, learnable form of active engagement with recovery.",
+          "pitch_angle": "A phenomenological study found that people in recovery describe 'Active Powerlessness' as a structured mental and behavioral practice \u2014 not passive resignation \u2014 that helps sustain long-term sobriety. For women who've felt alienated by the language of powerlessness in programs like AA, this reframing offers a new way to engage with recovery tools without abandoning agency."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42641796",
+      "headline": "Injectable buprenorphine for opioid addiction shows low side-effect rates in real-world use \u2014 but pregnancy exposure flags are appearing in safety data",
+      "journal": "Journal of Substance Use and Addiction Treatment",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1016/j.josat.2026.210095",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed FDA Adverse Event Reporting System (FAERS) data for two long-acting injectable buprenorphine formulations (Sublocade and Brixadi) during their first 18 months post-launch. The analysis covered adverse event reports from real-world patients treated for opioid use disorder, not a controlled trial population. Overall adverse event reporting rates were low and consistent with clinical trial findings, though maternal exposure during pregnancy appeared among the top 15 most frequently reported events for Sublocade.",
+      "why_it_matters": "For women of reproductive age managing opioid use disorder, the appearance of pregnancy exposure as a top-reported adverse event signals a gap in safety guidance that warrants closer attention from clinicians and researchers.",
+      "caveats": "observational design, self-reported outcomes, passive surveillance data (FAERS \u2014 underreporting likely), industry funding [Braeburn Inc.], no sex-disaggregated data, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Industry-funded FAERS analysis; weak design; limited women-specific insight beyond pregnancy flag.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Top OUD Treatment Has Low Side Effects \u2014 But Pregnancy Data Is Missing",
+          "hook": "Injectable buprenorphine is being used during pregnancy, but safety data for that group is nearly invisible in the real-world record.",
+          "pitch_angle": "Pregnancy exposure appeared among the top adverse events flagged in FDA safety data for a monthly injectable opioid treatment, yet no sex-disaggregated analysis exists. For women managing opioid use disorder through pregnancy, that data gap could be consequential."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42634037",
-      "headline": "Sarcopenia risk after weight-loss surgery may peak in the first six months \u2014 then drop sharply",
+      "headline": "Muscle loss risk after sleeve gastrectomy is alarmingly high in the first six months \u2014 then drops sharply",
       "journal": "Obesity Surgery",
       "pubdate": "2026 Aug 24",
       "doi": "10.1007/s11695-026-08912-x",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a cross-sectional exploratory study of 55 patients aged 30\u201350 who had sleeve gastrectomy at Texas healthcare facilities, comparing BMI, muscle-loss risk, and quality of life across three post-surgery intervals (3\u20136, 6\u20139, and 9\u201312 months). Sarcopenia risk was dramatically higher in the earliest post-op window \u2014 90.5% of patients screened at 3\u20136 months showed elevated risk \u2014 compared to just 35.3% at 9\u201312 months. Quality of life also improved significantly over the year, with pain and discomfort reported by 38% of early-stage patients but zero in the 9\u201312-month group.",
-      "why_it_matters": "For women considering or recovering from sleeve gastrectomy, this early data suggests that muscle loss risk is highest in the first six months after surgery \u2014 a window that may call for targeted rehabilitation and nutrition support.",
-      "caveats": "small sample (N<100), observational design, cross-sectional (not longitudinal), self-reported outcomes, single-center, no sex-disaggregated data",
+      "summary": "This exploratory cross-sectional study of 55 adults aged 30\u201350 who underwent sleeve gastrectomy in Texas found that sarcopenia (muscle loss) risk was 90.5% among patients assessed 3\u20136 months post-surgery, dropping to 35.3% by 9\u201312 months. Quality of life also improved significantly over the same period, with pain and discomfort falling from 38% of patients to zero by the final time point. Middle-aged patients had higher sarcopenia burden and lower quality of life than younger adults; the sample was not described by sex.",
+      "why_it_matters": "Women make up the majority of bariatric surgery patients, and this early evidence suggests the first six months after sleeve gastrectomy may be a critical window for muscle-protective strategies like resistance training and protein intake.",
+      "caveats": "small sample (N<100), observational design, cross-sectional (not longitudinal), single-center, no sex-disaggregated data, self-reported outcomes (SARC-F questionnaire), short follow-up",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Wellness hook for post-op women, but cross-sectional design, small N, and no sex breakdown limit score.",
+      "relevance_score_reason": "Relevant bariatric/women's health angle; heavily caveated by small N and cross-sectional design.",
       "pitch_angles": [
         {
-          "publication_type": "Self / Well+Good",
-          "headline": "If You've Had Weight-Loss Surgery, the First Six Months Are When Muscle Loss Risk Is Highest",
-          "hook": "Nine in ten patients screened for muscle loss in the first six months after sleeve gastrectomy showed elevated risk \u2014 but by month nine, that number had dropped to roughly one in three.",
-          "pitch_angle": "A small exploratory study found that sarcopenia risk after sleeve gastrectomy peaks early and falls sharply over the first year, suggesting this is the window when targeted exercise and nutrition support matters most. The finding is preliminary and based on a cross-sectional snapshot rather than tracking the same patients over time, but it offers a useful framing for anyone navigating post-bariatric recovery."
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "9 in 10 People Lose Dangerous Amounts of Muscle in the First Months After Weight-Loss Surgery",
+          "hook": "The dramatic weight loss after sleeve gastrectomy comes with a hidden cost \u2014 nearly all patients in one study showed signs of serious muscle loss in the first six months.",
+          "pitch_angle": "A small exploratory study found that sarcopenia risk hit 90% among sleeve gastrectomy patients in the first six months post-op, before falling significantly by month nine to twelve. The findings suggest that the early post-surgical window \u2014 when patients are eating least \u2014 may be exactly when targeted exercise and nutrition support matters most."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42633585",
-      "headline": "A new compound blocks bone loss without destroying the cells that maintain bone balance \u2014 tested in menopausal mice",
+      "headline": "An AI-discovered compound may one day treat osteoporosis without the serious side effects of current drugs",
       "journal": "Journal of Bone and Mineral Research",
       "pubdate": "2026 Aug 23",
       "doi": "10.1093/jbmr/zjag126",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used AI-driven virtual screening combined with lab and animal testing to identify a small molecule called AW-006 that targets a protein called SNX10 to inhibit bone resorption. The compound was validated in ovariectomized mice, a standard model for estrogen-deficiency bone loss seen in menopause. Unlike current osteoporosis drugs that work by eliminating osteoclasts entirely, AW-006 selectively switched off their bone-destroying function while leaving the cells themselves intact \u2014 potentially avoiding the serious side effects linked to long-term use of existing treatments.",
-      "why_it_matters": "Women lose bone rapidly after menopause, and current long-term osteoporosis treatments carry serious risks including rare jawbone death and atypical fractures \u2014 so a compound that targets only the destructive function of bone-resorbing cells could represent a meaningfully safer path.",
-      "caveats": "animal or cell study, small sample (N<100), no sex-disaggregated data, preprint",
+      "summary": "Researchers used AI-powered virtual screening and lab assays to identify a novel small molecule, AW-006, that targets the protein SNX10 to inhibit bone resorption in cell studies and in ovariectomized mice \u2014 an animal model of estrogen deficiency-related bone loss. Unlike existing osteoporosis drugs, AW-006 appeared to suppress bone breakdown without eliminating osteoclasts, which are needed for healthy bone remodeling. This is a preclinical study; no human trials have been conducted.",
+      "why_it_matters": "If the approach translates to humans, it could offer a new way to protect bone density after menopause without the long-term risks associated with current antiresorptive drugs.",
+      "caveats": "animal or cell study, no human data, early preclinical stage",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Menopause-relevant bone loss angle, but animal/cell study only limits pitch-ability.",
+      "relevance_score_reason": "Animal/cell study only; relevant menopause-bone angle but no human evidence yet.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention",
-          "headline": "A New Osteoporosis Drug Approach Could Finally Avoid the Scary Side Effects of Current Treatments",
-          "hook": "Current bone-loss drugs work by eliminating the very cells that help build new bone \u2014 a new compound found in mice may thread that needle instead.",
-          "pitch_angle": "Researchers identified a molecule that shuts down bone destruction without wiping out the cells responsible for it, potentially sidestepping the rare but serious side effects \u2014 like jawbone death \u2014 linked to long-term osteoporosis drugs. The finding is still in animal stages, but it offers a genuinely new mechanism at a time when postmenopausal bone loss affects millions of women."
+          "publication_type": "Prevention / General health",
+          "headline": "AI Found a New Drug Candidate That May Treat Osteoporosis With Fewer Side Effects \u2014 in Mice",
+          "hook": "Current osteoporosis drugs work by wiping out the cells that break down bone \u2014 but a new AI-discovered compound may do the job more surgically.",
+          "pitch_angle": "A preclinical study found that a small molecule identified by AI could inhibit bone loss in estrogen-deficient mice without destroying the osteoclasts that current drugs eliminate. The early finding opens a possible path to safer post-menopausal bone treatments, though human studies are years away."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42633657",
-      "headline": "Scientists identify a molecular switch that may drive uterine scarring \u2014 and a potential way to reverse it",
+      "headline": "A circular RNA found in scarred uteruses may drive the fibrosis behind intrauterine adhesions and infertility",
       "journal": "Molecular Human Reproduction",
       "pubdate": "2026 Aug 22",
       "doi": "10.1093/molehr/gaag051",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed circular RNA expression profiles in fibrotic versus normal endometrial tissue from women with intrauterine adhesions (IUA) \u2014 a condition of uterine scarring that is a leading cause of infertility \u2014 and identified a specific molecule, hsa_circ_0079474, that was significantly elevated in scarred tissue. Lab and animal model experiments found that this circRNA promotes the cellular changes that drive endometrial fibrosis by acting as a molecular sponge for miR-630, which in turn amplifies a protein called YAP1; when miR-630 was administered in a rat IUA model, it reversed the fibrosis process. The findings suggest hsa_circ_0079474 could be both a diagnostic biomarker and a therapeutic target for intrauterine adhesions.",
-      "why_it_matters": "Intrauterine adhesions are a poorly understood and underdiagnosed cause of infertility and recurrent pregnancy loss in women, and identifying a specific molecular driver early-stage could eventually point toward new treatment options.",
-      "caveats": "animal or cell study (rat model and in vitro functional assays; human tissue used only for expression profiling), small sample, single-center, early-stage mechanistic research only",
+      "summary": "Researchers compared circRNA expression in fibrotic versus normal endometrial tissue from women with intrauterine adhesions (IUA), a leading cause of uterine infertility. They found that hsa_circ_0079474 was significantly elevated in scarred tissue and, in cell and rat models, drove the fibrosis process by sponging miR-630 and upregulating YAP1. Blocking miR-630 administration reversed endometrial fibrosis in the rat model, suggesting this RNA circuit as a potential therapeutic target.",
+      "why_it_matters": "Intrauterine adhesions cause infertility in many women with no good treatment options, and identifying this molecular driver could eventually point toward new therapies.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, no sex-disaggregated data",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Relevant fertility/uterine condition, but primarily animal and cell study \u2014 early mechanistic stage.",
+      "relevance_score_reason": "Reproductive health topic with fertility implications; primarily cell/rat model limits score.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Self",
-          "headline": "Researchers May Have Found a Key Molecular Culprit Behind a Scarring Condition That Causes Infertility",
-          "hook": "A newly identified RNA molecule appears to drive the uterine scarring behind intrauterine adhesions \u2014 and blocking it reversed the damage in animal models.",
-          "pitch_angle": "Intrauterine adhesions, a form of uterine scarring often caused by procedures like D&Cs, can silently undermine fertility and are notoriously hard to treat; early-stage research has now pinpointed a specific molecular pathway that seems to fuel the scarring process and, when interrupted, may help restore normal tissue \u2014 a finding that could eventually reshape how this overlooked condition is managed."
+          "publication_type": "Well+Good / General health",
+          "headline": "Scientists Found a Molecular Culprit Behind the Uterine Scarring That Causes Infertility",
+          "hook": "A newly identified circular RNA appears to orchestrate the scarring process inside the uterus that leaves many women unable to conceive.",
+          "pitch_angle": "Intrauterine adhesions affect millions of women and have limited treatment options; early lab evidence suggests a specific RNA molecule drives the fibrosis, opening a possible new path toward therapies \u2014 though human clinical work is still years away."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42632453",
+      "headline": "A simple ultrasound measurement of the umbilical vein may predict which twin is at greatest risk in high-risk pregnancies",
+      "journal": "American Journal of Obstetrics & Gynecology MFM",
+      "pubdate": "2026 Aug 22",
+      "doi": "10.1016/j.ajogmf.2026.102100",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A prospective single-center cohort study at University Hospitals Leuven followed 114 monochorionic diamniotic (MCDA) twin pregnancies complicated by selective fetal growth restriction (sFGR), defined as estimated fetal weight discordance of \u226520%. Researchers measured differences in umbilical venous (UV) diameter and blood flow between twins at diagnosis and compared those to placental sharing determined after birth and to adverse outcomes including fetal death, neonatal loss, or preterm birth before 34 weeks. Adding UV flow to standard ultrasound markers significantly improved prediction of unequal placental sharing (AUC 0.89 vs. 0.79) and adverse perinatal outcomes (AUC 0.82 vs. 0.74).",
+      "why_it_matters": "For women carrying monochorionic twins \u2014 who share a placenta and face elevated pregnancy risks \u2014 adding this venous ultrasound measure to standard monitoring could improve early identification of which pregnancies need closer intervention.",
+      "caveats": "single-center, specialized high-risk obstetric population, results may not generalize to other twin complications",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Prospective human study, reproductive health, N=114; single-center specialist population limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "A New Ultrasound Measurement Could Catch Which Twin Is in Danger Earlier in High-Risk Pregnancies",
+          "hook": "For women carrying twins who share a placenta, a straightforward addition to routine ultrasound may dramatically improve doctors' ability to predict dangerous outcomes.",
+          "pitch_angle": "A study of 114 high-risk twin pregnancies found that measuring the difference in blood flow through each baby's umbilical vein \u2014 not just the standard artery check \u2014 significantly boosted the accuracy of predicting which pregnancies would end in fetal loss or very preterm birth, suggesting a relatively simple monitoring upgrade could matter enormously for this vulnerable group."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42627550",
-      "headline": "A standard bone density scan predicts hip screw strength just as well as expensive newer imaging tools",
+      "headline": "Standard bone density scans predict hip screw strength just as well as expensive new imaging tools",
       "journal": "Archives of Osteoporosis",
       "pubdate": "2026 Aug 21",
       "doi": "10.1007/s11657-026-01763-0",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a biomechanical study using 20 cadaveric femurs to compare how well standard DXA bone density imaging and newer bone microarchitecture tools (TBS Ortho, 3D-Shaper, quantitative CT) predicted how strongly a surgical screw would hold in the femoral neck. DXA bone mineral density and 3D-Shaper volumetric BMD both achieved the highest correlation with screw pullout strength (r = 0.95), but all modalities performed comparably. The study found that a simple DXA scan \u2014 widely available and lower cost \u2014 is as strong a predictor of surgical screw fixation as advanced imaging, and that intraoperative torque measurements may substitute when no preoperative data exist.",
-      "why_it_matters": "Because women bear a disproportionate burden of osteoporosis and hip fracture, this finding suggests that widely available DXA scans \u2014 not costly newer tools \u2014 may be sufficient to guide surgical decisions after hip fracture.",
-      "caveats": "small sample (N<100), cadaveric (ex vivo) study, single-center, no sex-disaggregated data",
+      "summary": "Researchers tested how well four different bone imaging methods \u2014 including standard DXA and newer tools like 3D-Shaper and quantitative CT \u2014 predicted how strongly a surgical screw would hold in the femoral neck, using 20 cadaveric femur specimens. Hip-specific DXA bone mineral density correlated as strongly with screw pullout strength (r=0.95) as the newer, more costly imaging modalities. The finding suggests that the widely available DXA scan may be sufficient to guide surgical decisions in hip fracture repair.",
+      "why_it_matters": "Hip fractures disproportionately affect older women with osteoporosis, and this finding suggests that the DXA scans many women already receive could directly inform surgical planning \u2014 potentially without costly additional imaging.",
+      "caveats": "small sample (N<100), cadaveric specimen study (not living patients), no sex-disaggregated data, single-center, industry-adjacent funding (Enovis, Arthrex grants to one author)",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant to women's bone health but cadaveric design and no female-specific data limit score.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant to osteoporosis in women but cadaveric, tiny sample, no female-specific analysis.",
       "pitch_angles": [
         {
           "publication_type": "Prevention",
-          "headline": "The Bone Scan You Already Know About May Be All Surgeons Need Before Hip Surgery",
-          "hook": "A new study found that a standard DXA scan predicts how well a hip surgery screw will hold just as well as cutting-edge imaging technology \u2014 good news for the women most at risk of hip fracture.",
-          "pitch_angle": "Hip fractures are a leading cause of disability in older women, and surgical outcomes partly depend on bone quality. Early evidence suggests the routine bone density scan many women already get for osteoporosis screening may be sufficient to guide surgical planning, potentially improving access to timely care."
+          "headline": "The Bone Scan You Already Get May Be Enough to Guide Hip Surgery, New Research Suggests",
+          "hook": "The standard DXA scan older women routinely receive for osteoporosis may predict surgical screw strength in the hip just as well as far more expensive imaging tools.",
+          "pitch_angle": "A cadaveric bone study found that hip-specific DXA matched newer imaging technologies in predicting how well a surgical screw holds in the femoral neck \u2014 the site of many devastating osteoporosis-related fractures. Because DXA is already widely used in women's bone health monitoring, the finding raises the possibility that no additional imaging may be needed before hip fracture surgery."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42628579",
-      "headline": "A personality trait linked to thrill-seeking may predict how fast people with depression respond to brain stimulation therapy \u2014 but the finding is preliminary",
+      "headline": "A personality trait linked to thrill-seeking may predict faster depression relief from brain stimulation \u2014 but the finding didn't hold up under rigorous testing",
       "journal": "Journal of affective disorders",
       "pubdate": "2026 Aug 21",
       "doi": "10.1016/j.jad.2026.122406",
-      "groundbreaking": "Relevant women's health finding",
+      "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers pooled individual patient data from two randomized sham-controlled trials of accelerated intermittent theta burst stimulation (aiTBS) for treatment-resistant depression, including 104 participants (59 female, mean age ~41). Higher baseline 'Novelty Seeking' personality scores were nominally associated with faster symptom reduction over one week, but this finding did not survive statistical correction for multiple comparisons. The association appeared regardless of whether participants received active or sham stimulation, suggesting a non-specific effect.",
-      "why_it_matters": "Women are disproportionately affected by treatment-resistant depression, and identifying personality traits that predict faster response to non-drug therapies like brain stimulation could eventually help clinicians personalize treatment.",
-      "caveats": "small sample (N<100 per arm), secondary analysis, did not survive multiple-comparisons correction, short follow-up, mixed-sex sample without female-specific analysis reported",
+      "summary": "Researchers pooled individual patient data from two randomized sham-controlled trials of accelerated intermittent theta burst stimulation (aiTBS) for treatment-resistant depression, examining whether baseline personality traits predicted one-week symptom change. The analysis included 104 participants (59 female, 45 male; mean age 40.9) who received 20 sessions of brain stimulation over 4 days targeting the left dorsolateral prefrontal cortex. Higher baseline 'Novelty Seeking' was nominally associated with faster symptom reduction, but the finding did not survive correction for multiple comparisons and is considered exploratory.",
+      "why_it_matters": "For women with treatment-resistant depression, understanding which personality traits might predict response to non-medication brain stimulation therapies could eventually help personalize treatment \u2014 though this finding is too preliminary to act on.",
+      "caveats": "small sample (N=104), did not survive multiplicity correction, secondary analysis, pooled data from two studies, short follow-up (one week)",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Mixed-sex sample; finding exploratory and did not survive correction; small N.",
+      "relevance_score_reason": "Majority-female sample; exploratory finding failed multiple-comparisons correction \u2014 limits clinical relevance.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "Could Your Personality Type Affect How Well Brain Stimulation Therapy Works for Depression?",
-          "hook": "People who score high on 'novelty seeking' \u2014 a trait linked to curiosity and thrill-seeking \u2014 may respond faster to an intensive brain stimulation treatment for hard-to-treat depression.",
-          "pitch_angle": "A pooled analysis of clinical trial data found a preliminary signal that personality traits could predict speed of response to aiTBS therapy, a treatment gaining attention as an alternative for people whose depression hasn't responded to medication \u2014 though researchers caution the finding needs replication before it changes clinical practice."
+          "headline": "Could Your Personality Type Predict How Well Brain Stimulation Treats Depression? Early Research Says Maybe",
+          "hook": "People who score high on thrill-seeking personality traits showed nominally faster symptom relief from an intensive brain stimulation protocol \u2014 though the result didn't hold up under stricter statistical testing.",
+          "pitch_angle": "A small pooled analysis found a tentative link between the 'Novelty Seeking' personality trait and faster response to accelerated TMS therapy for treatment-resistant depression, with more women than men in the study. The finding is too preliminary to inform clinical decisions, but it hints at a future where personality profiling could help match people with the right depression treatment."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42627764",
-      "headline": "Routine inflammation blood markers don't predict postpartum depression \u2014 at least not in first-time moms",
+      "headline": "Common blood-count inflammation markers don't predict postpartum depression in new moms, study finds",
       "journal": "Gynecologic and Obstetric Investigation",
       "pubdate": "2026 Aug 21",
       "doi": "10.1159/000552902",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a cross-sectional observational study of 92 first-time mothers (primiparous women, ages \u226518) attending a routine two-week postpartum follow-up at a Turkish clinic, measuring three blood-count-derived inflammatory markers \u2014 neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte ratio (PLR), and monocyte-to-lymphocyte ratio (MLR) \u2014 against Edinburgh Postnatal Depression Scale scores. None of the three inflammatory ratios differed significantly between women who screened positive for postpartum depressive symptoms and those who did not. Logistic regression confirmed that NLR, PLR, and MLR were not independent predictors of postpartum depressive symptoms in this population.",
-      "why_it_matters": "The finding suggests that simple, low-cost inflammatory blood markers available from routine postpartum bloodwork may not be a reliable shortcut for identifying women at risk of postpartum depression.",
-      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, short follow-up, study population limited to Turkey \u2014 generalizability uncertain",
+      "summary": "In a cross-sectional observational study of 92 first-time mothers attending a routine two-week postpartum check-up in Turkey, researchers measured neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte ratio (PLR), and monocyte-to-lymphocyte ratio (MLR) and screened for depressive symptoms using the Edinburgh Postnatal Depression Scale. None of the three inflammatory blood markers differed significantly between women with and without postpartum depressive symptoms. Logistic regression confirmed that none were independent predictors of postpartum depression.",
+      "why_it_matters": "As clinicians and researchers search for easy biological flags for postpartum depression, this study suggests routine blood-count inflammation ratios are unlikely to serve as reliable screening tools on their own.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, short follow-up, single country (Turkey) population",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Postpartum mental health finding, but small sample and null result limit pitch strength.",
+      "relevance_score_reason": "Postpartum mental health topic; counterintuitive null finding; small single-center sample limits generalizability.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Self",
-          "headline": "Those Simple Blood Tests at Your Postpartum Checkup Can't Tell Doctors If You'll Get Postpartum Depression",
-          "hook": "Researchers hoped a quick blood count could flag postpartum depression risk \u2014 but the numbers didn't pan out.",
-          "pitch_angle": "A study of first-time mothers found that three widely-discussed inflammation markers in routine blood draws were not associated with postpartum depressive symptoms, suggesting the search for a simple biomarker screen is still ongoing. For women hoping medicine will soon offer an easy PPD blood test at the two-week check-in, this is a useful reality check."
+          "publication_type": "Prevention / General health",
+          "headline": "That Simple Blood Test Won't Tell You If You're at Risk for Postpartum Depression",
+          "hook": "Inflammation markers your doctor can pull from a routine blood draw don't appear to predict postpartum depression \u2014 even though inflammation has long been theorized as a driver.",
+          "pitch_angle": "Researchers hoped cheap, widely available blood-count ratios could flag new moms at risk for postpartum depression, but a study of first-time mothers found no significant link \u2014 a useful reality check as the search for easy biomarkers continues."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42628710",
-      "headline": "Social media studies on contraception and abortion may be telling us less than we think",
+      "headline": "Social media research on contraception has a credibility problem \u2014 and scientists are calling it out",
       "journal": "Contraception",
       "pubdate": "2026 Aug 21",
       "doi": "10.1016/j.contraception.2026.111574",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A commentary from Oregon Health & Science University examines the methodological pitfalls of using social media platforms to study reproductive health discourse, including contraception and abortion. Key problems identified include algorithmic personalization distorting representation, lack of user demographic data, AI-generated content contaminating datasets, and a fundamental disconnect between platform metrics and clinically meaningful outcomes. The author argues that most existing digital platform research is descriptive and cross-sectional, limiting its scientific and real-world value.",
-      "why_it_matters": "As women increasingly turn to social media for reproductive health information \u2014 and as researchers increasingly study those same platforms \u2014 understanding the limits of that research helps journalists and readers critically evaluate what those studies can and cannot tell us.",
-      "caveats": "commentary/opinion piece, no original data, no study participants, no sex-disaggregated data",
+      "summary": "A commentary from Oregon Health & Science University examines the methodological pitfalls of studying reproductive health discourse on digital platforms. Key problems identified include algorithm-driven sampling bias, lack of user demographic data, inconsistent engagement metrics across platforms, and the growing contamination of datasets by AI-generated content. The author argues that most current platform-based reproductive health research is descriptive and cross-sectional, limiting its clinical or policy relevance.",
+      "why_it_matters": "As women increasingly turn to TikTok, Reddit, and Instagram for contraception and abortion information, the studies meant to track and improve that landscape may be fundamentally unreliable.",
+      "caveats": "commentary/opinion, no primary data, no empirical sample",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Methodologically relevant commentary but no new empirical data; limited pitch traction.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong topic fit for reproductive health media; commentary limits empirical weight.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good / The Cut",
-          "headline": "The TikTok Research on Birth Control and Abortion May Not Mean What You Think",
-          "hook": "A new commentary warns that much of the research mining social media for reproductive health insights is methodologically flawed \u2014 and could be actively misleading.",
-          "pitch_angle": "Researchers studying contraception and abortion conversations on TikTok, Instagram, and Reddit face fundamental problems: algorithms skew who sees what, AI-generated posts contaminate datasets, and likes don't translate to real-world behavior. For journalists covering women's reproductive health, this is a call to scrutinize the social-media studies we cite."
+          "headline": "The Science on Social Media and Birth Control Advice Is More Broken Than You Think",
+          "hook": "Researchers studying how women get contraception information online may be working with fundamentally flawed data \u2014 and a new commentary explains why that matters.",
+          "pitch_angle": "A reproductive health expert says studies of TikTok and Reddit contraception content are riddled with sampling bias and AI noise, raising real questions about whether the research can ever catch up to the platforms women actually use."
         }
       ],
-      "run_date": "2026-08-25",
+      "run_date": "2026-08-26",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42628741",
+      "headline": "Low muscle mass predicts higher risk of leg artery surgery in kidney patients \u2014 even a decade out",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Aug 21",
+      "doi": "10.1016/j.clnesp.2026.105054",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed 3,492 hemodialysis patients across multiple centers in Japan for a median of 8.2 years, tracking whether a creatinine-based proxy for skeletal muscle mass predicted the need for lower-limb artery interventions including amputation. Patients in the lowest quartile of the muscle mass index faced 75% higher risk of intervention compared to those in the highest quartile. The association held after multivariable adjustment, with each 1 mg/kg/day decrease in the index linked to a 12% higher intervention risk.",
+      "why_it_matters": "Women on dialysis \u2014 who are disproportionately affected by muscle loss \u2014 may face heightened cardiovascular risk in their legs, underscoring the potential importance of muscle preservation strategies in kidney care.",
+      "caveats": "observational design, no sex-disaggregated data, single-region population (Japan), no direct muscle measurement at baseline",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Large cohort, clean design; no female-specific analysis, niche clinical population.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Weak Muscles May Signal Dangerous Artery Problems Years Before They Happen in Kidney Patients",
+          "hook": "A 10-year study found that dialysis patients with lower muscle mass were significantly more likely to need leg artery surgery or even amputation.",
+          "pitch_angle": "Using a simple creatinine-based score as a muscle proxy, researchers tracked over 3,400 dialysis patients and found that lower muscle mass at baseline predicted long-term leg artery complications \u2014 suggesting muscle monitoring could flag cardiovascular risk years in advance."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42621749",
+      "headline": "Higher doses of prescribed stimulants keep people who use street drugs in treatment longer \u2014 but dropout rates remain high",
+      "journal": "Addiction (Abingdon, England)",
+      "pubdate": "2026 Aug 20",
+      "doi": "10.1111/add.70580",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a population-based retrospective cohort study in British Columbia, Canada, examining whether reaching higher doses (\u226560 mg/day) of prescribed dextroamphetamine or methylphenidate was associated with staying in treatment longer among people who use unregulated stimulants. The study included 1,683 people (35.6% female) who contributed 4,842 medication episodes between 2020 and 2023. Episodes that reached the \u226560 mg/day threshold had a lower hazard of discontinuation, but overall dropout remained high and uptake of the program was low relative to estimated eligibility.",
+      "why_it_matters": "Women make up over a third of participants in this harm-reduction program, yet high dropout rates and low uptake suggest the current approach may not be fully meeting the needs of people who use stimulants \u2014 including women.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, retrospective cohort, Canada-specific policy context",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Policy/addiction focus; 35.6% female but no sex-disaggregated analysis reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Canada Is Prescribing Stimulants to People Who Use Street Drugs \u2014 Here's What's Working (and What Isn't)",
+          "hook": "Higher doses of prescribed stimulants kept people in a harm-reduction program longer \u2014 but most still dropped out.",
+          "pitch_angle": "A large Canadian cohort study found that reaching therapeutic doses of prescribed dextroamphetamine or methylphenidate was associated with longer treatment stays among people who use unregulated stimulants, yet discontinuation remained high across the board. With women comprising more than a third of participants and no sex-specific analysis published, the story raises important questions about whether harm-reduction programs are designed with women's needs in mind."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42636467",
+      "headline": "Childhood loneliness nearly triples the odds of first-episode psychosis \u2014 and teen loneliness pushes girls toward a specific type",
+      "journal": "Schizophrenia Bulletin",
+      "pubdate": "2026 Aug 20",
+      "doi": "10.1093/schbul/sbag107",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed data from 2,565 participants (1,084 with first-episode psychosis, 1,481 controls) in the European EU-GEI study, examining whether prolonged childhood loneliness before age 12 and between ages 12\u201316 was associated with psychosis risk, subtype, and functioning. Loneliness before age 12 was associated with nearly triple the odds of first-episode psychosis (OR=2.90), independent of premorbid social isolation, while teen-years loneliness was associated with more than double the odds. Notably, loneliness during ages 12\u201316 was associated with a higher likelihood of affective (rather than non-affective) psychosis specifically in females (OR=1.79), suggesting a sex-specific developmental vulnerability.",
+      "why_it_matters": "The finding that adolescent loneliness may specifically push girls toward affective forms of psychosis \u2014 which are more treatable \u2014 could reshape how clinicians screen and intervene during key developmental windows.",
+      "caveats": "observational design, retrospective self-reported outcomes, European cohort (generalizability to non-European populations limited), secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large European cohort, sex-stratified finding, counterintuitive female-specific psychosis subtype link.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Being Lonely as a Teen May Affect Girls' Mental Health in a Very Specific Way, New Research Finds",
+          "hook": "Adolescent loneliness doesn't just raise the risk of psychosis \u2014 in girls, it appears to shape which kind they develop.",
+          "pitch_angle": "A large European study found that girls who experienced prolonged loneliness between ages 12 and 16 were significantly more likely to develop affective psychosis \u2014 a form tied to mood disruption \u2014 compared to boys. It reframes teen loneliness not just as a social concern but as a meaningful mental health risk signal worth catching early."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Lonely Teen Girls Face a Distinct Psychosis Risk That Researchers Are Only Starting to Understand",
+          "hook": "Girls who spent their adolescence feeling profoundly lonely were nearly twice as likely to later develop a mood-linked form of psychosis \u2014 and the data suggests genetics may amplify that risk.",
+          "pitch_angle": "A 2,500-person European study found that teen loneliness interacts with genetic risk to raise first-episode psychosis odds \u2014 and the effect looks different in females, who skew toward affective psychosis. It raises uncomfortable questions about how we treat girls' social pain as a personal failing rather than a clinical warning sign."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42636473",
+      "headline": "Women who develop psychosis after menopause may need higher antipsychotic doses \u2014 and treatment guidelines aren't accounting for it",
+      "journal": "Schizophrenia Bulletin",
+      "pubdate": "2026 Aug 20",
+      "doi": "10.1093/schbul/sbag156",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed a population-based cohort of 218 individuals aged 18\u201364 presenting with first-episode psychosis (FEP) to a Dublin mental health service over 18 years, comparing olanzapine doses between women assumed premenopausal (<51 years, n=78) and postmenopausal (\u226551 years, n=16). Women in the older group were prescribed significantly higher maximum daily olanzapine doses (15.3 mg vs. 12.4 mg), while no age-related dose difference was found in men (n=124). The finding suggests antipsychotic response may diminish after menopause, possibly linked to declining estrogen's role in dopamine regulation.",
+      "why_it_matters": "Menopause is almost entirely absent from psychosis treatment guidelines, meaning midlife women experiencing first-episode psychosis may be systematically undertreated before clinicians escalate their doses.",
+      "caveats": "small sample (N<100) for postmenopausal subgroup (n=16), observational design, single-center, menopausal status inferred from age not confirmed biologically",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Women-specific finding in menopause and psychiatry; limited by very small postmenopausal subgroup.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Menopause May Make Common Antipsychotic Medications Less Effective \u2014 and Doctors Are Only Just Noticing",
+          "hook": "Women who experience their first episode of psychosis after menopause appear to need higher doses of a widely prescribed antipsychotic to achieve the same effect as younger women.",
+          "pitch_angle": "A new cohort study found postmenopausal women with first-episode psychosis were prescribed nearly 3 mg more olanzapine daily than premenopausal women \u2014 a gap that didn't appear in men at all. Researchers suggest declining estrogen may reduce antipsychotic response, exposing a critical blind spot in psychiatric care guidelines for midlife women."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Psychiatry Has a Menopause Problem \u2014 and Women With Psychosis Are Paying for It",
+          "hook": "Treatment guidelines for psychosis rarely mention menopause, but a new study suggests they should.",
+          "pitch_angle": "Research from a Dublin mental health service found women over 51 with first-episode psychosis needed higher antipsychotic doses than younger women \u2014 a pattern not seen in men \u2014 pointing to estrogen's overlooked role in how the brain responds to psychiatric medication. The finding raises uncomfortable questions about who psychiatric research has historically been designed around."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42619468",
+      "headline": "A teen with a rare enzyme deficiency had hidden M\u00fcllerian tissue despite normal AMH levels \u2014 and no genetic explanation",
+      "journal": "Journal of Clinical Research in Pediatric Endocrinology",
+      "pubdate": "2026 Aug 20",
+      "doi": "10.4274/jcrpe.galenos.2026.2026-3-28",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers report a single case of a 15-year-old with a 46,XY karyotype and confirmed 17\u03b1-hydroxylase/17,20-lyase deficiency who presented with primary amenorrhea and absent puberty. Despite normal serum AMH levels and no visible M\u00fcllerian structures on laparoscopy, microscopic M\u00fcllerian duct remnants were found in tissue removed during gonadectomy. No genetic explanation was identified through targeted sequencing of relevant genes.",
+      "why_it_matters": "This case suggests that standard hormone levels and visual inspection alone may not capture the full picture of reproductive anatomy in individuals with rare intersex conditions \u2014 a reminder of the complexity clinicians face in DSD care.",
+      "caveats": "small sample (N<100), single-center, single case report",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Rare case report; limited generalizability; niche clinical audience only.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / science journalism",
+          "headline": "Normal Hormone Levels Missed Hidden Reproductive Tissue in a Teen With a Rare Condition",
+          "hook": "A routine lab test came back normal \u2014 but surgery revealed something unexpected that science still can't explain.",
+          "pitch_angle": "A single case report from Turkey found microscopic M\u00fcllerian tissue in a teen with a rare enzyme deficiency, even though standard hormone testing showed nothing unusual. The finding highlights how much remains unknown about reproductive development in people with rare intersex conditions."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42636774",
+      "headline": "Diazepam \u2014 a common pregnancy anxiety drug \u2014 powerfully relaxes umbilical artery blood vessels in lab models, raising new questions about fetal circulation",
+      "journal": "Placenta",
+      "pubdate": "2026 Aug 20",
+      "doi": "10.1016/j.placenta.2026.08.319",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used isolated human umbilical artery tissue to test how diazepam (Valium) affects vascular tone, finding it caused near-complete relaxation (approximately 96% maximal effect at 100 \u03bcM) through mechanisms involving potassium and calcium channels and the sGC-cGMP pathway \u2014 independent of the endothelium. The study did not involve living pregnant women or infants; it was conducted on excised umbilical artery rings in a tissue bath. Findings suggest diazepam has significant vasoactive effects on umbilical circulation that may be relevant to fetal blood flow during pregnancy.",
+      "why_it_matters": "Benzodiazepines are sometimes used during pregnancy for anxiety or seizure management, and understanding how they affect placental blood vessels could inform safer prescribing decisions for pregnant women.",
+      "caveats": "animal or cell study, ex vivo tissue model (not living subjects), single-center, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "Study used isolated ex vivo human umbilical artery rings \u2014 not a clinical study of pregnant women. The 96% relaxation figure is at the 100 \u03bcM concentration, which is pharmacologically very high; clinical relevance of these concentrations is unclear.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Pregnancy-relevant medication safety angle; ex vivo tissue model limits clinical translation.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Well+Good",
+          "headline": "A Common Anxiety Medication Used in Pregnancy Dramatically Relaxes Umbilical Blood Vessels in Lab Models",
+          "hook": "Diazepam caused near-complete relaxation of umbilical artery tissue in a lab model \u2014 a finding that raises early questions about what the drug does to blood flow between a pregnant woman and her baby.",
+          "pitch_angle": "Benzodiazepines are prescribed to some pregnant women for anxiety or acute conditions, yet their effects on placental circulation are poorly understood; this ex vivo study found a powerful vasoactive effect, prompting researchers to call for closer attention to fetal vascular safety \u2014 though clinical implications remain to be established."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42624384",
+      "headline": "Nanoplastics from everyday plastic packaging cross into the placenta \u2014 and the damage differs by the baby's sex",
+      "journal": "Reproductive Toxicology",
+      "pubdate": "2026 Aug 20",
+      "doi": "10.1016/j.reprotox.2026.109331",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers orally exposed pregnant CD-1 mice to 50 nm or 200 nm polystyrene nanoplastic particles at a human-relevant dose (5 mg/kg/day) from gestation days 8\u201315, then analyzed placental structure and gene expression. Both particle sizes significantly disrupted the decidua \u2014 the maternal portion of the placenta \u2014 but when results were broken down by fetal sex, the effect was significant only in placentas supporting male fetuses in the 200 nm group. Gene expression analysis found upregulation of TGF\u03b2 pathway genes Smad2 and Smad3, suggesting possible suppression of estrogen receptor signaling.",
+      "why_it_matters": "Early evidence suggests that the nanoplastics found in food packaging, water bottles, and dust may alter placental structure during pregnancy in ways that vary depending on fetal sex \u2014 a finding with potential implications for pregnancy health research.",
+      "caveats": "animal study, mouse model only, single-center, short exposure window, results may not translate to humans",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Reproductive health topic with sex-dependent finding; animal study limits score significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "The Nanoplastics in Your Food Packaging May Be Reaching Your Placenta \u2014 and the Effects Differ by Baby's Sex",
+          "hook": "A new mouse study found that nanoplastics consumed during pregnancy disrupted placental structure, and the damage wasn't equal \u2014 it was more pronounced in placentas carrying male fetuses.",
+          "pitch_angle": "Researchers found that two sizes of polystyrene nanoplastics altered the decidua and disrupted estrogen-related signaling in mouse placentas, with sex-dependent effects; while the study is in mice, the exposure dose was calibrated to be human-relevant, making it an early but noteworthy signal for pregnant women concerned about plastic exposure."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42616335",
+      "headline": "Osteoporosis rates at first bone scan have plummeted by two-thirds over 26 years \u2014 and experts aren't sure why",
+      "journal": "Archives of Osteoporosis",
+      "pubdate": "2026 Aug 19",
+      "doi": "10.1007/s11657-026-01764-z",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed 26 years of first-time DEXA scans from a regional Irish registry covering 66,681 individuals (80.7% female), examining trends in osteoporosis prevalence from 1998 to 2024. Hip osteoporosis at first scan fell from 19% to 7%, and lumbar spine osteoporosis dropped from 30% to 8%, with each passing year associated with roughly a 4\u20135% reduction in odds of diagnosis after adjusting for age. The decline persisted after age standardization, suggesting it reflects genuine improvements in skeletal health rather than a younger scanning population.",
+      "why_it_matters": "For the majority-female population at risk for osteoporosis, this large registry finding suggests that bone health at the point of clinical assessment has meaningfully improved over a generation \u2014 which could eventually translate into lower fracture rates.",
+      "caveats": "observational design, single-center (regional Irish registry), retrospective, limited generalizability outside Ireland/Western Europe",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large majority-female cohort, surprising directional finding, strong women's health topic fit.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Bone Health Has Quietly Gotten Better Over 26 Years \u2014 Here's What the Data Show",
+          "hook": "Osteoporosis rates at first bone scan have dropped by roughly two-thirds since the late 1990s in a large study \u2014 a surprising trend that researchers say they can't fully explain.",
+          "pitch_angle": "A 26-year Irish registry of nearly 67,000 people (mostly women) found that the share diagnosed with osteoporosis at their first DEXA scan fell dramatically, even after accounting for age \u2014 suggesting real improvements in skeletal health, not just a change in who's being screened. The findings challenge the assumption that osteoporosis is an inevitably worsening public health problem and raise questions about what lifestyle, dietary, or clinical factors may be driving the shift."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Women's Bones Are Healthier Than They Were 25 Years Ago \u2014 What's Changed?",
+          "hook": "A massive bone scan registry found that osteoporosis at first diagnosis has plummeted over two and a half decades \u2014 and the reasons why are still being untangled.",
+          "pitch_angle": "Data from nearly 67,000 individuals, over 80% women, show that hip and spine osteoporosis rates at first DEXA scan have fallen by about two-thirds since 1998 \u2014 independent of shifts in who's getting scanned. It's a counterintuitive bright spot in women's bone health, and experts want to know whether better nutrition, more exercise awareness, or other lifestyle changes deserve the credit."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42616062",
+      "headline": "Most caregivers of people with first-episode psychosis fall into a 'high control' pattern \u2014 and parents who've been caregiving longest are most at risk of burnout",
+      "journal": "Social psychiatry and psychiatric epidemiology",
+      "pubdate": "2026 Aug 19",
+      "doi": "10.1007/s00127-026-03202-4",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used Latent Profile Analysis on self-report data from 254 caregivers enrolled in a London-based Early Intervention in Psychosis service to identify distinct caregiver profiles based on appraisals, beliefs, and avoidant coping styles. Three profiles emerged: 'Engagement and Rewarding' (21.3%), 'Avoidance and Distressing' (17.3%), and 'High Control' (61.4%). The 'Avoidance and Distressing' profile \u2014 the highest-risk group \u2014 was significantly more likely to be parents of the person with psychosis and had been caregiving for longer on average.",
+      "why_it_matters": "Because women disproportionately take on informal caregiving roles, identifying which caregiver profiles carry the highest burnout risk could help mental health services better target support to those most in need.",
+      "caveats": "observational design, single-center, self-reported outcomes, no sex-disaggregated data, London-specific sample",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Caregiving burden relevant to women; no sex-disaggregated data limits women's health angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "If You're a Parent Caring for Someone With Psychosis, You May Be in the Highest-Risk Group for Burnout \u2014 Here's What the Research Shows",
+          "hook": "A new study finds that over 60% of caregivers for people with first-episode psychosis fall into a 'high control' coping pattern, while parents who have been caregiving longest are most likely to show signs of avoidance and distress.",
+          "pitch_angle": "Analyzing data from 254 caregivers in a London mental health service, researchers identified three distinct caregiver profiles and found that parents \u2014 who are disproportionately mothers \u2014 faced the highest risk of distressing, avoidant coping over time. The findings suggest that mental health services should screen caregivers early and offer targeted support before burnout sets in, a message with clear resonance for the many women who serve as primary caregivers."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42613990",
+      "headline": "Women veterans' eating disorders are going largely undocumented in mental health visits \u2014 even when clinicians know about them",
+      "journal": "Eating Disorders",
+      "pubdate": "2026 Aug 19",
+      "doi": "10.1080/10640266.2026.2719850",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective chart review of 222 mental health progress notes from 28 women veterans who had self-reported disordered eating behaviors in a prior research study. Only 19.8% of notes across 16 patients included any documentation of disordered eating, and when documented, notes most often attributed eating concerns to medication side effects or unrelated medical conditions rather than disordered eating or mental health symptoms. The study found that patient-initiated prompts \u2014 not clinician screening \u2014 most commonly drove the rare instances of documentation.",
+      "why_it_matters": "Women veterans may be a systematically underserved population for eating disorder identification and care, with disordered eating frequently missed or mislabeled in mental health settings.",
+      "caveats": "small sample (N<100), observational design, single-center, retrospective chart review, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women-specific population, eating disorder topic fit, but very small sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self / Well+Good",
+          "headline": "Women Veterans Are Telling Their Therapists About Disordered Eating \u2014 And It's Still Not Making It Into Their Charts",
+          "hook": "Even when women veterans brought up disordered eating themselves, clinicians rarely documented it as a mental health concern \u2014 often logging it as a medication side effect instead.",
+          "pitch_angle": "A chart review found that fewer than 1 in 5 mental health notes from women veterans with known disordered eating behaviors actually documented those behaviors. The finding suggests a systemic blind spot in VA mental health care that may leave a high-risk population without appropriate follow-up or referral."
+        },
+        {
+          "publication_type": "The Cut (health section)",
+          "headline": "The VA's Mental Health System Is Missing Eating Disorders in Women Veterans",
+          "hook": "Women veterans already struggle to access VA care designed around male patients \u2014 and a new study suggests their disordered eating is quietly disappearing from their medical records too.",
+          "pitch_angle": "Researchers found that disordered eating was documented in less than 20% of mental health notes for women veterans who had already self-reported those behaviors, raising questions about whether the VA's intake processes are equipped to recognize and track eating disorders in this uniquely vulnerable group."
+        }
+      ],
+      "run_date": "2026-08-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -307,33 +769,6 @@
       "status": "new"
     },
     {
-      "pmid": "42621749",
-      "headline": "Higher doses of prescribed stimulants keep people engaged in harm-reduction programs longer \u2014 but dropout is still high",
-      "journal": "Addiction (Abingdon, England)",
-      "pubdate": "2026 Aug 20",
-      "doi": "10.1111/add.70580",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed linked provincial health data from 1,683 people in British Columbia who received prescribed stimulants (dextroamphetamine or methylphenidate) as harm-reduction alternatives to unregulated street drugs between 2020\u20132023; 35.6% of participants were female. Episodes where patients reached \u226560 mg/day were associated with lower likelihood of discontinuation compared to lower-dose episodes. Despite this, overall dropout rates remained high and uptake was low relative to estimated eligibility.",
-      "why_it_matters": "Women represent more than a third of participants in this landmark harm-reduction program, and understanding what keeps them engaged in prescribed stimulant treatment has direct implications for closing the gender gap in addiction care.",
-      "caveats": "observational design, single-center, Canadian regional context (BC only), sex-disaggregated outcomes not reported separately, short follow-up relative to long-term recovery",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Women's health adjacent; no female-specific analysis; observational; addiction coverage not core beat.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Prescribing Safer Stimulants Helps Keep People Off Street Drugs \u2014 But Only If the Dose Is High Enough",
-          "hook": "A Canada-wide harm-reduction program found that patients who received higher doses of prescribed stimulants were significantly more likely to stay in treatment.",
-          "pitch_angle": "British Columbia's novel program of prescribing regulated stimulants to people who use illicit drugs shows early promise, but only at adequate doses \u2014 a finding that could reshape how addiction medicine approaches retention, particularly for women who remain underrepresented in treatment programs."
-        }
-      ],
-      "run_date": "2026-08-25",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42624401",
       "headline": "In liver cancer patients on immunotherapy, having both low muscle and low fat predicts the worst survival outcomes",
       "journal": "Clinical Nutrition ESPEN",
@@ -385,132 +820,6 @@
       "run_date": "2026-08-25",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42636467",
-      "headline": "Childhood loneliness nearly triples the odds of a first psychotic episode \u2014 and the effect hits girls differently",
-      "journal": "Schizophrenia Bulletin",
-      "pubdate": "2026 Aug 20",
-      "doi": "10.1093/schbul/sbag107",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 2,565 participants (1,084 with first-episode psychosis, 1,481 controls) from the European Gene-Environment Interactions in Schizophrenia (EU-GEI) study, a large multinational European cohort. Prolonged loneliness before age 12 was associated with nearly three times higher odds of first-episode psychosis (OR=2.90), and loneliness between ages 12\u201316 was associated with 2.34 times higher odds \u2014 independent of premorbid social isolation. In females specifically, loneliness in early adolescence was more strongly linked to affective (rather than non-affective) psychosis, and childhood loneliness interacted synergistically with genetic risk for schizophrenia and depression to further increase risk.",
-      "why_it_matters": "For girls, early adolescent loneliness may not only raise the risk of psychosis but may shape which type of psychosis develops \u2014 a distinction that matters for early recognition and care.",
-      "caveats": "observational design, self-reported outcomes, retrospective assessment of loneliness, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large cohort, sex-stratified finding, counterintuitive gene-environment interaction, strong pitch hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Being Lonely as a Kid Wasn't Just Hard \u2014 New Research Links It to a Nearly Tripled Risk of Psychosis",
-          "hook": "A large European study found that girls who experienced prolonged loneliness in early adolescence were nearly twice as likely to develop affective psychosis specifically \u2014 a finding that reframes childhood loneliness as a serious mental health warning sign.",
-          "pitch_angle": "The study of 2,500+ people found childhood loneliness interacts with genetic risk to amplify psychosis odds, suggesting early social connection isn't just good for well-being \u2014 it may shape long-term psychiatric vulnerability in ways that differ by sex."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "The Girls Who Were Lonely: New Science Links Childhood Isolation to Psychosis Risk \u2014 and the Effect Is Stronger in Females",
-          "hook": "A new study of over 2,500 people found that prolonged loneliness before and during adolescence nearly tripled the odds of a first psychotic episode \u2014 with a distinct pattern emerging for girls.",
-          "pitch_angle": "In an era when girls' social isolation and mental health are under intense scrutiny, this research offers one of the clearest biological-and-environmental explanations yet for why lonely girlhoods can have lasting psychiatric consequences."
-        }
-      ],
-      "run_date": "2026-08-25",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42636473",
-      "headline": "Menopausal women with first-episode psychosis are being prescribed higher antipsychotic doses \u2014 suggesting estrogen's role in treatment response is being overlooked",
-      "journal": "Schizophrenia Bulletin",
-      "pubdate": "2026 Aug 20",
-      "doi": "10.1093/schbul/sbag156",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed a population-based cohort of 218 individuals (aged 18\u201364) presenting with first-episode psychosis to a Dublin mental health service over 18 years, all of whom received an adequate olanzapine trial of at least 6 weeks. Women assumed to be postmenopausal (age \u226551, n=16) were prescribed significantly higher olanzapine doses than younger, premenopausal women (15.3 mg vs 12.4 mg daily); no equivalent age-related dose difference was found in men. The finding suggests that post-menopausal women may respond less robustly to standard antipsychotic dosing, possibly due to the loss of estrogen's antipsychotic-like effects.",
-      "why_it_matters": "This early evidence suggests that menopausal status \u2014 not just age or diagnosis \u2014 may need to be factored into antipsychotic prescribing for women experiencing psychosis for the first time in midlife.",
-      "caveats": "small sample (N<100), observational design, single-center, age used as proxy for menopausal status",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Women-specific, menopause angle, counterintuitive clinical finding, notable despite small N.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Menopause May Change How Women Respond to Antipsychotic Medication \u2014 and Doctors Aren't Accounting for It",
-          "hook": "A new study found that women who developed psychosis after menopause were prescribed nearly 25% higher antipsychotic doses than younger women \u2014 suggesting estrogen plays a bigger role in treatment response than most guidelines acknowledge.",
-          "pitch_angle": "The research, drawn from 18 years of clinical data in Dublin, is small but raises an important question for midlife women's psychiatric care: if estrogen helps antipsychotics work, its loss at menopause could mean current dosing standards leave older women undertreated."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Women Who Get Psychosis After Menopause Need Higher Doses of Antipsychotics \u2014 and No One's Talking About It",
-          "hook": "New research suggests that the same medication that works for younger women may fall short for women in midlife \u2014 because menopause changes how the brain responds to antipsychotic drugs.",
-          "pitch_angle": "Treatment guidelines for psychosis are largely built on data from younger adults, and this study is one of the first to suggest that menopause creates a specific, underrecognized vulnerability \u2014 a gap that could shape how midlife women are diagnosed, dosed, and dismissed."
-        }
-      ],
-      "run_date": "2026-08-25",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42616335",
-      "headline": "Osteoporosis rates have dropped by two-thirds over 26 years \u2014 and researchers aren't entirely sure why",
-      "journal": "Archives of Osteoporosis",
-      "pubdate": "2026 Aug 19",
-      "doi": "10.1007/s11657-026-01764-z",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 26 years of first-time DEXA scans from a regional Irish registry covering 66,681 individuals (80.7% female) between 1998 and 2024. Hip osteoporosis prevalence fell from 19% to 7%, and lumbar spine osteoporosis from 30% to 8%, with each calendar year associated with approximately a 4\u20135% reduction in odds after adjusting for age and sex. The findings suggest meaningful improvement in baseline skeletal health at the point of clinical assessment, independent of demographic shifts, though the observational design cannot identify what drove the decline.",
-      "why_it_matters": "For women \u2014 who make up the vast majority of people screened for osteoporosis \u2014 a sustained decades-long decline in prevalence could reshape how clinicians and public health planners think about fracture risk and prevention investment.",
-      "caveats": "observational design, single-center (regional Irish registry), retrospective cross-sectional, results may not generalize beyond Ireland or similar populations",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Counterintuitive trend, large majority-female sample, strong women's bone health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Osteoporosis Is Becoming Less Common \u2014 Here's What a 26-Year Study Found",
-          "hook": "A major registry study found that osteoporosis rates have fallen by roughly two-thirds since the late 1990s \u2014 a trend researchers say is real, even after accounting for age and screening patterns.",
-          "pitch_angle": "With nearly 80% of the 66,681 people in the study being women, the findings are especially meaningful for the group most affected by osteoporosis and fracture risk. The cause of the decline isn't yet known, but the trend held even after researchers adjusted for demographics and changes in who gets screened."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Bone Health Is Actually Getting Better \u2014 A 26-Year Study Has the Data",
-          "hook": "Despite aging populations and fears of a fracture epidemic, a new large study found that the share of people showing up to bone scans with osteoporosis has dropped dramatically over nearly three decades.",
-          "pitch_angle": "The counterintuitive finding \u2014 from a registry dominated by women \u2014 suggests that decades of public health messaging, improved nutrition, and exercise culture may be paying off for skeletal health, even if scientists can't yet pinpoint the exact cause."
-        }
-      ],
-      "run_date": "2026-08-25",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42616062",
-      "headline": "Most family caregivers of people experiencing first-episode psychosis fall into a 'high control' pattern \u2014 and parents who've been caregiving longest are most at risk for burnout",
-      "journal": "Social psychiatry and psychiatric epidemiology",
-      "pubdate": "2026 Aug 19",
-      "doi": "10.1007/s00127-026-03202-4",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed self-report data from 254 caregivers of people with first-episode psychosis in a London-based Early Intervention Service, using Latent Profile Analysis to identify distinct caregiver profiles. Three profiles emerged: Engagement and Rewarding (21%), Avoidance and Distressing (17%), and High Control (61%). Parents who had been caregiving longer were significantly more likely to fall into the Avoidance and Distressing profile, associated with the worst outcomes.",
-      "why_it_matters": "Women are overrepresented as informal caregivers for family members with psychosis, making these risk profiles especially relevant for understanding \u2014 and potentially preventing \u2014 caregiver burnout in women.",
-      "caveats": "observational design, single-center, self-reported outcomes, London UK context, no sex-disaggregated data reported",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Women overrepresented as caregivers but no sex-disaggregated data; observational; single-center.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "If You're Caring for a Family Member With Psychosis, Your Coping Style Could Predict Your Own Mental Health \u2014 Here's What the Research Found",
-          "hook": "More than 60% of family caregivers of people with first-episode psychosis fall into a 'high control' coping pattern \u2014 and parents who have been caregiving the longest are most vulnerable to burnout.",
-          "pitch_angle": "A UK study identifying three distinct caregiver profiles suggests that the length of time someone has been caregiving \u2014 more than their personality or relationship type \u2014 may be the strongest predictor of distress, offering a potential target for early intervention in a population that is majority female."
-        }
-      ],
-      "run_date": "2026-08-25",
-      "category": "Psychiatry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -624,33 +933,6 @@
       ],
       "run_date": "2026-08-24",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42619468",
-      "headline": "A teenager with a rare enzyme deficiency had hidden M\u00fcllerian structures \u2014 even though her hormone levels looked normal",
-      "journal": "Journal of Clinical Research in Pediatric Endocrinology",
-      "pubdate": "2026 Aug 20",
-      "doi": "10.4274/jcrpe.galenos.2026.2026-3-28",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Clinicians in Turkey report a case of a 15-year-old with a 46,XY karyotype and confirmed 17\u03b1-hydroxylase/17,20-lyase deficiency who presented with primary amenorrhea and absent puberty (N=1). Despite normal anti-M\u00fcllerian hormone levels and no visible M\u00fcllerian structures on laparoscopy, microscopic M\u00fcllerian duct remnants were found in tissue removed during gonadectomy. No genetic explanation was identified by targeted sequencing of AMH or related genes, suggesting the finding represents an unexplained exception to established developmental biology.",
-      "why_it_matters": "This case suggests that standard hormone testing and visual inspection alone may not fully capture the anatomical complexity of rare intersex conditions, with implications for surgical planning and counseling.",
-      "caveats": "small sample (N<100), single-center, single case report \u2014 findings cannot be generalized",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Rare single case report; niche DSD topic with limited lifestyle/wellness hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Hormone Test Said Everything Looked Normal \u2014 But Hidden Tissue Told a Different Story",
-          "hook": "A 15-year-old with a rare hormonal condition was found to have microscopic reproductive structures that standard testing and surgery couldn't detect.",
-          "pitch_angle": "This case illustrates how rare intersex conditions can defy even the most sophisticated diagnostic tools, raising questions about what 'normal' hormone levels actually tell us about anatomy."
-        }
-      ],
-      "run_date": "2026-08-24",
-      "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
