@@ -1,8 +1,593 @@
 {
-  "last_updated": "2026-08-28T21:31:54.346651+00:00",
-  "total_studies": 740,
-  "new_this_run": 5,
+  "last_updated": "2026-08-29T15:38:58.526479+00:00",
+  "total_studies": 749,
+  "new_this_run": 9,
   "studies": [
+    {
+      "pmid": "42635297",
+      "headline": "Grief therapy works even outside the Western world \u2014 but the evidence base is still surprisingly thin",
+      "journal": "European Journal of Psychotraumatology",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/20008066.2026.2712026",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic review and exploratory meta-analysis of 14 randomized controlled trials (N=1,122 participants) examining grief interventions in non-WEIRD (non-Western, Educated, Industrialized, Rich, Democratic) populations. Grief interventions showed a significant moderate-to-large effect compared to control conditions (SMD = -0.74), suggesting they work meaningfully across diverse cultural and geographic contexts. However, substantial heterogeneity (I\u00b2=77%) and the small number of available RCTs highlight major gaps in the evidence base for non-Western populations.",
+      "why_it_matters": "Women globally carry a disproportionate burden of grief-related mental health impacts \u2014 including after pregnancy loss, partner death, and trauma \u2014 and this early evidence that structured grief interventions cross cultural boundaries matters for how clinicians and journalists frame access to bereavement care.",
+      "caveats": "small number of included studies (14 RCTs), high heterogeneity (I\u00b2=77%), no sex-disaggregated data, exploratory meta-analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Meaningful mental health finding; no female-specific analysis; high heterogeneity limits conclusions.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Grief Therapy Isn't Just a Western Concept \u2014 New Research Shows It Works Across Cultures",
+          "hook": "A new meta-analysis found that structured grief interventions showed meaningful benefit for bereaved people in non-Western countries \u2014 challenging assumptions that these therapies only translate in Western settings.",
+          "pitch_angle": "Researchers synthesized 14 randomized trials and found grief interventions produced moderate-to-large improvements even in culturally diverse, underrepresented regions. For women navigating bereavement \u2014 from pregnancy loss to partner death \u2014 the finding suggests culturally adapted grief support could be far more accessible and effective than previously assumed."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42665180",
+      "headline": "AI can now trace bone structure from CT scans with near-expert accuracy \u2014 potentially speeding up osteoporosis research",
+      "journal": "Bone",
+      "pubdate": "2026 Aug 28",
+      "doi": "10.1016/j.bone.2026.118076",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers from the Netherlands and Switzerland externally validated a deep-learning model that automatically traces bone boundaries on high-resolution peripheral CT scans of the wrist and ankle \u2014 imaging used to assess bone quality in conditions like osteoporosis. Across 939 second-generation and 300 first-generation scans, the AI contours closely matched expert-corrected reference outlines, with high similarity scores and small parameter differences. The model also outperformed the standard uncorrected automatic software, which produced more errors.",
+      "why_it_matters": "Osteoporosis disproportionately affects women after menopause, and faster, more consistent bone-quality imaging could reduce bottlenecks in clinical research and eventually speed up fracture-risk assessment.",
+      "caveats": "no sex-disaggregated data, single imaging modality, no sex-specific fracture outcomes reported, industry conflict of interest (consultant relationships with SCANCO Medical, Amgen, UCB)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to bone health in women; tech validation study, no clinical outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Women's Health Magazine",
+          "headline": "AI Is Getting Better at Reading Bone Scans \u2014 Which Could Change How Osteoporosis Is Caught",
+          "hook": "A deep-learning tool traced bone boundaries on over 1,200 CT scans with near-expert accuracy, potentially cutting the time it takes to analyze bone health data.",
+          "pitch_angle": "Because osteoporosis affects roughly twice as many women as men, anything that speeds up the pipeline from imaging to fracture-risk assessment matters most for women \u2014 and this AI validation study suggests automated bone analysis is getting reliable enough to use more broadly in research."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42665097",
+      "headline": "Turmeric compound cuts blood pressure in obese, estrogen-deficient mice \u2014 but only in females",
+      "journal": "The Journal of Nutrition",
+      "pubdate": "2026 Aug 28",
+      "doi": "10.1016/j.tjnut.2026.101797",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used an obese postmenopausal mouse model \u2014 female mice fed a high-fat diet and surgically rendered estrogen-deficient \u2014 to test whether curcumin (the active compound in turmeric) could lower blood pressure. Four weeks of daily curcumin administration significantly reduced systolic blood pressure, body weight, and blood glucose in obese, ovariectomized females specifically. Notably, these effects were not seen in lean mice, obese males, or estrogen-replete females, and the mechanism involved reducing overactivation of NMDA receptors in brain regions that regulate blood pressure.",
+      "why_it_matters": "Nearly 75% of postmenopausal women develop high blood pressure and current medications work less well in them than in men, making this female-specific mechanism a potentially important research direction \u2014 though results are animal-only so far.",
+      "caveats": "animal or cell study, small sample (n=24/group), single-center, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postmenopausal women's CVD angle is strong; penalized two points for mouse-only data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Turmeric May Help With the Blood Pressure Problem That Hits Women After Menopause \u2014 Here's What We Know",
+          "hook": "A study found curcumin dramatically lowered blood pressure in obese, estrogen-deficient female mice \u2014 but had zero effect in males or estrogen-replete females.",
+          "pitch_angle": "Postmenopausal women face stubbornly high blood pressure that standard medications often fail to fully control, and this animal study suggests curcumin may work through a brain-based mechanism that's uniquely activated by the combination of obesity and estrogen loss. The research is mouse-only for now, but the sex-specific effect is striking enough to keep on your radar."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Turmeric's Blood-Pressure Benefits Might Be a Menopause Story",
+          "hook": "In a new mouse study, curcumin slashed blood pressure and weight gain \u2014 but only in females who were obese and estrogen-deficient, not in any other group tested.",
+          "pitch_angle": "The finding hints that the hormonal environment of menopause may actually unlock curcumin's cardiovascular effects through a neural signaling pathway, which could explain why results from human turmeric studies have been so inconsistent across populations. Still very early, but the female-specific framing is a genuinely new angle."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42665206",
+      "headline": "A common cosmetic preservative found in thousands of products may fuel colorectal tumor growth \u2014 in mice",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Aug 28",
+      "doi": "10.1016/j.fct.2026.116349",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used cell cultures and tumor-bearing mice exposed to dietary methylparaben (MP) to investigate whether the widely used preservative affects colorectal cancer progression, combining transcriptomics, network toxicology, and molecular simulations. In vitro, MP enhanced cancer cell proliferation and migration; in mice, dietary MP accelerated tumor growth and triggered pro-inflammatory signaling. The team identified CD209 as a key molecular target, and blocking it significantly reduced MP-driven tumor growth \u2014 though all experiments were conducted in animal and cell models, not in humans.",
+      "why_it_matters": "Women are disproportionately high users of paraben-containing personal-care products, so early mechanistic evidence linking methylparaben to colorectal tumor promotion \u2014 even in animals \u2014 adds to a growing body of reasons to track regulatory developments around this preservative class.",
+      "caveats": "animal or cell study, no sex-disaggregated data, no human data, single-center, doses used may not reflect typical human exposure, observational design elements",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant paraben-cancer concern for women; penalized heavily for animal/cell-only design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "The Preservative in Your Lotion May Do More Than Mimic Estrogen \u2014 New Research Links It to Tumor Growth",
+          "hook": "Methylparaben \u2014 still found in thousands of cosmetics and food products \u2014 accelerated colorectal tumor growth in mice, suggesting its endocrine-disrupting effects may extend to cancer biology.",
+          "pitch_angle": "A new mouse study found that dietary methylparaben sped up colorectal tumor growth and triggered inflammatory signaling, with researchers identifying a specific molecular target that, when blocked, reversed much of the damage. The findings are early-stage and animal-only, but they add to mounting scrutiny of parabens at a moment when 'clean beauty' claims are under increasing scientific pressure."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42665053",
+      "headline": "Hospitals want better addiction risk screening but stigma and provider burnout keep getting in the way",
+      "journal": "Journal of Substance Use and Addiction Treatment",
+      "pubdate": "2026 Aug 28",
+      "doi": "10.1016/j.josat.2026.210103",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Rutgers conducted semi-structured qualitative interviews with N=15 hospital stakeholders to assess feasibility of CARES, a personalized genetic and behavioral addiction-risk screening platform designed to flag risk before problems develop. Interviewees expressed genuine need for new substance use disorder (SUD) screening tools and openness to the platform, but flagged provider burden, limited SUD knowledge, and stigma as implementation barriers. The study suggests a low-burden, standalone risk-assessment tool could fill a gap in prevention-focused addiction care.",
+      "why_it_matters": "Women face distinct biological and social risk factors for substance use disorders that current one-size-fits-all screening tools rarely capture, making personalized, prevention-first approaches especially relevant for women's health settings.",
+      "caveats": "small sample (N<100), qualitative design, single-center, industry funding [Thrive Genetics \u2014 lead author COI], no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Addiction prevention tool; no female-specific data; very small qualitative sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Doctor Probably Isn't Screening You for Addiction Risk \u2014 Here's Why That's a Problem",
+          "hook": "A new hospital-tested tool aims to flag addiction risk before it starts \u2014 but stigma and overwhelmed doctors keep standing in the way.",
+          "pitch_angle": "Researchers found that while clinicians want better addiction screening, provider burnout and stigma block adoption of prevention-focused tools. For women, who face underdiagnosed substance use disorders, earlier and more personalized risk assessment could be a game-changer."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42658756",
+      "headline": "Nearly two-thirds of young people in mental health services regularly feel a disturbing 'invisible presence' \u2014 and it's rarely being assessed",
+      "journal": "Psychopathology",
+      "pubdate": "2026 Aug 27",
+      "doi": "10.1159/psp/aelag004",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted qualitative and baseline assessments within the ChUSE Trial, an NHS feasibility RCT examining distressing sensory experiences in children and young people aged 8\u201316 in CAMHS services (N=50). At baseline, 88% reported feeling watched or followed, and 63.8% of those who received therapy reported regularly experiencing a distressing 'felt presence.' The study found this phenomenon may be substantially underrecognized and under-assessed in youth mental health settings.",
+      "why_it_matters": "Young women and girls in mental health services may be experiencing a deeply distressing sensory phenomenon that clinicians are not routinely screening for.",
+      "caveats": "small sample (N<100), single-center, self-reported outcomes, preprint, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Adolescent mental health finding but no female-specific data; small sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "A Strange Mental Health Experience Affects Most Kids in Psychiatric Care \u2014 And Therapists Aren't Asking About It",
+          "hook": "Nearly 9 in 10 young people in mental health services reported feeling watched or followed \u2014 a phenomenon clinicians rarely screen for.",
+          "pitch_angle": "Researchers found that a haunting sensation of an invisible presence is extremely common and distressing among youth in psychiatric care, yet no standard assessment exists. For readers interested in adolescent mental health and the gaps in care young people face, this opens a conversation about what we're missing in mental health screening."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42657651",
+      "headline": "Fermenting jujube juice tripled its iron content and reversed anemia markers in mice",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "pubdate": "2026 Aug 27",
+      "doi": "10.1002/jsfa.71014",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used a specific Lactiplantibacillus plantarum strain to ferment jujube (Chinese red date) juice, then fed it to iron-deficiency anemia (IDA) mice. Fermentation increased the juice's iron content by nearly 390% and reduced phytic acid, a compound that blocks iron absorption. High-dose fermented jujube juice significantly raised serum and tissue iron, reduced inflammation markers, and improved gut microbiota balance compared to untreated anemic mice.",
+      "why_it_matters": "Iron-deficiency anemia disproportionately affects women of reproductive age, and this study suggests fermentation may dramatically amplify the iron-replenishing potential of a widely consumed fruit \u2014 though human trials are needed.",
+      "caveats": "animal or cell study, single-center, no sex-disaggregated data, narrow to single region with limited generalizability of jujube consumption patterns",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "IDA is highly relevant to women, but mouse-only data and regional ingredient limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Fermented Jujube Juice Nearly Quadrupled Its Own Iron Content in a New Study",
+          "hook": "A fermentation trick raised the iron in jujube juice by almost 400% \u2014 and reversed anemia in mice.",
+          "pitch_angle": "Researchers found that a probiotic fermentation process dramatically boosted both iron levels and absorption potential in jujube juice, while also reducing gut inflammation in anemic mice. Because iron-deficiency anemia is the most common nutritional deficiency in women globally, the finding is worth watching \u2014 even though human trials don't exist yet."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42661266",
+      "headline": "A digital twin tool for type 1 diabetes just got a no-code makeover \u2014 anyone can use it now",
+      "journal": "Journal of Diabetes Science and Technology",
+      "pubdate": "2026 Aug 27",
+      "doi": "10.1177/19322968261481540",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at the University of Padova developed ReplayBG-web, a browser-based interface that lets users without programming skills create personalized digital twins to simulate how insulin timing and meal changes affect blood glucose in type 1 diabetes. The tool was built on an existing modeling framework and tested for its ability to generate alternative glucose profiles from real-world continuous glucose monitor data. It allows clinicians, patients, and educators to visualize outcomes without writing a single line of code.",
+      "why_it_matters": "Women with type 1 diabetes face unique glycemic challenges across the menstrual cycle, pregnancy, and menopause, and easier-access simulation tools could support more personalized self-management.",
+      "caveats": "no sex-disaggregated data, no clinical validation in patients reported, tool-description study rather than clinical trial",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Tech/tool paper, no human outcomes data, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / diabetes-focused digital health",
+          "headline": "Your Diabetes Could Soon Have a Digital Twin That Tests Treatments Before You Try Them",
+          "hook": "A new no-code web tool lets people with type 1 diabetes virtually test what happens to their blood sugar before they change an insulin dose or meal timing.",
+          "pitch_angle": "Researchers built a browser-based simulator that creates a personalized glucose model from real CGM data \u2014 no programming required. For women navigating hormone-driven blood sugar swings, the concept of a 'test before you try' digital tool is a compelling wellness angle."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42661428",
+      "headline": "When milk comes in fast and family pitches in, late-preterm moms are far more likely to still be exclusively breastfeeding at 6 months",
+      "journal": "Breastfeeding Medicine",
+      "pubdate": "2026 Aug 27",
+      "doi": "10.1177/15568253261483401",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This retrospective cohort study followed 124 mother\u2013infant dyads (after propensity score matching) where infants were born late preterm (34\u201336 weeks gestation) at a tertiary center in Guangzhou, China, between 2020 and 2022. Researchers tracked exclusive breastfeeding (EBF) at 6, 12, and 24 weeks corrected age, examining the role of prenatal intention, family caregiving support, skin-to-skin contact, workplace support, and the timing of milk coming in. Milk arriving within 2 days postpartum tripled the odds of EBF at 6 months, shared family caregiving tripled odds, and each additional hour of daily skin-to-skin contact showed a dose-response effect \u2014 all independent of each other.",
+      "why_it_matters": "Late preterm infants have the lowest breastfeeding rates of any gestational group, and identifying the specific modifiable factors \u2014 especially the timing of milk arrival and family involvement \u2014 gives mothers, partners, and clinicians concrete, actionable targets.",
+      "caveats": "small sample (N=124), observational design, single-center, retrospective, self-reported outcomes, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Postpartum/breastfeeding focus, human female cohort, clear lifestyle hooks; penalized for small sample and retrospective design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "The Two Biggest Predictors of Breastfeeding Success for Preterm Moms Are Ones Nobody Talks About",
+          "hook": "For mothers of late preterm babies, how fast milk arrives and whether a partner or family member shares caregiving tripled the odds of exclusive breastfeeding at 6 months.",
+          "pitch_angle": "A new study found that early milk arrival (within 48 hours) and shared family caregiving were each independently associated with a threefold increase in exclusive breastfeeding success among mothers of late preterm infants \u2014 a group with notoriously low breastfeeding rates. The findings suggest that hospital protocols supporting faster secretory activation and policies that encourage partners to take active caregiving roles could make a meaningful difference."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Skin-to-Skin Time Has a Dose-Response Effect on Breastfeeding \u2014 The More, the Better",
+          "hook": "Every additional hour of daily skin-to-skin contact was associated with meaningfully better breastfeeding outcomes for moms of late preterm babies, a new study found.",
+          "pitch_angle": "Researchers found a clear dose-response relationship between skin-to-skin contact and exclusive breastfeeding duration in a high-risk group \u2014 late preterm infants \u2014 suggesting this low-tech intervention has measurable, scalable impact. The study also found workplace breastfeeding support independently extended duration, adding weight to calls for stronger employer lactation policies."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42647391",
+      "headline": "Women with gestational diabetes who follow all their management steps are nearly 38 times more likely to hit blood sugar targets than those who don't",
+      "journal": "Journal of Perinatal Medicine",
+      "pubdate": "2026 Aug 27",
+      "doi": "10.1515/jpm-2026-0207",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective cohort study of 360 pregnant women with gestational diabetes mellitus (GDM) diagnosed at a single hospital in Guiyang, China between October 2023 and January 2026. A composite compliance score was calculated based on five behaviors: blood glucose monitoring, diet, physical activity, prenatal visits, and medication adherence. Women in the high-compliance group achieved glycemic targets at a rate of 76% compared to just 2% in the low-compliance group, and low compliance was independently associated with significantly higher odds of macrosomia, large-for-gestational-age babies, preterm birth, and NICU admission.",
+      "why_it_matters": "The findings suggest that supporting pregnant women with GDM to adhere to multiple management strategies simultaneously \u2014 not just one \u2014 may meaningfully reduce serious pregnancy complications for both mother and baby.",
+      "caveats": "observational design, single-center, self-reported outcomes, retrospective cohort, narrow regional population (single hospital, Guizhou, China)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant GDM pregnancy finding; retrospective single-center design limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "For Women With Gestational Diabetes, Doing All Five of These Things \u2014 Not Just One \u2014 Makes a Dramatic Difference",
+          "hook": "A new study found that pregnant women with gestational diabetes who stuck to all five recommended management behaviors were nearly 38 times more likely to reach healthy blood sugar levels than those with low adherence.",
+          "pitch_angle": "Researchers tracked diet, exercise, glucose monitoring, prenatal visits, and medication adherence together as a combined compliance score and found the gap in outcomes between high and low adherers was striking \u2014 including far fewer NICU admissions and preterm births. The study adds weight to the idea that integrated, whole-picture GDM care matters more than any single intervention."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42645338",
+      "headline": "Routine brain scans and EEGs rarely uncover a cause when kids present with psychosis for the first time \u2014 targeted testing may be enough",
+      "journal": "European Child & Adolescent Psychiatry",
+      "pubdate": "2026 Aug 26",
+      "doi": "10.1007/s00787-026-03175-4",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective cohort study of 235 children and adolescents aged 5\u201318 who presented with first-time psychosis at a tertiary center in Israel between 2008 and 2023. Neuroimaging identified a medically explanatory finding in only 1.3% of cases and only when neurological abnormalities were already present, while EEG identified zero underlying causes. Urine toxicology \u2014 primarily detecting cannabinoids \u2014 was the most diagnostically useful test, flagging findings in 8.1% of patients.",
+      "why_it_matters": "For families of adolescent girls experiencing a first psychotic episode, this evidence suggests that extensive routine testing may not be necessary unless neurological red flags are present.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric psychiatry finding; no female-specific data; single-center Israeli cohort.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "When a Teen Has a First Psychotic Episode, Doctors May Be Over-Testing \u2014 Here's What the Evidence Says",
+          "hook": "Brain scans and EEGs almost never revealed the cause of psychosis in young patients unless neurological warning signs were already present.",
+          "pitch_angle": "A large real-world study found that routine extensive testing in children with first-episode psychosis had very low diagnostic yield, while a simple urine drug screen caught the most actionable findings. This challenges the reflex toward expensive, extensive workups and matters to parents navigating a frightening moment in their child's health."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42645692",
+      "headline": "A single gene mutation may explain why some women's eggs never mature \u2014 and why IVF repeatedly fails them",
+      "journal": "Journal of Assisted Reproduction and Genetics",
+      "pubdate": "2026 Aug 26",
+      "doi": "10.1007/s10815-026-04007-9",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed whole-exome sequencing on six unrelated women with unexplained oocyte maturation defects who had experienced at least two failed ART cycles, identifying 10 distinct pathogenic variants in the PATL2 gene \u2014 eight of them previously unreported. Across all 16 treatment cycles analyzed, no clinical pregnancies were achieved despite routine and rescue ART interventions. All affected women showed the same severe phenotype: irreversible germinal vesicle-stage meiotic arrest, meaning their eggs were biologically unable to complete the maturation process needed for fertilization.",
+      "why_it_matters": "For women cycling through repeated unexplained IVF failure, this research suggests that a specific genetic variant \u2014 detectable via sequencing \u2014 may be the hidden cause, potentially enabling more personalized counseling and earlier decisions about alternative paths to parenthood.",
+      "caveats": "small sample (N<100), observational design, single-center, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Directly addresses female infertility; expands genetic understanding of IVF failure; small N.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Some Women's Eggs Never Mature \u2014 And What a New Genetic Discovery Could Mean for IVF",
+          "hook": "For women who've gone through multiple failed IVF cycles with no explanation, a newly identified gene mutation may finally offer an answer.",
+          "pitch_angle": "Scientists identified variants in a gene called PATL2 that cause eggs to stall in an immature state \u2014 making fertilization impossible, regardless of how many times a woman tries IVF. Understanding this mutation could help women get a genetic diagnosis earlier and make more informed decisions about alternative family-building options."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "These Women Did Everything Right With IVF \u2014 A Hidden Gene Was Working Against Them",
+          "hook": "Six women faced repeated, unexplained IVF failure \u2014 new research suggests a single inherited gene variant may have been the reason all along.",
+          "pitch_angle": "A small but striking study found that mutations in the PATL2 gene cause eggs to permanently arrest before they can mature, resulting in zero pregnancies across all treatment attempts. The finding raises urgent questions about who should receive genetic screening before \u2014 or instead of \u2014 additional rounds of costly, physically taxing fertility treatment."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42641861",
+      "headline": "Parabens show up in nearly every breastfeeding mother's milk \u2014 but levels are tens of thousands of times below safety limits",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Aug 26",
+      "doi": "10.1016/j.fct.2026.116354",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers measured methylparaben and ethylparaben in 63 breast milk samples from 54 Taiwanese mothers across the first six months postpartum, classifying samples as colostrum or post-colostrum milk. Both parabens were detected in the vast majority of samples, with levels significantly higher in colostrum than in later milk. Despite this, estimated daily infant intake was approximately 28,000-fold below the EFSA acceptable daily intake, though body-weight-normalized ethylparaben exposure was about 1.5-fold higher in colostrum-fed newborns than in older infants.",
+      "why_it_matters": "Breastfeeding mothers concerned about paraben exposure in cosmetics and food can be reassured that current exposure levels in breast milk appear far below established safety thresholds, though the colostrum window may warrant continued monitoring.",
+      "caveats": "small sample (N<100), single-center, observational design, Taiwan-specific cohort (may not generalize to Western exposure patterns)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong postpartum/breastfeeding hook; limited by small Taiwanese-only sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Parabens Are in Almost Every Breastfeeding Mom's Milk \u2014 Here's What the Safety Data Actually Says",
+          "hook": "Ethylparaben turned up in 100% of breast milk samples tested \u2014 but infant exposure was still roughly 28,000 times below the regulatory safety limit.",
+          "pitch_angle": "A new study found parabens in the vast majority of breast milk samples, with higher concentrations in the critical colostrum window. While levels are far below harm thresholds, the findings give breastfeeding mothers a data-backed reason to revisit the preservatives in their personal-care products."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42640938",
+      "headline": "A common calcium gene condition is far more prevalent than doctors thought \u2014 and it's frequently mistaken for a different disorder requiring surgery",
+      "journal": "Journal of Bone and Mineral Research",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1093/jbmr/zjag129",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using whole-exome and whole-genome sequencing from the UK Biobank linked to health records, researchers identified 162 individuals with familial hypocalciuric hypercalcemia type 1 (FHH1) among roughly 454,000\u2013490,000 participants, estimating prevalence at approximately 1 in 3,000. People with FHH1 had higher average serum calcium than the general population, but their levels overlapped substantially, explaining frequent diagnostic confusion with primary hyperparathyroidism. A phenome-wide association study found no population-level evidence for previously suggested complications like pancreatitis or diabetes.",
+      "why_it_matters": "Women are disproportionately affected by hypercalcemia workups and parathyroid surgery, and better recognition of FHH1 \u2014 which does not require surgery \u2014 could spare many from unnecessary procedures.",
+      "caveats": "observational design, no urinary calcium or PTH data available, UK Biobank population (predominantly European ancestry), secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Overturns prior prevalence estimates; women's health relevance via parathyroid/calcium workups; no sex-disaggregated analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "A Genetic Calcium Condition Is Way More Common Than Doctors Realized \u2014 and It's Often Mistaken for Something That Requires Surgery",
+          "hook": "A large genomic study found that a hereditary condition causing high blood calcium affects roughly 1 in 3,000 people \u2014 far more than previously believed \u2014 and is routinely confused with a disorder that leads to unnecessary surgery.",
+          "pitch_angle": "Familial hypocalciuric hypercalcemia type 1 looks almost identical to primary hyperparathyroidism on standard bloodwork, but managing the two conditions is completely different \u2014 and new data suggests many people may be getting the wrong diagnosis."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42641794",
+      "headline": "Admitting you're powerless over addiction may actually be the most active thing you can do in recovery",
+      "journal": "Journal of Substance Use and Addiction Treatment",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1016/j.josat.2026.210101",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Israeli researchers conducted a phenomenological qualitative study exploring how individuals in recovery from substance and behavioral addictions (n=31), along with family members (n=9) and therapists (n=9), perceive and experience powerlessness. Findings introduced the concept of 'Active Powerlessness' (AP) \u2014 framing the Twelve-Step admission of powerlessness not as passive defeat but as a structured, empowering recovery practice with mental, emotional, spiritual, and behavioral dimensions. The study suggests powerlessness, counterintuitively, may function as an agentic tool rather than a barrier to long-term recovery.",
+      "why_it_matters": "Women in addiction recovery often struggle with shame and perceived loss of control; reframing powerlessness as an active, empowering skill could open new therapeutic conversations for clinicians and patients alike.",
+      "caveats": "small sample (N<100), qualitative/phenomenological design, single-center, self-reported outcomes, no sex-disaggregated data, Israel-based sample",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive finding but small qualitative sample; no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Surprising Recovery Mindset That Turns 'I'm Powerless' Into a Strength",
+          "hook": "New research suggests that admitting you're powerless over addiction \u2014 far from giving up \u2014 may actually be one of the most active, structured things you can do to get better.",
+          "pitch_angle": "A qualitative study of people in recovery found that 'powerlessness,' long criticized as disempowering, functions as what researchers call 'Active Powerlessness' \u2014 a deliberate, multi-dimensional recovery tool. For women who often face shame-based barriers to seeking addiction help, this reframe could shift how they engage with treatment."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42641796",
+      "headline": "Injectable buprenorphine for opioid addiction shows low adverse event rates in real-world FDA data \u2014 but pregnancy exposure reports stand out",
+      "journal": "Journal of Substance Use and Addiction Treatment",
+      "pubdate": "2026 Aug 25",
+      "doi": "10.1016/j.josat.2026.210095",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed FDA Adverse Event Reporting System (FAERS) data for two long-acting injectable buprenorphine formulations \u2014 monthly Sublocade (BUP-SB) and weekly/monthly Brixadi (BUP-BX) \u2014 covering the first 18 months post-launch for each. Adverse event reporting rates were low overall for both formulations, with the most common events (withdrawal syndrome, injection site reactions, nausea) consistent with clinical trial findings. Notably, 'maternal exposure during pregnancy' appeared among the top 15 reported adverse events for BUP-SB (reporting rate 3.8 per 1,000 patients treated), raising a flag relevant to pregnant women with opioid use disorder.",
+      "why_it_matters": "Pregnant women with opioid use disorder are a critically underserved population, and the appearance of pregnancy exposure as a top-reported adverse event in real-world data suggests ongoing questions about safety monitoring that could affect treatment decisions for this group.",
+      "caveats": "observational design, passive surveillance data (FAERS), industry funding [Braeburn Inc. \u2014 multiple authors are employees or paid consultants], no sex-disaggregated data beyond pregnancy flag, underreporting inherent to FAERS",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant pregnancy/opioid treatment signal; heavy industry COI and passive surveillance design limit strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Real-World Data on Long-Acting Injectable Opioid Treatment Looks Reassuring \u2014 With One Notable Exception for Pregnant Women",
+          "hook": "FDA adverse event data on two injectable buprenorphine drugs found overall low complication rates \u2014 but pregnancy exposure landed in the top 15 reported events for one formulation.",
+          "pitch_angle": "An analysis of post-launch FDA safety reports found that long-acting injectable buprenorphine is generally well-tolerated in real-world use, but the appearance of maternal pregnancy exposure as a frequently flagged event highlights a gap in guidance for pregnant women managing opioid use disorder. The finding matters because this population is often excluded from clinical trials yet urgently needs safe, effective treatment options."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42634037",
+      "headline": "Sarcopenia risk spikes in the first months after sleeve gastrectomy \u2014 then drops sharply by year's end",
+      "journal": "Obesity Surgery",
+      "pubdate": "2026 Aug 24",
+      "doi": "10.1007/s11695-026-08912-x",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers cross-sectionally examined BMI, sarcopenia risk, and quality of life in 55 sleeve gastrectomy patients (ages 30\u201350) assessed at 3\u20136, 6\u20139, and 9\u201312 months post-surgery in Texas. Sarcopenia risk \u2014 measured by the SARC-F questionnaire \u2014 was high in 90.5% of patients at 3\u20136 months but dropped to 35.3% by 9\u201312 months, while quality-of-life scores improved over the same period. Middle-aged patients showed a heavier sarcopenia burden and lower quality of life compared to younger adults.",
+      "why_it_matters": "Women undergoing sleeve gastrectomy \u2014 who make up the majority of bariatric surgery patients \u2014 may face a high but often unrecognized window of muscle loss risk in the first six months after surgery.",
+      "caveats": "small sample (N<100), observational design, cross-sectional (not longitudinal), single-center, self-reported outcomes (SARC-F), no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Bariatric surgery relevant to women; severely limited by small N, cross-sectional design, no sex breakdown.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Well+Good",
+          "headline": "The Hidden Muscle-Loss Risk No One Warns You About After Weight-Loss Surgery",
+          "hook": "More than 9 in 10 sleeve gastrectomy patients may be at risk for muscle loss in the first six months after surgery \u2014 but the risk appears to drop sharply by the end of year one.",
+          "pitch_angle": "A new study suggests sarcopenia risk is alarmingly high early in the post-bariatric recovery window, then improves significantly \u2014 raising questions about whether patients get the right rehabilitation support at the right time."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42633585",
+      "headline": "A new compound may stop bone loss without the long-term risks of current osteoporosis drugs \u2014 at least in mice",
+      "journal": "Journal of Bone and Mineral Research",
+      "pubdate": "2026 Aug 23",
+      "doi": "10.1093/jbmr/zjag126",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used AI-driven virtual screening combined with high-throughput lab assays to identify a small molecule, AW-006, that targets the protein SNX10 and selectively inhibits osteoclasts' bone-resorbing function without preventing osteoclast formation. In cell studies, AW-006 disrupted the actin ring structures osteoclasts use to resorb bone while leaving osteoclast-osteoblast communication pathways intact. In ovariectomized mice \u2014 a standard model of estrogen-deficiency bone loss \u2014 the compound reduced bone resorption, suggesting potential relevance to postmenopausal osteoporosis.",
+      "why_it_matters": "Current osteoporosis drugs used by millions of women work by killing or suppressing osteoclasts, which can cause rare but serious complications; a drug that instead selectively disables their bone-eating function could offer a safer long-term alternative.",
+      "caveats": "animal or cell study, no human data, early preclinical stage",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Osteoporosis highly relevant to women; preclinical only, significant translation gap.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Scientists May Have Found a Smarter Way to Treat Osteoporosis \u2014 One That Doesn't Kill the Cells Your Bones Still Need",
+          "hook": "A new AI-identified compound appears to stop bone loss by disabling osteoclasts' bone-dissolving function \u2014 rather than eliminating the cells entirely, which is how current drugs work and what causes their most serious side effects.",
+          "pitch_angle": "Early research in mice suggests a molecule called AW-006 could selectively switch off bone resorption while preserving the cell-to-cell signals that help build new bone \u2014 an approach that, if it holds up in humans, could reshape how postmenopausal osteoporosis is treated."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42633657",
+      "headline": "A tiny RNA molecule may drive the scarring that makes uterine adhesions so hard to treat",
+      "journal": "Molecular Human Reproduction",
+      "pubdate": "2026 Aug 22",
+      "doi": "10.1093/molehr/gaag051",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used circRNA microarray analysis to compare fibrotic and normal endometrial tissue samples from women with intrauterine adhesions (IUA), a leading cause of uterine infertility. They identified a circular RNA called hsa_circ_0079474 that was significantly elevated in scarred tissue and, through cell and rat model experiments, found it promotes endometrial fibrosis by suppressing a protective microRNA (miR-630) and activating a scarring pathway (YAP1). In a rat model, administering miR-630 reversed the fibrosis process, suggesting a potential therapeutic target.",
+      "why_it_matters": "Intrauterine adhesions are a major and often underdiagnosed cause of infertility and recurrent pregnancy loss, and identifying a molecular driver of the scarring process could eventually point toward new treatments for affected women.",
+      "caveats": "animal or cell study, small sample (human tissue samples, N not specified in abstract), single-center, no sex-disaggregated data (all-female condition but mechanistic findings from non-human models)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant reproductive health topic but primarily cell/animal mechanistic work.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Uterine Scarring Is So Hard to Reverse \u2014 and What Scientists Just Found That Might Change That",
+          "hook": "A newly identified RNA molecule appears to be a key driver of the internal scarring that can make it nearly impossible for some women to get pregnant.",
+          "pitch_angle": "Intrauterine adhesions affect millions of women and are notoriously difficult to treat; early lab and animal findings suggest a specific molecular switch may be fueling the scarring, opening a door to future targeted therapies."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42631533",
+      "headline": "Autism screeners don't work well in babies under 12 months \u2014 even when combined",
+      "journal": "Autism Research",
+      "pubdate": "2026 Aug 22",
+      "doi": "10.1002/aur.70340",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at UC Davis MIND Institute followed a community sample of N=1,641 children who completed three autism screeners (M-CHAT-R, ITC, VIRSA) online at 6, 9, 12, 18, and 24 months, with autism outcomes determined at 36 months via tele-evaluation. All three screeners showed poor psychometric accuracy (AUC <0.70) when used in the first year of life, whether used alone or in combination. At 18 and 24 months, combining screeners or using them at multiple time points achieved good predictive accuracy (AUC \u22650.80), suggesting earlier-than-recommended screening is unreliable.",
+      "why_it_matters": "Parents \u2014 most often mothers \u2014 who pursue early autism screening for their infants may be receiving false reassurance or unnecessary alarm from tools not validated for that age, underscoring the need for clearer guidance on screening timing.",
+      "caveats": "observational design, self-reported outcomes, tele-evaluation diagnosis, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large community sample, counterintuitive finding on screening limits; no women-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Those Early Autism Screeners for Babies? New Research Says They May Not Be Reliable Until 18 Months",
+          "hook": "A large study of 1,641 children found that autism screening tools used in the first year of life \u2014 including popular ones already in clinical use \u2014 performed poorly at predicting diagnosis.",
+          "pitch_angle": "Researchers found that no autism screener, used alone or combined, was accurate enough in infants under 12 months to trust \u2014 but using two tools together at 18 and 24 months significantly improved prediction. For parents anxious about early signs, the finding reframes when screening is actually meaningful."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42664627",
+      "headline": "Most pregnant women with iron deficiency aren't getting treatment \u2014 even when their provider knows about it",
+      "journal": "Midwifery",
+      "pubdate": "2026 Aug 22",
+      "doi": "10.1016/j.midw.2026.104959",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective cohort study of 301 pregnant women who gave birth at a regional hospital in rural New South Wales, Australia between January and September 2024, analyzing hemoglobin and ferritin levels, risk factors, and treatment patterns against national guidelines. Iron deficiency was found in 61.8% of women, yet only 32.1% of eligible women received iron supplementation in the first trimester, with modest improvement in later trimesters. Aboriginal and Torres Strait Islander women had disproportionately higher rates of iron deficiency anemia, and screening adherence declined significantly after the first trimester.",
+      "why_it_matters": "The gap between detecting iron deficiency in pregnant women and actually treating it suggests a systemic care failure that could affect maternal energy, birth outcomes, and infant health \u2014 and the disparity for Indigenous women points to a broader equity issue in prenatal care.",
+      "caveats": "observational design, single-center, retrospective, small sample (N=301), narrow to single region with limited global generalizability (rural Australia), self-reported outcomes not applicable \u2014 medical records used",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant pregnancy nutrition and care-gap finding; single rural Australian site limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Doctors Are Finding Iron Deficiency in Pregnant Women \u2014 Then Not Treating It",
+          "hook": "Nearly two-thirds of pregnant women in one study were iron deficient, but fewer than a third of those who needed supplements actually received them.",
+          "pitch_angle": "A new retrospective study found a stark gap between screening and treatment for iron deficiency in pregnancy, with supplementation rates remaining low even when the problem was identified \u2014 raising questions about prenatal care follow-through that resonate beyond one region."
+        }
+      ],
+      "run_date": "2026-08-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
     {
       "pmid": "42658490",
       "headline": "Foods labeled 'homemade' at the supermarket can contain up to 10 additives \u2014 the real thing has almost none",
@@ -31,93 +616,6 @@
       "status": "new"
     },
     {
-      "pmid": "42658756",
-      "headline": "Nearly 9 in 10 kids in psychiatric care report feeling watched or followed \u2014 and clinicians are missing it",
-      "journal": "Psychopathology",
-      "pubdate": "2026 Aug 27",
-      "doi": "10.1159/psp/aelag004",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed self-reported experiences of 'felt presence' \u2014 a sense of being watched or followed by an invisible entity \u2014 among 50 young people aged 8\u201316 in NHS Child and Adolescent Mental Health Services (CAMHS). At baseline, 88% reported feeling watched or followed, and 28% found it their most distressing experience; over 63% who received therapy regularly experienced and were distressed by felt presence. The study is the first to document this phenomenon in a clinical pediatric sample, finding it may be substantially underrecognized in routine psychiatric assessment.",
-      "why_it_matters": "Felt presence experiences in youth may be more common and distressing than currently recognized, suggesting clinicians could benefit from routinely screening for them alongside other sensory experiences.",
-      "caveats": "small sample (N<100), single-center, self-reported outcomes, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Pediatric mental health, no female-specific analysis, very small sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "The Invisible Presence: Why Clinicians Are Missing a Surprisingly Common Experience in Teens With Mental Health Struggles",
-          "hook": "Nearly 9 in 10 kids in psychiatric care reported feeling watched or followed by an invisible presence \u2014 and routine clinical assessments rarely ask about it.",
-          "pitch_angle": "A small UK trial found felt presence experiences are widespread among young people in mental health services but largely invisible to clinicians. The finding suggests a gap in how psychiatric evaluations are conducted for children and adolescents."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42645338",
-      "headline": "Routine brain scans and EEGs rarely explain first-episode psychosis in kids \u2014 and doctors may be over-testing",
-      "journal": "European Child & Adolescent Psychiatry",
-      "pubdate": "2026 Aug 26",
-      "doi": "10.1007/s00787-026-03175-4",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective cohort study of 235 children and adolescents aged 5\u201318 presenting with a first episode of psychosis at a tertiary center in Israel between 2008 and 2023. Urine toxicology identified substance-related findings (mostly cannabis) in 8.1% of cases; neuroimaging explained the psychosis in only 1.3% of cases, all of whom had pre-existing neurological abnormalities; and EEG identified no causative etiology in any case. The findings suggest that extensive routine medical testing adds little diagnostic value when clinical and neurological exams are unremarkable.",
-      "why_it_matters": "For parents of teens experiencing a first psychotic episode, these findings suggest that a targeted, symptom-guided workup \u2014 rather than a battery of tests \u2014 may be the more appropriate standard of care.",
-      "caveats": "single-center, observational design, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "No female-specific data; pediatric clinical finding with limited women's health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "When a Teen Has a First Psychotic Episode, Doctors May Be Running Tests That Don't Help",
-          "hook": "A study of 235 kids found that brain scans and EEGs almost never explained first-episode psychosis \u2014 unless there were already neurological red flags.",
-          "pitch_angle": "Researchers found that routine neuroimaging and EEG identified a medical cause in fewer than 2% of pediatric first-psychosis cases, suggesting a more targeted clinical approach is warranted. For families navigating a frightening diagnosis, the finding challenges the instinct to test everything."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42645692",
-      "headline": "A rare gene mutation may explain why some women's eggs never mature \u2014 and why IVF keeps failing for them",
-      "journal": "Journal of Assisted Reproduction and Genetics",
-      "pubdate": "2026 Aug 26",
-      "doi": "10.1007/s10815-026-04007-9",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at Peking University Third Hospital performed whole-exome sequencing on six women with unexplained oocyte maturation failure and repeated IVF failure, identifying ten distinct pathogenic variants in the PATL2 gene \u2014 eight of which were previously unreported. Across all 16 IVF treatment cycles among the six patients, not a single clinical pregnancy was achieved, and all women showed the same pattern: eggs arrested at the germinal vesicle stage and never matured. Structural modeling showed every identified variant disrupted the PATL2 protein in ways that interfere with the maternal RNA needed to drive egg development, regardless of the specific type of mutation.",
-      "why_it_matters": "For the significant subset of women who face repeated unexplained IVF failure, this research suggests a genetic explanation that could one day be caught with routine screening before costly and emotionally draining treatment cycles.",
-      "caveats": "small sample (N<100), single-center, observational design, retrospective, single region (China)",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Female-specific fertility finding with strong clinical hook; very small N and single-center limit generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "IVF kept failing for these women \u2014 then a genetic clue finally explained why",
-          "hook": "A rare mutation in a single gene may be silently causing IVF to fail before it even begins, new research suggests.",
-          "pitch_angle": "Scientists identified a gene called PATL2 that, when mutated, prevents eggs from ever maturing past an early arrested state \u2014 meaning no amount of IVF intervention can produce a pregnancy. Researchers say routine genetic screening for this variant could spare women years of unexplained failed cycles."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your eggs might be 'stuck' \u2014 and a newly identified gene mutation could be why",
-          "hook": "For some women, IVF doesn't fail because of lifestyle or luck \u2014 it fails because of a genetic glitch that stops eggs from ever fully developing.",
-          "pitch_angle": "New research expands the known variants of a gene, PATL2, that appears to freeze egg development at a critical stage, offering a potential explanation for a frustrating and underexplored form of female infertility. The finding could eventually lead to genetic testing that flags this barrier before women begin fertility treatment."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42645702",
       "headline": "One hundred years after the first insulinoma case, these rare insulin-producing tumors remain deeply misunderstood",
       "journal": "Reviews in Endocrine & Metabolic Disorders",
@@ -137,168 +635,6 @@
           "headline": "The Rare Tumor That Makes Your Blood Sugar Crash \u2014 and Gets Blamed on Anxiety",
           "hook": "A tumor that produces too much insulin can cause fainting, confusion, and heart palpitations \u2014 symptoms so often written off as stress or anxiety that diagnosis takes years.",
           "pitch_angle": "A new review marking 100 years of insulinoma research highlights how these rare pancreatic tumors \u2014 more common in women \u2014 are still routinely misdiagnosed because their symptoms mimic panic attacks or unexplained hypoglycemia. Understanding what insulinoma looks like could help women advocate for the right workup when episodic blood sugar crashes keep getting dismissed."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42640938",
-      "headline": "A calcium-regulating genetic condition is far more common than doctors thought \u2014 and it's often mistaken for something else",
-      "journal": "Journal of Bone and Mineral Research",
-      "pubdate": "2026 Aug 25",
-      "doi": "10.1093/jbmr/zjag129",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using genotype-first analysis of UK Biobank whole-exome and whole-genome sequencing data linked to health records (N=454,787\u2013490,640), researchers identified 162 individuals carrying variants associated with familial hypocalciuric hypercalcemia type 1 (FHH1), estimating prevalence at roughly 1 in 3,000 \u2014 higher than previously reported. Calcium levels in FHH1 carriers significantly overlapped with the general population, explaining why this inherited condition is frequently misdiagnosed as the more common primary hyperparathyroidism. Contrary to prior case reports, population-level analysis found no significant association with pancreatitis or diabetes.",
-      "why_it_matters": "Because FHH1 and primary hyperparathyroidism require fundamentally different management \u2014 including whether surgery is warranted \u2014 misdiagnosis of this more common than expected genetic condition could expose women (who are disproportionately affected by hypercalcemia-related diagnoses) to unnecessary procedures.",
-      "caveats": "observational design, no urinary calcium or PTH data available for confirmation, UK Biobank population may not generalize across ancestries equally",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large human cohort, counterintuitive prevalence finding, endocrine condition relevant to women's health; no sex-disaggregated analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "Millions May Have a Genetic Calcium Disorder \u2014 and Most Don't Know It",
-          "hook": "A hereditary condition that disrupts calcium regulation turns out to be three times more common than previously estimated, yet its lab values overlap so much with the normal range that it's routinely missed.",
-          "pitch_angle": "New large-scale genomic data suggests roughly 1 in 3,000 people carry variants linked to familial hypocalciuric hypercalcemia type 1 \u2014 a condition that looks like a more common disorder but requires completely different treatment. For women who are frequently told they have 'slightly elevated calcium,' the finding raises important questions about whether genetic testing should be part of the workup before any surgery is considered."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42641861",
-      "headline": "Parabens in breast milk are far below safety limits \u2014 but colostrum delivers a brief spike in infant exposure",
-      "journal": "Food and Chemical Toxicology",
-      "pubdate": "2026 Aug 25",
-      "doi": "10.1016/j.fct.2026.116354",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers measured methylparaben and ethylparaben concentrations in 63 breast milk samples from 54 Taiwanese postpartum women across the first six months of lactation. Both parabens were detected in the majority of samples, with levels significantly higher in colostrum (early milk) than in later milk. Estimated daily infant intake from breast milk was roughly 28,000-fold below the EFSA acceptable daily intake, though body-weight-adjusted ethylparaben exposure was about 1.5 times higher in newborns drinking colostrum than in older infants.",
-      "why_it_matters": "For breastfeeding women concerned about paraben exposure from cosmetics and food, early evidence suggests infant intake via breast milk remains well within safety thresholds \u2014 though the colostrum period may warrant closer attention in future larger studies.",
-      "caveats": "small sample (N<100), single-center, observational design, narrow to Taiwanese cohort (findings may not generalize to populations with different paraben exposure patterns)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Postpartum/lactation focus, reassuring but narrow Taiwanese cohort limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "Are Parabens in Breast Milk Actually Dangerous? New Research Has a Surprising Answer",
-          "hook": "Parabens \u2014 the preservatives in countless lotions and packaged foods \u2014 do show up in breast milk, but a new study suggests the amounts reaching infants are tens of thousands of times below safety limits.",
-          "pitch_angle": "Researchers found parabens in the majority of breast milk samples tested, with the highest levels in colostrum \u2014 but infant exposure was still astronomically below safety thresholds. For anxious new parents already scrutinizing every ingredient label, this study offers early reassurance while flagging that the first days of feeding may deserve the most scrutiny."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42641794",
-      "headline": "Admitting powerlessness in recovery isn't passive surrender \u2014 researchers say it can be an active, empowering tool",
-      "journal": "Journal of Substance Use and Addiction Treatment",
-      "pubdate": "2026 Aug 25",
-      "doi": "10.1016/j.josat.2026.210101",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a phenomenological approach to explore how people in recovery from substance and behavioral addiction, along with their family members and therapists, experience the concept of powerlessness (N=49 total: 31 people in recovery, 9 family members, 9 therapists). The study, conducted in Israel, identified a concept called 'Active Powerlessness' \u2014 a structured, recovery-oriented practice that reframes admitting powerlessness not as giving up, but as an engaged, empowering process. Four themes emerged covering mental, emotional, spiritual, behavioral, and cross-life-domain dimensions of this practice.",
-      "why_it_matters": "For women in addiction recovery \u2014 who often face stigma around both powerlessness and agency \u2014 reframing the 12-step concept of powerlessness as an active strength-building tool could reshape how recovery programs are designed and communicated.",
-      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, no sex-disaggregated data, qualitative/phenomenological design limits generalizability",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Counterintuitive framing has wellness appeal; small qualitative sample, no female-specific data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "The 12-Step Idea of 'Powerlessness' Actually Has Nothing to Do With Giving Up, New Research Suggests",
-          "hook": "A new study finds that admitting powerlessness in recovery isn't a passive act \u2014 it's a structured, active process that may be one of the most empowering tools people in recovery use.",
-          "pitch_angle": "Researchers identified a concept called 'Active Powerlessness,' where surrendering the illusion of control over addiction becomes a deliberate, strength-building practice \u2014 a reframe that could be especially meaningful for women navigating the stigma of both addiction and vulnerability."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42641796",
-      "headline": "Monthly injectable buprenorphine shows low adverse event rates in real-world FDA data \u2014 but pregnancy exposure was among the top 15 reported",
-      "journal": "Journal of Substance Use and Addiction Treatment",
-      "pubdate": "2026 Aug 25",
-      "doi": "10.1016/j.josat.2026.210095",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed FDA Adverse Event Reporting System (FAERS) data for two long-acting injectable buprenorphine formulations (Sublocade and Brixadi) during the first 18 months after each product's launch, covering real-world use in patients with opioid use disorder. Overall adverse event reporting rates were low for both formulations. Notably, maternal exposure during pregnancy appeared among the 15 most frequently reported adverse events for both products, raising a flag for women of reproductive age using these medications.",
-      "why_it_matters": "Women with opioid use disorder who are or may become pregnant need clear, real-world safety data on long-acting injectable buprenorphine options, and this is among the first post-marketing analyses to surface pregnancy exposure as a meaningful reporting category.",
-      "caveats": "observational design, self-reported outcomes, industry funding [Braeburn Inc.], no sex-disaggregated data, passive surveillance system (FAERS underreports and cannot establish causality)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant reproductive safety signal; heavily industry-funded, observational FAERS data limits strength.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / General health",
-          "headline": "A Monthly Buprenorphine Shot Is Helping People With Opioid Use Disorder \u2014 Here's What Real-World Safety Data Says for Women",
-          "hook": "Pregnancy exposure was one of the top 15 adverse events flagged for long-acting injectable buprenorphine in new FDA data \u2014 a finding researchers say warrants closer attention for women of reproductive age.",
-          "pitch_angle": "As long-acting injectable buprenorphine grows in use for opioid use disorder, a post-marketing FDA analysis found that real-world adverse event rates are low overall \u2014 but pregnancy exposure repeatedly surfaced as a notable reporting category, underscoring the need for better guidance for women who use these medications."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42634037",
-      "headline": "Muscle loss risk after weight-loss surgery is alarmingly high in the first six months \u2014 then drops sharply",
-      "journal": "Obesity Surgery",
-      "pubdate": "2026 Aug 24",
-      "doi": "10.1007/s11695-026-08912-x",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This exploratory cross-sectional study enrolled 55 adults aged 30\u201350 who had sleeve gastrectomy at Texas healthcare facilities, grouping them by time since surgery (3\u20136, 6\u20139, and 9\u201312 months post-op) to compare BMI, sarcopenia risk (via SARC-F questionnaire), and quality of life. Sarcopenia risk was dramatically higher in the earliest post-op group (90.5%) compared to the latest (35.3%), and moderate-to-severe pain was reported by 38% of early-stage patients versus 0% at 9\u201312 months. Median BMI dropped substantially across the full group (40.8 to 29.2 kg/m\u00b2), and quality of life improved significantly over time.",
-      "why_it_matters": "Women account for the majority of bariatric surgery patients, and the finding that nearly all sleeve gastrectomy patients in the first six months are at risk for significant muscle loss suggests earlier and more proactive screening and rehabilitation are warranted.",
-      "caveats": "small sample (N<100), observational design, cross-sectional (not longitudinal), single-center, self-reported outcomes, no sex-disaggregated data, SARC-F is a screening tool not a diagnostic measure",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Women-relevant procedure; cross-sectional design and small sample limit strength; useful lifestyle hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Shape",
-          "headline": "9 in 10 People in the First Months After Weight-Loss Surgery May Be at Risk for Muscle Loss",
-          "hook": "In the first six months after sleeve gastrectomy, almost all patients in a new study screened positive for sarcopenia risk \u2014 a finding that experts say points to a gap in standard post-op care.",
-          "pitch_angle": "A new exploratory study found that sarcopenia risk (the loss of muscle mass and strength) was nearly universal in early sleeve gastrectomy recovery, dropping significantly by the end of the first year. For women \u2014 who make up the majority of bariatric surgery patients \u2014 the findings suggest that targeted muscle-preserving strategies and routine screening should begin much earlier in recovery than they typically do."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42633585",
-      "headline": "A new compound may treat osteoporosis without the side effects of current drugs \u2014 at least in mice",
-      "journal": "Journal of Bone and Mineral Research",
-      "pubdate": "2026 Aug 23",
-      "doi": "10.1093/jbmr/zjag126",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used AI-driven virtual screening and high-throughput lab methods to identify a small molecule called AW-006 that targets the protein SNX10, which is involved in osteoclast bone-resorbing function. In cell studies, AW-006 selectively inhibited bone resorption while leaving osteoclast formation intact \u2014 a potential advantage over current therapies that eliminate osteoclasts entirely. In ovariectomized mice (a model for postmenopausal estrogen-deficiency bone loss), the compound reduced bone loss, suggesting early therapeutic potential.",
-      "why_it_matters": "Current osteoporosis drugs used by millions of postmenopausal women carry risks with long-term use, so a compound that targets the resorption function without eliminating the cells entirely could eventually represent a safer treatment option.",
-      "caveats": "animal or cell study, no human data, early preclinical stage only",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant to postmenopausal bone loss; preclinical only, no human subjects \u2014 limits score significantly.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "Scientists Found a New Way to Fight Bone Loss That Doesn't Destroy the Cells That Rebuild Bone",
-          "hook": "A newly identified compound may be able to stop bone breakdown in its tracks \u2014 without the long-term risks associated with drugs like bisphosphonates.",
-          "pitch_angle": "Early lab and animal research suggests the molecule AW-006 selectively turns off the bone-destroying function of osteoclasts while keeping the cells alive and able to signal bone-building \u2014 a key limitation of current osteoporosis therapies. The research is still preclinical, but for the millions of postmenopausal women managing bone density concerns, it points toward a potentially safer future treatment approach."
         }
       ],
       "run_date": "2026-08-28",
@@ -336,33 +672,6 @@
       ],
       "run_date": "2026-08-28",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42633657",
-      "headline": "A newly identified RNA molecule may drive the uterine scarring that causes infertility \u2014 and blocking it reversed damage in animal models",
-      "journal": "Molecular Human Reproduction",
-      "pubdate": "2026 Aug 22",
-      "doi": "10.1093/molehr/gaag051",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in China used circRNA microarray analysis to compare gene expression in fibrotic versus normal endometrial tissue from women with intrauterine adhesions (IUA), a leading cause of uterine infertility, identifying a previously unstudied circular RNA called hsa_circ_0079474 that was significantly elevated in scarred tissue. In vitro experiments and a rat model showed this circRNA promotes the cellular process that converts normal endometrial cells into scar-forming cells by acting on the miR-630/YAP1 molecular pathway; introducing miR-630 reversed the fibrosis in rats. The study suggests hsa_circ_0079474 could serve as a diagnostic biomarker and potential therapeutic target for IUA.",
-      "why_it_matters": "Intrauterine adhesions are a poorly understood and difficult-to-treat cause of infertility and recurrent pregnancy loss in women, and this early-stage research points toward a potential molecular target for future treatments.",
-      "caveats": "animal or cell study (rat model and in vitro; human tissue used only for biomarker identification), single-center, small human tissue sample, early mechanistic research only",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Reproductive health topic relevant; animal/cell study design limits score significantly.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "Scientists Found a Tiny RNA Molecule That May Cause Uterine Scarring \u2014 and Reversing It Restored Fertility in Animals",
-          "hook": "A newly discovered circular RNA appears to trigger the scar-tissue buildup inside the uterus that can make pregnancy nearly impossible \u2014 and early animal research suggests blocking it may reverse the damage.",
-          "pitch_angle": "Intrauterine adhesions affect women who have had uterine procedures or infections and are a frustratingly under-discussed cause of infertility; this molecular finding opens a new research direction for a condition with limited treatment options. Worth flagging as early-stage animal science, but the fertility angle and the novelty of the target make it a compelling 'future of fertility medicine' explainer peg."
-        }
-      ],
-      "run_date": "2026-08-28",
-      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
@@ -544,33 +853,6 @@
       "run_date": "2026-08-27",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42657651",
-      "headline": "Fermented jujube juice dramatically boosted iron levels in anemic mice \u2014 and it also changed their gut microbiome",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Aug 27",
-      "doi": "10.1002/jsfa.71014",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Chinese researchers fermented Xinjiang jujube juice with Lactiplantibacillus plantarum GD 03 and tested its effects on iron-deficiency anemia (IDA) in a mouse model. Fermentation increased iron content in the juice by 390%, reduced phytic acid (which blocks iron absorption), and high-dose fermented juice significantly raised serum and tissue iron levels while also reducing inflammation markers and favorably shifting gut microbiota composition. This was an animal study with no human participants.",
-      "why_it_matters": "Iron-deficiency anemia disproportionately affects women of reproductive age, so food-based strategies to enhance iron bioavailability \u2014 if eventually validated in humans \u2014 could offer accessible dietary support.",
-      "caveats": "animal or cell study, single-center, no human subjects, no sex-disaggregated data, mouse model only",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Animal study only; strong women's health topic (IDA) but no human data yet.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "Fermented Jujube Juice Quadrupled Its Iron Content \u2014 And Reversed Anemia in Animal Research",
-          "hook": "Fermenting jujube juice with a probiotic bacteria boosted its iron content by nearly 400% and reversed iron-deficiency anemia symptoms in mice \u2014 a finding that could eventually matter for the millions of women affected by low iron.",
-          "pitch_angle": "Iron-deficiency anemia is one of the most common nutritional deficiencies in women, and this early animal research suggests fermentation could be a simple way to make iron-rich foods even more potent. The study is in mice and hasn't been tested in people, but it adds to growing interest in fermentation as a tool for improving nutrient bioavailability in everyday foods."
-        }
-      ],
-      "run_date": "2026-08-27",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -1521,33 +1803,6 @@
       ],
       "run_date": "2026-08-24",
       "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42631533",
-      "headline": "Autism Screening in Babies Under 12 Months Is Essentially Useless \u2014 Here's When It Actually Works",
-      "journal": "Autism Research",
-      "pubdate": "2026 Aug 22",
-      "doi": "10.1002/aur.70340",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers evaluated three autism screeners (M-CHAT-R, ITC, VIRSA) administered online at 6, 9, 12, 18, and 24 months to a community sample of 1,641 children, with autism outcomes confirmed at 36 months via tele-evaluation. All three screeners performed poorly in the first year of life (AUC <0.70), regardless of whether they were used individually or in combination. At 18\u201324 months, using multiple screeners together or across more than one visit reached 'good' predictive accuracy (AUC \u22650.80), suggesting that timing and repetition matter far more than screener choice.",
-      "why_it_matters": "For parents and pediatricians, this suggests that early first-year screening \u2014 often promoted as a reassurance tool \u2014 may give false confidence or unnecessary alarm, and that waiting until 18\u201324 months with repeated screening is likely more informative.",
-      "caveats": "observational design, self-reported outcomes, single-center, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Pediatric/parenting relevance; no women-specific data; no sex-disaggregated analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "Pediatricians Screen Babies for Autism at 6 Months \u2014 But New Research Says That's Too Early to Mean Anything",
-          "hook": "Three widely used autism screeners performed no better than chance when given to babies under 12 months, a large new study found.",
-          "pitch_angle": "Researchers tested autism screening tools on over 1,600 children and found that first-year results were essentially unreliable \u2014 but at 18\u201324 months, using two tools at multiple visits dramatically improved accuracy. For parents anxious about early milestones, the takeaway is that a 'clear' 6-month screen doesn't mean much, and a flagged one may not either."
-        }
-      ],
-      "run_date": "2026-08-23",
-      "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
