@@ -1,8 +1,602 @@
 {
-  "last_updated": "2026-09-08T15:16:47.706393+00:00",
-  "total_studies": 823,
-  "new_this_run": 5,
+  "last_updated": "2026-09-09T15:10:20.882934+00:00",
+  "total_studies": 831,
+  "new_this_run": 8,
   "studies": [
+    {
+      "pmid": "42709505",
+      "headline": "Tracking proteins over time \u2014 not just once \u2014 could reveal four times more diabetes warning signs",
+      "journal": "Diabetes",
+      "pubdate": "2026 Sep 8",
+      "doi": "10.2337/db26-0148",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed repeated protein measurements over time in a multiethnic cohort and compared them to single time-point proteomic snapshots to identify type 2 diabetes biomarkers. The longitudinal approach uncovered up to four times more potential biomarkers than single-measurement analyses, with Mendelian randomization supporting a causal role for many of them. The additional biomarkers pointed to distinct biological pathways \u2014 including posttranslational protein modification and cell cycle regulation \u2014 not captured by one-time testing.",
+      "why_it_matters": "For women at elevated diabetes risk, this suggests that repeated protein testing over time may eventually unlock earlier, more precise warning signals than current single-snapshot approaches.",
+      "caveats": "no sex-disaggregated data, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting biomarker finding but no female-specific analysis and limited lifestyle hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A one-time blood protein test might be missing most of your diabetes risk \u2014 here's why timing matters",
+          "hook": "Measuring proteins in the blood repeatedly over time caught four times more diabetes warning signals than a single test \u2014 a finding that could reshape how we screen for the disease.",
+          "pitch_angle": "Researchers found that longitudinal protein tracking unlocked entirely new biological pathways linked to type 2 diabetes risk. The angle for readers: the way we currently run tests may be leaving critical information on the table, especially for women whose diabetes risk evolves across hormonal life stages."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710783",
+      "headline": "Higher blood levels of beta-carotene before diagnosis linked to nearly 50% lower risk of dying from breast cancer",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Sep 8",
+      "doi": "10.1016/j.ajcnut.2026.101514",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used a multi-state modeling approach to examine whether pre-diagnostic circulating carotenoid levels were associated with risk of lethal breast cancer over 30 years, in a nested case-control study of 3,516 controls and 2,583 incident invasive breast cancer cases (190 of whom developed lethal disease). Women in the highest quintile of total carotenoids had a 48% lower risk of lethal breast cancer compared to those in the lowest quintile; higher \u03b2-carotene alone was associated with a 41% lower risk. The protective association for \u03b2-carotene was stronger in postmenopausal women, suggesting the relationship may vary by hormonal status.",
+      "why_it_matters": "These findings suggest that circulating carotenoid levels \u2014 a marker partly influenced by diet \u2014 may be linked not just to whether a woman develops breast cancer, but to whether it turns fatal.",
+      "caveats": "observational design, nested case-control, small lethal-case subgroup (N=190), self-reported outcomes possible for dietary data, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Female-only sample, large N, menopause subgroup, strong lifestyle/nutrition hook, observational caveat.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "The Nutrient in Carrots and Sweet Potatoes May Cut Your Risk of Dying From Breast Cancer by Nearly Half",
+          "hook": "Women with the highest blood levels of beta-carotene before a breast cancer diagnosis were nearly 50% less likely to develop lethal disease \u2014 and the effect was even stronger after menopause.",
+          "pitch_angle": "A large Harvard-linked study tracked 6,000+ women over 30 years and found that higher circulating carotenoids \u2014 the pigments in orange and yellow produce \u2014 were tied to dramatically lower odds of fatal breast cancer. It's an early-evidence signal that what you eat before a diagnosis may shape long-term survival, not just your odds of getting cancer in the first place."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Could Eating More Orange Vegetables Help Protect Against the Deadliest Breast Cancers? New Research Offers Intriguing Clues",
+          "hook": "A 30-year study found that women with high blood levels of carotenoids \u2014 found in foods like carrots, pumpkin, and red peppers \u2014 were far less likely to die from breast cancer, with the strongest effect seen in postmenopausal women.",
+          "pitch_angle": "Researchers looked at blood carotenoid levels measured before breast cancer was ever diagnosed and found a striking link to lower lethal disease risk \u2014 suggesting these plant compounds may influence not just cancer incidence but cancer lethality. For women in or approaching menopause, the finding adds a compelling diet-forward angle to breast cancer prevention conversations."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42709668",
+      "headline": "Leading menopause researchers say the narrative of inevitable decline at midlife is medically wrong \u2014 and harmful to women",
+      "journal": "Menopause",
+      "pubdate": "2026 Sep 8",
+      "doi": "10.1097/GME.0000000000002917",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This commentary by researchers at University College London and the University of Melbourne challenges the widespread cultural and clinical assumption that menopause inevitably triggers significant health decline, arguing the framing disempowers women and contributes to medical misinformation. No original data or participant sample is reported; this is an expert perspective piece published in the journal Menopause. The authors call for evidence-based reframing of menopause as a normal life transition rather than a disease state, while acknowledging that some women experience significant symptoms requiring support.",
+      "why_it_matters": "The framing of menopause as inevitable decline may be driving both over-medicalization and under-treatment \u2014 and two prominent researchers argue it's time for the clinical and media conversation to change.",
+      "caveats": "commentary/opinion piece (no original data), no participant sample, no study design",
+      "fact_check_note": "This is a commentary with no original research data; no empirical claims could be verified against an abstract. Scored and summarized accordingly.",
+      "relevance_score": 6,
+      "relevance_score_reason": "High topic fit for menopause coverage; opinion piece with no new data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut / Well+Good",
+          "headline": "The 'Menopause Is Decline' Story Is Medically Wrong \u2014 And Doctors Are Finally Saying So Out Loud",
+          "hook": "Two prominent researchers are pushing back on the idea that menopause inevitably means your health falls off a cliff \u2014 and they say that narrative is actively harming women.",
+          "pitch_angle": "A new commentary in the journal Menopause argues that treating midlife hormonal change as a disease state rather than a normal transition is fueling both misinformation and poor clinical care \u2014 leaving some women over-medicalized while others with real symptoms go unsupported. The piece is a cultural flashpoint in an ongoing debate about how women's midlife health is framed by medicine and media alike."
+        },
+        {
+          "publication_type": "Prevention / Women's Health Magazine",
+          "headline": "The Menopause Narrative Needs a Rewrite, Say Leading Researchers",
+          "hook": "Expecting your health to tank at menopause isn't just pessimistic \u2014 experts say it's scientifically inaccurate and may be making your experience worse.",
+          "pitch_angle": "A commentary by University College London and University of Melbourne researchers argues that the culturally dominant framing of menopause as inevitable decline is not supported by evidence and may discourage women from seeking effective care for real symptoms. They call for a shift toward empowering, evidence-based messaging that distinguishes normal transition from treatable conditions."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42702794",
+      "headline": "ADHD's diagnostic rulebook has been rewritten six times \u2014 and gender bias may be baked into every edition",
+      "journal": "The British Journal of Psychiatry",
+      "pubdate": "2026 Sep 7",
+      "doi": "10.1192/bjp.2026.10768",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A theoretical analysis grounded in a systematic textual review of all ADHD descriptions across DSM-III through DSM-5-TR examined five structural challenges in how ADHD has been defined and revised over 42 years. The author \u2014 a researcher at Ariel University and Cambridge \u2014 identified gender and diagnostic heterogeneity as a core unresolved problem, noting that diagnostic criteria have historically reflected male-predominant presentations. The analysis argues that successive revisions may have inadvertently reinforced conceptual inconsistencies rather than resolving them, with implications for clinicians making real-world diagnostic decisions.",
+      "why_it_matters": "Women and girls with ADHD are routinely diagnosed later or missed entirely because the diagnostic framework was built around male presentations \u2014 a structural flaw this analysis says has persisted across four decades of revisions.",
+      "caveats": "no empirical primary data, theoretical/conceptual analysis only, no sex-disaggregated data from new research, single author",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's health angle on ADHD underdiagnosis; theoretical not empirical study.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "ADHD Has Been Misdiagnosed in Women for 40 Years \u2014 and the Rulebook Is Still Broken",
+          "hook": "A new analysis of every ADHD diagnostic edition since 1980 finds that gender bias isn't an accident \u2014 it may be structurally embedded in the criteria themselves.",
+          "pitch_angle": "Researchers traced how ADHD's definition has shifted across six DSM editions and found that gender heterogeneity has never been meaningfully resolved, leaving women and girls trapped in a diagnostic system built around boys. The analysis suggests the problem isn't just clinical \u2014 it's conceptual, and fixing it will require rethinking psychiatry's foundations."
+        },
+        {
+          "publication_type": "Self",
+          "headline": "Why Women Keep Getting Their ADHD Missed \u2014 According to a 40-Year Audit of the Diagnostic Bible",
+          "hook": "An in-depth review of every ADHD definition since 1980 finds the criteria have never adequately accounted for how the disorder looks in women.",
+          "pitch_angle": "A new theoretical analysis found that ADHD's diagnostic criteria have been revised six times but gender heterogeneity remains an unresolved flaw \u2014 meaning women presenting with inattentive, internalized symptoms continue to fall through the cracks. For the growing number of adult women seeking late diagnoses, this research offers a structural explanation for why recognition took so long."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42704947",
+      "headline": "Removing ovaries in rats born to immune-activated mothers reverses schizophrenia-like brain deficits \u2014 suggesting estrogen may be a double-edged sword",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Sep 7",
+      "doi": "10.1016/j.schres.2026.09.002",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Australian researchers used a rat model of schizophrenia risk \u2014 injecting pregnant rats with poly(I:C) to simulate maternal immune activation \u2014 and studied female offspring's sensorimotor gating (prepulse inhibition, PPI) with and without ovaries. Intact female offspring of immune-activated mothers showed impaired PPI and blunted responses to dopamine and NMDA receptor drugs, mirroring schizophrenia-like deficits; when ovaries were removed in these offspring, baseline PPI normalized and drug sensitivity was restored. The counterintuitive finding suggests ovarian hormones may actually sustain \u2014 rather than protect against \u2014 schizophrenia-related brain changes in this developmental model.",
+      "why_it_matters": "For women, who historically benefit from estrogen's apparent protective effect against early-onset schizophrenia, this animal study raises nuanced questions about when and how ovarian hormones influence psychosis risk \u2014 particularly in those with possible neurodevelopmental vulnerability.",
+      "caveats": "animal or cell study, small sample (rat model), findings may not translate to humans, ovariectomy is not a clinically applicable model for human hormone changes",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Intriguing women's hormonal angle; animal study only substantially limits translational value.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Estrogen Has Always Been Called Protective for the Brain \u2014 New Research Complicates That Story",
+          "hook": "A new animal study finds that ovarian hormones may actually sustain schizophrenia-like brain deficits in female rats born at developmental risk \u2014 flipping the conventional 'estrogen is neuroprotective' narrative.",
+          "pitch_angle": "Researchers found that removing ovaries in female rats with a developmental schizophrenia risk profile actually normalized their brain function \u2014 suggesting estrogen's role in psychosis may be more context-dependent than previously thought. While this is animal research and far from clinical application, it opens a genuinely new line of thinking about how female hormones interact with neurodevelopmental vulnerability."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42706486",
+      "headline": "Air pollution may trigger sudden unexpected infant death within days of exposure \u2014 even at levels common in cities",
+      "journal": "Paediatric and Perinatal Epidemiology",
+      "pubdate": "2026 Sep 7",
+      "doi": "10.1111/ppe.70196",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using France's national SUDI (sudden unexpected death in infancy) registry from 2015\u20132022, researchers conducted a case-crossover study of 1,078 infant deaths, comparing daily air pollution exposure on the day of death with matched control days. Exposure to particulate matter (PM10 and PM2.5) was consistently associated with higher odds of SUDI, with effects emerging 3 to 5 days before death, and cumulative exposure showed the strongest associations. Nitrogen dioxide showed a trend toward association, and seasonal effects were observed, with higher odds in spring for PM and ozone.",
+      "why_it_matters": "For parents and pregnant women in urban environments, this suggests that ambient air quality in the days before an infant death may be an underrecognized environmental trigger \u2014 adding an environmental dimension to SUDI prevention beyond established behavioral recommendations like sleep position.",
+      "caveats": "observational design, France-specific registry (may not fully generalize to other countries), modelled pollution data (not direct personal exposure measurements)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large registry study, novel environmental finding relevant to new parents; indirect women's health angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Air Pollution Could Be Quietly Raising the Risk of Sudden Infant Death \u2014 Days Before It Happens",
+          "hook": "A large French registry study found that babies who died suddenly were more likely to have been exposed to higher particulate matter levels in the 3 to 5 days before death.",
+          "pitch_angle": "Researchers analyzed over 1,000 sudden unexpected infant deaths and found that short-term spikes in air pollution \u2014 particularly fine particles \u2014 were associated with higher odds of SUDI, suggesting pollution may act as a short-term biological trigger. The finding adds an environmental variable to infant safety conversations that have historically focused almost entirely on sleep position and parental behavior."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710464",
+      "headline": "Your first IVF cycle predicts your second \u2014 but age changes everything after 38",
+      "journal": "European Journal of Obstetrics, Gynecology, and Reproductive Biology",
+      "pubdate": "2026 Sep 6",
+      "doi": "10.1016/j.ejogrb.2026.115418",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed Swiss national IVF registry data from 1,860 women who completed two consecutive IVF cycles between 2018 and 2023, comparing outcomes to a historical cohort of 2,162 women from 2014\u20132017. First-cycle outcomes showed a graded association with second-cycle live birth rates: women who had no pregnancy in cycle one had a 31.8% live birth rate in cycle two, rising to 43.1% for those who experienced a miscarriage. The effect of first-cycle outcomes was stronger in women under 38; in women 38 and older, age was the dominant predictor regardless of first-cycle result.",
+      "why_it_matters": "This suggests that for women under 38, a difficult first IVF cycle may be less predictive of ultimate failure than previously assumed \u2014 potentially important context for counseling during one of the most emotionally taxing fertility experiences.",
+      "caveats": "observational design, single-center, retrospective cohort, industry funding [IBSA Institut Biochimique SA], Swiss population may not generalize broadly, findings conditional on completing a second cycle",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Fertility topic fit, female-only sample N\u2265100, but observational design and industry funding limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "A Failed First IVF Cycle Doesn't Mean Your Second Will Fail Too \u2014 Here's What Actually Predicts Success",
+          "hook": "New data from nearly 2,000 women suggests that what happens in your first IVF cycle is a meaningful \u2014 but not definitive \u2014 signal for round two.",
+          "pitch_angle": "A Swiss national registry study found that women who had a miscarriage or live birth in their first IVF cycle had notably higher second-cycle success rates than those with no pregnancy \u2014 but this pattern flipped after age 38, when age became the overwhelming predictor. The finding offers a more nuanced, data-backed conversation starter for anyone navigating the emotional math of whether to try another round."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The IVF Stat That Could Reframe How You Think About a Second Cycle",
+          "hook": "If your first IVF cycle didn't result in a baby, that outcome is actually telling you something useful about your odds next time.",
+          "pitch_angle": "Research tracking thousands of Swiss IVF patients found a clear gradient: the closer your first cycle came to a live birth, the better your second-cycle odds \u2014 but only if you're under 38, after which age becomes the dominant factor. Experts say this kind of individualized prognostic data could help women make more informed, less fear-driven decisions about continuing treatment."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42698185",
+      "headline": "People with type 1 diabetes want a promising new drug class \u2014 but fear it and feel disconnected from their doctors about it",
+      "journal": "Diabetic Medicine",
+      "pubdate": "2026 Sep 4",
+      "doi": "10.1111/dme.70463",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted semi-structured qualitative interviews with 24 adults living with long-standing type 1 diabetes (8\u201362 years' duration) and 7 specialist physicians across multiple Canadian sites to explore attitudes toward SGLT2 inhibitors \u2014 a drug class not yet approved for type 1 diabetes due to ketoacidosis risk. Five major themes emerged: a tendency to stay within established treatment comfort zones, a felt disconnect between patient and physician expertise, ongoing risk-benefit weighing, cautious optimism, and an overarching desire for personalized care. No sex-disaggregated analysis of patient perspectives was reported.",
+      "why_it_matters": "Women with type 1 diabetes \u2014 who face distinct cardiovascular and kidney risks \u2014 may benefit from understanding that this emerging drug class is generating real clinical interest but remains off-label and requires individualized discussion with their care team.",
+      "caveats": "small sample (N<100), qualitative design, single country (Canada), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant T1D patient experience angle; small qualitative sample, no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "People With Type 1 Diabetes Are Eager for a New Drug \u2014 But Their Doctors Are Cautious. Here's the Disconnect",
+          "hook": "Patients with type 1 diabetes are quietly researching a promising drug class their doctors aren't prescribing \u2014 and a new study reveals exactly why that gap exists.",
+          "pitch_angle": "A qualitative study found that both patients and physicians are genuinely interested in SGLT2 inhibitors for type 1 diabetes, but a combination of ketoacidosis risk, lack of regulatory approval, and a felt disconnect between patient and clinical expertise is keeping the conversation stalled. The findings highlight how much personalized, trust-based dialogue matters when navigating emerging treatment options for a lifelong condition."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42693223",
+      "headline": "After miscarriage or stillbirth, Pakistani women face a wall of blame, silence, and spiritual stigma \u2014 and almost no system support before their next pregnancy",
+      "journal": "Culture, Medicine and Psychiatry",
+      "pubdate": "2026 Sep 3",
+      "doi": "10.1007/s11013-026-10019-y",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted in-depth qualitative interviews with 18 married pregnant women in Rawalpindi, Pakistan \u2014 all of whom had experienced at least one prior pregnancy loss and had current anxiety symptoms \u2014 exploring their psychosocial experiences in the interpregnancy period. Women described widespread self-blame tied to diet, physical activity, and fate, alongside family and provider responses that reinforced personal culpability, including withholding information about the deceased fetus. Findings point to a near-total absence of psychosocial support between pregnancies and highlight stigma, spirituality, and provider communication as critical intervention targets.",
+      "why_it_matters": "For the estimated 23 million women worldwide who experience miscarriage each year, this study illuminates how cultural and systemic failures compound grief \u2014 and why interpregnancy mental health care remains a critical and largely unmet need globally.",
+      "caveats": "small sample (N<100), single-center, qualitative design, self-reported outcomes, single region (Rawalpindi, Pakistan) \u2014 findings may not generalize to other cultural contexts",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's reproductive mental health focus; qualitative small sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "After Pregnancy Loss, Women Are Left Alone With Their Grief \u2014 and Often Blamed for It",
+          "hook": "A new qualitative study finds that after miscarriage or stillbirth, women commonly face self-blame, family stigma, and almost no mental health support before their next pregnancy.",
+          "pitch_angle": "Researchers in Pakistan interviewed women currently pregnant after prior pregnancy loss and found that self-recrimination \u2014 often tied to diet or physical exertion \u2014 was nearly universal, compounded by families and providers who withheld information or implied fault. The study points to the interpregnancy window as a critical and neglected moment for mental health intervention."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Miscarriage Grief Is Hard Enough \u2014 Then Comes the Blame",
+          "hook": "New research documents how after pregnancy loss, women are often met not with support but with silence, stigma, and implied fault \u2014 from family, providers, and themselves.",
+          "pitch_angle": "A qualitative study with women in Pakistan who experienced pregnancy loss found that grief is routinely compounded by cultural narratives blaming women for their own miscarriages or stillbirths, and that the period before a subsequent pregnancy is almost entirely without psychosocial care. While the cultural context is specific, the experience of being blamed or unsupported after pregnancy loss resonates globally."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42691251",
+      "headline": "Feeling rejected and hostile may be as much a part of alcohol recovery as the drinking itself \u2014 and the two feed each other",
+      "journal": "Psychology of Addictive Behaviors",
+      "pubdate": "2026 Sep 3",
+      "doi": "10.1037/adb0001184",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tracked 501 adults (57.5% female, mean age 41) attempting alcohol use disorder recovery across six time points over one year, using longitudinal models to examine how interpersonal dynamics and recovery outcomes influence each other. Reductions in perceived hostility and rejection were associated with reductions in alcohol problems and greater increases in abstinent days \u2014 and, notably, more abstinent days were in turn associated with less perceived hostility over time. The relationship ran in both directions, suggesting social environment and recovery outcomes co-evolve rather than one simply causing the other.",
+      "why_it_matters": "For women in recovery \u2014 who are more likely than men to cite relationship stressors as triggers \u2014 this suggests that the social climate around them may be as clinically relevant as their drinking behavior itself.",
+      "caveats": "observational design, self-reported outcomes, most cross-lagged associations not supported by models",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Majority-female sample, strong longitudinal design, clear wellness hook; observational limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your social circle isn't just a support system in recovery \u2014 it's actually part of the recovery itself",
+          "hook": "A year-long study found that feeling less rejected and less hostility from others went hand-in-hand with drinking less \u2014 and the relationship ran both ways.",
+          "pitch_angle": "New longitudinal research suggests that for people recovering from alcohol use disorder, interpersonal stress and drinking behavior co-evolve in real time \u2014 meaning healing one may help heal the other. For women, whose recovery is often more entangled with relationship dynamics, this reframes 'toxic relationships' not just as a risk factor but as an active part of the recovery equation."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why the People Around You During Alcohol Recovery Matter More Than We Realized",
+          "hook": "A new study tracking 500 people over a year found that perceived hostility and rejection didn't just precede drinking relapses \u2014 they moved in sync with them, suggesting the social environment is inseparable from the recovery process.",
+          "pitch_angle": "Researchers found that as people felt less hostility from others, their alcohol problems also declined \u2014 and as they got more sober days, others seemed to treat them with less hostility too. The finding challenges a simple 'fix your environment first' message and suggests recovery is a reciprocal, socially embedded process."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42692293",
+      "headline": "Brain wave patterns and immune markers shift together during a first manic episode \u2014 even before any medication",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Sep 3",
+      "doi": "10.1016/j.jad.2026.122466",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers enrolled 60 drug-na\u00efve inpatients experiencing their first manic episode (DSM-5) and 60 age- and sex-matched healthy controls in a single-center case-control study in Turkey. Participants underwent resting EEG and routine blood tests measuring inflammatory markers. Patients showed elevated monocyte-to-lymphocyte ratios, lower albumin, and higher cortical oscillatory power across multiple brain regions compared to controls, with lower albumin tentatively associated with higher frontal and central beta power.",
+      "why_it_matters": "For women, who are disproportionately diagnosed with bipolar disorder later in life and often after a depressive \u2014 not manic \u2014 first episode, understanding early biological markers of mania could eventually inform faster, more accurate diagnosis.",
+      "caveats": "small sample (N<100), single-center, observational design, short follow-up, no sex-disaggregated data, cross-sectional design limits causal inference",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting psychiatric finding but mixed-sex sample, no female-specific analysis, small N.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Blood and Brain Waves May Signal a Manic Episode Before You Even Take a Pill",
+          "hook": "A new study found that people in their very first manic episode already show measurable immune and brain activity changes \u2014 with no medication involved.",
+          "pitch_angle": "Researchers found that inflammation markers and EEG brain-wave patterns diverge from healthy controls right at the onset of mania, before any treatment begins. For women navigating bipolar diagnosis \u2014 which is frequently delayed or misidentified \u2014 this early biological fingerprint could eventually point toward faster answers."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42693254",
+      "headline": "A common anemia drug in premature infants may mask iron deficiency \u2014 or not. Standard tests can't tell the difference alone.",
+      "journal": "Journal of Perinatology",
+      "pubdate": "2026 Sep 3",
+      "doi": "10.1038/s41372-026-02889-2",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed red blood cell marker datasets from a randomized neonatal trial and an Intermountain Health database to assess iron status in extremely low birthweight premature infants receiving darbepoetin, a drug used to boost red cell production and reduce transfusions. They found that a commonly used marker (RET-He) fell sharply in darbepoetin-treated infants, suggesting iron deficiency, but novel markers (Micro-R and HYPO-He) showed that 83% of those infants were actually iron-sufficient. Combining traditional and novel red cell markers may provide a more accurate picture of iron status during accelerated erythropoiesis in preterm neonates.",
+      "why_it_matters": "For parents of premature infants, this finding suggests that how iron status is monitored during anemia treatment may matter as much as the treatment itself \u2014 and that current standard tests alone may be misleading.",
+      "caveats": "retrospective, secondary analysis, no sex-disaggregated data, neonatal population (not directly a women's health finding)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Neonatal clinical topic; limited women's health angle; no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Premature Babies Getting Anemia Treatment May Be Flagged as Iron-Deficient When They're Not \u2014 Here's Why That Matters",
+          "hook": "A widely used blood marker suggests iron deficiency in preterm infants on anemia drugs, but newer tests tell a very different story in most cases.",
+          "pitch_angle": "A study of extremely low birthweight premature infants found that standard iron markers misclassify most darbepoetin-treated babies as iron-deficient, when novel red cell tests indicate adequate iron in 83% of cases. The finding has implications for how neonatal teams manage iron supplementation in the NICU \u2014 a concern for any parent navigating a premature birth."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42692373",
+      "headline": "A single gene may help explain why autism looks so different in women and girls than in men and boys",
+      "journal": "Frontiers in Neuroendocrinology",
+      "pubdate": "2026 Sep 3",
+      "doi": "10.1016/j.yfrne.2026.101285",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review synthesizes evidence from postmortem brain studies, blood biomarker research, animal models, and methylation profiling to examine how the gene RORA \u2014 a nuclear receptor that integrates sex hormone signaling, circadian rhythm, and immune function \u2014 may drive sex differences in autism spectrum disorder (ASD). The authors describe a bidirectional relationship in which androgens suppress RORA expression and estrogens activate it, potentially explaining male-biased ASD risk and a 'female protective effect,' and suggest RORA deficiency may also contribute to PMDD and hormone-sensitive symptom fluctuations across the lifespan. No original human data were collected; this is a review of existing literature.",
+      "why_it_matters": "Understanding why autism is underdiagnosed in women and presents differently across hormonal life stages could eventually improve recognition and care for autistic women and girls.",
+      "caveats": "observational design, no original human data (review only), animal or cell study evidence included, no sex-disaggregated prospective data, findings are speculative and mechanistic rather than clinical",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's health angle on ASD sex differences; review limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Gene That Might Explain Why Autism in Women Has Been Overlooked for Decades",
+          "hook": "A single gene regulated by estrogen and testosterone may be at the heart of why autism looks so different \u2014 and is so often missed \u2014 in women and girls.",
+          "pitch_angle": "Emerging research on a gene called RORA suggests it acts as a molecular bridge between sex hormones and brain development, potentially explaining why autistic women are diagnosed later and present with different symptoms than men. The same pathway may also connect to PMDD, opening new questions about how hormonal shifts affect autistic women throughout life."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Science Is Finally Starting to Explain the 'Female Protective Effect' in Autism \u2014 and It Involves Estrogen",
+          "hook": "For decades, researchers have known that autism is diagnosed far less often in girls \u2014 a pattern called the 'female protective effect' \u2014 and a new review suggests a hormone-regulated gene may be why.",
+          "pitch_angle": "A review of brain, blood, and genetic evidence points to a gene called RORA, which estrogen activates and testosterone suppresses, as a potential driver of the gender gap in autism diagnosis and presentation. If confirmed, it could reshape how clinicians recognize and support autistic women across hormonal life stages \u2014 from puberty through menopause."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42691236",
+      "headline": "Most Canadian bone marrow transplant centers skip a key nutrition strategy that guidelines say should come first",
+      "journal": "Canadian Journal of Dietetic Practice and Research",
+      "pubdate": "2026 Sep 3",
+      "doi": "10.3148/cjdpr-2026-006",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed dietitians at 10 of 17 adult hematopoietic stem cell transplantation (HSCT) centers across Canada to benchmark how enteral nutrition (EN) is used during transplant care. Despite clinical guidelines recommending EN over parenteral nutrition (PN) to protect gut health, all 10 centers used PN while only seven used EN \u2014 and just one used it prophylactically. Key barriers included patient refusal, clinical concerns, and staff preference for PN.",
+      "why_it_matters": "Women undergoing HSCT for blood cancers or autoimmune conditions may be missing a guideline-recommended nutrition approach that could reduce serious complications during treatment.",
+      "caveats": "small sample (N<100), single-country (Canada), self-reported outcomes, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Clinical/dietitian-facing finding; no female-specific data; niche transplant population.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Your Cancer Treatment Team May Be Skipping a Nutrition Step That Guidelines Say Matters",
+          "hook": "Nearly every bone marrow transplant center in Canada defaults to IV nutrition even though clinical guidelines say tube feeding should come first \u2014 and patients are often the ones refusing it.",
+          "pitch_angle": "A new survey found that a recommended gut-protective nutrition strategy is almost never used during HSCT, with patient refusal and staff habit cited as the top barriers. For health journalists covering oncology care gaps, this is a story about how guidelines fail to reach the bedside \u2014 and what patients don't know to ask for."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42686075",
+      "headline": "Body weight may quietly reshape how the brain handles depression \u2014 and the pattern looks surprisingly different in lower-weight patients",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Sep 2",
+      "doi": "10.1016/j.jad.2026.122465",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used multi-voxel proton MRI spectroscopy to measure brain chemistry in 66 first-episode, drug-na\u00efve Han Chinese adults with major depressive disorder (MDD) and 79 healthy controls, stratified by BMI. Patients with lower BMI showed nominally higher GABA and prefrontal metabolite levels \u2014 though differences did not survive statistical correction \u2014 and an inverted relationship between prefrontal glutamate and depression severity compared to normal-BMI patients. The findings suggest BMI may modulate how the depressed brain compensates neurochemically, though causality cannot be established from this cross-sectional study.",
+      "why_it_matters": "For women \u2014 who are diagnosed with depression at roughly twice the rate of men and face distinct pressures around body weight \u2014 understanding how metabolic factors intersect with brain chemistry in depression could eventually inform more personalized treatment approaches.",
+      "caveats": "small sample (N<100), observational design, single-center, no sex-disaggregated data, Han Chinese population only (limited generalizability), key neuroimaging differences did not survive FDR correction",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Mixed-sex sample, no female-specific analysis, key findings did not survive correction.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your BMI and Your Brain Chemistry May Be More Connected Than Anyone Realized \u2014 Especially in Depression",
+          "hook": "A new brain-imaging study found that people with depression who have lower body weight show a distinctly different neurochemical pattern than those at higher weights \u2014 and scientists think the brain may be compensating.",
+          "pitch_angle": "Researchers used advanced MRI to map brain chemistry in first-episode depression and found BMI appears to shape how the brain regulates mood-related neurotransmitters. While the study is small and preliminary, it raises fresh questions about the weight-mood connection that goes far beyond simple lifestyle factors."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42684086",
+      "headline": "So-called 'safer' antipsychotics aren't uniformly safer at all \u2014 and sex matters for tardive dyskinesia risk",
+      "journal": "The Journal of Nervous and Mental Disease",
+      "pubdate": "2026 Sep 2",
+      "doi": "10.1097/NMD.0000000000001892",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a disproportionality analysis of the FDA Adverse Event Reporting System (FAERS) database from 2012 to 2024, pooling reporting odds ratios for tardive dyskinesia (TD) across first- and second-generation antipsychotics via meta-analysis, with stratification by age and sex. The analysis found significant variation in TD risk across individual drugs, and second-generation antipsychotics were not uniformly safer than first-generation agents. Notably, clozapine showed a lower TD reporting odds ratio than other antipsychotics, and demographic factors including sex showed further variability in risk.",
+      "why_it_matters": "Women are known to be at higher risk for tardive dyskinesia than men, and this finding that second-generation antipsychotics \u2014 widely prescribed to women for depression, bipolar disorder, and anxiety \u2014 may not offer blanket protection underscores the need for individualized risk conversations.",
+      "caveats": "observational design, self-reported outcomes, FAERS data subject to underreporting and reporting bias, no sex-disaggregated data published in abstract (stratification noted but results not detailed), pharmacovigilance database limitations",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive finding overturning clinical assumption; women-relevant condition; pharmacovigilance design limits certainty.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "The 'Safer' Antipsychotics May Not Be as Safe as Doctors Thought \u2014 Especially for Women",
+          "hook": "A large analysis of FDA adverse event data finds that second-generation antipsychotics \u2014 the ones prescribed as the lower-risk option \u2014 don't uniformly reduce the risk of a disabling movement disorder called tardive dyskinesia.",
+          "pitch_angle": "Researchers analyzed over a decade of FDA drug safety reports and found wide variation in tardive dyskinesia risk across antipsychotics, with the 'newer is safer' assumption not holding up across the board. Because women face higher baseline risk for this condition, the finding suggests they and their doctors should ask more specific questions before choosing a medication."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42686059",
+      "headline": "One in eight women still has perineal pain three months after giving birth \u2014 and most aren't warned",
+      "journal": "Journal of Gynecology Obstetrics and Human Reproduction",
+      "pubdate": "2026 Sep 2",
+      "doi": "10.1016/j.jogoh.2026.103270",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers prospectively tracked 106 postpartum women following vaginal delivery in Spain, assessing perineal pain at eight time points over 90 days using a standardized neuroanatomical perineal map and structured questionnaires. Pain was highly prevalent early on and declined over time, but remained clinically significant: 78% of women reported pain at 15 days, 50% at one month, 25% at two months, and 13.3% still reported pain at 90 days. Women with persistent pain were less likely to have resumed sexual activity and more frequently continued using analgesics, and approximately one-third reported functional limitations in sitting, standing, or walking.",
+      "why_it_matters": "This suggests that postpartum perineal pain is not just a short-term inconvenience but a months-long functional issue affecting movement, daily life, and sexual health for a meaningful proportion of women after vaginal birth.",
+      "caveats": "small sample (N<100), single-center, observational design, Spanish population, self-reported outcomes, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong postpartum health fit, clear lifestyle impact, but small N and single-center limit confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Self",
+          "headline": "Perineal Pain After Childbirth Can Last for Months \u2014 and Doctors Rarely Track It Past Week Two",
+          "hook": "A new study followed postpartum women for 90 days and found that one in eight still had perineal pain at the three-month mark \u2014 an experience most new parents are never warned about.",
+          "pitch_angle": "Research tracking 106 women after vaginal birth found that while pain peaks immediately postpartum, it doesn't simply disappear at the six-week checkup: 25% still reported it at two months, and persistent pain was tied to reduced sexual activity and difficulty sitting, standing, or walking. The findings add urgency to calls for longer postpartum follow-up windows beyond the standard single appointment."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "The Postpartum Pain No One Talks About \u2014 and Why It Can Linger Far Longer Than Your Doctor Checks In",
+          "hook": "Half of women still had perineal pain a full month after giving birth vaginally, yet postpartum care often ends at six weeks.",
+          "pitch_angle": "A Spanish prospective study mapped perineal pain in new mothers over three months, finding it affected mobility, sexual health, and daily function well beyond the immediate recovery window. Experts say the findings point to a gap in postpartum care \u2014 and give women language to advocate for more support during an often-overlooked phase of recovery."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42684535",
+      "headline": "A simple eye-gaze task correctly identified autism in children with near-perfect accuracy in a small pilot \u2014 but replication is urgently needed",
+      "journal": "Research on Child and Adolescent Psychopathology",
+      "pubdate": "2026 Sep 2",
+      "doi": "10.1007/s10802-026-01498-z",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers piloted a brief standardized observational tool called the Eye Gaze Shift Task (EGST) in 58 children (29 with ASD, 29 without) aged over 31 months who also completed standard ADOS-2 autism assessments. The EGST scored children's eye-gaze response to an ambiguous social cue using a 4-point hierarchy and showed very strong diagnostic discrimination, with 100% sensitivity, 89.7% specificity, and 94.8% overall accuracy. The authors caution that findings are preliminary and that larger, more diverse samples are needed before drawing conclusions about clinical utility.",
+      "why_it_matters": "Girls with autism are frequently diagnosed later than boys; a faster, standardized gaze-based screening tool \u2014 if validated \u2014 could help close that diagnostic gap by providing an objective behavioral measure alongside existing assessments.",
+      "caveats": "small sample (N<100), single-center, pilot study, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to girls' health gap; very small pilot with no female-specific analysis limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A 5-Minute Eye-Gaze Test Could Help Catch Autism Earlier \u2014 Especially in Girls Who Get Missed",
+          "hook": "A new pilot study found that a brief, standardized task tracking how children shift their gaze in response to a social cue correctly identified autism with 94.8% accuracy \u2014 raising hopes for a faster, more objective screening tool.",
+          "pitch_angle": "The Eye Gaze Shift Task is still very early-stage, but its near-perfect performance in a small sample is drawing attention in autism assessment circles \u2014 particularly because girls with autism are systematically diagnosed years later than boys, partly because existing behavioral tools were largely developed on male populations. A sex-disaggregated follow-up study could be a critical next step."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42686692",
+      "headline": "A molecular switch in bone cells may explain why staying active \u2014 or going to space \u2014 changes your skeleton",
+      "journal": "Bone research",
+      "pubdate": "2026 Sep 2",
+      "doi": "10.1038/s41413-026-00580-y",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers exposed bone-forming cells to fluid shear stress in the lab and used a mouse model of bone unloading to map how mechanical stimulation translates into bone growth at the cellular level. They found that physical stress activates the BMP/Smad signaling pathway, which in turn suppresses a mitochondrial protein called cyclophilin D, boosting the energy output cells need to build bone. Mice with osteoblast-specific deletion of cyclophilin D were protected from bone loss caused by unloading, while re-introducing the protein restored bone loss \u2014 identifying CypD as a potential therapeutic target.",
+      "why_it_matters": "This early-stage research suggests a specific molecular pathway could eventually be targeted to slow bone loss in women who are immobile, postmenopausal, or in conditions of weightlessness \u2014 populations where bone density loss is a serious concern.",
+      "caveats": "animal or cell study, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Bone loss relevance for women, but animal/cell study only reduces score significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "Scientists found the molecular reason why movement builds bone \u2014 and it could lead to new treatments for osteoporosis",
+          "hook": "A newly identified protein switch in bone cells may explain at the cellular level why exercise protects your skeleton \u2014 and why being sedentary or going through menopause makes bones fragile.",
+          "pitch_angle": "Mouse and cell studies pinpointed a protein called cyclophilin D as a key brake on bone-building energy when physical stress is absent; blocking it protected against bone loss. While still early-stage animal research, the finding opens a potential drug target relevant to postmenopausal women and anyone facing prolonged immobility."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42705912",
+      "headline": "Reactive hypoglycemia in pregnancy may be more dangerous than gestational diabetes \u2014 and it's barely on the radar",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2721948",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 343 pregnant women in Indonesia screened with oral glucose tolerance testing (OGTT) after 24 weeks, comparing those with reactive hypoglycemia (RH), gestational diabetes (GDM), and normal glucose tolerance. Women with RH \u2014 defined as a 2-hour OGTT value at or below the fasting value \u2014 had higher rates of low birthweight (15.38% vs 4.05%), NICU admission (11.54% vs 3.24%), and preterm birth (11.54% vs 1.62%) than women with normal glucose tolerance, and worse outcomes than those with GDM on several measures. Elevated first-trimester uterine artery resistance in the RH group suggests the adverse outcomes may be placenta-driven rather than purely metabolic.",
+      "why_it_matters": "Women who pass standard gestational diabetes screening may still carry a lesser-known glucose pattern that is associated with higher rates of premature birth and low birthweight than GDM itself.",
+      "caveats": "observational design, single-center, retrospective, small sample (N=26 in RH group), study population in Indonesia (may not generalize to Western clinical settings), short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Pregnancy-specific finding, counterintuitive vs GDM; limited by small RH subgroup and regional setting.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "You Passed Your Gestational Diabetes Test \u2014 But This Other Glucose Pattern Could Be More Dangerous",
+          "hook": "A blood sugar pattern that doesn't trigger a gestational diabetes diagnosis may actually be associated with worse pregnancy outcomes than GDM itself.",
+          "pitch_angle": "Researchers found that pregnant women with reactive hypoglycemia \u2014 a pattern where blood sugar drops lower at 2 hours than at fasting \u2014 had higher rates of preterm birth and low birthweight than women diagnosed with GDM, suggesting standard screening may be missing a clinically important group. Experts say placental dysfunction, not just blood sugar levels, may be driving the risk."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "The Pregnancy Blood Sugar Red Flag That Doctors Might Not Be Looking For",
+          "hook": "Passing your glucose tolerance test doesn't necessarily mean your pregnancy glucose picture is clear.",
+          "pitch_angle": "A new study from Indonesia found that a subtle glucose pattern called reactive hypoglycemia \u2014 identified on the same OGTT used to screen for gestational diabetes \u2014 was linked to higher risks of NICU admission and low birthweight than GDM, raising questions about whether current screening protocols are sufficient. The finding points to the placenta as a possible root cause, opening a new avenue for early pregnancy monitoring."
+        }
+      ],
+      "run_date": "2026-09-09",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
     {
       "pmid": "42139870",
       "headline": "Anorexia patients face stigma and procedural unfairness when their right to refuse treatment is challenged in court, study finds",
@@ -60,294 +654,6 @@
       ],
       "run_date": "2026-09-08",
       "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42702794",
-      "headline": "ADHD's diagnostic rulebook has shifted so many times that experts question whether it's measuring the same thing across genders",
-      "journal": "The British Journal of Psychiatry",
-      "pubdate": "2026 Sep 7",
-      "doi": "10.1192/bjp.2026.10768",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A theoretical analysis anchored in systematic textual review of all DSM descriptions of ADHD from DSM-III (1980) to DSM-5-TR (2022) examined five core classification challenges in ADHD diagnosis. The study is a single-author conceptual paper \u2014 not a clinical trial with participants \u2014 drawing on philosophy of science and prior empirical textual analysis. Key findings suggest that successive diagnostic revisions have created tensions around gender heterogeneity, prevalence thresholds, and comorbidity boundaries that may result in diagnostic inconsistency, particularly across sexes.",
-      "why_it_matters": "Women and girls are still frequently underdiagnosed or misdiagnosed with ADHD, and this analysis suggests the diagnostic criteria themselves may be structurally biased toward male presentations.",
-      "caveats": "observational design, no sex-disaggregated data, single-center, secondary analysis, no human subject sample",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Gender-and-ADHD angle is timely for women's health; theoretical paper limits actionability and study quality.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "The DSM Has Rewritten ADHD's Rules Six Times \u2014 and Women May Be Paying the Price",
-          "hook": "Each revision of psychiatry's diagnostic bible has quietly shifted what counts as ADHD \u2014 and a new analysis suggests those shifts may explain why so many women are still missed.",
-          "pitch_angle": "A conceptual analysis of 40-plus years of DSM changes finds that gender heterogeneity has been an acknowledged problem in ADHD classification all along, yet criteria have never been systematically redesigned to capture female presentations. For a generation of women who got diagnosed in their 30s or 40s, this is validation that the system, not just the clinician, was working against them."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42704947",
-      "headline": "Removing ovaries reverses schizophrenia-linked brain deficits in female rats \u2014 pointing to ovarian hormones as a key culprit",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Sep 7",
-      "doi": "10.1016/j.schres.2026.09.002",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a rat model of schizophrenia \u2014 triggered by immune activation during pregnancy \u2014 to test whether ovarian hormones influence brain function in female offspring. Female rats born to immune-activated mothers showed impaired sensory gating (a marker of psychosis risk), but ovariectomy reversed these deficits, restoring normal dopamine and NMDA receptor function. The findings suggest ovarian steroid hormones may play a central role in how prenatal immune exposure shapes psychosis-related brain circuits in females.",
-      "why_it_matters": "These findings suggest ovarian hormones could be a meaningful target for developing female-specific treatments for schizophrenia, a condition where sex differences in onset and severity are well-documented but poorly understood.",
-      "caveats": "animal or cell study only, small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant hormonal/women's health angle, but animal study only.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / General health",
-          "headline": "Your ovaries may be doing more for your mental health than anyone realized",
-          "hook": "A new rat study found that removing the ovaries actually reversed schizophrenia-linked brain deficits \u2014 suggesting ovarian hormones may be fueling psychosis risk, not protecting against it.",
-          "pitch_angle": "Researchers found that female rats predisposed to schizophrenia-like symptoms had their brain deficits reversed after ovariectomy, implicating ovarian hormones in psychosis pathways. The finding is counterintuitive and could eventually reshape how scientists think about hormonal influences on serious mental illness in women."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42706486",
-      "headline": "Air pollution may trigger sudden unexpected infant death within days of exposure, large French registry study finds",
-      "journal": "Paediatric and Perinatal Epidemiology",
-      "pubdate": "2026 Sep 7",
-      "doi": "10.1111/ppe.70196",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using data from the French national SUDI (sudden unexpected death in infancy) registry covering 2015\u20132022, researchers conducted a case-crossover analysis of 1,078 infant deaths to assess whether short-term air pollution exposure was associated with SUDI. Particulate matter (PM10 and PM2.5) exposure was consistently associated with higher odds of SUDI, with effects appearing 3\u20135 days before death and persisting across cumulative exposure windows; NO2 showed a trend of association. Seasonal effects were observed, with stronger associations in spring for PM and ozone.",
-      "why_it_matters": "For parents and caregivers of infants, this early evidence suggests that air quality in the days before an infant's death may be a contributing environmental factor, pointing to the potential value of air quality monitoring in SUDI prevention strategies.",
-      "caveats": "observational design, single-country (France), ecological exposure assessment (modeled data, not personal monitoring), no sex-disaggregated outcome data reported at primary level",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Perinatal relevance; large registry; environmental health hook; not women-specific finding.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Air Pollution May Raise the Risk of Sudden Infant Death \u2014 Even Days After Exposure",
-          "hook": "A study of more than 1,000 infant deaths found that particulate matter in the air was associated with higher odds of sudden unexpected infant death in the days that followed \u2014 a finding with real implications for families.",
-          "pitch_angle": "French researchers found that infants were more likely to die suddenly in the days following elevated fine particle pollution, suggesting air quality may be an underrecognized environmental trigger for SUDI \u2014 and a potential target for prevention efforts that go beyond sleep position guidance."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42693223",
-      "headline": "After miscarriage or stillbirth in Pakistan, women are left to grieve alone \u2014 and often blame themselves",
-      "journal": "Culture, Medicine and Psychiatry",
-      "pubdate": "2026 Sep 3",
-      "doi": "10.1007/s11013-026-10019-y",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted in-depth interviews with 18 pregnant women in Rawalpindi, Pakistan (early to mid-pregnancy, \u226422 weeks) who had experienced a prior miscarriage or stillbirth and had at least mild anxiety in their current pregnancy. Women frequently blamed themselves for their loss \u2014 attributing it to diet, travel, or heavy chores \u2014 and described family responses and provider behaviors (such as withholding information about the deceased fetus) as compounding their distress. Spiritual beliefs around fate (qadar) and the evil eye (nazar) shaped how women processed their grief, highlighting culturally specific psychosocial needs that existing care systems do not address.",
-      "why_it_matters": "The study reveals how self-blame, stigma, and inadequate provider communication leave women emotionally unsupported between pregnancy losses and subsequent pregnancies \u2014 a gap in interpregnancy care that likely extends beyond Pakistan.",
-      "caveats": "small sample (N<100), qualitative design, single-center, single-region (Pakistan), self-reported outcomes",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Perinatal mental health focus, women-only sample, but very small and region-specific qualitative study.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Self",
-          "headline": "After a Miscarriage, Many Women Are Told Nothing \u2014 and Blamed for Everything",
-          "hook": "A new study found that women who experienced miscarriage or stillbirth in Pakistan were routinely left without information about their loss, and often heard messages \u2014 from family and providers alike \u2014 that it was their own fault.",
-          "pitch_angle": "Researchers interviewed 18 women navigating a subsequent pregnancy after pregnancy loss and found a pattern of self-blame, stigma, and emotional isolation rooted in both cultural beliefs and inadequate medical communication. The findings point to a need for structured psychosocial support between pregnancies \u2014 a gap that advocates say exists far beyond South Asia."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42691251",
-      "headline": "Feeling rejected sabotages sobriety \u2014 and getting sober reduces feelings of rejection, new year-long study finds",
-      "journal": "Psychology of Addictive Behaviors",
-      "pubdate": "2026 Sep 3",
-      "doi": "10.1037/adb0001184",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 501 adults (mean age 41, 57.5% female) who reported a new alcohol use disorder remission attempt, assessing interpersonal dynamics and recovery outcomes at six time points over 12 months. Using longitudinal models, they found that reductions in perceived hostility and rejection tracked alongside reductions in alcohol problems and increases in abstinent days \u2014 and that greater abstinence was associated with subsequent declines in perceived hostility. Most analyses did not support a clear directional (cross-lagged) effect between social dynamics and drinking, suggesting the relationship is mutual and simultaneous rather than one causing the other.",
-      "why_it_matters": "For women in alcohol recovery, who often cite relationship stress as a key relapse trigger, this suggests that addressing social hostility and rejection \u2014 not just drinking behavior \u2014 may be an important part of sustained recovery.",
-      "caveats": "observational design, self-reported outcomes",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Majority-female sample, longitudinal design, clear lifestyle hook for women in recovery.",
-      "pitch_angles": [
-        {
-          "publication_type": "Self",
-          "headline": "Feeling Rejected Could Be Making It Harder to Get Sober \u2014 and Getting Sober Helps You Feel Less Rejected",
-          "hook": "A year-long study of 500+ people in alcohol recovery found that feeling hostility and rejection from others moves in lockstep with drinking \u2014 and that the relationship runs both ways.",
-          "pitch_angle": "Researchers found that as people in recovery felt less social hostility and rejection, their alcohol problems also decreased \u2014 and vice versa, with greater sobriety associated with feeling less rejected over time. For women, who are more likely to name relationship conflict as a relapse trigger, the finding underscores why social support and interpersonal therapy deserve a central role in recovery programs."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Social Circle May Be One of the Most Overlooked Factors in Alcohol Recovery",
-          "hook": "A new study suggests that the emotional temperature of your relationships \u2014 not just willpower \u2014 shapes how sobriety unfolds over a full year.",
-          "pitch_angle": "In a 12-month study of over 500 people attempting alcohol recovery, perceived hostility and rejection declined alongside drinking problems in a mutually reinforcing pattern \u2014 meaning healthier relationships and less drinking appeared to build on each other. The findings point to social wellness as an underrated lever in addiction recovery, particularly for women navigating relationship-heavy recovery journeys."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42692293",
-      "headline": "First manic episode triggers measurable immune changes and widespread brain wave shifts simultaneously, study finds",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Sep 3",
-      "doi": "10.1016/j.jad.2026.122466",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Turkish researchers enrolled 60 drug-na\u00efve inpatients experiencing their first manic episode and 60 age- and sex-matched healthy controls, measuring inflammatory blood markers and resting-state EEG brain oscillations. Patients showed elevated monocyte counts and monocyte-to-lymphocyte ratios, lower albumin, and significantly higher EEG spectral power across multiple brain regions and frequency bands. Lower albumin \u2014 a marker of inflammation and nutritional status \u2014 was associated with higher frontal and central beta power within the patient group, though this link did not survive strict multiple-comparison correction.",
-      "why_it_matters": "Women with bipolar disorder often experience more depressive episodes and may have distinct immune profiles compared to men, making early biological markers of mania an important area for sex-specific future research.",
-      "caveats": "small sample (N<100), observational design, single-center, no sex-disaggregated data, key inflammation-EEG associations did not survive FDR correction, inflammatory panel limited to routine measures, Turkish inpatient sample",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting biological finding but no sex-disaggregated data; small single-center sample with key findings not surviving correction.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Blood Protein and Brain Wave Pattern Together May Signal a First Manic Episode Before Treatment Begins",
-          "hook": "A new study found that people in their very first manic episode \u2014 before any medication \u2014 already show measurable immune changes and altered brain rhythms that distinguish them from healthy peers.",
-          "pitch_angle": "Researchers identified an immune-metabolic signature alongside broad EEG changes in drug-na\u00efve first-episode mania, suggesting the condition has detectable biological footprints even at its earliest stage. While findings are preliminary and need replication, they open the door to earlier, objective detection of bipolar disorder."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42693254",
-      "headline": "Iron status in premature infants on anemia drug may be harder to read than doctors thought",
-      "journal": "Journal of Perinatology",
-      "pubdate": "2026 Sep 3",
-      "doi": "10.1038/s41372-026-02889-2",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed datasets from two sources to assess iron sufficiency in extremely low birth weight neonates receiving darbepoetin, a drug used to boost red blood cell production and reduce transfusions. They found that traditional iron markers (RET-He) dropped sharply in darbepoetin-treated infants, but the majority (83%) of those with low RET-He readings still showed iron sufficiency on newer red cell metrics. The findings suggest that using both traditional and novel erythrocyte markers together gives a more accurate picture of iron status during accelerated erythropoiesis.",
-      "why_it_matters": "For parents of premature infants, this suggests the tools used to monitor iron levels in the NICU may need updating to avoid unnecessary iron supplementation or missed deficiency.",
-      "caveats": "small sample (N<100 for RH subgroup implied), retrospective/secondary analysis, single-center (partial), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Neonatal/clinical focus; low direct women's health or lifestyle hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "The Iron Tests Used in NICUs May Be Giving Doctors the Wrong Answer",
-          "hook": "A common marker used to monitor iron in premature babies on anemia medication may be misleading on its own, new research suggests.",
-          "pitch_angle": "Researchers found that a standard iron marker dropped sharply in preemies given darbepoetin, but most of those infants were actually iron-sufficient when newer tests were used \u2014 raising questions about NICU monitoring standards that matter deeply to families of premature babies."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42686075",
-      "headline": "Brain chemistry in depressed people with low BMI looks surprisingly different \u2014 and may be working harder to compensate",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Sep 2",
-      "doi": "10.1016/j.jad.2026.122465",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used multi-voxel MRS brain imaging to examine prefrontal neurochemical profiles in 66 first-episode, drug-na\u00efve Han Chinese adults with major depressive disorder and 79 healthy controls, stratified by BMI. Those with depression and low BMI showed nominally higher levels of GABA and NAA in key prefrontal regions \u2014 though differences didn't survive false discovery rate correction \u2014 and had better lipid profiles and lower depression scores than their normal-BMI counterparts. The pattern suggests a possible compensatory neurobiological mechanism tied to low BMI in depression, though the cross-sectional design cannot confirm causation.",
-      "why_it_matters": "For women, who are diagnosed with depression at roughly twice the rate of men and often experience weight and body image concerns alongside mood symptoms, this early evidence suggests BMI may shape the brain's neurochemical response to depression in ways that aren't yet understood.",
-      "caveats": "small sample (N<100), observational design, single-center, no sex-disaggregated data, short follow-up, Han Chinese population (results may not generalize), key neuroimaging findings did not survive FDR correction",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Psychiatry finding lacks sex-disaggregated data; small single-center Chinese sample limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your BMI Might Actually Change How Your Brain Handles Depression, New Research Suggests",
-          "hook": "Brain scans of people with depression reveal that those with lower BMIs show a surprisingly different \u2014 and possibly more compensatory \u2014 neurochemical pattern than those with higher BMIs.",
-          "pitch_angle": "A small imaging study found that low-BMI individuals with depression had nominally higher levels of key brain metabolites associated with resilience, though findings are early and not yet confirmed. This adds nuance to the often oversimplified conversation about weight and mental health."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42684086",
-      "headline": "Newer antipsychotics are not uniformly safer for movement disorders \u2014 and the risk varies by sex and age",
-      "journal": "The Journal of Nervous and Mental Disease",
-      "pubdate": "2026 Sep 2",
-      "doi": "10.1097/NMD.0000000000001892",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed FDA Adverse Event Reporting System (FAERS) data from 2012 to 2024, calculating reporting odds ratios for tardive dyskinesia (TD) across first- and second-generation antipsychotics, with stratification by age and sex. Contrary to longstanding clinical assumption, second-generation antipsychotics were not uniformly associated with lower TD risk than older drugs, with significant variation observed across individual agents. Clozapine was a notable exception, showing a lower odds ratio for TD compared with other antipsychotics.",
-      "why_it_matters": "Women are prescribed antipsychotics at high rates for conditions including depression, anxiety, and bipolar disorder, and are known to be at higher risk for tardive dyskinesia than men \u2014 making individualized risk assessment especially critical for this population.",
-      "caveats": "observational design, self-reported outcomes, pharmacovigilance data subject to reporting bias, no sex-disaggregated data published in abstract (stratification mentioned but results not detailed)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Overturns prior belief on antipsychotic safety; sex stratification noted but not detailed in abstract.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "The Common Assumption About Newer Antipsychotics and Movement Disorders Is Wrong, Large Study Finds",
-          "hook": "Doctors have long assumed that newer antipsychotics carry a lower risk of causing involuntary movement disorders \u2014 but a large analysis of FDA adverse event data says that's not reliably true.",
-          "pitch_angle": "A pharmacovigilance study of over a decade of FDA data found that second-generation antipsychotics vary widely in their tardive dyskinesia risk, with some no safer than older drugs. Since women face higher TD risk than men and are frequently prescribed antipsychotics off-label, this finding has real implications for informed prescribing conversations."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "The 'Safer' Psychiatric Drugs May Not Be As Safe As Your Doctor Thinks",
-          "hook": "A decade of FDA adverse event data is challenging one of psychiatry's most comfortable assumptions \u2014 that switching to newer antipsychotics automatically means less risk of permanent movement disorders.",
-          "pitch_angle": "Women are disproportionately affected by tardive dyskinesia and are among the most common users of antipsychotics for mood and anxiety disorders, yet drug safety messaging hasn't caught up with the actual evidence. This study suggests it's time to ask harder questions at the prescribing table."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42686059",
-      "headline": "One in eight women still has perineal pain three months after vaginal birth \u2014 and it's limiting basic daily movement",
-      "journal": "Journal of Gynecology Obstetrics and Human Reproduction",
-      "pubdate": "2026 Sep 2",
-      "doi": "10.1016/j.jogoh.2026.103270",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers prospectively followed 106 women after vaginal delivery, assessing perineal pain at eight time points over 90 days using a numerical rating scale and a standardized anatomical perineal map. Pain was nearly universal immediately after birth and declined over time, but remained clinically meaningful: 78% of women still reported pain at 15 days, 50% at one month, and 13.3% at 90 days. Women with persistent pain were less likely to have resumed sexual activity and more likely to still be using analgesics, with approximately one-third reporting limitations in sitting, standing, or walking at some point during recovery.",
-      "why_it_matters": "The finding that one in eight women experiences persistent perineal pain three months postpartum \u2014 affecting mobility, sex, and daily function \u2014 suggests this common condition is significantly underrecognized and undertreated in postpartum care.",
-      "caveats": "small sample (N=106), single-center, self-reported outcomes, observational design",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Strong postpartum health fit; clear functional impact finding; female-only cohort with prospective design.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Perineal Pain After Childbirth Lasts Way Longer Than Anyone Tells You \u2014 Here's the Timeline",
-          "hook": "A new study tracking women for three months after vaginal birth found that 1 in 8 still had perineal pain at the 90-day mark \u2014 and many couldn't sit, stand, or have sex comfortably.",
-          "pitch_angle": "Researchers mapped exactly where postpartum perineal pain occurs and how long it lingers, finding it's far more persistent and functionally limiting than most postpartum guidance acknowledges. The data makes a case for longer, more detailed postpartum pain screening beyond the standard six-week checkup."
-        },
-        {
-          "publication_type": "Self",
-          "headline": "Your Postpartum Recovery Timeline Is Probably Wrong \u2014 Pain After Vaginal Birth Can Last Months",
-          "hook": "Half of women still reported perineal pain a full month after vaginal delivery in a new prospective study \u2014 and the pain interfered with sitting, walking, and returning to sex.",
-          "pitch_angle": "The study is one of the first to map both the location and functional impact of postpartum perineal pain across 90 days, revealing it affects far more women, for far longer, than mainstream recovery narratives suggest. For new mothers wondering why their body still hurts weeks in, the data validates that experience \u2014 and calls for better clinical attention to postpartum pain."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
@@ -1189,39 +1495,6 @@
       "status": "new"
     },
     {
-      "pmid": "42705912",
-      "headline": "A blood sugar pattern that looks 'too low' on the glucose test may actually signal higher pregnancy risk than gestational diabetes",
-      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/14767058.2026.2721948",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers retrospectively evaluated 343 pregnant women in Indonesia who underwent glucose tolerance testing after 24 weeks gestation to examine whether reactive hypoglycemia (RH) \u2014 a 2-hour glucose value at or below fasting level \u2014 was associated with adverse pregnancy outcomes. Women with RH had higher rates of low birthweight (15.4% vs 4.1%), NICU admission, and preterm birth than women with normal glucose tolerance, and worse rates than those with gestational diabetes on some measures. First-trimester uterine artery resistance was also elevated in the RH group, suggesting the adverse outcomes may be placenta-driven.",
-      "why_it_matters": "This suggests that pregnant women whose glucose dips unusually low on the standard test \u2014 not just those who test high \u2014 may be at meaningful risk that current screening protocols could miss.",
-      "caveats": "small sample (N=26 in RH group), observational design, retrospective, single-center, Indonesia-based population (may not generalize to other dietary/clinical contexts), self-reported outcomes not applicable",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Counterintuitive; reproductive health; female-only sample; small RH subgroup limits strength.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Your Glucose Test Came Back 'Too Low' \u2014 That Might Not Be Good News",
-          "hook": "Most pregnant women worry about a high glucose reading, but new research suggests a surprisingly low result could be just as concerning.",
-          "pitch_angle": "A study found that pregnant women whose blood sugar dipped too low on the standard glucose tolerance test had higher rates of preterm birth and low birthweight babies than even those diagnosed with gestational diabetes \u2014 a finding that could reshape how doctors interpret a commonly overlooked test result."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Pregnancy Blood Sugar Result Doctors May Be Ignoring",
-          "hook": "If your glucose reading came back on the very low end, it might warrant a second look \u2014 here's what the science says.",
-          "pitch_angle": "New research links a 'reactive hypoglycemia' pattern on the pregnancy glucose test to elevated placental resistance and worse birth outcomes, raising questions about whether current screening catches all the women who need closer monitoring."
-        }
-      ],
-      "run_date": "2026-09-08",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42689758",
       "headline": "A hidden genetic glitch buried deep in a gene's non-coding region is causing rare early-childhood diabetes \u2014 and standard tests miss it entirely",
       "journal": "Diabetic Medicine",
@@ -1246,33 +1519,6 @@
       "run_date": "2026-09-07",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42684535",
-      "headline": "A 5-minute eye-gaze task identified autism in children with 95% accuracy in a pilot study",
-      "journal": "Research on Child and Adolescent Psychopathology",
-      "pubdate": "2026 Sep 2",
-      "doi": "10.1007/s10802-026-01498-z",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tested a brief standardized observational task \u2014 the Eye Gaze Shift Task (EGST) \u2014 in 58 children (29 with ASD, 29 without) undergoing clinical autism evaluations. The task, which prompts a child to respond to an ambiguous social cue, was scored on a 4-point scale and analyzed against final clinical diagnoses. It achieved 100% sensitivity, 89.7% specificity, and 94.8% overall accuracy, with an AUC of 0.989.",
-      "why_it_matters": "Earlier and more accessible autism screening tools could be particularly meaningful for girls, who are frequently diagnosed later than boys, though this study did not analyze results by sex.",
-      "caveats": "small sample (N<100), single-center, pilot study, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Pediatric diagnostic tool; no female-specific data; small pilot sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Quick Eye-Gaze Test May Help Spot Autism in Young Children More Accurately",
-          "hook": "A brief observational task focused on how children respond to a social cue correctly identified autism with nearly 95% accuracy in a small pilot study.",
-          "pitch_angle": "The Eye Gaze Shift Task takes minutes to administer alongside standard evaluations and could complement existing tools \u2014 though the study didn't examine whether it performs differently for girls, who are often missed by current screening protocols."
-        }
-      ],
-      "run_date": "2026-09-07",
-      "category": "Psychiatry",
-      "chunk": "2/2",
       "status": "new"
     },
     {
