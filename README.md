@@ -32,12 +32,45 @@ Can also be triggered manually via **Actions -> Women's Health Research Digest -
 
 | Category | Journals | Jobs |
 |---|---:|---|
-| Womens Health & Reproduction | 144 | 2 (chunks 1-2) |
-| Endocrinology & Metabolism | 152 | 2 (chunks 1-2) |
+| Womens Health & Reproduction | 149 | 2 (chunks 1-2) |
+| Endocrinology & Metabolism | 157 | 2 (chunks 1-2) |
 | Psychiatry | 216 | 2 (chunks 1-2) |
 | Nutritional Sciences | 62 | 2 (chunks 1-2) |
 
 Large categories are split into chunks to keep run times under 20 minutes.
+
+The category CSVs in `data/` are now hand-maintained and are the source of truth. `scripts/extract_journals.py` originally generated them from a spreadsheet that no longer exists, so re-running it would wipe hand-added rows.
+
+## Journal list audit (2026-09-14)
+
+**Method:** Pulled OpenAlex's top sources for this digest's subject areas over the prior year, diffed them against the CSVs (by any ISSN or title), and kept only titles NCBI lists with PubMed articles in the last 12 months. Every journal added contributes its entire weekly PubMed output (there is no topic filter), so only titles whose whole output fits the women's health, reproductive, hormonal, mental health, and nutrition beat were considered.
+
+**Added (10):**
+
+| Journal | ISSN | Category | PubMed/yr |
+|---|---|---|---:|
+| International Journal of Women's Health | 1179-1411 | Womens Health & Reproduction | ~806 |
+| Sexual Medicine (ISSM) | 2050-1161 | Womens Health & Reproduction | ~115 |
+| F&S Reports (ASRM) | 2666-3341 | Womens Health & Reproduction | ~97 |
+| Clinical and Experimental Reproductive Medicine | 2233-8241 | Womens Health & Reproduction | ~88 |
+| Facts, Views & Vision in ObGyn | 2684-4230 | Womens Health & Reproduction | ~67 |
+| Journal of the Endocrine Society | 2472-1972 | Endocrinology & Metabolism | ~288 |
+| Endocrine Connections | 2049-3614 | Endocrinology & Metabolism | ~217 |
+| Diabetes & Metabolism Journal | 2233-6087 | Endocrinology & Metabolism | ~147 |
+| BMJ Open Diabetes Research & Care | 2052-4897 | Endocrinology & Metabolism | ~90 |
+| Thyroid Research | 1756-6614 | Endocrinology & Metabolism | ~48 |
+
+**Already covered:** Menopause (1530-0374) and Climacteric were already in the Womens Health & Reproduction list.
+
+**Notable exclusions:**
+- **Off-beat (neurology/aging):** Journal of Alzheimer's Disease (also ~1,087 PubMed/yr), Epilepsia, Epilepsy & Behavior, Seizure, Epileptic Disorders, Epilepsy Research, Journal of Headache and Pain, Headache, Cephalalgia, Developmental Medicine & Child Neurology, the Alzheimer's & Dementia spin-offs, Innovation in Aging, and International Journal of Lower Extremity Wounds. OpenAlex's topic classifier lumped these in, but most of what they publish falls outside this beat. No usable candidate was a Frontiers/MDPI-style mega-journal; Journal of Alzheimer's Disease was the only one over ~1,000 PubMed/yr.
+- **General psychiatry with little women's health content:** Schizophrenia (npj), Schizophrenia Research: Cognition, Journal of ECT.
+- **Case reports:** JCEM Case Reports, and AACE Endocrinology and Diabetes (88 of ~155 PubMed items in the past year were case reports).
+- **Lower value or redundant:** Diabetes Therapy (mostly industry-sponsored analyses), Therapeutic Advances in Endocrinology and Metabolism (mostly reviews), Frontiers in Clinical Diabetes and Healthcare, Cardiovascular Diabetology – Endocrinology Reports, Diabetology International, Gynecology and Minimally Invasive Therapy (surgical technique), Journal of Obstetrics and Gynaecology of India (regional).
+- **Too few PubMed articles:** Diabetology, Diabetes, Obesity, and Cardiometabolic CARE, Cereal Chemistry, Alzheimer's & Dementia: Behavior & Socioeconomics of Aging.
+- **Not in PubMed:** International Journal of Clinical Obstetrics and Gynaecology (~495 topic articles/yr in OpenAlex), International Journal of Reproduction, Contraception, Obstetrics and Gynecology (~367), Journal of South Asian Federation of Obstetrics and Gynaecology, Clinical and Experimental Obstetrics & Gynecology, Middle East Fertility Society Journal, International Journal of Reproductive BioMedicine, and several endometriosis, fertility, and national OB/GYN titles. None of these had PubMed articles in the last 12 months, so the pipeline can't use them.
+
+Each category grew by less than 5%, so the workflow chunking is unchanged.
 
 ## Manual Trigger
 
