@@ -16,7 +16,7 @@ A GitHub Actions workflow that searches curated women's health, reproductive med
 
 Features:
 - Card view per study with headline, summary, caveats, fact-check notes
-- Expandable pitch angles section for publications such as Women's Health Magazine, Prevention, Well+Good, The Cut, Shape, and general health outlets
+- Expandable pitch angles section for publications such as Women's Health Magazine, Prevention, Health.com, Well+Good, The Cut (health section), Shape, Allure, Good Housekeeping, First for Women, Woman's World, and general health outlets
 - Filter by category, groundbreaking type, status, date range, and score
 - Search across all study text and pitches
 - Status tracking (New / Saved / Pitched / Passed) saved to localStorage
