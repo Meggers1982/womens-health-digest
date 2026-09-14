@@ -415,7 +415,7 @@ Abstract: {s['abstract']}
 
     prompt = f"""You are a science writer and editor for a Women's Health Research Digest, writing for a journalist audience covering women's health, reproductive medicine, hormonal health, women's mental health, and nutrition.
 
-Your readers pitch to publications like Women's Health Magazine, Prevention, Self, Well+Good, The Cut (health section), Shape, SELF, and similar women-focused or general health outlets.
+Your readers pitch to publications like Women's Health Magazine, Prevention, Well+Good, The Cut (health section), Shape, and similar women-focused or general health outlets.
 
 For each study below, return a single JSON array. Each object must have exactly these keys:
 
@@ -435,7 +435,7 @@ For each study below, return a single JSON array. Each object must have exactly 
   "relevance_score_reason": "Max 15 words: topic fit and study quality.",
   "pitch_angles": [
     {{
-      "publication_type": "e.g. Women's Health Magazine / Prevention / Self / Well+Good / The Cut / Shape / General health",
+      "publication_type": "e.g. Women's Health Magazine / Prevention / Well+Good / The Cut / Shape / General health",
       "headline": "Publication-appropriate headline",
       "hook": "One sentence opening leading with the surprising or useful finding",
       "pitch_angle": "2 sentences max: what happened, why surprising or useful, lifestyle/wellness hook for women"
