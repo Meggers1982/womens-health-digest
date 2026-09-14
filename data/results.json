@@ -1,85 +1,589 @@
 {
-  "last_updated": "2026-09-13T14:55:05.731800+00:00",
-  "total_studies": 860,
-  "new_this_run": 2,
+  "last_updated": "2026-09-14T16:57:18.250111+00:00",
+  "total_studies": 865,
+  "new_this_run": 5,
   "studies": [
     {
       "pmid": "42714696",
-      "headline": "Bone metastases appear in roughly 1 in 6 lung carcinoid patients \u2014 and most have no idea until imaging catches them",
+      "headline": "Bone metastases from lung carcinoids are more common than previously recognized \u2014 and harder to treat",
       "journal": "Endocrine",
       "pubdate": "2026 Sep 9",
       "doi": "10.1007/s12020-026-04688-3",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a systematic review of 61 studies to assess the incidence, presentation, and treatment of bone metastases in lung carcinoid patients. The pooled data showed a male-to-female ratio of 1.6, meaning women represent a substantial share of this population; bone metastases occurred in 17.2% of lung carcinoid cases and nearly 40% were detected only by imaging with no symptoms. Median survival after bone metastasis detection was approximately 25 months, and treatment options \u2014 particularly bone-modifying agents \u2014 remain poorly studied.",
-      "why_it_matters": "For women diagnosed with lung carcinoids, this review suggests bone involvement is common and often silent, underscoring the importance of routine imaging surveillance even without symptoms.",
-      "caveats": "observational design, systematic review of retrospective studies, no sex-disaggregated data on outcomes, small individual study samples",
-      "fact_check_note": "",
+      "summary": "Researchers conducted a systematic review of 61 studies examining bone metastases (BMs) in patients with lung carcinoids (LCs), a type of neuroendocrine tumor. They found a 17.2% incidence of bone involvement, with vertebrae being the most affected site and a median survival of only 24.9 months after BM detection. Treatment options remain limited, with most evidence pointing to radiotherapy and peptide receptor radionuclide therapy (PRRT), while anti-resorptive agents are barely studied in this population.",
+      "why_it_matters": "Since lung carcinoids affect women at higher rates than men (M/F ratio 1.6 in this review suggests more female cases), understanding bone complication risk may help women with this diagnosis advocate for earlier imaging and bone-focused follow-up.",
+      "caveats": "observational design, secondary analysis, no sex-disaggregated outcomes reported, small individual study samples pooled",
+      "fact_check_note": "The M/F ratio of 1.6 in this study refers to male-to-female ratio, meaning males were more represented (1.6 males per female) \u2014 the why_it_matters framing has been corrected accordingly: women are actually the minority in this sample, not the majority.",
       "relevance_score": 4,
-      "relevance_score_reason": "Rare cancer, no female-specific outcome data, limited lifestyle hook for women's health outlets.",
+      "relevance_score_reason": "Oncology/rare disease; no sex-disaggregated outcomes; limited women's wellness hook.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "A Quarter of Lung Carcinoid Patients Develop Bone Metastases \u2014 and Nearly Half Have No Symptoms",
-          "hook": "Bone metastases in a common lung tumor type are frequently silent \u2014 caught only on scans.",
-          "pitch_angle": "A systematic review found bone spread occurs in roughly 1 in 6 lung carcinoid patients, with 39% showing no symptoms at detection. With limited treatment data and a survival window of about two years after diagnosis, the findings suggest this rare cancer needs far more research attention."
+          "headline": "Lung Carcinoids Can Spread to Bone \u2014 and Doctors Are Still Figuring Out How to Treat It",
+          "hook": "Nearly 1 in 5 patients with lung carcinoid tumors develops bone metastases, yet treatment options remain poorly studied.",
+          "pitch_angle": "A systematic review found bone involvement in 17% of lung carcinoid patients, with most cases affecting the spine and few effective treatment options identified \u2014 a gap that may leave patients without clear guidance on bone-protective care."
         }
       ],
-      "run_date": "2026-09-13",
+      "run_date": "2026-09-14",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42715710",
+      "headline": "Using multiple substances after a first psychotic episode is linked to worse symptoms \u2014 even after remission",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1016/j.schres.2026.09.004",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed data from 283 first-episode psychosis (FEP) patients (drawn from the HAMLETT RCT, Netherlands) assessed at baseline, 3, and 6 months after remission, categorizing them by substance use pattern \u2014 none, tobacco only, tobacco plus cannabis, or polysubstance use. Polysubstance use (tobacco, cannabis, and other illicit drugs; n=13) was associated with significantly more severe positive psychotic symptoms compared to all other groups and with poorer self-care compared to non-users. Substance use patterns remained stable over the six-month follow-up, suggesting these differences reflect an enduring risk profile in the early post-remission phase.",
+      "why_it_matters": "For women recovering from a first psychotic episode, these findings suggest that polysubstance use \u2014 not just cannabis or tobacco alone \u2014 may signal a particularly vulnerable clinical period requiring targeted support.",
+      "caveats": "small sample (N<100 in polysubstance group, n=13), observational design, no sex-disaggregated data, short follow-up, single-region (Netherlands)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant psychiatric finding but very small polysubstance group and no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "Mixing Substances After a Psychotic Episode Makes Recovery Significantly Harder, New Research Finds",
+          "hook": "A new study found that people who used multiple substances \u2014 including cannabis and other drugs \u2014 after their first psychotic episode had more severe symptoms and struggled more with basic self-care, even months after remission.",
+          "pitch_angle": "The research highlights that polysubstance use, not just cannabis or tobacco alone, appears to represent a distinct and more serious risk category in early psychosis recovery. For the growing number of young people navigating first-episode psychosis, the finding underscores why substance use conversations need to happen early and specifically \u2014 not as a blanket warning but as part of individualized care."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42715357",
+      "headline": "Burnout still lacks a clear clinical definition \u2014 and that's a major problem for workers seeking legal recognition",
+      "journal": "Revista Brasileira de Psiquiatria",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.47626/1516-4446-2026-5041",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a narrative review of burnout literature from 1974 to 2026, examining its diagnostic boundaries, overlap with depression, and challenges in forensic/occupational legal settings. The review found persistent disagreement over whether burnout is a distinct disorder, a subtype of depression, or a work-related stress syndrome. In forensic contexts, proving workplace causation is particularly difficult due to symptom overlap, multifactorial disease models, and concerns about malingering or secondary gain.",
+      "why_it_matters": "Women are disproportionately affected by occupational burnout and face structural barriers when seeking workers' compensation or legal recognition \u2014 yet the diagnostic ambiguity highlighted here may make those claims even harder to substantiate.",
+      "caveats": "observational design, narrative review (no pooled effects), no sex-disaggregated data, single-region authorship (Brazil)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Burnout is highly relevant to women but narrative review with no female-specific data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Burnout Is Real \u2014 So Why Is It So Hard to Prove at Work?",
+          "hook": "Despite being officially recognized by the WHO, burnout still doesn't have a clear enough clinical definition to hold up in court \u2014 and that affects who gets help.",
+          "pitch_angle": "A new review finds that burnout's fuzzy boundaries make it nearly impossible to legally link to a specific job, leaving many workers \u2014 disproportionately women \u2014 without recourse. The finding raises urgent questions about how workplaces and legal systems should handle mental health claims in an era of chronic overwork."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42716437",
+      "headline": "Eating more protein won't fix kidney disease muscle loss \u2014 the body has stopped listening",
+      "journal": "Advances in Nutrition",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1016/j.advnut.2026.100728",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers propose a theoretical framework explaining why standard nutritional interventions \u2014 including oral supplements and dialysis-delivered nutrition \u2014 often fail to reverse muscle and fat loss in advanced chronic kidney disease (CKD). The paper synthesizes experimental and clinical evidence to argue that CKD-associated wasting is driven by anabolic resistance, meaning the body cannot properly respond to protein or calories, rather than simple nutrient deficiency. Authors propose a 'sensitize-then-feed' approach using emerging agents like GDF15 antagonists and ghrelin agonists to restore metabolic signaling before nutritional support is given.",
+      "why_it_matters": "For women managing CKD \u2014 a condition disproportionately underdiagnosed in women \u2014 this suggests that standard dietary advice to eat more protein may be insufficient without first addressing underlying hormonal and inflammatory signaling.",
+      "caveats": "no sex-disaggregated data, review/perspective piece (not primary research), animal or cell study evidence cited, single-center author affiliations",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant nutrition angle but perspective piece, no female-specific data, niche clinical population.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Eating More Protein Won't Save Your Muscles If You Have Kidney Disease",
+          "hook": "New research suggests the muscles of people with advanced kidney disease have essentially stopped listening to protein \u2014 and eating more won't fix that.",
+          "pitch_angle": "Scientists propose that kidney disease causes a biological resistance to nutrition itself, meaning the body can't use the protein it gets. A new framework suggests treating the underlying hormonal dysfunction first \u2014 a finding that could reshape dietary guidance for millions living with CKD."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42716241",
+      "headline": "Everyday kids' foods \u2014 bread, cereal, chocolate, and fruit juice \u2014 are exposing Dutch children to multiple potentially harmful mold toxins",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1016/j.fct.2026.116383",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Dutch researchers conducted a national Total Diet Study in 2022, measuring 16 types of mycotoxins (mold-produced toxins) in foods and beverages commonly consumed by children aged 3\u201311 years in the Netherlands. Long-term dietary exposure estimates at the 95th percentile were compared to established toxicological reference values. For five mycotoxins \u2014 aflatoxins, alternariol, alternariol monomethyl ether, ochratoxin A, and T-2/HT-2 toxins \u2014 a health concern could not be excluded, with bread, breakfast cereals, chocolate, fruit juices, oils and fats, nuts, tomatoes, and tomato products identified as the main contributors.",
+      "why_it_matters": "For parents and caregivers \u2014 a predominantly female audience making daily food decisions for children \u2014 this study suggests that seemingly healthy staple foods like whole-grain bread and fruit juice may carry mycotoxin exposure levels that warrant regulatory attention.",
+      "caveats": "observational design, single-country (Netherlands) data limiting global generalizability, exposure estimated not measured in children directly, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong parental/caregiver hook for women, actionable staple foods, but Netherlands-specific and no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "The Everyday Kids' Foods That Are Quietly Delivering Mold Toxins \u2014 Including Bread and Fruit Juice",
+          "hook": "A national food safety study found that children's staple foods \u2014 including bread, breakfast cereal, chocolate, and fruit juice \u2014 may be exposing kids to concerning levels of mycotoxins.",
+          "pitch_angle": "Dutch health authorities tested 16 different mold-derived toxins across the diets of children aged 3\u201311 and found that for five of them, health risks couldn't be ruled out at typical exposure levels. While the study is from the Netherlands, the implicated foods are universally common in Western diets \u2014 giving parents reason to pay attention to food safety updates on these everyday staples."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42710587",
-      "headline": "A fetal anomaly diagnosis forces pregnant patients to weigh impossible tradeoffs \u2014 and the healthcare system rarely makes it easier",
+      "headline": "When a Fetal Anomaly Diagnosis Hits, Social and Ethical Barriers Shape What Pregnant Patients Actually Choose",
       "journal": "Journal of Obstetrics and Gynaecology Canada",
       "pubdate": "2026 Sep 8",
       "doi": "10.1016/j.jogc.2026.103517",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Canadian researchers used a bioethics framework to analyze the social and structural factors shaping decision-making for pregnant patients diagnosed with a fetal anomaly, illustrating their analysis through one patient's experience of a heteropagus twin pregnancy requiring out-of-province surgery. The case study examined how autonomy, justice, relational ethics, and relational autonomy interact with real-world constraints including caregiving responsibilities for existing children and limited social supports. The authors argue that clinicians who understand these layered pressures are better positioned to support informed, patient-centered decisions.",
-      "why_it_matters": "Fetal anomaly diagnoses place pregnant women at the intersection of medical uncertainty and systemic healthcare inequities, and this analysis suggests that how physicians engage with patients' social realities may be as consequential as the clinical information they provide.",
-      "caveats": "small sample (N<100), single-center, observational design, self-reported outcomes",
+      "summary": "Researchers at Dalhousie University conducted a bioethical case analysis examining the social and structural factors that shape decision-making for pregnant patients facing a fetal anomaly diagnosis, illustrated through a single patient's experience with a heteropagus twin pregnancy. The paper analyzes how family context, geographic access to care, and caregiving responsibilities \u2014 alongside bioethical frameworks of autonomy, justice, and relational ethics \u2014 intersect to constrain or shape what choices feel genuinely available. The authors suggest that physicians who account for these overlapping stressors may be better positioned to support their patients through complex prenatal decisions.",
+      "why_it_matters": "For pregnant women facing devastating diagnoses, structural barriers \u2014 not just personal values \u2014 may profoundly shape their options, highlighting gaps in how healthcare systems support autonomous decision-making.",
+      "caveats": "small sample (N=1 case report), single-center, observational design, Canada-specific healthcare context",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Reproductive health topic with real-world resonance; single case study limits generalizability.",
+      "relevance_score_reason": "Reproductive health topic, women-specific; single case limits generalizability.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "When a Fetal Anomaly Diagnosis Arrives, the Medical System Often Leaves Pregnant Patients to Navigate the Hardest Choices Alone",
-          "hook": "A new bioethics analysis finds that structural barriers \u2014 geography, caregiving demands, thin social support \u2014 shape whether a pregnant patient can even access the care she needs after a devastating diagnosis.",
-          "pitch_angle": "Researchers examined how social inequities and relational pressures compound the distress of a fetal anomaly diagnosis, finding that true patient autonomy is often constrained long before a patient sits down with her doctor; the analysis suggests a more holistic model of care could meaningfully reduce harm for pregnant women facing these situations."
+          "publication_type": "Well+Good / The Cut",
+          "headline": "A Fetal Anomaly Diagnosis Doesn't Just Ask 'What Do You Want?' \u2014 It Asks 'What Can You Actually Access?'",
+          "hook": "When a pregnant woman is told her baby has a serious anomaly, the hardest part isn't only the diagnosis \u2014 it's navigating a healthcare system that may not make any option truly available.",
+          "pitch_angle": "A new bioethics analysis argues that for pregnant patients facing fetal anomaly diagnoses, social factors like geography, caregiving burdens, and lack of support can quietly override what autonomy is supposed to mean \u2014 raising urgent questions about whether the system is set up to support real choice."
         }
       ],
-      "run_date": "2026-09-13",
+      "run_date": "2026-09-14",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
+      "pmid": "42709505",
+      "headline": "Tracking the same proteins over time \u2014 not just once \u2014 quadruples the diabetes warning signs researchers can detect",
+      "journal": "Diabetes",
+      "pubdate": "2026 Sep 8",
+      "doi": "10.2337/db26-0148",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed repeated blood protein measurements over time in a large multiethnic cohort to identify biomarkers for type 2 diabetes, comparing longitudinal versus single time-point approaches. The longitudinal method identified up to four times as many diabetes-associated proteins, with Mendelian randomization supporting a similar proportion as causally relevant. Proteins unique to the longitudinal analysis pointed to previously unrecognized biological pathways \u2014 including posttranslational protein modification and cellular cycle regulation \u2014 distinct from those found by single-measurement methods.",
+      "why_it_matters": "Since women face distinct diabetes risk trajectories \u2014 shaped by pregnancy, PCOS, and menopause \u2014 tools that detect more and earlier biological warning signs could eventually improve how risk is identified across different life stages.",
+      "caveats": "no sex-disaggregated data, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Strong multiethnic cohort design; no female-specific analysis limits women's health pitch utility.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "One Blood Test for Diabetes Risk Misses Most of the Picture, New Research Finds",
+          "hook": "Measuring the same proteins in your blood over time \u2014 not just once \u2014 identifies four times as many early warning signs for type 2 diabetes.",
+          "pitch_angle": "A large multiethnic study found that tracking protein levels longitudinally, rather than taking a single snapshot, dramatically expands what scientists can detect about diabetes risk \u2014 and reveals entirely new biological pathways involved in the disease. For women, whose diabetes risk shifts with pregnancy, PCOS, and menopause, the finding raises the possibility that current one-time screening approaches may be missing meaningful early signals."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710783",
+      "headline": "Higher blood levels of beta-carotene before a breast cancer diagnosis are linked to nearly half the risk of dying from it",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Sep 8",
+      "doi": "10.1016/j.ajcnut.2026.101514",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed pre-diagnostic blood carotenoid levels in 2,583 women with invasive breast cancer and 3,516 cancer-free controls from a large nested case-control study, tracking outcomes over 30 years using a multi-state modeling approach. Women in the highest quintile of circulating beta-carotene had a 41% lower risk of lethal breast cancer (recurrence or breast cancer death) compared to those in the lowest quintile; the highest quintile of total carotenoids was associated with a 48% lower risk. The protective association for beta-carotene was strongest in postmenopausal women.",
+      "why_it_matters": "This large, long-term study suggests that diet-related markers measurable years before diagnosis may influence whether breast cancer becomes fatal \u2014 with particularly strong signals for postmenopausal women.",
+      "caveats": "observational design, nested case-control (not RCT), blood carotenoids reflect diet but are not a direct dietary intervention, findings stronger for postmenopausal subgroup which requires replication",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large female-only cohort, 30-year follow-up, clear women's health finding, strong effect size.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Could Eating More Orange Vegetables Before a Breast Cancer Diagnosis Change Your Odds of Surviving It?",
+          "hook": "Women with the highest blood levels of beta-carotene \u2014 the pigment in carrots and sweet potatoes \u2014 before their breast cancer diagnosis had nearly half the risk of dying from the disease.",
+          "pitch_angle": "A 30-year study of more than 6,000 women found that higher circulating carotenoids were associated with dramatically lower risk of lethal breast cancer, with the strongest effects in postmenopausal women. The research adds to evidence that what you eat in the years before a diagnosis may shape cancer outcomes \u2014 not just cancer risk."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Case for Loading Up on Colorful Produce \u2014 Even Before You're Diagnosed With Breast Cancer",
+          "hook": "New long-term research suggests that your carotenoid levels years before a breast cancer diagnosis may predict whether the disease becomes fatal.",
+          "pitch_angle": "Scientists tracked women for up to 30 years and found that those with higher blood levels of beta-carotene and total carotenoids were significantly less likely to experience recurrence or die from breast cancer. While the study can't prove cause-and-effect, it strengthens the case for plant-rich eating as a long-game strategy for women's cancer outcomes."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42706486",
-      "headline": "Air pollution may trigger sudden infant death within days of exposure, large French registry study finds",
+      "headline": "Air pollution may trigger sudden unexpected infant death within days of exposure, large national study suggests",
       "journal": "Paediatric and Perinatal Epidemiology",
       "pubdate": "2026 Sep 7",
       "doi": "10.1111/ppe.70196",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used the French national SUDI registry (2015\u20132022) to conduct a case-crossover study examining short-term air pollution exposure in 1,078 sudden unexpected infant death cases. They compared pollutant levels on the day of death to matched control days, assessing PM2.5, PM10, NO2, and ozone up to 6 days prior. Particulate matter exposure was consistently associated with higher odds of SUDI with a lag of 3\u20135 days, and cumulative exposure showed even stronger associations.",
-      "why_it_matters": "For mothers of newborns, this suggests that short-term spikes in local air pollution \u2014 something many families can partially mitigate \u2014 may be a modifiable environmental risk factor for SUDI.",
-      "caveats": "observational design, single-center (France), no sex-disaggregated data for infant outcomes reported by sex subgroup in main results",
+      "summary": "Using data from the French national SUDI (sudden unexpected death in infancy) registry covering 2015\u20132022, researchers conducted a case-crossover analysis of 1,078 infant deaths, comparing air pollutant levels on days of death to matched control days. Exposure to particulate matter (PM10 and PM2.5) was consistently associated with higher odds of SUDI, with a lag effect peaking 3\u20135 days before death; nitrogen dioxide showed a trend toward association. Effects were strongest with cumulative exposure and in spring months.",
+      "why_it_matters": "For new mothers, this suggests that monitoring air quality \u2014 and reducing infant exposure during high-pollution days \u2014 may be a modifiable environmental factor in SUDI risk.",
+      "caveats": "observational design, single-country (France), modelled pollution data (not personal exposure), no sex-disaggregated data on infant outcomes",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Perinatal relevance for mothers; observational design and France-specific registry limit generalizability.",
+      "relevance_score_reason": "Relevant perinatal finding, large registry, but infant-focused with no maternal-specific or sex-disaggregated analysis.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / General health",
-          "headline": "Smoggy Days May Raise the Risk of Sudden Infant Death \u2014 Even Days Later",
-          "hook": "A large French study found that particulate matter pollution in the days before an infant's death was consistently linked to higher odds of SUDI.",
-          "pitch_angle": "Researchers tracked air quality data around 1,078 SUDI cases and found pollution exposure 3\u20135 days earlier was associated with elevated risk, suggesting a delayed trigger effect. For new parents already vigilant about sleep safety, air quality monitoring may be another layer of infant protection worth understanding."
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Bad Air Days Could Raise Your Baby's Risk of Sudden Unexpected Death, Study Finds",
+          "hook": "A new analysis of more than 1,000 infant deaths found that spikes in air pollution \u2014 particularly fine particulate matter \u2014 were associated with higher odds of sudden unexpected death in infancy within days of exposure.",
+          "pitch_angle": "The French national study found the risk window peaks 3\u20135 days after elevated PM exposure, suggesting air quality apps could become a practical tool for parents of infants. While causation isn't established, the consistent pattern across pollutants and seasons adds weight to an environmental angle on SUDI that has rarely been studied at this scale."
         }
       ],
-      "run_date": "2026-09-13",
+      "run_date": "2026-09-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42702794",
+      "headline": "ADHD has been redefined six times since 1980 \u2014 and the gender gap in diagnosis may be a casualty of those shifting goalposts",
+      "journal": "The British Journal of Psychiatry",
+      "pubdate": "2026 Sep 7",
+      "doi": "10.1192/bjp.2026.10768",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A theoretical analysis by a researcher at Ariel University and the University of Cambridge examined how ADHD has been conceptualized across all six editions of the DSM (DSM-III through DSM-5-TR), drawing on a prior systematic textual analysis of all DSM descriptions. The paper identifies five persistent classification challenges \u2014 including gender and diagnostic heterogeneity \u2014 arguing that each revision introduced new conceptual inconsistencies while attempting to address prior ones. The author concludes that diagnostic adjustments driven by clinical or empirical pressures have progressively blurred the boundaries, prevalence thresholds, and gender framing of ADHD.",
+      "why_it_matters": "Because ADHD diagnostic criteria have historically been built around male presentations, women and girls may have been systematically under- or misdiagnosed across decades \u2014 a structural problem that shifting DSM definitions may not have resolved.",
+      "caveats": "observational design, no sex-disaggregated data, single-author commentary, no primary data collection",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's health relevance on ADHD gender gap; theoretical analysis limits data quality.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "ADHD Has Been Redefined Six Times. Women Are Still Being Missed.",
+          "hook": "A new analysis of every DSM edition since 1980 finds that each revision of the ADHD diagnosis introduced new inconsistencies \u2014 and gender has been one of the most persistently mishandled dimensions.",
+          "pitch_angle": "The research argues that ADHD's diagnostic criteria were shaped around male presentations from the start, and successive revisions haven't fully corrected for that bias \u2014 leaving women and girls to fall through the cracks of a category that keeps moving. It's a structural critique that lands at a cultural moment when women are increasingly seeking late ADHD diagnoses and wondering why it took so long."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Getting an ADHD Diagnosis as a Woman Is Still So Hard \u2014 Even in 2026",
+          "hook": "A researcher tracked every official definition of ADHD since 1980 and found that gender has been one of the most inconsistently handled elements across all six diagnostic revisions.",
+          "pitch_angle": "The analysis suggests that the criteria women are evaluated against were never designed with female presentations in mind \u2014 and decades of revisions haven't fixed that foundational gap. For the wave of women getting late diagnoses or struggling to be taken seriously, this provides a compelling historical explanation for why the system keeps failing them."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42704947",
+      "headline": "Removing ovaries in female rats 'reset' schizophrenia-like brain deficits caused by prenatal immune stress \u2014 raising new questions about estrogen's role",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Sep 7",
+      "doi": "10.1016/j.schres.2026.09.002",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Australian researchers used a rat model of schizophrenia (maternal immune activation via poly(I:C) injection on gestational day 15) to examine how ovarian hormones influence psychosis-related brain function in female offspring. In intact female rats exposed to maternal immune activation, prepulse inhibition \u2014 a measure of sensory gating disrupted in schizophrenia \u2014 was significantly reduced, and the brains' dopamine and NMDA receptor responses were blunted. Strikingly, surgically removing the ovaries (ovariectomy) in these same rats restored prepulse inhibition and normalized dopamine and NMDA receptor responses to levels seen in healthy controls, suggesting that ovarian hormones may paradoxically maintain or amplify schizophrenia-like deficits in this model.",
+      "why_it_matters": "The counterintuitive finding that removing estrogen-producing organs reversed psychosis-related brain deficits in female rats early evidence suggests the relationship between female hormones and schizophrenia risk is far more complex than previously assumed, with potential implications for understanding why psychosis often presents differently in women.",
+      "caveats": "animal or cell study",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive hormonal finding relevant to women's mental health, but animal study only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Estrogen May Actually Worsen Some Psychosis-Like Brain Deficits \u2014 At Least in Animal Research",
+          "hook": "A new rat study found that removing the ovaries \u2014 and the estrogen they produce \u2014 actually reversed schizophrenia-like brain deficits caused by prenatal immune stress, a result that surprised even the researchers.",
+          "pitch_angle": "The counterintuitive finding challenges the assumption that estrogen is always neuroprotective, and early evidence suggests the hormonal picture in schizophrenia risk may be far more nuanced than previously thought. While this is animal research and can't be directly applied to humans, it opens a new window into why psychosis looks different in women \u2014 and why hormonal context may matter more than we realized."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42706562",
+      "headline": "Regulators are cracking down on vapes while loosening rules on weed \u2014 a public health expert says the logic doesn't hold",
+      "journal": "Harm Reduction Journal",
+      "pubdate": "2026 Sep 7",
+      "doi": "10.1186/s12954-026-01517-8",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A single-author commentary from a Greek researcher analyzed toxicological, sociological, and bioethical arguments behind diverging global policy trends: increasingly strict regulation of non-combustible nicotine products alongside progressive cannabis liberalization. The analysis argues that combustion \u2014 not the active substances themselves \u2014 drives the primary harms of both nicotine and cannabis, yet policy applies the 'gateway' framing and flavor bans aggressively to nicotine alternatives while largely ignoring similar concerns for cannabis. The author concludes that current regulatory frameworks reflect political ideology rather than consistent, evidence-based harm reduction.",
+      "why_it_matters": "Women who use nicotine products \u2014 including those trying to quit cigarettes via lower-risk alternatives \u2014 may be disproportionately affected by policies that restrict harm-reduction options while leaving cannabis products more accessible.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, industry funding [nicotine pouch manufacturer, 2025]",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Policy commentary, no female-specific data, weak study design, industry-adjacent author.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Government Is Banning Vapes While Legalizing Weed \u2014 A Researcher Says That's Backwards",
+          "hook": "A new commentary suggests the science behind nicotine and cannabis regulation is being applied in opposite directions \u2014 and not for the reasons you'd expect.",
+          "pitch_angle": "A harm-reduction researcher argues that regulators are applying the strictest rules to lower-risk nicotine products while easing access to cannabis, despite both substances sharing combustion as their primary health risk. For women navigating smoking cessation or recreational use decisions, the policy gap raises real questions about what 'harm reduction' actually means in practice."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42731649",
+      "headline": "AI spots bone fractures two years before they happen \u2014 even when bone density looks normal",
+      "journal": "Bone",
+      "pubdate": "2026 Sep 12",
+      "doi": "10.1016/j.bone.2026.118078",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used an AI-powered imaging tool called ALIGNOGRAM1.0 to analyze bone microarchitecture in a young woman with pycnodysostosis, a rare genetic condition causing paradoxically fragile bones despite abnormally high bone density (N=1 case report). The tool detected microfractures on standard femoral X-rays up to two years before those sites developed full atypical femur fractures \u2014 lesions invisible to the naked eye on routine imaging. The finding suggests bone disorganization, not just bone density, may be a critical and underrecognized driver of fracture risk.",
+      "why_it_matters": "For women with rare or metabolic bone conditions where standard bone density scans are misleading, AI tools that detect microscopic fracture warning signs years in advance could eventually change how fracture risk is assessed.",
+      "caveats": "small sample (N<100), single-center, secondary analysis, inventor conflict of interest (Dr. Zebaze invented ALIGNOGRAM technology)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Rare disease case report; compelling concept but N=1 severely limits pitch utility.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Bone Scans Say You're Fine \u2014 But This AI Spotted Fractures Two Years Early",
+          "hook": "An AI tool detected hairline fractures in a young woman's femur two full years before they broke \u2014 on X-rays that looked normal to every human eye.",
+          "pitch_angle": "A new AI imaging tool called ALIGNOGRAM1.0 found microscopic warning signs of fracture years before standard tests caught anything, raising questions about whether current bone-health screening misses critical early damage. For women with conditions where bone density scores are deceptively reassuring, this early-stage technology hints at a future where 'your bones look healthy' may no longer be the end of the conversation."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42731752",
+      "headline": "A fertility-sparing two-step surgery safely completed a first-trimester abortion blocked by a 9.5 cm fibroid \u2014 and shrank the fibroid by 74% in 60 days",
+      "journal": "Journal of Minimally Invasive Gynecology",
+      "pubdate": "2026 Sep 12",
+      "doi": "10.1016/j.jmig.2026.09.005",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Italian surgeons reported a case of a 41-year-old woman at 10 weeks gestation requesting a voluntary termination of pregnancy (TOP) whose uterine access was entirely obstructed by a 9.5 cm fibroid (FIGO type 1 previa isthmic myoma). A two-step approach was used: temporary uterine artery embolization (UAE) to reduce fibroid vascularity and induce fetal demise, followed by hysteroscopic resection using a miniaturized then standard resectoscope, completing the procedure with minimal blood loss. At 60-day follow-up, the fibroid had shrunk to 2.5 cm and the endometrial cavity was fully restored, avoiding hysterectomy.",
+      "why_it_matters": "For women with large fibroids facing complex pregnancy decisions, this case suggests a fertility-preserving minimally invasive approach may be technically feasible even under extreme anatomical challenges.",
+      "caveats": "small sample (N<100), single-center, single case report \u2014 findings cannot be generalized",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Reproductive health topic, surgical innovation, but single case report limits clinical significance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self / Well+Good",
+          "headline": "Surgeons Used a Two-Step Approach to Safely Perform an Abortion Blocked by a Giant Fibroid \u2014 and Preserved Fertility",
+          "hook": "A case report from Italy describes a complex first-trimester termination completed successfully despite a nearly 10 cm fibroid completely blocking uterine access \u2014 with the fibroid shrinking dramatically in the weeks after.",
+          "pitch_angle": "The procedure combined temporary uterine artery embolization with hysteroscopic surgery to avoid hysterectomy in a 41-year-old patient, with her endometrial cavity fully restored within two months. While it's a single case, it highlights how minimally invasive gynecologic techniques are expanding options for women with fibroids navigating reproductive decisions."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42727853",
+      "headline": "A new global database finally puts women's dietary diversity on the map \u2014 in 23 countries at once",
+      "journal": "The Journal of Nutrition",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1016/j.tjnut.2026.101828",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "The UN Food and Agriculture Organization launched FAOSTAT's Food and Diet Domain (FDD), the first global platform to harmonize dietary statistics from multiple complementary sources. The platform integrates food availability, household consumption, and individual-level intake data across 178 countries, and includes Minimum Dietary Diversity for Women (MDD-W) indicators from 25 surveys in 23 countries. The FDD aims to fill longstanding gaps in accessible, comparable dietary data to support evidence-based nutrition policy worldwide.",
+      "why_it_matters": "For the first time, researchers and journalists have a single accessible source to compare women's dietary diversity across 23 countries, potentially spotlighting where nutritional gaps are most severe.",
+      "caveats": "observational design, no sex-disaggregated data beyond MDD-W indicator, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Policy/data infrastructure study; women's dietary diversity included but no new findings on women's health outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "A New Global Database Is Tracking Whether Women Are Actually Eating Enough Diversity \u2014 Here's What That Means",
+          "hook": "For the first time, a single platform tracks women's dietary diversity across 23 countries \u2014 and the gaps it's likely to reveal could reshape global nutrition conversations.",
+          "pitch_angle": "The UN's new FAOSTAT platform harmonizes dietary data worldwide, including a specific measure of dietary diversity for women. This matters because fragmented data has long obscured where women's nutritional needs are going unmet, making it harder to advocate for policy change."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42725870",
+      "headline": "Smartwatches and phone check-ins can track young psychosis patients in real time \u2014 and most stick with it for almost a week",
+      "journal": "Canadian Journal of Psychiatry",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1177/07067437261486958",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Dalhousie University recruited 40 patients aged 12\u201335 with first-episode psychosis from a Nova Scotia early intervention program and had them wear fitness trackers and complete smartphone surveys (ecological momentary assessment) for six days. Mean active survey completion was 71% and passive wearable data capture (heart rate, movement, sleep) exceeded 82%, with adherence declining but remaining reasonably stable over the assessment window. Qualitative interviews with 19 patients, 6 caregivers, and 6 clinicians identified key barriers including survey fatigue, tech access limitations, and concern about how predictive data might be used.",
+      "why_it_matters": "As mental health technology expands, these findings suggest that continuous digital monitoring is feasible even in young people with serious psychiatric conditions \u2014 but that burden, ethics, and access gaps must be addressed before it can be widely implemented.",
+      "caveats": "small sample (N<100), single-center, short follow-up, no sex-disaggregated data, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Emerging digital health angle with mental health relevance; small sample, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Self",
+          "headline": "Could a Smartwatch Help Predict Psychosis Relapse? New Research Says Patients Are Actually Willing to Try",
+          "hook": "A new study found that young people recovering from their first psychotic episode completed more than 70% of smartphone mental health check-ins and wore fitness trackers with over 82% data capture across nearly a week \u2014 suggesting digital monitoring in serious mental illness is more feasible than many assumed.",
+          "pitch_angle": "The research is an early step toward using passive wearable data \u2014 heart rate, sleep, movement \u2014 alongside regular mood surveys to spot warning signs before a relapse occurs. But participants and clinicians flagged real concerns: survey burnout, privacy worries, and unequal access to devices, signaling that the technology's promise comes with meaningful caveats."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42726181",
+      "headline": "Autism training improves first responders' confidence across the board \u2014 but cops start with an advantage that blunts their growth",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1007/s10803-026-07520-z",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers examined pre- and post-training outcomes for first responders who completed an autism-response training program, comparing results by professional role and personal relationship to autism. Across all groups, participants showed improved confidence, self-efficacy, and knowledge after training. Notably, law enforcement officers entered with higher baseline self-efficacy but saw smaller gains, while those without a personal connection to autism showed the greatest improvement in confidence.",
+      "why_it_matters": "Autistic women and girls are frequently underdiagnosed and may interact with first responders in ways shaped by their presentation \u2014 making it especially relevant that training benefits responders regardless of prior experience or personal familiarity with autism.",
+      "caveats": "observational design, self-reported outcomes, single-center, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "No female-specific data; topic has some women's health relevance but indirect fit for target outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Well+Good",
+          "headline": "First Responders Who Think They Already Know How to Handle Autism May Be the Ones Who Need Training Most",
+          "hook": "Law enforcement officers entered an autism response training feeling most confident \u2014 but they learned the least, suggesting prior assumptions may get in the way.",
+          "pitch_angle": "A new study finds that first responders with no personal connection to autism show the biggest improvement after training, while those who felt most prepared to start gained the least \u2014 a counterintuitive finding with real stakes for autistic people, including women and girls who are often misread in crisis situations."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42732957",
+      "headline": "A common adrenal hormone test may miss a hidden form of adrenal insufficiency \u2014 and a second test could catch it",
+      "journal": "Endocrine Journal",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1507/endocrj.EJ26-0192",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 69 patients in Japan who underwent both the corticotropin-releasing hormone (CRH) stimulation test and the insulin tolerance test (ITT) to diagnose secondary adrenal insufficiency (SAI). Among the 43 patients diagnosed with SAI, they identified a specific pattern of low basal ACTH with a high peak after CRH stimulation that suggests hypothalamic \u2014 rather than pituitary \u2014 adrenal insufficiency, a distinction often missed by CRH testing alone. The growth hormone-releasing peptide-2 (GHRP-2) stimulation test was also found to be a useful alternative when the ITT is contraindicated.",
+      "why_it_matters": "Adrenal insufficiency is underdiagnosed and disproportionately affects women; this early evidence suggests that adding a second hormone test could catch a hidden form of the condition that standard testing misses.",
+      "caveats": "small sample (N<100), observational design, single-center, retrospective, no sex-disaggregated data, single-country (Japan) population",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Endocrinology relevance for women; small retrospective single-center study with no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Your Adrenal Test Might Be Missing Something \u2014 Doctors Say a Second Test Could Change Everything",
+          "hook": "A standard hormone test used to diagnose adrenal insufficiency may appear normal even when something is wrong \u2014 and a second test might be needed to catch it.",
+          "pitch_angle": "New research suggests that a common test for adrenal insufficiency can produce falsely reassuring results in patients with hypothalamic dysfunction, and that a complementary test could help close that diagnostic gap \u2014 relevant for the many women who struggle to get an accurate adrenal diagnosis."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42720553",
+      "headline": "Drinking a special 'reduced water' for six months didn't meaningfully change immune proteins compared to tap water",
+      "journal": "Nutrition and Health",
+      "pubdate": "2026 Sep 10",
+      "doi": "10.1177/02601060261479772",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Forty-four healthy middle-aged adults in Japan were randomly assigned to drink either natural reduced water (NRW) or tap water (1 liter per day) for six months in a double-blind trial. Researchers used proteomic analysis to assess changes in plasma protein profiles, particularly immune-related proteins. Six months of NRW consumption did not produce statistically significant changes in plasma protein profiles compared to tap water; exploratory analyses suggested possible immune-pathway differences but these were hypothesis-generating only.",
+      "why_it_matters": "For women curious about specialty 'wellness waters' marketed for immune or anti-aging benefits, this small RCT found no confirmatory evidence of benefit over regular tap water.",
+      "caveats": "small sample (N<100), single-center, short follow-up relative to protein expression timelines, exploratory/lenient statistical thresholds (p<0.1), no sex-disaggregated data, industry-adjacent product tested, Japan-specific water product",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Null result on niche wellness product; small sample, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Scientists Tested a Trendy 'Reduced Water' for Six Months \u2014 It Didn't Beat Tap Water",
+          "hook": "A small but double-blind trial found that drinking a specialty natural reduced water for six months produced no significant changes in immune proteins compared to ordinary tap water.",
+          "pitch_angle": "With wellness waters commanding premium prices, this randomized trial offers a reality check: researchers found no confirmatory evidence that natural reduced water outperforms tap water for immune-related protein profiles in healthy adults. The authors themselves called the findings hypothesis-generating only and called for larger studies."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42730713",
+      "headline": "Creatine may speed up pain relief for athletes with a stubborn knee tendon injury \u2014 but the evidence is slim",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "pubdate": "2026 Dec 31",
+      "doi": "10.1080/15502783.2026.2718846",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a triple-blind RCT, 20 federated athletes (mean age ~34) with patellar tendinopathy were randomized to creatine monohydrate or placebo while completing an 8-week rehabilitation program including eccentric training, stretching, and shock wave therapy. Both groups improved in pain scores and tendon thickness over time, but the creatine group showed significantly faster pain relief at the 4-week midpoint. Creatine also appeared to support jump performance improvements, though between-group differences did not reach statistical significance for most outcomes.",
+      "why_it_matters": "For active women dealing with patellar tendinopathy \u2014 a condition that can sideline athletes for months \u2014 early evidence suggests creatine supplementation alongside rehab may accelerate pain relief, though much larger studies are needed.",
+      "caveats": "small sample (N<100), single-center, short follow-up, no sex-disaggregated data, most between-group effects non-significant",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Small mixed-sex sample with no sex-disaggregated data; promising RCT design but severely underpowered.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Could Creatine Help You Recover From a Knee Injury Faster? Early Research Says Maybe",
+          "hook": "Creatine is known for building muscle \u2014 but a small new trial suggests it might also help athletes with a notoriously stubborn knee injury get back to their sport sooner.",
+          "pitch_angle": "Athletes with patellar tendinopathy who added creatine to their rehab program reported significantly less pain at four weeks compared to those doing rehab alone. The study was tiny and didn't break results down by sex, so women should treat this as early signal rather than established guidance."
+        }
+      ],
+      "run_date": "2026-09-14",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42705912",
+      "headline": "Reactive hypoglycemia in pregnancy may be more dangerous than gestational diabetes for babies' birth weight",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2721948",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 343 pregnant women in Indonesia who underwent oral glucose tolerance test (OGTT) screening after 24 weeks gestation (2021\u20132023), comparing those with reactive hypoglycemia (RH), gestational diabetes (GDM), and normal glucose tolerance. Women with RH \u2014 defined as a 2-hour OGTT value at or below their fasting value \u2014 were slimmer on average but had higher rates of abnormal uterine artery resistance, low birthweight (15.38% vs 4.05% in controls), NICU admission, and preterm birth than even the GDM group. The findings suggest RH may represent a distinct and under-recognized form of glucose dysmetabolism in pregnancy, potentially driven by placental dysfunction detectable as early as the first trimester.",
+      "why_it_matters": "Pregnant women whose blood sugar dips unusually low after a glucose drink \u2014 not just those with high readings \u2014 may face elevated risks of complications that are currently going undetected.",
+      "caveats": "observational design, single-center, retrospective, small sample (N=343 total, N=26 RH), Indonesian population (generalizability uncertain), short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Pregnancy-specific finding, counterintuitive direction, small observational sample limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Self",
+          "headline": "Your Glucose Test Results Could Be Dangerous Even If You Don't Have Gestational Diabetes",
+          "hook": "A new study found that pregnant women whose blood sugar drops too low after the standard glucose drink may actually face worse outcomes than those diagnosed with gestational diabetes.",
+          "pitch_angle": "Researchers found that women with reactive hypoglycemia \u2014 a low, not high, 2-hour glucose reading \u2014 had higher rates of low birthweight, NICU admission, and preterm birth than the GDM group. This counterintuitive finding suggests the standard glucose screening may be missing a dangerous pattern hiding in 'normal' or even low results."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "The Overlooked Pregnancy Blood Sugar Pattern Doctors May Be Missing",
+          "hook": "Most glucose screening attention goes to high readings, but early evidence suggests a low 2-hour glucose result may signal placental problems that raise the risk of a premature or low-birthweight baby.",
+          "pitch_angle": "A retrospective Indonesian study found that pregnant women with reactive hypoglycemia also showed signs of abnormal placental blood flow as early as the first trimester, pointing to a systemic glucose problem that current screening protocols aren't designed to catch."
+        }
+      ],
+      "run_date": "2026-09-14",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
@@ -174,273 +678,6 @@
       ],
       "run_date": "2026-09-13",
       "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42705912",
-      "headline": "Pregnant women whose blood sugar drops too low after the glucose test may face worse outcomes than those with gestational diabetes",
-      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/14767058.2026.2721948",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers retrospectively analyzed 343 pregnant women in Indonesia who underwent OGTT screening after 24 weeks' gestation, identifying 26 with reactive hypoglycemia (RH) and 70 with gestational diabetes (GDM). Women with RH had higher rates of low birthweight (15.4% vs 4.1%), preterm birth (11.5% vs 1.6%), and NICU admission compared to women with normal glucose tolerance \u2014 and in some measures, worse outcomes than those with GDM. First-trimester uterine artery resistance was also abnormal in the RH group, suggesting placental dysfunction may underlie the risk.",
-      "why_it_matters": "This suggests that pregnant women whose glucose drops unusually low on the standard diabetes screening test \u2014 a pattern typically dismissed as reassuring \u2014 may actually be carrying a meaningful, under-recognized risk for their babies.",
-      "caveats": "small sample (N<100 for RH group, N=26), observational design, retrospective, single-center, Indonesia-specific population, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Counterintuitive perinatal finding; limited by small RH subgroup and single-country retrospective design.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "The Glucose Test Result Doctors Usually Celebrate Could Actually Be a Warning Sign",
-          "hook": "A new study found that pregnant women whose blood sugar dropped unusually low on the standard glucose test had higher rates of premature birth and NICU admission than women diagnosed with gestational diabetes.",
-          "pitch_angle": "Reactive hypoglycemia \u2014 when blood sugar falls too low after the glucose challenge \u2014 is often considered a non-issue, but this retrospective study suggests it may signal placental dysfunction and carry real risks. Early evidence indicates it could be an overlooked category of glucose dysregulation in pregnancy that warrants closer monitoring."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "If Your Glucose Test Comes Back 'Too Low,' That May Not Be Good News",
-          "hook": "Researchers found that pregnant women with surprisingly low glucose readings after the standard test had worse birth outcomes than many women with gestational diabetes.",
-          "pitch_angle": "The study, though small and conducted in Indonesia, found abnormal blood vessel resistance in the placenta as early as the first trimester among women who later showed reactive hypoglycemia \u2014 suggesting the problem starts early. It's early-stage science, but it raises questions about whether current screening protocols are missing a clinically meaningful pattern."
-        }
-      ],
-      "run_date": "2026-09-13",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42715710",
-      "headline": "After a first psychosis episode, using multiple substances at once is tied to worse symptoms \u2014 even after remission",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Sep 9",
-      "doi": "10.1016/j.schres.2026.09.004",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed data from 283 patients with first-episode psychosis (FEP) drawn from the Dutch HAMLETT randomized controlled trial, examining substance use patterns 3\u20136 months after achieving remission. Participants were categorized into four groups: no substance use, tobacco only, tobacco plus cannabis, or polysubstance use (tobacco, cannabis, and other illicit drugs). Polysubstance use \u2014 reported by just 13 patients \u2014 was associated with more severe positive psychotic symptoms and poorer self-care compared to other groups, with patterns remaining stable over six months.",
-      "why_it_matters": "For women recovering from a first psychosis episode, this study suggests that using multiple substances simultaneously \u2014 even after remission \u2014 may signal an ongoing risk profile that clinicians and families should watch for.",
-      "caveats": "small sample (N<100 in polysubstance group), observational design, no sex-disaggregated data, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant psychiatry finding; no sex-disaggregated data; very small polysubstance group limits conclusions.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Recovered From a First Psychosis Episode? Using Multiple Substances May Set Recovery Back",
-          "hook": "A new Dutch study found that people who continued using multiple substances after their first psychosis episode had more severe symptoms and worse self-care \u2014 even months into remission.",
-          "pitch_angle": "Drawing on a randomized trial, researchers found polysubstance use after first-episode psychosis remission was associated with persistent positive symptoms and functional decline in daily tasks like self-care. The finding is early-stage but adds to growing evidence that substance use patterns in the post-remission window matter for long-term recovery."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42715357",
-      "headline": "Burnout still lacks a clear clinical definition \u2014 and that's creating real problems in courtrooms and clinics",
-      "journal": "Revista Brasileira de Psiquiatria",
-      "pubdate": "2026 Sep 9",
-      "doi": "10.47626/1516-4446-2026-5041",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Brazilian psychiatrists conducted a narrative review of literature from 1974 to 2026 examining how burnout is classified, diagnosed, and assessed in forensic psychiatric settings. The review found persistent debate over whether burnout is a distinct disorder, a subtype of depression, or a work-related stress syndrome, with significant symptom overlap with depressive disorders complicating diagnosis. In legal and occupational health contexts, establishing that burnout was caused by work \u2014 rather than pre-existing vulnerability \u2014 remains methodologically fraught.",
-      "why_it_matters": "Women are disproportionately affected by burnout due to compounding occupational and caregiving demands, yet the diagnostic ambiguity identified here means their claims for occupational recognition or compensation may face systemic barriers.",
-      "caveats": "observational design, narrative review (no pooled effects), no sex-disaggregated data, single-region (Brazil) context for forensic law, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant burnout topic for women; narrative review limits quality score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Burnout Is Real \u2014 But Doctors Still Can't Agree on What It Is",
-          "hook": "Despite years of cultural conversation around burnout, psychiatrists still debate whether it's a diagnosable condition \u2014 and that ambiguity has real consequences.",
-          "pitch_angle": "A new review found that burnout overlaps so heavily with depression that even experts struggle to tell them apart, which matters enormously for women seeking workplace accommodations or disability recognition. The diagnostic fog means women burning out under compounding work and caregiving pressures may hit bureaucratic walls when trying to get help."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "You Feel Burned Out. Proving It Legally Is Another Matter Entirely.",
-          "hook": "Burnout is everywhere in the cultural conversation \u2014 but in courtrooms and HR offices, it barely exists as a legal concept.",
-          "pitch_angle": "A forensic psychiatry review reveals that burnout's fuzzy definition makes it nearly impossible to establish as a work-caused condition in legal or compensation settings, leaving workers \u2014 disproportionately women \u2014 without recourse. The review calls for clearer diagnostic standards, but experts disagree on where to even start."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42716437",
-      "headline": "Standard nutrition therapy often fails kidney disease patients \u2014 and scientists think they finally know why",
-      "journal": "Advances in Nutrition",
-      "pubdate": "2026 Sep 9",
-      "doi": "10.1016/j.advnut.2026.100728",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers propose a new theoretical framework explaining why standard nutrition therapy \u2014 including oral supplements and dialysis-administered nutrition \u2014 fails a subset of patients with advanced chronic kidney disease (CKD). The review argues that CKD-associated wasting is not simply a calorie deficit but a state of 'anabolic resistance' driven by gut-derived toxins, neuroinflammation, and disrupted hormone signaling, making the body unable to use nutrients it receives. Authors advocate a 'sensitize-then-feed' approach using emerging agents like GDF15 antagonists and ghrelin agonists before nutritional support is delivered.",
-      "why_it_matters": "Women are disproportionately affected by CKD globally, and this framework suggests that standard dietary advice alone may be biologically insufficient for a significant subset of patients.",
-      "caveats": "no sex-disaggregated data, animal or cell study (mechanistic review relying on experimental models), single-center, no human clinical trial data presented",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Mechanistic review, no human trial data, no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Why Eating More Doesn't Always Help Kidney Disease Patients \u2014 And What Scientists Want to Try Instead",
-          "hook": "For some people with advanced kidney disease, eating more protein and calories barely moves the needle \u2014 and researchers say the body itself may be blocking the benefit.",
-          "pitch_angle": "A new theoretical framework suggests that kidney disease rewires hormone signaling so the body can't use the nutrients it receives, meaning standard diet therapy is often fighting an uphill biological battle. Scientists are now proposing a 'sensitize-then-feed' approach using experimental drugs to reset the body's nutrient-sensing pathways before nutrition therapy begins."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42709505",
-      "headline": "Tracking proteins over time instead of once finds four times more diabetes warning signals",
-      "journal": "Diabetes",
-      "pubdate": "2026 Sep 8",
-      "doi": "10.2337/db26-0148",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed blood protein data collected at multiple time points (rather than a single snapshot) in a multiethnic cohort to identify diabetes biomarkers. The longitudinal approach uncovered up to four times more diabetes-associated proteins than single-measurement methods, with Mendelian randomization supporting causal links for many. The repeated-measurement proteins also revealed distinct biological pathways \u2014 such as cellular structure regulation \u2014 not seen in single time-point analyses.",
-      "why_it_matters": "This suggests that how we measure biological warning signs of diabetes may matter as much as what we measure, which could eventually reshape how early risk is detected in women across diverse backgrounds.",
-      "caveats": "no sex-disaggregated data, observational design, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Multiethnic human cohort, clean design, but no female-specific analysis or women's health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Why a Single Blood Test May Miss Most of Your Diabetes Risk",
-          "hook": "Tracking proteins in the blood over time \u2014 instead of just once \u2014 finds four times more diabetes warning signals, a new study suggests.",
-          "pitch_angle": "Scientists found that repeated protein measurements dramatically outperform one-time snapshots for identifying diabetes risk markers. The finding raises questions about whether standard single-measurement screening is leaving key early warnings undetected."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42710783",
-      "headline": "Higher blood levels of beta-carotene before diagnosis linked to nearly half the risk of dying from breast cancer",
-      "journal": "The American Journal of Clinical Nutrition",
-      "pubdate": "2026 Sep 8",
-      "doi": "10.1016/j.ajcnut.2026.101514",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed blood carotenoid levels measured before diagnosis in a nested case-control study of 3,516 controls and 2,583 invasive breast cancer cases (190 of whom developed lethal breast cancer) drawn from a large U.S. cohort followed over 30 years. Using a novel multi-state modeling approach that tracked transitions from cancer-free to diagnosis to recurrence or death, they found that women in the highest quintile of circulating beta-carotene had a 41% lower risk of lethal breast cancer compared to those with the lowest levels, while the highest total carotenoid levels were associated with 48% lower risk. The protective association for beta-carotene was strongest in postmenopausal women.",
-      "why_it_matters": "These findings suggest that circulating carotenoid levels \u2014 reflecting diet quality \u2014 measured years before a breast cancer diagnosis may be associated with a woman's likelihood of developing the most fatal form of the disease, with the strongest signal in postmenopausal women.",
-      "caveats": "observational design, nested case-control, self-reported dietary data (FFQ used in source cohort), secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Large female-only cohort, clean novel design, women's cancer finding with lifestyle hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Prevention",
-          "headline": "The Nutrient in Carrots and Sweet Potatoes May Be Linked to a Lower Risk of Dying From Breast Cancer",
-          "hook": "Women with the highest blood levels of beta-carotene before their breast cancer diagnosis were nearly half as likely to develop lethal breast cancer \u2014 and the protective signal was strongest after menopause.",
-          "pitch_angle": "A 30-year Harvard study found that higher circulating levels of beta-carotene \u2014 the pigment that makes carrots orange \u2014 were associated with dramatically lower odds of fatal breast cancer, even when measured years before diagnosis. The finding, which used a novel statistical approach to track disease progression, adds new weight to the idea that a diet rich in colorful produce could matter long before a diagnosis is on the radar."
-        },
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "This Is What Your Blood Carotenoid Levels Could Mean for Breast Cancer Survival \u2014 Years Before Diagnosis",
-          "hook": "Researchers tracked women for 30 years and found that those with the highest levels of plant pigments in their blood were significantly less likely to develop fatal breast cancer \u2014 suggesting that what you eat decades before matters.",
-          "pitch_angle": "A large nested study from Harvard's Nurses' Health Study found that higher pre-diagnostic levels of beta-carotene and total carotenoids \u2014 compounds abundant in vegetables like sweet potatoes, spinach, and peppers \u2014 were associated with up to 48% lower risk of lethal breast cancer. The effect was most pronounced in postmenopausal women, offering a compelling lifestyle angle for women thinking about long-term cancer prevention."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42702794",
-      "headline": "The ADHD diagnosis has been quietly rewritten six times \u2014 and gender bias was built in from the start",
-      "journal": "British Journal of Psychiatry",
-      "pubdate": "2026 Sep 7",
-      "doi": "10.1192/bjp.2026.10768",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A theoretical analysis by a single researcher examined how ADHD's diagnostic criteria have shifted across all six editions of the DSM (1980\u20132022), drawing on a prior systematic textual analysis of DSM descriptions. The study identifies five persistent classification challenges including gender and diagnostic heterogeneity, aetiological framing, and comorbidity, arguing that successive revisions have created conceptual incoherence. The author highlights that gender has been a long-standing unresolved tension in how ADHD is defined, recognized, and diagnosed.",
-      "why_it_matters": "Women and girls have historically been underdiagnosed with ADHD partly because the diagnostic criteria were built around a male presentation \u2014 and this analysis suggests that problem has never been fully corrected across six decades of revisions.",
-      "caveats": "observational design, no sex-disaggregated data, secondary analysis, single author",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong women's health angle on ADHD gender bias; theoretical/no new data limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "ADHD Was Never Designed to Diagnose Women. A New Analysis Shows How Little Has Changed.",
-          "hook": "The criteria for ADHD have been rewritten six times since 1980 \u2014 and each time, the gender gap in diagnosis was acknowledged but never truly fixed.",
-          "pitch_angle": "A British Journal of Psychiatry analysis traces how ADHD's diagnostic definition has evolved across six DSM editions and finds that gender heterogeneity has been a known problem for decades without a real solution. For the many women diagnosed with ADHD as adults, this is a clinical and cultural reckoning."
-        },
-        {
-          "publication_type": "Self",
-          "headline": "Why So Many Women Are Getting Diagnosed With ADHD in Their 30s \u2014 It's Not Just a Trend",
-          "hook": "ADHD criteria have been revised six times since 1980, and a new analysis finds gender bias has been baked in from the beginning.",
-          "pitch_angle": "A new theoretical analysis of every DSM edition finds that ADHD diagnostic criteria were shaped around male presentations from the start, leaving women and girls systematically under-identified for decades. The late-diagnosis wave many women are experiencing isn't an anomaly \u2014 it's the predictable result of a flawed system."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42704947",
-      "headline": "Removing ovaries in female rats 'resets' a schizophrenia-like brain deficit \u2014 pointing to estrogen's complex role in psychosis risk",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Sep 7",
-      "doi": "10.1016/j.schres.2026.09.002",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Australian researchers used a rat model of schizophrenia (maternal immune activation via poly I:C injection during pregnancy) to study how ovarian hormones affect psychosis-related brain function in female offspring. Female rats born to immune-activated mothers showed reduced prepulse inhibition \u2014 a standard measure of sensory gating disrupted in schizophrenia \u2014 but when their ovaries were removed, this deficit was reversed and normal dopamine and NMDA receptor regulation was restored. The findings suggest that ovarian steroid hormones may play a paradoxical role in schizophrenia vulnerability, potentially mediating rather than protecting against some psychosis-related deficits in this model.",
-      "why_it_matters": "This animal study raises the counterintuitive possibility that ovarian hormones may sometimes worsen rather than protect against schizophrenia-like brain changes \u2014 with implications for understanding why women's psychosis risk and symptoms can shift across hormonal life stages.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Counterintuitive women's hormonal health finding; animal study only limits translation.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Estrogen Is Supposed to Protect Against Psychosis. A New Animal Study Complicates That Story.",
-          "hook": "Removing ovaries in female rats bred to model schizophrenia actually reversed their brain deficits \u2014 a finding that flips conventional thinking about estrogen and psychosis protection.",
-          "pitch_angle": "A new Australian rat study found that ovarian hormones may paradoxically contribute to schizophrenia-like brain changes in females exposed to prenatal immune stress, not shield against them. While it's early animal research, it adds nuance to why women's psychosis symptoms often fluctuate with hormonal transitions like postpartum or perimenopause."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42706562",
-      "headline": "Policy is cracking down on nicotine vapes while legalizing cannabis \u2014 a public health researcher calls it a toxicology double standard",
-      "journal": "Harm Reduction Journal",
-      "pubdate": "2026 Sep 7",
-      "doi": "10.1186/s12954-026-01517-8",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A commentary by a single Greek researcher argues that current drug policy creates an irrational regulatory asymmetry: non-combustible nicotine products face increasingly strict prohibition while cannabis \u2014 which carries risks of cognitive impairment and psychosis with heavy use \u2014 is being progressively legalized and commercialized. The analysis draws on toxicology, sociology, and bioethics to argue that nicotine harm reduction tools are being restricted on paternalistic grounds while cannabis liberalization is framed as autonomy and social equity. No new primary data are presented; the piece is a theoretical policy critique.",
-      "why_it_matters": "Women who smoke are increasingly being steered away from nicotine harm-reduction tools like patches or vapes while cannabis products face fewer restrictions \u2014 a policy gap this commentary argues may have real public health consequences.",
-      "caveats": "observational design, single author, no sex-disaggregated data, industry funding [nicotine pouch manufacturer, 2025]",
-      "fact_check_note": "Author discloses consulting for a nicotine pouch manufacturer in 2025, which is a relevant conflict of interest for a pro-nicotine-harm-reduction commentary and should be disclosed prominently in any coverage.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Policy commentary only; conflict of interest; no new data; limited women's health specificity.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Weed Is Getting Easier to Buy. Nicotine Vapes Are Getting Banned. Is That Actually Logical?",
-          "hook": "A new commentary argues that regulators are applying completely different standards to cannabis and nicotine \u2014 and the science doesn't support the distinction.",
-          "pitch_angle": "As cannabis dispensaries multiply and flavored vape bans tighten, a harm reduction researcher argues the policy logic is inverted \u2014 nicotine alternatives are restricted while more intoxicating cannabis products proliferate. Worth assigning a skeptical read given the author's industry ties, but the core policy tension is real and underreported."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
@@ -565,87 +802,6 @@
       "status": "new"
     },
     {
-      "pmid": "42727853",
-      "headline": "The world finally has one place to look up what people actually eat \u2014 and it includes women's dietary diversity data from 23 countries",
-      "journal": "The Journal of Nutrition",
-      "pubdate": "2026 Sep 11",
-      "doi": "10.1016/j.tjnut.2026.101828",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "The FAO launched the FAOSTAT Food and Diet Domain (FDD), the first global platform harmonizing dietary statistics from multiple complementary sources including food availability, household consumption, and individual intake data. The platform covers nutrient supply data for 178 countries and includes Minimum Dietary Diversity for Women (MDD-W) indicators from 25 surveys across 23 countries. The FDD aims to close persistent gaps in food consumption data and support evidence-based nutrition policymaking globally.",
-      "why_it_matters": "For the first time, researchers and policymakers have a single harmonized source to track women's dietary diversity across 23 countries, which could accelerate identification of nutrition gaps affecting women's health worldwide.",
-      "caveats": "observational design, no sex-disaggregated data beyond MDD-W indicator, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Policy/infrastructure tool; limited direct women's health finding; MDD-W inclusion is relevant but narrow.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "The World Now Has Its First Global Database Tracking What Women Actually Eat",
-          "hook": "For decades, policymakers had no single place to look up dietary data across countries \u2014 that just changed with a new FAO platform that tracks women's dietary diversity in 23 nations.",
-          "pitch_angle": "The FAO's new FAOSTAT Food and Diet Domain harmonizes dietary data from 178 countries and specifically includes women's dietary diversity metrics, a first for global nutrition science. This infrastructure could fast-track research into how diet gaps affect women's health outcomes worldwide."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42725870",
-      "headline": "Young people with first-episode psychosis will actually wear a smartwatch and answer phone surveys \u2014 at least for a few days",
-      "journal": "Canadian Journal of Psychiatry",
-      "pubdate": "2026 Sep 11",
-      "doi": "10.1177/07067437261486958",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a six-day digital phenotyping study using smartphone ecological momentary assessment (EMA) surveys and wearable devices with 40 patients aged 12\u201335 with first-episode psychosis (FEP) recruited from a Canadian early psychosis program. Active adherence (completing EMA surveys) averaged 71%, while passive adherence (wearable data collection) averaged 83\u201385%, though both declined after the first two days. Stakeholders identified EMA burden, psychological risk, and usability challenges as key barriers, but overall found digital phenotyping feasible in clinically stable FEP patients.",
-      "why_it_matters": "For young women navigating a first psychosis episode, wearable mental health monitoring may be a realistic and acceptable way to support early intervention \u2014 though app and survey fatigue sets in fast.",
-      "caveats": "small sample (N<100), single-center, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Psychiatry/tech topic; no female-specific analysis; small sample; niche audience fit.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Could a Smartwatch Help Catch a Mental Health Crisis Early? New Research Says Maybe \u2014 With Caveats",
-          "hook": "Young people with psychosis were surprisingly willing to be monitored by wearables and phone surveys \u2014 but survey fatigue kicked in by day three.",
-          "pitch_angle": "A small Canadian study found wearable and smartphone monitoring was feasible in patients with first-episode psychosis, with adherence above 70% \u2014 but dropout signals emerged quickly. For women interested in mental health tech, this raises important questions about what 'passive' monitoring really asks of us."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42726181",
-      "headline": "First responders learn to better handle autism encounters after targeted training \u2014 even without personal ties to autism",
-      "journal": "Journal of Autism and Developmental Disorders",
-      "pubdate": "2026 Sep 11",
-      "doi": "10.1007/s10803-026-07520-z",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers examined pre- and post-training measures from first responders \u2014 including law enforcement and other providers \u2014 who completed an autism-specific training program, comparing outcomes across professional roles and personal relationships to autism. Participants across all groups improved in confidence, self-efficacy, and knowledge, though those with prior personal connections to autism started with higher baseline scores. Notably, those with no personal relationship to autism showed the greatest gains in confidence, suggesting universal training benefits regardless of background.",
-      "why_it_matters": "For mothers and caregivers of autistic children \u2014 a population disproportionately composed of women \u2014 knowing that first responders can gain meaningful competence through training may ease fears around emergency encounters.",
-      "caveats": "observational design, self-reported outcomes, no sex-disaggregated data, single-center",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "No women-specific data; tangential relevance to caregiving women.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Training First Responders on Autism Works \u2014 Even for Those Who've Never Met an Autistic Person",
-          "hook": "First responders with zero personal connection to autism showed the biggest confidence gains after a targeted training program.",
-          "pitch_angle": "A new study found that autism awareness training improved first responder outcomes across the board, but those without prior exposure gained the most \u2014 suggesting universal mandated training could meaningfully protect autistic people during emergencies. For parents of autistic children, many of them women managing medical and safety logistics alone, this research points to a concrete systemic lever."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42721061",
       "headline": "A rare genetic mutation causing dangerously high triglycerides is finally classified \u2014 after being found in ten Colombian patients",
       "journal": "Archives of Endocrinology and Metabolism",
@@ -669,33 +825,6 @@
       ],
       "run_date": "2026-09-12",
       "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42720553",
-      "headline": "Drinking 'natural reduced water' for six months showed no significant effect on immune proteins in healthy adults",
-      "journal": "Nutrition and Health",
-      "pubdate": "2026 Sep 10",
-      "doi": "10.1177/02601060261479772",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a double-blind RCT, 44 healthy middle-aged adults in Japan were randomized to drink 1 liter per day of either natural reduced water (a commercially sold mineral water, Hita Tenryosui\u00ae) or tap water for six months, with plasma proteins measured to assess immune effects. The primary analysis found no statistically significant differences in protein profiles between the two groups. Exploratory pathway analyses using lenient thresholds (p<0.1) suggested possible differences in immune-related biological processes, but authors explicitly caution these are hypothesis-generating only.",
-      "why_it_matters": "As wellness marketing around 'special' waters grows, this small but controlled trial found no confirmatory evidence that natural reduced water meaningfully changes immune protein profiles in healthy adults.",
-      "caveats": "small sample (N<100), single-center, short follow-up, no sex-disaggregated data, exploratory design, lenient statistical thresholds used",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Small sample, no female-specific data, no significant primary finding, Japan-specific product.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Self",
-          "headline": "Scientists Tested Whether 'Natural Reduced Water' Actually Does Anything for Your Immune System. It Didn't.",
-          "hook": "A six-month controlled trial found no significant difference in immune protein levels between people who drank a premium 'natural reduced water' and those who drank tap water.",
-          "pitch_angle": "With wellness culture placing big bets on special waters \u2014 hydrogen water, alkaline water, structured water \u2014 a small but rigorous double-blind trial in Japan found that consuming a natural reduced mineral water for half a year produced no confirmatory changes in immune-related blood proteins compared to regular tap water. The study's own authors called the exploratory immune signals 'hypothesis-generating' and called for larger trials before drawing any conclusions."
-        }
-      ],
-      "run_date": "2026-09-12",
-      "category": "Nutritional Sciences",
       "chunk": "2/2",
       "status": "new"
     },
