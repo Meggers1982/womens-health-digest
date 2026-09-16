@@ -1,114 +1,516 @@
 {
-  "last_updated": "2026-09-15T15:35:47.755724+00:00",
-  "total_studies": 874,
-  "new_this_run": 9,
+  "last_updated": "2026-09-16T15:30:37.204235+00:00",
+  "total_studies": 882,
+  "new_this_run": 8,
   "studies": [
     {
       "pmid": "42714696",
-      "headline": "Lung carcinoid tumors spread to bone more often than doctors realize \u2014 and women may be underrepresented in the data",
+      "headline": "Bone metastases from lung carcinoid tumors are more common than doctors realize \u2014 and harder to treat",
       "journal": "Endocrine",
       "pubdate": "2026 Sep 9",
       "doi": "10.1007/s12020-026-04688-3",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a systematic review of 61 studies to assess how often lung carcinoid tumors spread to bone and how those metastases are currently diagnosed and treated. The review found a bone metastasis incidence of 17.2% among lung carcinoid patients, with a male-to-female ratio of 1.6, meaning women are also substantially affected. Osteoblastic metastases were most common overall, survival from bone metastasis detection was under 25 months, and treatment data on bone-protecting agents remained extremely limited.",
-      "why_it_matters": "Because lung carcinoids affect women as well as men and bone metastases carry a poor prognosis, women with this rare cancer may be underserved by the current lack of evidence on bone-protecting treatments.",
-      "caveats": "observational design, secondary analysis, no sex-disaggregated data on outcomes, small underlying studies",
+      "summary": "A systematic review of 61 studies examined the incidence, presentation, and treatment of bone metastases in lung carcinoid (LC) patients, a neuroendocrine tumor more common in women. Bone metastases occurred in 17.2% of LC patients, were most often found in the spine, and were predominantly osteoblastic; median survival after bone metastasis detection was only 24.9 months. The review found that evidence on bone-modifying agents in this setting is extremely sparse, with only two papers reporting their use.",
+      "why_it_matters": "Lung carcinoids disproportionately affect women, and this review suggests bone metastases are a significant, under-studied complication that warrants closer monitoring and specialist involvement.",
+      "caveats": "observational design, secondary analysis, no sex-disaggregated data on outcomes",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Rare cancer topic, limited women-specific data, no lifestyle hook.",
+      "relevance_score_reason": "Women disproportionately affected but no female-specific outcome data; niche oncology topic.",
       "pitch_angles": [
         {
-          "publication_type": "General health",
-          "headline": "A Rare Lung Tumor Spreads to Bone More Than Doctors Knew \u2014 and Treatment Options Are Shockingly Limited",
-          "hook": "Nearly 1 in 5 people with lung carcinoid tumors develops bone metastases, yet there's almost no evidence guiding how to treat them.",
-          "pitch_angle": "A new systematic review finds bone spread from lung carcinoids is more common than previously appreciated, yet fewer than two studies have examined whether bone-protecting drugs actually help \u2014 leaving patients without clear guidance."
+          "publication_type": "Health.com / General health",
+          "headline": "A Rare Lung Tumor That Disproportionately Hits Women Can Quietly Spread to Bone \u2014 and Doctors May Be Missing It",
+          "hook": "Nearly 1 in 5 patients with lung carcinoid tumors \u2014 a cancer more common in women \u2014 may develop bone metastases, yet evidence on how to treat them remains almost nonexistent.",
+          "pitch_angle": "A new systematic review found that bone spread is a significant and under-recognized complication of lung carcinoids, with patients surviving less than two years after detection on average. Because these tumors skew female, the gap in research on bone-protecting treatments is a gap in women's cancer care."
         }
       ],
-      "run_date": "2026-09-15",
+      "run_date": "2026-09-16",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42715710",
-      "headline": "Using multiple substances after a first psychotic episode \u2014 not just cannabis \u2014 is linked to more severe symptoms and worse daily functioning",
+      "headline": "Using multiple substances after a first psychotic episode is linked to worse symptoms and trouble with basic self-care \u2014 even after remission",
       "journal": "Schizophrenia Research",
       "pubdate": "2026 Sep 9",
       "doi": "10.1016/j.schres.2026.09.004",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using data from the HAMLETT randomized controlled trial, researchers categorized substance use patterns among 283 patients (drawn from 379 enrolled) with first-episode psychosis who had achieved remission, tracking them at baseline, 3 months, and 6 months post-remission. The 13 patients using tobacco, cannabis, and other illicit drugs simultaneously (polysubstance use) had significantly more severe positive psychotic symptoms and worse self-care scores than those using fewer or no substances. Substance use patterns were largely stable across the six-month window, and the positive symptom association was most pronounced among patients still on antipsychotic medication.",
-      "why_it_matters": "Suggests that polysubstance use \u2014 not just cannabis \u2014 may signal a distinct, higher-risk profile in the critical months after a first psychotic break, relevant to young women who are often underrepresented in substance-use research within psychosis populations.",
-      "caveats": "small sample (polysubstance group N=13), observational design (secondary analysis of RCT data), no sex-disaggregated data reported, single-region (Netherlands), short follow-up",
+      "summary": "Researchers analyzed data from 283 participants in the HAMLETT randomized controlled trial, examining substance use patterns three to six months after remission from a first episode of psychosis. Polysubstance users (tobacco, cannabis, and other illicit drugs) showed significantly more severe positive psychotic symptoms and poorer self-care compared to non-users, while substance use patterns remained largely stable over six months. The symptom differences were most pronounced in patients who continued antipsychotic medication, suggesting the association reflects true clinical differences rather than medication effects.",
+      "why_it_matters": "For young women in early psychosis recovery, the finding suggests that combining multiple substances \u2014 not just cannabis alone \u2014 may signal a distinctly higher-risk profile requiring targeted early support.",
+      "caveats": "observational design, no sex-disaggregated data, secondary analysis",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Clinically relevant but polysubstance group tiny (N=13); no female-specific analysis reported.",
+      "relevance_score_reason": "Clinically relevant psychiatric finding; no female-specific analysis; secondary analysis limits strength.",
       "pitch_angles": [
         {
-          "publication_type": "General health",
-          "headline": "After a first psychotic episode, mixing substances \u2014 not just using weed \u2014 may stall recovery",
-          "hook": "A new study found that young adults who used multiple substances after their first psychotic episode had noticeably more severe symptoms and struggled more with basic self-care than those who used cannabis alone or nothing at all.",
-          "pitch_angle": "Researchers tracked substance use in patients who had recently achieved remission from first-episode psychosis and found that polysubstance users \u2014 a small but distinct group \u2014 showed elevated positive symptoms and poorer self-care over six months; the finding highlights why substance use screening after psychosis should look beyond cannabis use alone."
+          "publication_type": "Health.com / General health",
+          "headline": "Mixing Substances After a First Psychotic Episode Raises Risk of Relapse and Daily Dysfunction",
+          "hook": "Young adults who used multiple substances after recovering from a first psychotic episode had significantly worse symptoms and struggled more with basic self-care tasks.",
+          "pitch_angle": "A Dutch RCT follow-up study found that polysubstance use in the months after first-episode psychosis remission is associated with heightened psychotic symptoms and impaired self-care, even compared to cannabis-only users. The finding highlights a window for early intervention that clinicians and families may be missing."
         }
       ],
-      "run_date": "2026-09-15",
+      "run_date": "2026-09-16",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42715357",
-      "headline": "Burnout is still not officially a disease \u2014 and that legal gray zone is causing real problems in workers' comp cases",
+      "headline": "Burnout still isn't officially a disease \u2014 and that legal gray zone is creating chaos in workers' comp cases",
       "journal": "Revista Brasileira de Psiquiatria",
       "pubdate": "2026 Sep 9",
       "doi": "10.47626/1516-4446-2026-5041",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Brazilian researchers conducted a narrative review of literature from 1974 to 2026 examining the diagnostic, conceptual, and forensic challenges of burnout syndrome, drawing on PubMed, Embase, PsycINFO, and Scopus. The review found persistent debate over whether burnout is a distinct condition, a subtype of depression, or a work-related stress syndrome, with significant symptom overlap with depressive disorders. In forensic and legal settings, proving that burnout is caused by work \u2014 rather than personal factors \u2014 remains especially difficult.",
-      "why_it_matters": "Women, who disproportionately experience burnout, face an additional barrier when seeking workplace accommodations or legal recourse if burnout's diagnostic status remains contested.",
-      "caveats": "narrative review, no sex-disaggregated data, no primary data collected, single-region context (Brazil/South America forensic law)",
+      "summary": "Brazilian psychiatrists conducted a narrative literature review of research published between 1974 and 2026 to examine how burnout is classified, diagnosed, and evaluated in legal and forensic contexts. The review found ongoing expert disagreement about whether burnout is a distinct condition, a subtype of depression, or simply a stress syndrome, with significant symptom overlap with depressive disorders. In forensic settings \u2014 such as disability or workers' compensation claims \u2014 this ambiguity creates serious challenges around establishing causation, detecting symptom exaggeration, and applying standardized assessment tools.",
+      "why_it_matters": "Women, who report higher rates of workplace burnout and are more likely to work in caregiving and healthcare roles, face real legal and financial consequences when burnout's diagnostic ambiguity makes it harder to obtain formal recognition or workplace compensation.",
+      "caveats": "observational design, narrative review (no pooled effect estimates), single-center, no sex-disaggregated data, Brazil-based authorship team (legal/forensic context may differ from US)",
       "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Narrative review; no original data; limited women's health specificity.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant burnout topic for women, but narrative review with no female-specific analysis.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "Burnout Is Real \u2014 So Why Is It So Hard to Prove at Work?",
-          "hook": "Despite widespread recognition of burnout, a major review finds it still doesn't have a clear medical classification \u2014 and that gap is leaving burned-out workers without legal protection.",
-          "pitch_angle": "A new narrative review highlights that burnout sits in a murky diagnostic gray zone between depression and occupational stress, making it difficult to validate in legal or workplace settings. For women \u2014 who shoulder disproportionate caregiving and workplace pressures \u2014 the lack of a clear definition has real consequences for getting support."
+          "publication_type": "The Cut",
+          "headline": "Burnout Is Real \u2014 So Why Can't the Medical System Agree on What It Is?",
+          "hook": "Burnout has become a cultural shorthand for modern exhaustion, but psychiatrists still can't agree whether it's a disease, a form of depression, or something else entirely \u2014 and women are paying the price.",
+          "pitch_angle": "A new review of five decades of burnout research reveals that the condition exists in a diagnostic no-man's-land, which has serious consequences when workers \u2014 disproportionately women in caregiving fields \u2014 try to claim disability benefits or workplace protections. Until medicine settles on a clear definition, the women most affected by burnout may keep falling through the cracks."
         }
       ],
-      "run_date": "2026-09-15",
+      "run_date": "2026-09-16",
       "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42716958",
-      "headline": "Low tryptophan in teens with depression may point to a gut-brain pathway \u2014 not just brain chemistry",
+      "headline": "A gut-brain connection may explain why some teens spiral into depression \u2014 and a high-tryptophan diet might help",
       "journal": "Molecular Psychiatry",
       "pubdate": "2026 Sep 9",
       "doi": "10.1038/s41380-026-03895-8",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed gut microbiome profiles and metabolite levels in unmedicated adolescents with depression and in mouse models, finding that indole derivatives \u2014 byproducts of tryptophan metabolism by gut bacteria \u2014 were significantly lower in depressed individuals and negatively correlated with depression severity. In adolescent mice, a high-tryptophan diet and direct indole supplementation reduced depressive behaviors and restored brain inflammation markers, while a low-tryptophan diet induced depression-like behavior in healthy mice. The mechanism appears to involve a gut-derived signaling pathway (indoles \u2192 aryl hydrocarbon receptor \u2192 microglial regulation) that influences neurogenesis in the hippocampus.",
-      "why_it_matters": "Suggests that dietary tryptophan and gut microbiome health may influence adolescent depression through a biological pathway distinct from classic serotonin models, which could matter for girls and young women during a high-risk period for depression onset.",
-      "caveats": "animal or cell study (mouse model primary mechanism data), small sample (human N not specified for clinical arm \u2014 unmedicated adolescents, no sex-disaggregated data reported), single-center, observational design (human component), no sex-disaggregated data",
+      "summary": "Researchers analyzed gut microbiome metabolites in unmedicated depressed adolescents and stress-induced depressed mice, finding that levels of tryptophan-derived indole compounds (IAA, IPA, IAld) were significantly lower in depressed individuals and negatively correlated with symptom severity. In mice, a high-tryptophan diet and direct indole supplementation reduced depression-like behaviors and restored healthy microglial activity in the hippocampus via aryl hydrocarbon receptor (AhR) signaling. The human component included adolescent patients but did not report sample size, sex breakdown, or demographic details in the abstract.",
+      "why_it_matters": "Early evidence that gut bacteria's processing of dietary tryptophan may directly influence teen depression could eventually point toward nutritional strategies to support mental health in adolescent girls, a group with rapidly rising depression rates.",
+      "caveats": "animal or cell study (primary mechanistic data from mice), no sex-disaggregated data, observational design for human component, single-center",
+      "fact_check_note": "Abstract does not specify human sample size (N); this cannot be verified and is omitted from the summary.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Gut-brain nutrition hook is strong; mechanistic data primarily from mice; no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Could Eating More Tryptophan Help Teen Girls Fight Depression? New Research Points to the Gut",
+          "hook": "Depressed adolescents had significantly lower levels of gut-produced tryptophan compounds \u2014 and in mice, a high-tryptophan diet measurably eased depression-like symptoms.",
+          "pitch_angle": "A new study combining human microbiome data with mouse experiments suggests that gut bacteria's ability to convert tryptophan into anti-inflammatory compounds may be a key missing link in adolescent depression. While the human findings are early and the mechanistic evidence comes from animal models, the research opens a door to dietary approaches that could one day complement treatment for teen girls, who are disproportionately affected by depression."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42714630",
+      "headline": "CoQ10 supplements are largely a wellness trend \u2014 but for children with a rare gene mutation, they may actually reverse mitochondrial damage",
+      "journal": "Metabolic Brain Disease",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1007/s11011-026-01983-w",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at a single Indian medical center identified two pediatric patients with rare genetic mutations (in COQ2 and COQ4) that impair the body's ability to produce coenzyme Q10, causing mitochondrial dysfunction and neurological symptoms. Using high-resolution respirometry on platelets, they found that three months of CoQ10 supplementation significantly restored mitochondrial energy production (ATP synthesis) in the COQ2 patient and was associated with clinical neurological improvement. Critically, CoQ10 supplementation had no effect on mitochondrial function in healthy individuals, suggesting the supplement only works in those with the specific genetic deficiency.",
+      "why_it_matters": "This study suggests that the popular CoQ10 supplement offers no mitochondrial benefit to healthy people \u2014 but may be genuinely therapeutic for the rare individuals with genetic CoQ10 deficiency, underscoring the importance of genetic testing before treatment.",
+      "caveats": "small sample (N<100), single-center, India population, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive supplement finding but N=2 probands; rare disease limits women's health pitch.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "CoQ10 Supplements Do Nothing for Your Mitochondria \u2014 Unless You Have This Rare Gene Mutation",
+          "hook": "A new study confirms what researchers have long suspected: CoQ10 supplements don't actually boost mitochondrial function in healthy people, but they may be genuinely life-changing for those with a specific rare genetic condition.",
+          "pitch_angle": "Researchers gave CoQ10 supplements to both healthy individuals and pediatric patients with rare genetic mutations that block the body's own CoQ10 production \u2014 only the patients showed measurable improvement in cellular energy output and neurological symptoms. The finding is a timely reality check on one of wellness culture's most-hyped supplements, while also pointing to a real therapeutic use case for a condition that often goes undiagnosed."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42717485",
+      "headline": "A validated intuitive eating scale now works in Greek \u2014 and it measures the same way for men and women",
+      "journal": "Eating Disorders",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1080/10640266.2026.2731467",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers translated and validated the Intuitive Eating Scale-3 (IES-3) \u2014 a 12-item tool measuring whether people eat in response to internal hunger and fullness cues \u2014 in a Greek-speaking adult sample of 1,138 women and 712 men. Confirmatory factor analysis supported the original four-factor structure, and the scale demonstrated gender invariance, meaning it measures intuitive eating consistently across men and women. Higher intuitive eating scores were associated with better body image, greater psychological well-being, and lower disordered eating behaviors.",
+      "why_it_matters": "Confirming that the IES-3 is valid and gender-invariant in a new cultural context supports its use as a cross-cultural research and clinical tool for studying disordered eating prevention in women.",
+      "caveats": "observational design, self-reported outcomes, single-center, Greek/Cypriot population may limit generalizability",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Intriguing gut-brain mechanism but primarily mouse data; no sex-disaggregated human findings.",
+      "relevance_score_reason": "Psychometric validation study; eating disorder relevance for women, but limited novelty for general audience.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "Your gut bacteria might be influencing teen depression \u2014 and tryptophan could be a missing link",
-          "hook": "A new study found that depressed adolescents have fewer gut bacteria that process tryptophan \u2014 and in mice, eating more tryptophan actually reduced depression-like behavior.",
-          "pitch_angle": "Researchers found that indole derivatives produced from tryptophan by gut bacteria were markedly lower in unmedicated teens with depression, and that boosting these compounds reduced depression-like behaviors in mice; the finding adds a gut-health dimension to adolescent mental wellness conversations that goes beyond standard serotonin messaging."
+          "headline": "Intuitive Eating Isn't Just a Trend \u2014 Researchers Just Proved It Holds Up Across Cultures and Genders",
+          "hook": "A new study validated the leading intuitive eating measurement tool in Greek adults and found it works equally well for women and men \u2014 suggesting intuitive eating's protective effects on body image and mental health may be universal.",
+          "pitch_angle": "Researchers confirmed that higher intuitive eating scores were linked to better body image and lower disordered eating in over 1,800 Greek adults, regardless of gender \u2014 adding cross-cultural weight to the case for intuitive eating as a tool for eating disorder prevention."
         }
       ],
-      "run_date": "2026-09-15",
+      "run_date": "2026-09-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42745433",
+      "headline": "Neurodiverse teens with Type 1 diabetes don't see their diagnosis as a barrier \u2014 but their parents are exhausted",
+      "journal": "Diabetes, Obesity and Metabolism",
+      "pubdate": "2026 Sep 15",
+      "doi": "10.1111/dom.71363",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted semi-structured interviews with 15 young people (ages 12\u201318) with autism, ADHD, or both who also have Type 1 diabetes, plus 13 of their caregivers (UK-based). While caregivers reported heavy burden \u2014 including sleep disruption from hypoglycaemia fears and a lack of tailored resources \u2014 the young people themselves did not view their neurodiversity as a barrier to managing their diabetes. Continuous glucose monitoring was widely seen as reducing anxiety and improving sleep for both groups.",
+      "why_it_matters": "Given that mothers disproportionately carry the caregiving load for children with complex medical needs, this finding highlights an invisible mental health burden on women that healthcare systems rarely address.",
+      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, UK population only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Caregiver burden angle relevant to women; small qualitative sample limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping / First for Women",
+          "headline": "The Hidden Toll of Raising a Neurodiverse Child with Diabetes \u2014 and the Tech That's Actually Helping",
+          "hook": "Teen kids with autism or ADHD and Type 1 diabetes say they're managing fine \u2014 it's their moms who are running on empty.",
+          "pitch_angle": "A new qualitative study found that neurodiverse young people didn't see their condition as a barrier to diabetes self-management, but their caregivers \u2014 most often mothers \u2014 struggled with sleepless nights, inadequate support, and a healthcare system not built for them. Continuous glucose monitors emerged as a rare bright spot, easing nighttime anxiety for the whole family."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42744300",
+      "headline": "Feeling good can paradoxically drive more drinking in LGBTQ+ people \u2014 unless they have strong social support",
+      "journal": "Substance Use & Misuse",
+      "pubdate": "2026 Sep 15",
+      "doi": "10.1080/10826084.2026.2732188",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 169 LGBTQIA+ community members using validated measures of alcohol use, positive emotions, and social support to examine how these factors interact. They found a positive relationship between positive emotions and alcohol misuse \u2014 meaning feeling good was associated with more problematic drinking \u2014 but this relationship disappeared among people with high social support. The study suggests social support may act as a protective buffer that redirects positive emotions away from alcohol.",
+      "why_it_matters": "For LGBTQ+ women, who face elevated alcohol misuse risk, the finding suggests that community connection and belonging may be more protective against drinking problems than previously understood \u2014 and that joy itself, without social grounding, may be a subtle risk factor.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, no sex-disaggregated data, cross-sectional",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive finding with wellness hook; small self-report sample; no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "For LGBTQ+ People, Feeling Happy Can Actually Fuel Drinking \u2014 Here's the One Thing That Changes That",
+          "hook": "A new study found that positive emotions were linked to higher alcohol misuse in LGBTQ+ individuals \u2014 but only when social support was low.",
+          "pitch_angle": "Counterintuitively, feeling good may be a risk factor for problematic drinking among LGBTQ+ people, according to a small new study \u2014 unless strong social bonds are in place. The research suggests that community, belonging, and having someone to talk to may be the real buffer against alcohol misuse, offering a fresh framing for wellness and prevention conversations in queer communities."
+        }
+      ],
+      "run_date": "2026-09-16",
       "category": "Psychiatry",
       "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42734638",
+      "headline": "A protein linked to cellular aging may be driving pelvic organ prolapse \u2014 and silencing it in lab tissue reversed the damage",
+      "journal": "International Urogynecology Journal",
+      "pubdate": "2026 Sep 14",
+      "doi": "10.1007/s00192-026-06878-z",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used machine learning to analyze uterosacral ligament tissue from women with pelvic organ prolapse (POP), identifying a protein called thrombospondin-1 (THBS1) as a key driver of cellular aging and tissue breakdown. They then tested the finding in fibroblasts isolated from POP patients and in rat cell lines, showing that THBS1 expression was elevated in POP tissue compared to non-POP tissue. Silencing THBS1 in patient-derived fibroblasts improved cell growth and reduced hallmarks of cellular senescence, while adding the protein to healthy cells induced damage.",
+      "why_it_matters": "Pelvic organ prolapse affects roughly 1 in 4 women, and current treatments are purely surgical \u2014 this early research suggests a molecular target that could one day lead to non-surgical options.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Women-specific condition, pelvic floor angle; offset by cell/animal study and early-stage science.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Pelvic Floor May Age at the Cellular Level \u2014 and Scientists Think They've Found the Protein Responsible",
+          "hook": "A little-known protein called thrombospondin-1 may be quietly aging the tissue that holds your pelvic organs in place.",
+          "pitch_angle": "New lab research found that THBS1 is elevated in women with pelvic organ prolapse and appears to trigger a cellular aging cascade in pelvic floor tissue; silencing the protein in lab cells reversed the damage \u2014 raising early hope for non-surgical treatments down the road."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42734066",
+      "headline": "Higher vitamin D during pregnancy is linked to larger fetal head size \u2014 but the effect is small",
+      "journal": "The British Journal of Nutrition",
+      "pubdate": "2026 Sep 14",
+      "doi": "10.1017/S0007114526108289",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This prospective cohort study followed 330 pregnant women in Brazil, measuring maternal vitamin D (25(OH)D) levels at three gestational timepoints (\u226419, 20\u201328, and \u226530 weeks) and assessing fetal biometry and adiposity via ultrasound. After adjusting for sociodemographic, lifestyle, and clinical confounders, each 10 nmol/L increase in maternal 25(OH)D was associated with a statistically significant but very small increase in fetal head circumference (\u03b2 = 0.0046 cm). No significant associations with other fetal biometric or adiposity measures were found after adjustment.",
+      "why_it_matters": "The findings add to early evidence suggesting that prenatal vitamin D levels may play a role in fetal cranial development, reinforcing existing guidance around monitoring vitamin D status during pregnancy.",
+      "caveats": "small sample (N<100 per timepoint subgroup), observational design, single-center, short follow-up, Brazil-specific cohort",
+      "fact_check_note": "The abstract notes that the unadjusted analysis showed broader associations with biometry and adiposity, but after adjustment only fetal head circumference reached significance \u2014 this distinction should be clearly preserved in any coverage.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Prenatal/reproductive health angle; prospective design, but small sample and effect size is minimal.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Your Vitamin D Levels During Pregnancy May Affect Your Baby's Brain Development",
+          "hook": "A new study found that pregnant women with higher vitamin D levels tended to have babies with slightly larger head circumferences \u2014 a proxy for brain growth.",
+          "pitch_angle": "Brazilian researchers tracking vitamin D in 330 pregnant women found a small but statistically significant link between maternal vitamin D and fetal head size, adding to growing evidence that this commonly deficient nutrient plays a role in fetal neurodevelopment."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42742593",
+      "headline": "Young women are trying e-cigarettes and cannabis earlier than cigarettes \u2014 and often enjoying it more",
+      "journal": "Journal of Studies on Alcohol and Drugs",
+      "pubdate": "2026 Sep 14",
+      "doi": "10.15288/jsad.25-00436",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed retrospective narratives from 293 undergraduate students (mean age 21.3, 84.3% female) about their first experiences with cigarettes, e-cigarettes, and cannabis, examining emotional reactions and social contexts. E-cigarettes were the most common entry point for nicotine (54%), while most first-time cigarette users reported negative reactions but e-cigarette and cannabis users reported a wider range including enjoyment. Peer influence, parties, and curiosity were the most commonly cited motives across all substances.",
+      "why_it_matters": "Because the majority of participants were young women, the findings suggest that the more pleasurable first-use profiles of e-cigarettes and cannabis \u2014 compared to cigarettes \u2014 may make these products harder to avoid or quit for college-age women.",
+      "caveats": "observational design, self-reported outcomes, single-center, retrospective recall bias, predominantly female sample may limit generalizability to men",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Majority-female sample, wellness hook, but observational and self-reported with recall bias.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Young Women Are More Likely to Enjoy Their First Vape or Weed Experience \u2014 And What That Means for Their Health",
+          "hook": "Unlike cigarettes, which most first-timers found unpleasant, e-cigarettes and cannabis often felt good from the very first try \u2014 and that may be exactly the problem.",
+          "pitch_angle": "A new study of mostly young women found that the more enjoyable first-use experiences of vaping and cannabis, compared to traditional cigarettes, could make these habits stickier from the start. Peer settings and emotional curiosity drove initiation, raising questions about how wellness culture's increasingly relaxed attitude toward cannabis affects young women specifically."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "College Women Are Starting to Vape Before They Ever Try a Cigarette \u2014 Here's the Social Science Behind It",
+          "hook": "E-cigarettes have quietly overtaken traditional cigarettes as the first nicotine product most college students try \u2014 and the first experience is often described as enjoyable.",
+          "pitch_angle": "Researchers found that among a predominantly female college-age group, e-cigarettes were the most common nicotine starting point, and first-time users were far more likely to report positive reactions than cigarette initiates. Understanding these social and emotional entry points could help parents, clinicians, and public health campaigns reach young women before habits form."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42731649",
+      "headline": "AI spots hidden bone fractures two years before they happen \u2014 even when bone density looks normal",
+      "journal": "Bone",
+      "pubdate": "2026 Sep 12",
+      "doi": "10.1016/j.bone.2026.118078",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used an AI-powered imaging tool called ALIGNOGRAM1.0 to analyze bone structure in a young woman with pycnodysostosis, a rare genetic disorder causing paradoxically dense but fragile bones (N=1, case report). The patient had supranormal bone density on standard scans yet suffered multiple fractures, including bilateral atypical femur fractures. ALIGNOGRAM1.0 detected microfractures on routine hip X-rays up to two years before those fractures occurred \u2014 findings invisible to the naked eye and to conventional imaging analysis.",
+      "why_it_matters": "For women with genetic or metabolic bone disorders who are told their bone density looks 'normal,' this finding suggests standard scans may miss the fracture risk that an AI tool could detect earlier.",
+      "caveats": "small sample (N<100), single-center, observational design, industry funding [ALIGNOGRAM inventor is a co-author]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Compelling bone-health hook for women, but N=1 case report limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Bone Density Scan Could Look Perfect \u2014 and Still Miss a Fracture Risk. AI May Change That",
+          "hook": "A new AI tool detected hidden bone fractures two years before they happened \u2014 on standard X-rays that looked completely normal.",
+          "pitch_angle": "This case study of a young woman whose bones appeared dense but shattered anyway raises urgent questions about whether routine bone scans are telling the whole story. Early evidence suggests AI-powered imaging could one day flag silent fracture risk that today's gold-standard DXA scans simply can't see."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42743833",
+      "headline": "For small but aggressive breast tumors, surgery first may actually beat chemotherapy first \u2014 challenging a standard guideline",
+      "journal": "Breast (Edinburgh, Scotland)",
+      "pubdate": "2026 Sep 12",
+      "doi": "10.1016/j.breast.2026.104913",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a critical review of real-world data \u2014 including large SEER database studies and recent meta-analyses \u2014 comparing neoadjuvant chemotherapy (chemo before surgery) versus adjuvant chemotherapy (chemo after surgery) for Stage I (cT1c) triple-negative breast cancer (TNBC) in women. Retrospective analyses suggested that a surgery-first approach followed by adjuvant chemotherapy was associated with better breast cancer-specific and overall survival than the current guideline-recommended neoadjuvant approach. The authors propose a revised treatment algorithm for this early-stage subgroup, highlighting adjuvant capecitabine as showing robust long-term survival benefit.",
+      "why_it_matters": "Triple-negative breast cancer is one of the most aggressive subtypes and disproportionately affects younger women and Black women, making any finding that challenges standard treatment sequencing for early-stage disease potentially significant for thousands of women.",
+      "caveats": "observational design, secondary analysis, retrospective data, industry funding [MSD \u2014 one author reports consulting/speaking fees]",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive, overturns guideline, women-only cancer; retrospective design limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "For Early-Stage Triple-Negative Breast Cancer, Surgery First May Be the Smarter Move \u2014 Challenging What Doctors Are Currently Told to Do",
+          "hook": "Current guidelines tell doctors to give chemotherapy before surgery for even the smallest triple-negative breast tumors \u2014 but a new analysis of real-world data suggests that might actually be the wrong order.",
+          "pitch_angle": "A critical review of large U.S. and international datasets found that women with small Stage I triple-negative breast cancers who had surgery first and chemotherapy after lived longer than those who followed the current guideline of chemo first. Because TNBC disproportionately affects younger and Black women, this finding \u2014 if confirmed \u2014 could reshape how one of the most aggressive breast cancer subtypes is treated at its earliest, most curable stage."
+        },
+        {
+          "publication_type": "The Cut / Health.com",
+          "headline": "The Standard Treatment for Early-Stage Triple-Negative Breast Cancer May Be Based on the Wrong Evidence",
+          "hook": "A new analysis suggests that guidelines for one of the most aggressive breast cancers were largely written based on studies of much later-stage disease \u2014 and that early-stage patients may be getting a worse deal.",
+          "pitch_angle": "Current oncology guidelines recommend chemo before surgery for Stage I triple-negative breast cancer, but retrospective data now suggest those recommendations were extrapolated from trials of much larger, more advanced tumors. For small, early-stage TNBC \u2014 which disproportionately strikes younger and Black women \u2014 the evidence may actually favor surgery first, raising urgent questions about whether standard care is optimized for the women who need it most."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42730921",
+      "headline": "Blood metabolites tied to stunting and overweight in young children differ by sex \u2014 girls and boys show distinct nutritional fingerprints",
+      "journal": "European Journal of Nutrition",
+      "pubdate": "2026 Sep 12",
+      "doi": "10.1007/s00394-026-04101-9",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed the serum metabolomes of 4,978 Brazilian children aged 6\u201359 months using the 2019 Brazilian National Survey on Child Nutrition (ENANI-2019) to identify metabolic signatures linked to growth outcomes including stunting and overweight. Sex-stratified analyses revealed that certain amino acids \u2014 methionine and histidine \u2014 were associated with weight-for-height and BMI indices exclusively in girls, while gut-derived microbial metabolites were associated with growth measures only in boys. The findings suggest metabolomics could serve as a screening tool for childhood malnutrition, with meaningfully different metabolic pathways operating in girls versus boys.",
+      "why_it_matters": "The discovery that girls and boys show distinct metabolic signatures linked to malnutrition suggests that nutritional interventions and screening tools may need to be sex-specific from early childhood.",
+      "caveats": "observational design, single-center",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large sample, sex-disaggregated data, but pediatric focus limits direct women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Girls' and Boys' Bodies Process Nutrition Differently \u2014 Even Before Age 5",
+          "hook": "A large Brazilian study found that girls and boys have distinct blood metabolite patterns tied to growth and weight \u2014 meaning their nutritional needs may diverge far earlier than we thought.",
+          "pitch_angle": "Analyzing blood metabolites in nearly 5,000 young children, researchers found that certain amino acids predicted weight and growth outcomes in girls but not boys, suggesting that sex-specific nutritional screening may need to start in toddlerhood."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42727853",
+      "headline": "The world finally has one place to look up what people actually eat \u2014 but data gaps for women remain stark",
+      "journal": "The Journal of Nutrition",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1016/j.tjnut.2026.101828",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "The UN Food and Agriculture Organization launched FAOSTAT Food and Diet Domain (FDD), the first global platform harmonizing dietary data from multiple sources including food availability, household consumption surveys, and individual intake data. The platform covers nutrient supply for 178 countries and includes Minimum Dietary Diversity for Women (MDD-W) indicators from 25 surveys across 23 countries. While a landmark infrastructure achievement, individual-level intake data remains available for only eight surveys in five countries, highlighting significant global gaps.",
+      "why_it_matters": "For women specifically, the platform's inclusion of MDD-W indicators offers the first harmonized global window into whether women of reproductive age are meeting dietary diversity thresholds \u2014 a key marker of nutritional adequacy.",
+      "caveats": "observational design, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Policy/infrastructure study; women's dietary diversity angle present but indirect.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The UN Just Built the World's First Global Diet Database \u2014 Here's What It Reveals About What Women Are (and Aren't) Eating",
+          "hook": "For the first time, researchers can compare what women actually eat across 23 countries using one standardized system.",
+          "pitch_angle": "The FAO's new FAOSTAT platform harmonizes dietary data globally and specifically tracks whether women of reproductive age are eating diversely enough \u2014 but the data still covers only a fraction of the world's population, revealing how much we still don't know about women's nutrition."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42725870",
+      "headline": "People with first psychotic episodes stick with wearable mental health monitoring better than expected \u2014 but only for a few days",
+      "journal": "Canadian Journal of Psychiatry",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1177/07067437261486958",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a six-day digital phenotyping study using smartphones and wearables with 40 patients aged 12\u201335 experiencing first-episode psychosis, recruited from an early intervention program in Nova Scotia. Active adherence (completing EMA surveys) averaged 71% while passive adherence (wearable data collection) averaged 85%, though engagement declined from day two or three onward. Stakeholders flagged survey burden, psychological risks, and work/school restrictions as real-world barriers to adoption.",
+      "why_it_matters": "For young women navigating a first psychosis episode, understanding how and when digital monitoring tools break down could help clinicians design less burdensome mental health tracking that fits real life.",
+      "caveats": "small sample (N<100), observational design, single-center, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Psychiatric tech study; no female-specific analysis; small sample; limited wellness hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Mental Health Wearables Show Promise for Young Psychosis Patients \u2014 But Engagement Drops Fast",
+          "hook": "Most young people with first-episode psychosis were willing to wear health-tracking devices and answer smartphone check-ins \u2014 but engagement started falling within just two days.",
+          "pitch_angle": "A small Canadian study found wearable-based mental health monitoring is feasible for young psychosis patients, with over 70% survey completion, but drop-off begins almost immediately. The finding suggests digital mental health tools need to be much shorter and less burdensome to work in the real world."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42726181",
+      "headline": "Autism response training helps all first responders \u2014 but those with no personal connection to autism gain the most",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1007/s10803-026-07520-z",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers evaluated pre- and post-training measures of confidence, self-efficacy, and knowledge among first responders \u2014 including law enforcement and other emergency personnel \u2014 who completed an autism response training program. All participants improved across outcomes regardless of professional role or whether they had a personal relationship with an autistic person, but those with no prior personal connection to autism showed the greatest gains in confidence. Law enforcement officers entered with higher baseline self-efficacy and showed smaller overall improvements than other professional groups.",
+      "why_it_matters": "Autistic women and girls are frequently misidentified or poorly served during emergency encounters, and findings suggesting that untrained responders can rapidly close knowledge gaps may support advocacy for universal \u2014 not just targeted \u2014 first-responder training programs.",
+      "caveats": "no sex-disaggregated data, single-center, self-reported outcomes, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "No female-specific analysis; limited direct women's health hook despite autism relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The First Responders Who Know the Least About Autism May Have the Most to Gain From Training",
+          "hook": "Counterintuitively, emergency responders with zero personal connection to autism improved the most after a targeted training \u2014 suggesting that experience isn't a prerequisite for becoming an effective responder.",
+          "pitch_angle": "A new study found that all first responders improved in knowledge and confidence after autism training, but those starting from scratch showed the biggest leaps, challenging assumptions that personal familiarity with autism gives responders a lasting edge. For families of autistic women and girls \u2014 who are often misread in crisis situations \u2014 the implication is that broad, mandatory training could matter more than selective programs."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42665051",
+      "headline": "Swapping red meat for fish or poultry during pregnancy was linked to less postpartum weight gain \u2014 and leaner kids years later",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1016/j.ajcnut.2026.101508",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed dietary data from 59,791 pregnant women in the Danish National Birth Cohort, assessing protein sources at 25 weeks of gestation via validated food-frequency questionnaire and tracking postpartum weight retention (PPWR >5 kg at 6\u201318 months) and offspring overweight or obesity at ages 7\u201311. Higher red meat protein intake was associated with a 11% higher risk of significant postpartum weight retention, while plant, grain, poultry, and fish protein were associated with lower risk. Isocaloric substitution of just 1% of energy from red meat or dairy protein for poultry, fish, or grain protein was associated with 4\u20136% lower maternal PPWR risk and 3\u20134% lower odds of offspring overweight or obesity.",
+      "why_it_matters": "For pregnant women navigating dietary choices, this large prospective cohort suggests that protein source \u2014 not just protein amount \u2014 during pregnancy may shape both their own postpartum weight trajectory and their child's obesity risk years later.",
+      "caveats": "observational design, self-reported outcomes, single-center (Danish cohort \u2014 findings may not generalize to all populations)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large female-only prospective cohort, reproductive health, clear lifestyle hook, clean design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "The Pregnancy Protein Swap That Could Lower Your Risk of Postpartum Weight Gain",
+          "hook": "A study of nearly 60,000 pregnant women found that trading red meat for fish or chicken during pregnancy was linked to meaningfully less weight retained after birth.",
+          "pitch_angle": "Most pregnancy nutrition advice focuses on how much protein to eat \u2014 but this large Danish cohort study suggests the source matters just as much for postpartum weight recovery. Women who got more protein from poultry and fish and less from red meat were about 10% less likely to hold onto significant weight after delivery."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "What You Eat During Pregnancy Could Affect Your Kid's Weight a Decade Later",
+          "hook": "A new study found that babies born to mothers who ate more red meat during pregnancy were more likely to become overweight children by age 7 to 11.",
+          "pitch_angle": "The research tracked nearly 60,000 Danish mothers and their children, finding that higher dairy and red meat protein in pregnancy was linked to higher childhood obesity risk \u2014 while fish and poultry protein were associated with lower risk. The finding adds a long-term, intergenerational angle to the growing conversation about eating quality (not just quantity) during pregnancy."
+        },
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "This Simple Protein Swap During Pregnancy May Help You Bounce Back Postpartum",
+          "hook": "Replacing even a small percentage of red meat calories with fish or plant protein during pregnancy was associated with significantly less postpartum weight retention in one of the largest studies of its kind.",
+          "pitch_angle": "Data from nearly 60,000 women suggests that protein source during pregnancy is an underrated lever for postpartum recovery \u2014 and one that's relatively easy to act on through food choices. The study also found ripple effects for kids, with red meat and dairy protein linked to higher obesity risk in children years after birth."
+        }
+      ],
+      "run_date": "2026-09-16",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -331,33 +733,6 @@
       "status": "new"
     },
     {
-      "pmid": "42734638",
-      "headline": "A stress-response protein may be quietly wrecking the pelvic floor \u2014 and silencing it could change how prolapse is treated",
-      "journal": "International Urogynecology Journal",
-      "pubdate": "2026 Sep 14",
-      "doi": "10.1007/s00192-026-06878-z",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used machine learning to analyze tissue from the uterosacral ligaments of women with pelvic organ prolapse (POP) and identified thrombospondin-1 (THBS1) as a key protein linked to cellular aging and connective-tissue breakdown in pelvic floor tissue. They then tested THBS1 in both patient-derived human fibroblasts and rat cells, finding that silencing THBS1 improved cell function and reduced signs of aging, while adding it accelerated tissue damage. The study suggests THBS1 acts as a stress-activated switch that drives the connective-tissue degeneration underlying POP, and may represent a future drug target.",
-      "why_it_matters": "Pelvic organ prolapse affects roughly one in three women over a lifetime, and current treatments repair anatomy without addressing the cellular root cause \u2014 this finding suggests a molecular target that could eventually lead to non-surgical therapies.",
-      "caveats": "animal or cell study (rat fibroblasts used alongside human tissue), single-center, small human tissue sample implied, mechanistic study only \u2014 no clinical outcomes",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Women-specific condition, novel mechanism, but largely cell/animal work limits clinical translation.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "Scientists May Have Found the Molecular Culprit Behind Pelvic Organ Prolapse",
-          "hook": "A stress-response protein that accelerates cellular aging in pelvic tissue could explain why prolapse happens \u2014 and point toward treatments that go beyond surgery.",
-          "pitch_angle": "New lab research identified a protein called THBS1 that appears to trigger connective-tissue breakdown in the pelvic floor under physical stress; silencing it in human tissue samples restored healthier cell behavior. For the millions of women told their only option is surgery or a pessary, the idea of a targeted therapy is significant \u2014 though human trials are still years away."
-        }
-      ],
-      "run_date": "2026-09-15",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42732853",
       "headline": "Two simple imaging measurements \u2014 not symptoms \u2014 best predict whether a woman with rectal endometriosis will need major bowel surgery",
       "journal": "Journal of Minimally Invasive Gynecology",
@@ -388,33 +763,6 @@
       "run_date": "2026-09-15",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42731649",
-      "headline": "AI spots hidden fracture risk in bones so dense they look 'too healthy' to break",
-      "journal": "Bone",
-      "pubdate": "2026 Sep 12",
-      "doi": "10.1016/j.bone.2026.118078",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used an AI tool called ALIGNOGRAM1.0 to analyze femoral X-rays in a young woman with pycnodysostosis, a rare genetic bone disease, who experienced multiple fractures despite having supranormal bone density (N=1 case report). The AI detected microfractures at femoral sites up to two years before full fractures occurred \u2014 lesions invisible on routine radiographs and missed by conventional bone-density scans. The case suggests bone disorganization, not low density, may be an underrecognized driver of fracture risk in certain genetic and metabolic bone disorders.",
-      "why_it_matters": "For women with rare bone conditions who receive 'normal' or even high bone density readings, this early evidence suggests AI-assisted imaging may one day catch hidden fracture risk that standard DXA scans completely miss.",
-      "caveats": "small sample (N<100), single-center, observational design, industry conflict (co-author is inventor of ALIGNOGRAM technology)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Rare disease case report; bone health angle relevant but extremely limited by N=1.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Bones Can Look Perfectly Healthy \u2014 And Still Be About to Break. AI May Change That",
-          "hook": "A young woman's X-rays looked fine \u2014 until an AI spotted fractures hiding inside bones so dense they seemed unbreakable.",
-          "pitch_angle": "Researchers found that standard bone density scans completely missed dangerous microfractures in a woman with an ultra-rare condition, but an AI tool detected them up to two years before they became full breaks. While the finding comes from a single case, it raises a bigger question about whether bone health metrics women rely on \u2014 like DXA scores \u2014 are telling the whole story."
-        }
-      ],
-      "run_date": "2026-09-15",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -474,87 +822,6 @@
       ],
       "run_date": "2026-09-15",
       "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42727853",
-      "headline": "A new global database finally makes food consumption data comparable across 178 countries",
-      "journal": "The Journal of Nutrition",
-      "pubdate": "2026 Sep 11",
-      "doi": "10.1016/j.tjnut.2026.101828",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "The UN Food and Agriculture Organization launched the FAOSTAT Food and Diet Domain (FDD), the first global platform to compile harmonized dietary statistics from multiple complementary sources. The platform integrates food availability, household consumption, and individual-level intake data, and includes Minimum Dietary Diversity for Women (MDD-W) indicators from 25 surveys in 23 countries. It provides nutrient supply statistics for 178 countries and is intended to support evidence-based policymaking for food security and nutrition.",
-      "why_it_matters": "Women's dietary diversity is explicitly tracked in this platform, potentially making it easier to identify and address nutrition gaps affecting women globally.",
-      "caveats": "no sex-disaggregated data, observational design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Policy/infrastructure paper, limited direct women's health or wellness hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "The World Finally Has One Place to Track What People Are Actually Eating",
-          "hook": "For the first time, a single global platform harmonizes diet data from 178 countries \u2014 including a specific tracker for women's dietary diversity.",
-          "pitch_angle": "The FAO's new FAOSTAT Food and Diet Domain consolidates decades of scattered nutrition surveys into one accessible database. For journalists covering women's health and global nutrition equity, the platform's inclusion of the Minimum Dietary Diversity for Women indicator offers a new lens on where women's diets fall short worldwide."
-        }
-      ],
-      "run_date": "2026-09-15",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42725870",
-      "headline": "Teens and young adults with first-episode psychosis will wear a smartwatch and answer phone check-ins \u2014 at least for a few days",
-      "journal": "Canadian Journal of Psychiatry",
-      "pubdate": "2026 Sep 11",
-      "doi": "10.1177/07067437261486958",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers recruited 40 patients aged 12\u201335 with first-episode psychosis from an early intervention program in Nova Scotia and asked them to use smartphone ecological momentary assessment surveys and a wearable device for six days, supplemented by interviews with 19 patients, 6 caregivers, and 6 clinicians. Active (survey) adherence averaged 71% and passive (wearable) adherence averaged 85%, but both declined after days 2\u20133. Stakeholders identified survey burden, technical barriers, and psychological risks as key concerns, though participants generally found digital phenotyping acceptable.",
-      "why_it_matters": "Early findings suggest wearable mental health monitoring is feasible for young people experiencing a first psychotic episode, which could inform how future digital tools are designed for adolescent and young adult psychiatric care \u2014 a group that includes many young women.",
-      "caveats": "small sample (N=40), single-center, short follow-up (6 days), no sex-disaggregated data reported, observational design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Feasibility study, small N, no female-specific data; limited pitch angles for women's health outlets.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "Could a smartwatch help predict a psychotic episode? Young patients say they'd try it",
-          "hook": "A small Canadian study found that teenagers and young adults experiencing their first episode of psychosis were willing to wear health trackers and answer smartphone check-ins \u2014 and most kept it up for nearly a week.",
-          "pitch_angle": "The study found over 70% survey completion and over 82% wearable data capture among a difficult-to-engage psychiatric population, suggesting digital monitoring tools could one day assist clinicians in spotting warning signs earlier; the approach still needs testing over longer periods and with larger, more diverse groups before it's ready for real-world use."
-        }
-      ],
-      "run_date": "2026-09-15",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42726181",
-      "headline": "First responders improve autism response skills after training \u2014 regardless of whether they know someone autistic",
-      "journal": "Journal of Autism and Developmental Disorders",
-      "pubdate": "2026 Sep 11",
-      "doi": "10.1007/s10803-026-07520-z",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers examined pre- and post-training measures from first responders (including law enforcement, EMS, and others) who completed an autism response training program, analyzing how professional role and personal relationships with autistic individuals affected training outcomes. Participants improved in confidence, self-efficacy, and knowledge regardless of their professional background or personal connection to autism. Those without any personal relationship to autism showed the greatest gains in confidence, suggesting training is especially impactful for those with less prior exposure.",
-      "why_it_matters": "For the many autistic women and girls who interact with first responders \u2014 a group that is often underdiagnosed and underrepresented in autism research \u2014 broader standardized training could reduce the risk of harmful or ineffective emergency encounters.",
-      "caveats": "no sex-disaggregated data, self-reported outcomes, observational design, single-center",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Limited women's health angle; no sex-disaggregated data; observational design.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Training First Responders on Autism Works \u2014 Even If They've Never Met an Autistic Person",
-          "hook": "First responders who had zero personal connection to autism showed the biggest confidence gains after a single training program.",
-          "pitch_angle": "A new study found that autism response training improved first responders' skills across the board, but those with no prior exposure to autism gained the most. For autistic women and girls \u2014 a population that's frequently missed during emergency calls \u2014 this finding underscores the value of universal, not targeted, first responder education."
-        }
-      ],
-      "run_date": "2026-09-15",
-      "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
@@ -1278,33 +1545,6 @@
       ],
       "run_date": "2026-09-11",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42714630",
-      "headline": "CoQ10 supplements actually worked \u2014 but only in people with a rare genetic defect, not healthy individuals",
-      "journal": "Metabolic Brain Disease",
-      "pubdate": "2026 Sep 9",
-      "doi": "10.1007/s11011-026-01983-w",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers studied two pediatric patients with genetically confirmed primary CoQ10 deficiency caused by novel variants in COQ2 and COQ4, measuring mitochondrial function in platelets using high-resolution respirometry before and after three months of CoQ10 supplementation. The patient with the COQ2 variant showed significant improvement in ATP synthesis and reduced proton leak after supplementation, alongside neurological improvement. Critically, CoQ10 supplementation in healthy individuals produced no change in mitochondrial respiration, suggesting the supplement's benefit is specific to those with confirmed genetic deficiency.",
-      "why_it_matters": "This early evidence suggests that the popular CoQ10 supplement may offer no mitochondrial benefit in healthy people \u2014 only in those with a confirmed genetic deficiency \u2014 a meaningful distinction for the vast wellness market promoting it broadly.",
-      "caveats": "small sample (N<100), single-center, short follow-up, observational design",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Counterintuitive supplement finding; very small sample and pediatric population limit women's health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "CoQ10 Is Everywhere in the Wellness World \u2014 But New Research Suggests It Only Works If You Have This Rare Condition",
-          "hook": "A new study found that CoQ10 supplements improved mitochondrial function only in patients with a confirmed genetic deficiency \u2014 and did nothing measurable in healthy people.",
-          "pitch_angle": "Researchers testing CoQ10 in two patients with a rare inherited condition found real, measurable improvements in cellular energy production \u2014 but the same supplement had zero effect on healthy individuals' mitochondria. For the millions of women taking CoQ10 for general energy or fertility support, this early evidence raises questions about whether the supplement is doing anything at all without a specific underlying deficiency."
-        }
-      ],
-      "run_date": "2026-09-10",
-      "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
