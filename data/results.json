@@ -1,118 +1,499 @@
 {
-  "last_updated": "2026-09-18T14:59:56.376802+00:00",
-  "total_studies": 896,
-  "new_this_run": 7,
+  "last_updated": "2026-09-19T14:20:56.929658+00:00",
+  "total_studies": 902,
+  "new_this_run": 6,
   "studies": [
     {
+      "pmid": "42758667",
+      "headline": "AI in mental health care is promising \u2014 but experts say it must support, not replace, the human connection",
+      "journal": "Psychotherapy and Psychosomatics",
+      "pubdate": "2026 Sep 18",
+      "doi": "10.1159/pps/aemag015",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A multidisciplinary expert review examined the current and potential roles of AI and digital neurotechnologies in mental health care, covering diagnostic assessment, biomarker development, treatment selection, and conversational therapy agents. The review did not involve a primary patient sample and drew on existing literature and clinical frameworks. Authors concluded that AI's clinical value hinges on responsible integration with person-centered care, ethical oversight, and demonstrated clinical benefit \u2014 not technical performance alone.",
+      "why_it_matters": "Women are disproportionately affected by anxiety, depression, and trauma-related disorders, making the equity and personalization gaps in AI mental health tools directly relevant to their care.",
+      "caveats": "no sex-disaggregated data, narrative review (no primary data), no female-specific analysis",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Broad review, no primary data, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "AI therapy tools are everywhere \u2014 but experts warn they're missing something only humans can provide",
+          "hook": "A major expert review finds that AI chatbots and mental health apps can't replace the therapeutic alliance \u2014 and the stakes are especially high for women.",
+          "pitch_angle": "Researchers mapped out where AI in mental health is heading and where it falls short, finding that clinical value depends on human oversight, not just algorithms. For women seeking mental health support through apps and digital tools, the takeaway is that technology should be a complement to care, not a substitute."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42759449",
+      "headline": "Negativity bias may help explain why ethnic minority groups face higher psychosis risk \u2014 but the effect is smaller than expected",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Sep 18",
+      "doi": "10.1016/j.schres.2026.09.011",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using data from the EU-GEI case-control study across five European countries and Brazil, researchers examined whether negativity bias (interpreting facial expressions more negatively) and impaired facial affect recognition partially explained elevated first-episode psychosis rates in ethnic minority groups, analyzing 1,035 people with first-episode psychosis and 1,382 population-based controls. Small but statistically significant indirect effects of negativity bias and facial affect recognition were found for Black participants, and facial affect recognition effects were found for Mixed-ethnicity participants, though these effects were attenuated after adjusting for processing speed. Authors concluded that these cognitive-affective pathways may partially \u2014 but modestly \u2014 link social adversity experiences to psychosis risk in ethnic minority populations.",
+      "why_it_matters": "Women from ethnic minority backgrounds face compounded social adversity and elevated psychosis risk, and understanding cognitive pathways to psychosis could inform more culturally responsive early intervention.",
+      "caveats": "observational design, effects attenuated after processing speed adjustment, models adjusted for sex but no female-specific analysis reported, multicenter across different national contexts",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large multinational sample, relevant social determinants angle, no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "A massive study found a small but real link between racial bias exposure and psychosis risk \u2014 here's the surprising mechanism",
+          "hook": "Repeated exposure to social adversity may quietly reshape how ethnic minority individuals read other people's faces \u2014 and that cognitive shift may modestly raise the odds of a first psychotic episode.",
+          "pitch_angle": "Analyzing over 2,400 people across six countries, researchers found that negativity bias \u2014 reading neutral or ambiguous faces as more threatening \u2014 partially explained why ethnic minority groups face higher psychosis rates, though the effect was modest and complicated by processing speed differences. The finding points to how chronic social stress may leave measurable cognitive traces, with implications for mental health equity and culturally informed care."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42757824",
+      "headline": "Zika virus quietly replicates in two distinct parts of the male reproductive tract \u2014 explaining why it lingers in semen long after infection clears",
+      "journal": "Human Reproduction",
+      "pubdate": "2026 Sep 18",
+      "doi": "10.1093/humrep/deag141",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using a novel organotypic culture system developed from post-mortem reproductive tissues of 11 male organ donors (ages 29\u201379), researchers found that Zika virus replicates in a segment-specific pattern: sustaining infection in efferent duct epithelium and establishing a macrophage-mediated reservoir in the epididymis corpus over a 9-day culture period. Both tissue segments mounted only weak antiviral and inflammatory responses, and viral replication caused no detectable cell death or morphological damage. The findings provide a mechanistic explanation for prolonged Zika virus shedding in semen, which poses a sexual transmission risk to female partners.",
+      "why_it_matters": "Understanding where Zika virus hides in the male reproductive tract is directly relevant to women's health, since sexual transmission from male partners can infect women \u2014 including during pregnancy, when Zika causes severe fetal harm.",
+      "caveats": "small sample (N<100), ex vivo tissue model (not in vivo), short follow-up, single-center, male-only tissue study",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's health relevance via sexual transmission risk; ex vivo design limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Zika Can Hide in Men's Bodies for Weeks \u2014 Here's Where Scientists Just Found It",
+          "hook": "A new study identified two separate reservoirs where Zika virus quietly replicates in the male reproductive tract \u2014 offering the first human-tissue explanation for why infected men can shed the virus in semen long after symptoms disappear.",
+          "pitch_angle": "Using human tissue cultures, researchers found Zika virus sets up shop in the efferent ducts and epididymis with little immune pushback, which may explain prolonged semen shedding and ongoing sexual transmission risk to female partners. For women \u2014 especially those who are or could become pregnant \u2014 this finding underscores why Zika guidance around condom use and testing still matters years after the 2015\u20132017 outbreak."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42760497",
+      "headline": "A genetic mutation may explain why some women's eggs never mature \u2014 no matter how many IVF cycles they try",
+      "journal": "Journal of Assisted Reproduction and Genetics",
+      "pubdate": "2026 Sep 18",
+      "doi": "10.1007/s10815-026-04025-7",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers enrolled six Chinese women with primary infertility and persistent oocyte maturation arrest (OMA) \u2014 the failure of eggs to complete the final stage of development before fertilization \u2014 and used whole-exome sequencing to identify five previously unreported or rarely seen mutations in the TUBB8 gene, which encodes an egg-specific protein critical for spindle assembly. All six women had normal ovarian reserve and hormone levels, yet 85.4% of their retrieved eggs were permanently stuck at an immature stage, with a fertilization rate of just 6.3% and no successful pregnancies even after ICSI with artificial oocyte activation. The study suggests that routine TUBB8 genetic screening could spare affected women from repeated, futile IVF cycles and redirect them toward personalized counseling and alternatives such as egg donation.",
+      "why_it_matters": "For women facing unexplained IVF failure, identifying a specific genetic cause of egg maturation arrest suggests that genetic testing before further cycles could prevent years of emotional and financial toll.",
+      "caveats": "small sample (N<100), single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Female-specific fertility condition; clinical utility for IVF failure; strong reproductive health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Some Women's Eggs Never Mature No Matter How Many IVF Rounds They Do \u2014 A Gene May Be Why",
+          "hook": "For a subset of women, IVF failure isn't about luck or lifestyle \u2014 it may be written in their DNA from the start.",
+          "pitch_angle": "A new study found that mutations in a single gene responsible for egg-spindle formation can cause every retrieved egg to stall permanently, making pregnancy biologically impossible with standard IVF. Researchers say a genetic screen for this mutation before any ART cycle could save affected women years of painful, expensive, and ultimately futile treatment."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Your IVF Keeps Failing: Scientists Identify a Genetic Culprit That Stops Eggs From Maturing",
+          "hook": "Repeated IVF failure with no clear explanation now has a potential genetic answer \u2014 and a test that could come before the next cycle.",
+          "pitch_angle": "Six women with completely normal hormone levels and ovarian reserve still couldn't produce mature eggs capable of fertilization, and whole-genome sequencing revealed why: rare mutations in the TUBB8 gene disrupt the scaffolding eggs need to finish developing. Early genetic screening could redirect these women away from futile cycles and toward options that actually work."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42750667",
-      "headline": "More education and older age at first sex are linked to lower \u2014 not higher \u2014 contraceptive use among South African teen girls",
+      "headline": "Less than half of South African teen girls used contraception at first sex \u2014 and higher education was linked to lower odds",
       "journal": "African Journal of Reproductive Health",
       "pubdate": "2026 Sep 17",
       "doi": "10.29063/ajrh2026/v30i17.2",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers surveyed 290 adolescent girls from nine rural villages in Ratlou local municipality, South Africa, using a cross-sectional design with logistic regression to identify predictors of contraceptive use at first sex. Overall, only 41% reported using contraception at sexual debut. Counterintuitively, having secondary education, older age at first sex (14\u201319), and living with a working household head were all associated with lower \u2014 not higher \u2014 odds of contraceptive use.",
-      "why_it_matters": "These findings suggest that conventional assumptions about education and maturity automatically improving contraceptive uptake may not hold in rural, resource-limited settings, pointing to structural and social barriers that go beyond knowledge alone.",
-      "caveats": "small sample (N<100 per subgroup), observational design, single-center, self-reported outcomes, narrow to rural South Africa municipality",
+      "summary": "Researchers conducted a cross-sectional study of 290 adolescent girls drawn from nine villages in the Ratlou local municipality of rural South Africa, using logistic regression to identify predictors of contraceptive use at sexual debut. Only 41% of participants reported using contraception at first sex. Counterintuitively, secondary education, older age at first sex, and prior dual-method contraceptive use were each associated with lower \u2014 not higher \u2014 odds of contraceptive use at sexual debut.",
+      "why_it_matters": "The findings suggest that conventional assumptions about education and contraceptive uptake may not hold in rural, low-resource settings, pointing to gaps in youth-friendly reproductive health services that matter for adolescent girls globally.",
+      "caveats": "small sample (N<100 per village subgroup), observational design, single-center, self-reported outcomes, narrow geographic region (rural South Africa \u2014 limited generalizability to US/global readership)",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Contraception topic fits, but very narrow regional sample limits US/global pitch.",
+      "relevance_score_reason": "Relevant reproductive health topic; narrow regional context limits US outlet pitch potential.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Why More Schooling Isn't Enough to Get Teen Girls to Use Birth Control",
-          "hook": "A new study found that adolescent girls with more education were actually less likely to use contraception at first sex \u2014 upending a common assumption.",
-          "pitch_angle": "Researchers in rural South Africa found that neither secondary education nor older age at sexual debut reliably predicted contraceptive use, suggesting that access barriers and social pressures may outweigh knowledge. The finding challenges the idea that education alone is sufficient and points to the need for youth-friendly services and open parent-teen communication."
+          "headline": "Why More Schooling Doesn't Always Mean Safer Sex for Teen Girls",
+          "hook": "A new study from rural South Africa found that adolescent girls with secondary education were actually less likely to use contraception at first sex \u2014 upending a key assumption in reproductive health.",
+          "pitch_angle": "Researchers found education, older age at debut, and even prior contraceptive experience were linked to lower odds of using contraception at first sex \u2014 suggesting structural barriers, not knowledge gaps, may be the real driver. This counterintuitive finding raises broader questions about how reproductive health programs are designed for young women in low-resource settings worldwide."
         }
       ],
-      "run_date": "2026-09-18",
+      "run_date": "2026-09-19",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42755127",
-      "headline": "A reversible stomach stent helped 9 in 10 people lose meaningful weight \u2014 without surgery",
+      "headline": "A reversible, non-surgical stomach stent helped most patients lose over 10% of their body weight in three months \u2014 with no surgeries needed for complications",
       "journal": "Diabetes, Obesity & Metabolism",
       "pubdate": "2026 Sep 17",
       "doi": "10.1111/dom.71330",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective multicentre real-world study across 239 hospitals in China, enrolling 1,536 adults with overweight or obesity (mean BMI 34.4) who received a reversible gastric bypass stent implanted endoscopically. By 3 months, participants had lost an average of 11.5% of total body weight, with 90.2% achieving more than 5% loss and 60.7% more than 10%. Stent displacement occurred in 4.6% of cases and gastrointestinal bleeding in 4.3%; no deaths or surgical interventions were reported.",
-      "why_it_matters": "For women seeking weight-loss options between lifestyle changes and bariatric surgery, this reversible device suggests a potentially accessible middle-ground approach, though long-term data and sex-specific outcomes are still lacking.",
-      "caveats": "observational design, retrospective, no sex-disaggregated data, short follow-up (median 3 months implantation), single-region (China) \u2014 may not generalize to Western populations or healthcare systems, self-reported or registry-based outcomes",
+      "summary": "This retrospective multicentre real-world study evaluated a novel Gastric Bypass Stent System (GBSS) \u2014 a reversible duodenal-jejunal bypass liner \u2014 in 1,536 patients with overweight or obesity (mean BMI 34.4) across 239 hospitals in China. By three months post-implantation, mean total body weight loss was 11.5% and 60.7% of participants achieved more than 10% weight loss; weight loss remained relatively stable through 12 months. Stent displacement occurred in 4.6% and gastrointestinal bleeding in 4.3% of participants; all adverse events were managed without surgery or deaths.",
+      "why_it_matters": "For women who want meaningful weight loss without committing to irreversible bariatric surgery, early real-world data on this removable device suggests it may offer a less permanent middle-ground option \u2014 though long-term data and sex-disaggregated outcomes are still needed.",
+      "caveats": "observational design, retrospective, China-based single-country registry, short follow-up, no sex-disaggregated data, device not yet available in US/global markets",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large real-world cohort, novel device, but no sex-disaggregated data and China-specific context.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large real-world sample, novel reversible device, strong women's wellness hook; limited by observational design.",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine",
-          "headline": "A Removable Stomach Stent Helped 9 in 10 People Drop Significant Weight \u2014 No Surgery Required",
-          "hook": "A stent that mimics gastric bypass \u2014 and can be taken out \u2014 helped nearly all participants lose clinically meaningful weight within three months.",
-          "pitch_angle": "Chinese researchers tested a reversible endoscopic device that reroutes food past part of the stomach and small intestine; the early results challenge the assumption that significant weight loss requires permanent surgery, though experts say more data on long-term outcomes and who it works best for are still needed."
+          "publication_type": "Women's Health Magazine / Well+Good",
+          "headline": "Could a Reversible Stomach Stent Replace Weight-Loss Surgery? Early Data Is Surprisingly Promising",
+          "hook": "A removable device inserted into the gut helped more than 60% of patients lose over 10% of their body weight in three months \u2014 and when problems arose, none required surgery to fix.",
+          "pitch_angle": "Unlike gastric bypass, which permanently reroutes digestion, this endoscopically placed stent can be removed, making it a potential option for people who want significant weight loss without a lifelong commitment; though the real-world data come from China and the device isn't yet available in the US, the scale of the study \u2014 1,536 patients across 239 hospitals \u2014 makes it hard to dismiss."
         },
         {
-          "publication_type": "Prevention",
-          "headline": "Could a Removable Gut Stent Be the Middle Ground Between Dieting and Bariatric Surgery?",
-          "hook": "For people who aren't ready for weight-loss surgery, a temporary internal device showed surprisingly strong results in a large real-world study.",
-          "pitch_angle": "The gastric bypass stent system works like a sleeve inside the digestive tract and can be removed endoscopically \u2014 offering a reversible option that researchers suggest could fill the gap between conservative management and permanent procedures."
+          "publication_type": "Prevention / Health.com",
+          "headline": "There May Soon Be a 'Reversible' Alternative to Weight-Loss Surgery \u2014 Here's What the Data Actually Shows",
+          "hook": "A non-surgical stomach insert produced meaningful weight loss in a 1,500-person real-world study \u2014 and every complication was handled without going under the knife.",
+          "pitch_angle": "As GLP-1 drugs dominate the weight-loss conversation, a removable gut device is quietly generating real-world evidence that could expand options for women who aren't candidates for medication or don't want permanent surgery \u2014 though US availability and long-term safety data are still outstanding."
         }
       ],
-      "run_date": "2026-09-18",
+      "run_date": "2026-09-19",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42751923",
-      "headline": "A new brain scan metric may predict stroke recovery faster and more accurately than existing tools",
+      "headline": "A new brain scan metric may predict stroke recovery better than current standard tools \u2014 and half the patients studied were women",
       "journal": "Journal of Cerebral Blood Flow and Metabolism",
       "pubdate": "2026 Sep 17",
       "doi": "10.1177/0271678X261492523",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed a novel CT perfusion imaging metric called the granular Hypoperfusion Intensity Ratio (gHIR) to estimate how quickly a stroke's infarct core is expanding, and tested it in 570 ischemic stroke patients (median age 77; 50.8% female) from a multicentre dataset. The gHIR outperformed four existing metrics \u2014 including standard collateral scoring and HIR \u2014 in predicting good functional outcome at 90 days. An optimal cutoff of \u22640.30 was identified as the threshold associated with better recovery.",
-      "why_it_matters": "Because stroke outcomes are often worse in older women, a more precise imaging tool for predicting brain tissue loss at the time of stroke could have particular relevance for the demographic most affected.",
-      "caveats": "retrospective, single analysis cohort, no sex-disaggregated outcome data reported despite roughly equal sex split, specialized clinical tool with limited direct patient applicability",
+      "summary": "Researchers developed and validated a novel perfusion imaging metric called the granular Hypoperfusion Intensity Ratio (gHIR) to assess how quickly brain tissue dies after stroke, analyzing CT perfusion data from 570 acute ischemic stroke patients (median age 77, 50.8% female) across multiple centers in Italy and Canada. The gHIR outperformed four existing standard metrics \u2014 including ASPECTS decay and collateral grading \u2014 in predicting good functional outcome at 90 days (AUC 0.75). Each 0.1-unit increase in gHIR was associated with a 58% lower odds of good recovery.",
+      "why_it_matters": "Stroke is the leading cause of disability in women, who tend to have worse outcomes than men, so imaging tools that more accurately predict recovery trajectories could help guide treatment decisions in a population where precision matters most.",
+      "caveats": "single-center validation cohort, retrospective analysis, no sex-disaggregated outcome analysis reported, specialist/technical topic with limited consumer-media hook",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Half-female cohort but no sex-disaggregated outcomes; technical clinical tool with limited lifestyle hook.",
+      "relevance_score_reason": "Meaningful female representation; technical imaging metric limits consumer pitch angles.",
       "pitch_angles": [
         {
-          "publication_type": "General health",
-          "headline": "A New Brain Scan Formula May Tell Doctors Exactly How Fast a Stroke Is Getting Worse",
-          "hook": "A single number derived from a CT scan could soon help ER doctors predict who will recover from a stroke \u2014 and who needs the most urgent intervention.",
-          "pitch_angle": "Researchers tested a new imaging metric that weighs blood flow data across multiple thresholds to gauge how rapidly stroke damage is spreading, finding it outperformed all current standard tools \u2014 a development that could be especially meaningful for older women, who face higher stroke risk after menopause."
+          "publication_type": "General health / Health.com",
+          "headline": "A New Brain Scan Score Could Predict Who Recovers From Stroke \u2014 and Who Doesn't",
+          "hook": "A novel CT scan metric called gHIR outperformed all existing standard tools at predicting whether a stroke patient would regain independence 90 days later \u2014 and half the people in the study were women.",
+          "pitch_angle": "Stroke is the number one cause of disability in women, who often have worse outcomes than men, making better predictive imaging tools especially consequential; this early multinational study suggests gHIR could eventually help doctors make faster, more informed decisions about stroke care."
         }
       ],
-      "run_date": "2026-09-18",
+      "run_date": "2026-09-19",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42754334",
-      "headline": "A simple ratio of two kidney tests may predict heart disease risk better than standard measures in diabetic kidney disease",
+      "headline": "A simple ratio of two routine lab values may predict heart disease and kidney decline in people with diabetes \u2014 better than standard tests",
       "journal": "BMJ Open Diabetes Research & Care",
       "pubdate": "2026 Sep 17",
       "doi": "10.1136/bmjdrc-2026-006417",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 182 patients with biopsy-confirmed diabetic kidney disease in China to evaluate a novel kidney dysfunction pattern called selective glomerular hypofiltration syndrome (SGHS), defined by a low ratio of two different GFR estimates (cystatin C vs. creatinine). They found that SGHS was present in about 22% of patients and was associated with roughly nine times higher odds of cardiovascular disease at the time of diagnosis. Over a median 30-month follow-up, SGHS also independently predicted faster kidney disease progression.",
-      "why_it_matters": "For women with diabetes, a ratio derived from two routine blood tests could flag elevated heart and kidney risk earlier than current standard measures suggest.",
-      "caveats": "small sample (N<100 is not applicable \u2014 N=182, but still modest), observational design, single-center, short follow-up, no sex-disaggregated data",
+      "summary": "Researchers analyzed 182 patients with biopsy-confirmed diabetic kidney disease and found that a low ratio of cystatin C-based to creatinine-based kidney filtration estimates \u2014 defining a newly described condition called selective glomerular hypofiltration syndrome (SGHS) \u2014 was independently associated with cardiovascular disease (OR 9.27) and faster kidney decline over 30 months of follow-up. The eGFRcys/eGFRcr ratio outperformed several standard kidney markers in predicting cardiovascular disease. Both men and women were included, with subgroup analyses by gender conducted, though sex-specific results are not detailed in the abstract.",
+      "why_it_matters": "Women with type 2 diabetes and kidney disease may benefit from wider use of this easily calculated lab ratio, which could flag high cardiovascular and kidney risk earlier than standard measures.",
+      "caveats": "small sample (N<100 for SGHS subgroup; total N=182), single-center, observational design, short follow-up (median 30.1 months), conducted in China (single-region), no sex-disaggregated data reported in abstract",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Relevant metabolic finding but no female-specific analysis; single-center Chinese cohort limits generalizability.",
+      "relevance_score_reason": "Clinically relevant diabetes/kidney finding, but no female-specific data and single-center China cohort limits women's health pitch.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / General health",
-          "headline": "Two Routine Blood Tests Could Flag Heart Disease Risk in Women With Diabetes \u2014 Before Symptoms Start",
-          "hook": "A simple ratio of two standard kidney function markers may predict cardiovascular risk far better than the tests doctors already use.",
-          "pitch_angle": "Researchers found that a low ratio between two types of kidney filtration estimates signals both heart disease and rapid kidney decline in people with diabetic kidney disease. For the millions of women managing diabetes, this could point toward a cheap, already-available screening upgrade \u2014 though the finding needs replication in larger, more diverse populations."
+          "publication_type": "Prevention",
+          "headline": "Two Routine Lab Numbers May Predict Heart and Kidney Risk in Diabetes Better Than Standard Tests",
+          "hook": "A simple ratio hiding in your standard blood work could signal serious heart and kidney trouble years before symptoms appear \u2014 and most doctors aren't checking it.",
+          "pitch_angle": "A new study found that comparing two different ways of estimating kidney function \u2014 using cystatin C versus creatinine \u2014 revealed a hidden kidney dysfunction pattern strongly tied to cardiovascular disease and faster kidney decline in people with diabetic kidney disease. Since women with type 2 diabetes already face underrecognized cardiovascular risk, this easy-to-calculate ratio could become an important early warning tool worth asking your doctor about."
         }
       ],
-      "run_date": "2026-09-18",
+      "run_date": "2026-09-19",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42751813",
+      "headline": "A simple hands-on technique outperforms warm compresses for painful breast engorgement in new mothers",
+      "journal": "Breastfeeding Medicine",
+      "pubdate": "2026 Sep 17",
+      "doi": "10.1177/15568253261477026",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A randomized trial at a tertiary care facility in Tamil Nadu, India enrolled 60 postnatal mothers and compared reverse pressure softening (RPS) \u2014 a fingertip pressure technique applied around the areola \u2014 to lukewarm water compression (LWC) for breast engorgement relief. Women in the RPS group had significantly lower engorgement scores and higher breastfeeding success scores after the intervention compared to the LWC group (p < 0.001). The study suggests RPS may be a more effective bedside technique for supporting early breastfeeding.",
+      "why_it_matters": "Breast engorgement is one of the most common reasons new mothers stop breastfeeding early, and a simple, no-cost technique that outperforms warm compresses could meaningfully extend breastfeeding duration.",
+      "caveats": "small sample (N<100), single-center, self-reported outcomes, short follow-up, single region (Tamil Nadu, India)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postpartum breastfeeding topic; RCT design; small N and single-center limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Well+Good",
+          "headline": "Forget Warm Compresses \u2014 This Fingertip Technique Works Better for Engorged Breasts",
+          "hook": "A simple pressure technique applied around the nipple area significantly outperformed warm compresses for relieving one of new motherhood's most painful problems.",
+          "pitch_angle": "Reverse pressure softening \u2014 pressing fingertips gently around the areola to move fluid back \u2014 led to lower engorgement scores and better breastfeeding outcomes than lukewarm compresses in a small randomized trial. Given that engorgement is a top reason women quit breastfeeding, this technique is easy to learn and costs nothing."
+        },
+        {
+          "publication_type": "Good Housekeeping / First for Women",
+          "headline": "New Moms, There's a Better Way to Ease Engorged Breasts \u2014 and You Can Do It Yourself",
+          "hook": "A hands-on pressure technique bested warm water compresses for painful breast engorgement in a new study of postpartum women.",
+          "pitch_angle": "Reverse pressure softening, which involves applying gentle fingertip pressure around the areola, was associated with significantly less engorgement and more breastfeeding success than the commonly recommended warm compress. The technique requires no equipment and could be taught to new mothers before hospital discharge."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42752618",
+      "headline": "A simple blood test from red cells may track how well creatine actually reaches your muscles",
+      "journal": "Nutrition Reviews",
+      "pubdate": "2026 Sep 17",
+      "doi": "10.1093/nutrit/nuag139",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a narrative review evaluating whether creatine levels measured in red blood cells (RBCs) could serve as a practical, time-integrated biomarker of how efficiently creatine is transported and delivered to tissues like skeletal muscle. No human clinical trial was conducted; the review synthesized existing evidence on RBC creatine kinetics, transporter biology, and supplementation studies. Key finding: RBC creatine appears to reflect cumulative systemic creatine exposure more accurately than plasma creatine, and may track skeletal muscle creatine accrual \u2014 but the review cautions it should not be used as a proxy for brain creatine.",
+      "why_it_matters": "For women using creatine supplements for muscle, cognitive, or menopausal health benefits, this suggests a standard blood draw could eventually reveal whether supplementation is actually working at the tissue level.",
+      "caveats": "observational design, no sex-disaggregated data, narrative review (not systematic), no human trial conducted, findings not specific to women",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Narrative review, no female-specific data, lifestyle hook for women's creatine interest.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "You're Taking Creatine \u2014 But Is It Actually Working? A New Biomarker Might Finally Tell You",
+          "hook": "A simple red blood cell test could one day show whether your creatine supplement is reaching your muscles \u2014 or just passing through.",
+          "pitch_angle": "Creatine is having a major moment in women's wellness, but a new review suggests that plasma levels don't tell the full story \u2014 red blood cell creatine may be a better window into whether the supplement is delivering real tissue-level benefits, which could eventually take the guesswork out of creatine routines."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42747779",
+      "headline": "One in five people who get gastric bypass surgery may develop alcohol use disorder within five years \u2014 and bariatric medicine is grappling with what to do about it",
+      "journal": "Obesity Surgery",
+      "pubdate": "2026 Sep 16",
+      "doi": "10.1007/s11695-026-08933-6",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review, guided by the SANRA framework, synthesized published literature on ethical challenges across the bariatric surgery patient journey using the four principles of biomedical ethics. No new primary data or participants were included; instead, authors analyzed existing evidence including a reported five-year cumulative incidence of approximately 21% for new alcohol use disorder symptoms following Roux-en-Y gastric bypass. The review highlights informed consent vulnerabilities, psychiatric co-morbidities, long-term follow-up obligations, and equity concerns in access to care.",
+      "why_it_matters": "Women are the majority of bariatric surgery patients, making the finding that roughly 1 in 5 Roux-en-Y patients may develop alcohol use disorder symptoms within five years a clinically and personally significant risk that many women considering surgery may not fully understand.",
+      "caveats": "observational design, narrative review (no systematic search or meta-analysis), no primary data, no sex-disaggregated data, Iran/Tehran-based authors (potential regional practice context)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Striking alcohol risk statistic is pitchable; narrative review limits evidentiary weight.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Health.com",
+          "headline": "What No One Tells You Before Gastric Bypass: 1 in 5 Patients May Develop Alcohol Problems",
+          "hook": "A new ethics review flags that roughly 21% of people who undergo the most common gastric bypass procedure develop alcohol use disorder symptoms within five years \u2014 a risk that's rarely front and center in pre-surgery conversations.",
+          "pitch_angle": "Because women make up the vast majority of bariatric surgery patients, this finding about alcohol vulnerability after Roux-en-Y bypass is especially relevant to them; experts are now calling for more robust long-term follow-up care and fuller informed consent that addresses addiction risk alongside expected weight loss."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42749162",
+      "headline": "Resilience protects teens from developing stress and gut symptoms \u2014 but once those symptoms take hold, resilience alone can't reverse them",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Sep 16",
+      "doi": "10.1016/j.jad.2026.122517",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a two-wave prospective study of 9,035 Chinese children and adolescents aged 10\u201317, researchers used validated self-report tools to assess functional gastrointestinal symptoms, depression, anxiety, suicidality, and resilience at baseline, then tracked symptom profile transitions over 12 months using latent transition analysis. Four distinct symptom profiles emerged \u2014 from healthy to severe somatic-emotional distress \u2014 and higher baseline resilience significantly reduced the odds of healthy teens deteriorating (ORs 0.50\u20130.77), with emotion regulation, family support, and peer support being particularly protective. However, resilience did not predict recovery from already-established mild or severe distress, suggesting it functions better as prevention than as treatment.",
+      "why_it_matters": "Adolescent girls are at higher risk for depression, anxiety, and functional gut disorders than boys, making this finding about resilience as a prevention \u2014 but not cure \u2014 tool directly relevant to understanding girls' mental and physical health trajectories.",
+      "caveats": "observational design, self-reported outcomes, single-country sample (China), no sex-disaggregated data reported, 12-month follow-up only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large sample, counterintuitive prevention-vs-recovery finding, no sex-disaggregated data, China-specific.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Teaching teens resilience skills works \u2014 but only before stress and gut problems set in, a large study finds",
+          "hook": "A study of more than 9,000 adolescents found that resilience is a powerful shield against developing anxiety, depression, and gut symptoms \u2014 but once those problems are established, resilience alone doesn't help teens bounce back.",
+          "pitch_angle": "Researchers tracked symptom trajectories over a year and found that teens with higher resilience at the start were significantly less likely to slide into distress \u2014 with emotion regulation and family support being the most protective factors. The counterintuitive catch: resilience had no measurable impact on recovery once symptoms were already moderate or severe, suggesting that early, universal resilience-building matters far more than trying to apply it after the fact."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42745433",
+      "headline": "Neurodiverse kids with Type 1 diabetes don't see their diagnosis as a barrier \u2014 but their parents are exhausted",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Sep 15",
+      "doi": "10.1111/dom.71363",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted semi-structured qualitative interviews with 15 young people (ages 12\u201318) with co-occurring Type 1 diabetes and autism, ADHD, or both, plus 13 of their parent-caregivers, at a UK teaching hospital. The young people themselves did not view their neurodiversity as a barrier to self-managing diabetes, a finding that contrasts with caregiver perceptions of high burden. Caregivers \u2014 predominantly mothers in most pediatric diabetes care contexts \u2014 reported sleep disruption from hypoglycemia fear, limited tailored resources, and concerns about transition to adult services, while diabetes technology (CGM) was widely seen as improving quality of life.",
+      "why_it_matters": "For the many women who are primary caregivers of neurodiverse children with chronic illness, this study surfaces an invisible caregiving burden that is rarely acknowledged in clinical or public health conversations.",
+      "caveats": "small sample (N<100), qualitative design, single-center, UK population only, self-reported outcomes, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Caregiver burden angle fits women's health; small qualitative sample limits pitchability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Moms of Kids With Autism and Type 1 Diabetes Are Losing Sleep \u2014 Literally",
+          "hook": "Kids with autism or ADHD and Type 1 diabetes say they're managing just fine \u2014 but their caregivers, often moms, tell a very different story.",
+          "pitch_angle": "A UK study found that neurodiverse teens with T1D don't see their condition as a barrier, yet their parent-caregivers reported chronic sleep disruption, inadequate support resources, and dread of the transition to adult care \u2014 shining a light on the hidden toll of invisible caregiving labor."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42744300",
+      "headline": "For LGBTQIA+ people, feeling good can paradoxically increase drinking risk \u2014 but strong social support breaks that link",
+      "journal": "Substance Use & Misuse",
+      "pubdate": "2026 Sep 15",
+      "doi": "10.1080/10826084.2026.2732188",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 169 LGBTQIA+ community members using validated self-report measures of alcohol use, positive emotions, and interpersonal social support to examine whether social support moderated the relationship between positive emotions and alcohol misuse. Counterintuitively, positive emotions were associated with greater alcohol misuse \u2014 but this relationship became non-significant among participants who reported high levels of social support (including appraisal, belonging, and tangible support). The findings suggest social support may act as a protective buffer, potentially redirecting positive emotional energy away from alcohol use.",
+      "why_it_matters": "LGBTQIA+ women face elevated rates of alcohol misuse compared to heterosexual women, and identifying social support as a protective factor points to community-based, non-clinical avenues for harm reduction.",
+      "caveats": "small sample (N<100 is not applicable here \u2014 N=169, but still modest), observational design, self-reported outcomes, cross-sectional (no longitudinal follow-up), no sex-disaggregated data within LGBTQIA+ sample",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive finding, LGBTQIA+ women's health relevance, modest sample, self-reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Here's the surprising reason feeling great might lead some LGBTQIA+ people to drink more \u2014 and what actually helps",
+          "hook": "A new study found that positive emotions are linked to higher alcohol misuse in LGBTQIA+ communities \u2014 unless strong social support is in place.",
+          "pitch_angle": "Researchers discovered that good feelings alone don't protect against risky drinking in LGBTQIA+ individuals \u2014 in fact, the two were positively linked \u2014 but robust social connection neutralized that risk. The finding flips a common wellness assumption and suggests that community belonging, not just positive thinking, is the key protective ingredient."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why 'good vibes only' isn't enough to prevent alcohol misuse in LGBTQIA+ communities \u2014 but this one factor is",
+          "hook": "Feeling happy or excited was associated with drinking more among LGBTQIA+ adults in a new study \u2014 but those with strong social support didn't show that pattern at all.",
+          "pitch_angle": "The study of 169 LGBTQIA+ community members found that positive emotions paradoxically predicted alcohol misuse, a pattern that researchers say may reflect the role of social celebration and peer contexts in this community. Strong interpersonal support \u2014 feeling understood, belonging, and having practical help \u2014 was the factor that broke that link, offering a community-focused angle for alcohol harm reduction."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42734638",
+      "headline": "Scientists may have found a molecular switch that drives pelvic organ prolapse \u2014 and it's not what doctors have been treating",
+      "journal": "International Urogynecology Journal",
+      "pubdate": "2026 Sep 14",
+      "doi": "10.1007/s00192-026-06878-z",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Peking University used machine learning to analyze gene expression in uterosacral ligament tissue from women with pelvic organ prolapse (POP), identifying thrombospondin-1 (THBS1) as a mechanosensitive protein that promotes fibroblast cellular senescence and connective tissue breakdown. In both patient-derived fibroblasts and rat cell models, knocking down THBS1 reduced senescence markers and improved cell proliferation, while adding the protein accelerated tissue degradation. The study suggests that THBS1-driven cellular aging in pelvic connective tissue \u2014 rather than anatomy alone \u2014 may be a root cause of POP.",
+      "why_it_matters": "Pelvic organ prolapse affects up to one in three women over a lifetime and currently has no non-surgical treatment that addresses the underlying biology \u2014 this research suggests a protein target that could eventually inform new therapeutic approaches.",
+      "caveats": "animal or cell study (rat fibroblast component), single-center, observational design for human tissue component, small sample (N<100 for patient tissue)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Women-specific pelvic floor condition; counterintuitive molecular target; mixed human-cell design limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Pelvic Organ Prolapse May Start at the Cellular Level \u2014 and Scientists Just Found the Trigger",
+          "hook": "A new study found that a little-known protein called thrombospondin-1 appears to kick aging pelvic floor cells into overdrive \u2014 and silencing it in the lab reversed the damage.",
+          "pitch_angle": "Researchers discovered that THBS1, a protein that ramps up under mechanical stress, drives the connective tissue breakdown underlying pelvic organ prolapse \u2014 a condition affecting roughly one in three women. Because current treatments focus on anatomical repair rather than root cause, this molecular discovery could point toward future therapies that prevent prolapse from worsening in the first place."
+        },
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Pelvic Organ Prolapse Has Been Treated as a Plumbing Problem. It May Actually Be a Cell-Aging Problem.",
+          "hook": "Scientists identified a protein that triggers cellular senescence in pelvic floor tissue \u2014 reframing prolapse as a biological aging process, not just a structural one.",
+          "pitch_angle": "The finding challenges the dominant clinical view of pelvic organ prolapse as a mechanical failure fixed only by surgery, suggesting instead that cellular senescence in connective tissue is a key driver. For the millions of women navigating prolapse \u2014 often postpartum or postmenopausal \u2014 this research opens the door to thinking about pelvic floor health as part of a broader conversation about how the body ages."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42742593",
+      "headline": "Most teens who try e-cigarettes don't hate the experience \u2014 and that may be why vaping spreads so fast",
+      "journal": "Journal of Studies on Alcohol and Drugs",
+      "pubdate": "2026 Sep 14",
+      "doi": "10.15288/jsad.25-00436",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed retrospective narratives from 293 undergraduates (mean age 21.3 years, 84.3% female, racially diverse) at a Northeastern university about their first experiences with cigarettes, e-cigarettes, and cannabis. While most first-time cigarette users reported negative reactions, first-time e-cigarette and cannabis users described a much wider range of responses, including enjoyment and neutral feelings. Social contexts \u2014 peer influence, parties, and curiosity \u2014 were the most common drivers of initiation across all three substances.",
+      "why_it_matters": "Because the majority of this sample was female, the findings suggest that young women may be particularly vulnerable to e-cigarette uptake when first-use experiences feel pleasant or socially normalized.",
+      "caveats": "small sample (N<100 per substance subgroup), observational design, single-center, self-reported outcomes, retrospective design introduces recall bias",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Majority-female sample; lifestyle/wellness hook, but observational and self-reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Vaping Feels So Much More Appealing Than Smoking Did \u2014 According to New Research",
+          "hook": "Unlike cigarettes, which most young people found unpleasant the first time, e-cigarettes frequently triggered neutral or enjoyable first experiences \u2014 and that may be exactly what makes them so hard to avoid.",
+          "pitch_angle": "A new study of mostly female college students found that first-time vaping was far more likely to feel good \u2014 or at least inoffensive \u2014 compared to traditional cigarettes. The social and emotional framing of that first experience may be a key, underappreciated reason young women start and keep vaping."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "The Real Reason Young Women Are More Likely to Keep Vaping After Trying It Once",
+          "hook": "The first puff of a cigarette usually feels awful \u2014 but the first hit of a vape often doesn't, and new research suggests that difference matters enormously for whether young women continue.",
+          "pitch_angle": "Researchers found that most first-time e-cigarette users \u2014 in a sample that was 84% female \u2014 reported neutral or positive initial reactions, compared to mostly negative reactions to cigarettes. Understanding what makes vaping feel socially acceptable and physically tolerable could reshape how we talk to young women about prevention."
+        }
+      ],
+      "run_date": "2026-09-19",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42731649",
+      "headline": "AI detects hidden bone fractures two years before they happen \u2014 even when bone density looks normal",
+      "journal": "Bone",
+      "pubdate": "2026 Sep 12",
+      "doi": "10.1016/j.bone.2026.118078",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used an AI tool called ALIGNOGRAM1.0 to analyze femoral X-rays in a young woman with pycnodysostosis, a rare genetic bone disease characterized by paradoxically high bone density but extreme fragility (N=1 case report). The AI detected microfractures at fracture sites up to two years before full breaks occurred \u2014 findings invisible on standard X-rays and missed by conventional bone density scans. The case suggests bone disorganization, not just bone density, may be a critical and underrecognized driver of fracture risk.",
+      "why_it_matters": "For women with conditions that cause paradoxically fragile bones despite normal-looking scans, AI-assisted imaging may one day catch fracture risk far earlier than current standard tests.",
+      "caveats": "small sample (N<100), single-center, ALIGNOGRAM1.0 inventor is a co-author (potential conflicts of interest), research-use-only tool not commercially available, case report only \u2014 findings cannot be generalized",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Novel AI bone tool, female subject, but N=1 case report limits generalizability significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Bone Density Scan Could Be Missing Something Critical \u2014 AI May Change That",
+          "hook": "A young woman's bones looked dense and strong on every standard test \u2014 yet she was fracturing repeatedly, and only an AI caught why.",
+          "pitch_angle": "This case report introduces an AI tool that detected microscopic bone fractures two years before they fully broke \u2014 even when traditional bone density scans showed supranormal results. For women with rare bone conditions, or anyone whose fracture risk seems out of proportion to their scan results, this early-stage technology hints at a future where bone health assessment goes far deeper than a DXA score."
+        }
+      ],
+      "run_date": "2026-09-19",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
@@ -178,66 +559,6 @@
       "status": "new"
     },
     {
-      "pmid": "42747779",
-      "headline": "Bariatric surgery's informed consent process may be ethically compromised by stigma and desperation, review argues",
-      "journal": "Obesity Surgery",
-      "pubdate": "2026 Sep 16",
-      "doi": "10.1007/s11695-026-08933-6",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Iranian surgeons conducted a SANRA-guided narrative review of ethical challenges in bariatric surgery, applying the four classic bioethical principles \u2014 autonomy, beneficence, non-maleficence, and justice \u2014 to the full patient journey. The review highlights that obesity stigma and desperation may undermine truly informed consent, and notes a roughly 21% five-year cumulative incidence of new alcohol use disorder symptoms after Roux-en-Y gastric bypass. Authors argue for multimodal consent processes, individualized mental health screening, and equity-focused access policies.",
-      "why_it_matters": "Women make up the majority of bariatric surgery patients and also face heightened obesity stigma, making the review's argument that desperation can distort surgical decision-making directly relevant to women's healthcare autonomy.",
-      "caveats": "narrative review (no primary data), no systematic search protocol, single-region author group (Iran), no sex-disaggregated analysis, AI-assisted writing disclosed",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant women's health and autonomy angle; narrative review limits evidence quality.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "Are Women Truly Giving Informed Consent to Bariatric Surgery \u2014 or Just Saying Yes Out of Desperation?",
-          "hook": "A new ethics review argues that the stigma and shame surrounding obesity may make it nearly impossible for patients to consent to weight-loss surgery with a fully clear head.",
-          "pitch_angle": "Surgeons writing in Obesity Surgery suggest that desperation bias \u2014 the feeling that any drastic option is better than living in a stigmatized body \u2014 may compromise the quality of consent, raising uncomfortable questions about whether women, who dominate bariatric surgery statistics, are making genuinely autonomous choices."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "1 in 5 People Develop Alcohol Problems After a Common Weight-Loss Surgery \u2014 Doctors Aren't Warning Patients Enough",
-          "hook": "A review of bariatric surgery ethics found that a serious risk of alcohol use disorder after gastric bypass is routinely underemphasized in the consent process.",
-          "pitch_angle": "The review cites a roughly 21% five-year rate of new alcohol use disorder symptoms following Roux-en-Y gastric bypass and argues that current informed consent practices fall short \u2014 a gap with particular consequences for women, who are the majority of bariatric patients."
-        }
-      ],
-      "run_date": "2026-09-18",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42749162",
-      "headline": "Resilience shields teens from developing anxiety and gut distress \u2014 but can't undo it once it takes hold",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Sep 16",
-      "doi": "10.1016/j.jad.2026.122517",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 9,035 Chinese children and adolescents aged 10\u201317 over 12 months, using validated self-report tools to track co-occurring depression, anxiety, suicidality, and functional gastrointestinal disorders. Using latent transition analysis, they identified four distinct symptom profiles ranging from healthy to severe. Higher baseline resilience \u2014 especially emotion regulation, family support, and peer support \u2014 significantly reduced the odds of healthy teens developing distress, but did not predict recovery in those already experiencing mild or severe symptoms.",
-      "why_it_matters": "For parents and clinicians, the finding suggests that teaching emotional resilience skills may be most powerful as prevention \u2014 not treatment \u2014 for the gut-brain-mood cluster that affects many adolescents.",
-      "caveats": "observational design, self-reported outcomes, single-region (China \u2014 may not generalize to Western adolescent populations), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Large well-designed study, but no sex-disaggregated data and China-specific sample limit women's health pitch.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Teaching Kids Emotional Resilience May Protect Their Gut Health Too \u2014 But Only If You Start Early",
-          "hook": "Resilience training can stop anxiety and gut problems from developing in teens \u2014 but once symptoms set in, it loses its protective edge.",
-          "pitch_angle": "A large 12-month study of over 9,000 adolescents found that kids with stronger emotional resilience were far less likely to develop the anxiety-depression-gut distress cluster \u2014 but resilience didn't help those already suffering recover. The findings suggest family-based emotional support and resilience skills matter most as prevention, not a cure."
-        }
-      ],
-      "run_date": "2026-09-18",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42747940",
       "headline": "PCOS raises the odds of early gestational diabetes and poor newborn outcomes \u2014 and body weight doesn't explain it",
       "journal": "Diabetes Care",
@@ -271,132 +592,6 @@
       "status": "new"
     },
     {
-      "pmid": "42745433",
-      "headline": "Neurodiverse kids with Type 1 diabetes don't see their diagnosis as a barrier \u2014 but their caregivers are quietly burning out",
-      "journal": "Diabetes, Obesity & Metabolism",
-      "pubdate": "2026 Sep 15",
-      "doi": "10.1111/dom.71363",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted semi-structured in-depth interviews with 15 young people (ages 12\u201318) with autism, ADHD, or both who also had Type 1 diabetes, plus 13 of their parent-caregivers, in the UK. Thematic analysis revealed that while caregivers reported significant burden \u2014 including sleep disruption from hypoglycemia fear and gaps in tailored support \u2014 the young people themselves largely did not view their neurodiversity as an obstacle to managing their diabetes. Continuous glucose monitoring technology was widely credited by both groups with reducing anxiety and improving quality of life.",
-      "why_it_matters": "Since mothers disproportionately carry the caregiving load for children with complex health needs, these findings highlight an underrecognized burden on women managing two demanding diagnoses at once in their children.",
-      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, UK population only",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive caregiver finding, clear maternal burden angle, but small qualitative sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "Good Housekeeping",
-          "headline": "Kids With Autism or ADHD and Type 1 Diabetes Say They're Coping \u2014 It's Their Parents Who Are Struggling",
-          "hook": "A new study found a striking disconnect: neurodiverse teens managing Type 1 diabetes felt capable, while their caregivers \u2014 mostly mothers \u2014 were quietly overwhelmed.",
-          "pitch_angle": "Interviews with 15 young people and 13 parents revealed that kids didn't see their neurodiversity as a barrier to diabetes management, but parents faced chronic sleep loss, fear of hypoglycemic events, and a lack of tailored healthcare resources \u2014 a caregiving gap that falls heavily on mothers."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why CGM Technology Is a Lifeline for Neurodiverse Kids With Diabetes \u2014 and the Parents Caring for Them",
-          "hook": "Continuous glucose monitors didn't just track blood sugar \u2014 they helped families finally sleep through the night.",
-          "pitch_angle": "A UK qualitative study found that diabetes tech dramatically reduced anxiety for both neurodiverse teens with Type 1 diabetes and their caregivers, pointing to wearable monitoring as a key tool in complex pediatric care \u2014 and underscoring how much the daily mental load still falls on parents."
-        }
-      ],
-      "run_date": "2026-09-18",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42744300",
-      "headline": "Feeling good can actually fuel more drinking in LGBTQIA+ people \u2014 unless social support is high",
-      "journal": "Substance Use & Misuse",
-      "pubdate": "2026 Sep 15",
-      "doi": "10.1080/10826084.2026.2732188",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers surveyed 169 LGBTQIA+ adults from a community sample using validated measures of alcohol use, positive emotions, and three dimensions of social support. They found a paradoxical positive association between positive emotions and alcohol misuse. However, at high levels of social support \u2014 across appraisal, belonging, and tangible support \u2014 the link between positive emotions and drinking disappeared.",
-      "why_it_matters": "For LGBTQIA+ women especially, this suggests that celebrations and positive social experiences may carry underappreciated drinking risk, and that strong community support networks may be the key buffer.",
-      "caveats": "small sample (N<100 for some subgroups, total N=169), observational design, self-reported outcomes, no sex-disaggregated data, single-center",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive finding with clear wellness hook; limited by small sample and no sex-disaggregated data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Surprising Reason Good Vibes Can Lead to More Drinking in LGBTQIA+ Communities",
-          "hook": "Feeling happy and celebratory may paradoxically raise alcohol risk for LGBTQIA+ people \u2014 unless their social support is solid.",
-          "pitch_angle": "A new study found that positive emotions were linked to higher alcohol misuse among LGBTQIA+ individuals, flipping the usual stress-drinking narrative \u2014 but robust community support erased that risk entirely. Experts say this points to building quality connection, not just reducing stress, as a harm-reduction strategy."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Why 'Good Times' May Be an Overlooked Drinking Risk for Queer Women",
-          "hook": "Research suggests that celebrating \u2014 not just struggling \u2014 can drive problematic drinking in LGBTQIA+ communities, with community ties as the surprising antidote.",
-          "pitch_angle": "A study of LGBTQIA+ adults found that higher positive emotions predicted more alcohol misuse \u2014 a counterintuitive finding that challenges the dominant narrative linking queer drinking to minority stress. The data suggest that belonging and community infrastructure, not just mental health resources, are central to harm reduction."
-        }
-      ],
-      "run_date": "2026-09-18",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42734638",
-      "headline": "Scientists may have found the protein that causes pelvic organ prolapse \u2014 and a way to switch it off",
-      "journal": "International Urogynecology Journal",
-      "pubdate": "2026 Sep 14",
-      "doi": "10.1007/s00192-026-06878-z",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used machine learning to analyze tissue from uterosacral ligaments of women with pelvic organ prolapse (POP) and identified thrombospondin-1 (THBS1) as a mechanosensitive protein that drives fibroblast aging and tissue breakdown. Experiments on fibroblasts from POP patients showed that silencing THBS1 improved cell proliferation and reduced senescence markers, while adding the protein to healthy cells triggered the same degenerative changes seen in POP. The study combined human tissue analysis with cell-line experiments to suggest THBS1 as a potential therapeutic target for a condition that currently has no treatment beyond surgery.",
-      "why_it_matters": "Pelvic organ prolapse affects roughly one in three women who have given birth, and this early-stage research suggests a biological mechanism that could one day be targeted without surgery.",
-      "caveats": "small sample (N<100), single-center, animal or cell study (complementary rat cell line experiments), observational design for human tissue component",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Women-specific condition, novel mechanism, human tissue plus cell data; small sample and cell study caveats.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Scientists Think They've Found the Protein Behind Pelvic Organ Prolapse",
-          "hook": "A new study identified a single protein \u2014 thrombospondin-1 \u2014 that may be the key driver behind the tissue breakdown that causes pelvic organ prolapse, affecting one in three women who give birth.",
-          "pitch_angle": "Researchers found that THBS1 responds to mechanical stress by accelerating fibroblast aging and destroying the connective tissue that supports pelvic organs \u2014 and that silencing it in lab models reversed those effects. While this is early research, it points toward a future where prolapse could be treated medically, not just surgically."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Pelvic Organ Prolapse Has Long Stumped Doctors \u2014 A New Discovery Could Change That",
-          "hook": "For the first time, scientists may have pinpointed a molecular switch behind pelvic organ prolapse \u2014 a condition that affects millions of women but has no real treatment beyond surgery.",
-          "pitch_angle": "Using machine learning and tissue from patients, researchers zeroed in on a stress-sensitive protein that accelerates the aging of pelvic floor cells; blocking it in lab models appeared to slow the damage. Experts say this could eventually lead to nonsurgical options for a condition that quietly affects up to a third of women after childbirth."
-        }
-      ],
-      "run_date": "2026-09-18",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42742593",
-      "headline": "E-cigarettes are now how most young people first try nicotine \u2014 and their reactions are surprisingly mixed",
-      "journal": "Journal of Studies on Alcohol and Drugs",
-      "pubdate": "2026 Sep 14",
-      "doi": "10.15288/jsad.25-00436",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used qualitative analysis of retrospective narratives from 293 undergraduates (mean age 21.3 years; 84.3% female; racially/ethnically diverse) at a Northeastern U.S. university to characterize first-use experiences with cigarettes, e-cigarettes, and cannabis. E-cigarettes were the most common way young people first tried nicotine (54%), with average first use around age 17. Unlike cigarettes \u2014 which mostly triggered negative reactions \u2014 e-cigarettes and cannabis produced a wide range of responses including enjoyment, suggesting a lower initial aversion barrier that may facilitate continued use.",
-      "why_it_matters": "Because e-cigarettes are less likely to produce an immediate negative reaction, young women may be at greater risk of progressing to regular use after a first try.",
-      "caveats": "small sample (N<100 per substance subgroup), observational design, self-reported outcomes, single-center, retrospective recall bias, predominantly female sample limits generalizability to all emerging adults",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Majority-female sample; lifestyle relevance limited; observational, self-reported, single-center design.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why Your First Vape Hit Felt Fine \u2014 and Why That's Actually a Warning Sign",
-          "hook": "Unlike cigarettes, e-cigarettes rarely produce a bad first reaction \u2014 and new research suggests that may be exactly why they're so easy to keep using.",
-          "pitch_angle": "A qualitative study found that most young people who tried cigarettes first felt bad and stopped, but e-cigarette and cannabis users reported enjoyment or no reaction at all. For young women navigating social pressure at parties or with peers, understanding why vaping 'feels fine at first' could be a crucial prevention message."
-        }
-      ],
-      "run_date": "2026-09-18",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42747863",
       "headline": "A Nerve-Freezing Procedure May Quadruple Ejaculation Time for Men Who've Never Responded to Any Other Treatment",
       "journal": "The Journal of Sexual Medicine",
@@ -420,33 +615,6 @@
       ],
       "run_date": "2026-09-18",
       "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42731649",
-      "headline": "AI spotted hidden bone fractures two years before they happened \u2014 in a young woman whose bone density looked perfectly fine",
-      "journal": "Bone",
-      "pubdate": "2026 Sep 12",
-      "doi": "10.1016/j.bone.2026.118078",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers report a case of a young woman with pycnodysostosis \u2014 a rare genetic bone disease \u2014 who had paradoxically high bone density but multiple fragility fractures, including bilateral atypical femur fractures. Standard imaging (DXA and HR-pQCT) failed to detect the underlying bone disorganization, but an AI-powered tool called ALIGNOGRAM1.0 identified microfractures on plain femoral X-rays up to two years before full fractures occurred at those sites. The case illustrates a broader diagnostic gap: conventional bone density measurements can miss serious fracture risk when bone structure is disorganized rather than sparse.",
-      "why_it_matters": "This case suggests that bone density scores alone may dangerously underestimate fracture risk in women with certain genetic or metabolic bone conditions, and that AI analysis of standard X-rays could one day close that gap.",
-      "caveats": "small sample (N<100) \u2014 single case report, single-center, industry conflict (inventor of ALIGNOGRAM technology is a co-author), rare disease with limited generalizability",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Counterintuitive AI-bone finding in a young woman; severely limited by single case report design.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Allure",
-          "headline": "Your Bone Density Score Could Look Perfect \u2014 and Still Miss a Serious Fracture Risk",
-          "hook": "An AI tool caught hidden microfractures in a young woman's femur two years before they became full breaks \u2014 even though her bone density appeared supranormal.",
-          "pitch_angle": "A new case report challenges the assumption that a 'good' bone density score means bones are safe, showing that bone disorganization \u2014 not just density \u2014 may drive fracture risk. Early evidence suggests AI analysis of routine X-rays could detect this hidden danger, though the technology is currently research-use only and the finding comes from a single rare-disease patient."
-        }
-      ],
-      "run_date": "2026-09-18",
-      "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
