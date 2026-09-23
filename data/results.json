@@ -1,91 +1,580 @@
 {
-  "last_updated": "2026-09-22T15:26:26.212928+00:00",
-  "total_studies": 910,
-  "new_this_run": 0,
+  "last_updated": "2026-09-23T15:28:30.098929+00:00",
+  "total_studies": 920,
+  "new_this_run": 10,
   "studies": [
     {
+      "pmid": "42772455",
+      "headline": "Knocking out a liver protein in adult mice reveals an unexpected role in fat metabolism \u2014 with implications for popular metabolic drug targets",
+      "journal": "Molecular Metabolism",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1016/j.molmet.2026.102443",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used gene editing to knock out \u03b2-klotho (KLB) \u2014 a co-receptor for the metabolic hormones FGF19 and FGF21 \u2014 specifically in the livers of adult male mice, sidestepping developmental confounders of prior germline models. Mice without liver KLB did not lose body weight as seen in earlier models, suggesting that effect was developmental, not metabolic; however, they did accumulate liver fat and show altered VLDL (bad cholesterol) metabolism. The findings suggest that drugs targeting the FGF19/KLB pathway for metabolic disease may carry unintended lipid-related effects not previously appreciated.",
+      "why_it_matters": "FGF21-based therapies are in clinical development for fatty liver disease and metabolic conditions that disproportionately affect women; this early evidence suggests their mechanism of action may be more complex \u2014 and riskier \u2014 than assumed.",
+      "caveats": "animal or cell study, no sex-disaggregated data (male mice only)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Mechanistically interesting but male-mouse-only animal study; limited direct women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "A Drug Target Touted for Fatty Liver Disease May Work Differently Than Scientists Thought",
+          "hook": "Removing a single liver protein in adult mice didn't cause the weight loss researchers expected \u2014 but it did trigger unexpected fat buildup in the liver.",
+          "pitch_angle": "New mouse research suggests the \u03b2-klotho protein \u2014 a key target for next-generation metabolic drugs including some in trials for fatty liver disease \u2014 plays a more complex role in fat regulation than prior studies indicated; the finding raises early questions about what these therapies may actually do in human livers, relevant as fatty liver disease rates rise sharply in women."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42770208",
+      "headline": "Self-diagnosing with autism actually helps many adults function better at work and feel kinder toward themselves",
+      "journal": "Journal of Mental Health",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1080/09638237.2026.2732894",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 130 self-diagnosed autistic adults who had not yet received a formal diagnosis, using questionnaires and qualitative content analysis to explore motivations, barriers, and outcomes of self-diagnosis. Most participants were motivated by recognition of their own traits in autistic friends, family, or celebrities, and the majority wanted formal diagnosis but faced long waitlists and perceived healthcare inadequacies. Despite not having official diagnoses, participants reported meaningful benefits including workplace and educational accommodations and increased self-compassion.",
+      "why_it_matters": "Women are chronically underdiagnosed with autism due to gendered diagnostic criteria, making self-diagnosis a particularly consequential and common path for adult women seeking identity and support.",
+      "caveats": "small sample (N=130), observational design, self-reported outcomes, no sex-disaggregated data, single-country (UK)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong lifestyle/wellness hook for women; weakened by no sex-disaggregated data and small sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Women Are Self-Diagnosing with Autism \u2014 and It's Actually Helping Them",
+          "hook": "Before they ever see a clinician, many adults are finding real relief \u2014 and self-compassion \u2014 by identifying as autistic on their own terms.",
+          "pitch_angle": "A new study of 130 self-diagnosed autistic adults found that self-diagnosis prompted meaningful improvements in work accommodations and personal well-being, even without formal clinical confirmation. For the many women who slip through diagnostic cracks due to gendered criteria, this suggests self-identification may be a valid and empowering starting point."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Why So Many Women Are Diagnosing Themselves with Autism \u2014 and Why That Might Be Okay",
+          "hook": "Healthcare waitlists stretch for years, diagnostic tools were built around boys \u2014 so women are finding their own answers, and reporting it helps.",
+          "pitch_angle": "New research suggests that self-diagnosing with autism leads to real-world benefits for many adults, from workplace adaptations to greater self-compassion, even amid systemic barriers to formal diagnosis. The findings land in a cultural moment when women especially are questioning late diagnoses and asking why it took so long to be seen."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42771106",
+      "headline": "Autism in women may be mistaken for schizophrenia for years \u2014 a new case highlights why",
+      "journal": "Neuropsychiatrie : Klinik, Diagnostik, Therapie und Rehabilitation",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1007/s40211-026-00595-1",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Austrian clinicians present a case report of a patient whose core autistic traits were misclassified as treatment-resistant negative symptoms of schizophrenia for years, with the correct autism spectrum disorder (ASD) diagnosis reached only after extended inpatient observation using gold-standard tools. The report highlights how 'camouflaging' and 'masking' \u2014 behaviors disproportionately used by autistic women \u2014 can obscure ASD in clinical high-risk psychosis settings. The authors argue ASD should be considered a primary differential diagnosis whenever psychotic or psychotic-like symptoms appear, particularly in early detection contexts.",
+      "why_it_matters": "Because autistic women are more likely to mask their symptoms, they may be especially vulnerable to years of misdiagnosis and inappropriate treatment before receiving the correct diagnosis.",
+      "caveats": "small sample (N<100), single-center, single case report, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant women's health angle on masking, but single case report limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why So Many Autistic Women Are First Diagnosed With Schizophrenia",
+          "hook": "A patient's core autistic traits were misread as treatment-resistant schizophrenia symptoms for years \u2014 and experts say women are especially at risk for this kind of diagnostic mix-up.",
+          "pitch_angle": "Autistic masking \u2014 the tendency to suppress or hide autistic behaviors \u2014 is far more common in women and girls, and a new case report suggests it may be causing clinicians to miss ASD entirely in psychiatric settings. The piece could explore what masking looks like, why women do it, and how to advocate for a thorough evaluation."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42771056",
+      "headline": "Nearly half of women in Spanish prisons are on psychiatric medication \u2014 and solitary confinement makes it far worse",
+      "journal": "Archives of Women's Mental Health",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1007/s00737-026-01769-0",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 1,544 female prisoners across 39 Spanish prisons using a self-completed questionnaire to identify factors associated with psychiatric medication use. Participants spanned a range of ages and backgrounds, including Spanish and foreign nationals. Key findings show 44% were taking psychiatric medication, and having experienced solitary confinement was associated with 2.65 times higher odds of being medicated \u2014 with intellectual disability, prior anxiety or depression treatment, and self-injury also strongly linked.",
+      "why_it_matters": "For women specifically, this study highlights that current prison mental health models are largely androcentric and fail to address the distinct vulnerabilities incarcerated women face.",
+      "caveats": "observational design, self-reported outcomes, single-country (Spain), cross-sectional design",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women-only sample, strong women's health angle; limited lifestyle/wellness hook for mainstream audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Almost Half of Women in Prison Are on Psychiatric Meds \u2014 and Solitary Confinement Is Partly to Blame",
+          "hook": "A study of 1,500 incarcerated women found that solitary confinement more than doubled the odds of being on psychiatric medication.",
+          "pitch_angle": "New research from Spain found that 44% of incarcerated women are taking psychiatric medication, with solitary confinement strongly linked to higher rates \u2014 raising urgent questions about whether prison mental health systems are built to serve women at all."
+        },
+        {
+          "publication_type": "General health",
+          "headline": "Prison Mental Health Systems Are Failing Women, New Research Suggests",
+          "hook": "Nearly half of women in Spanish prisons are on psychiatric medication, and the way mental health care is delivered there may be making things worse.",
+          "pitch_angle": "A large survey of 1,544 female prisoners found that solitary confinement, intellectual disability, and prior mental health treatment were the strongest predictors of psychiatric medication use \u2014 and researchers argue that current prison models are designed around men's needs, not women's."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42771819",
+      "headline": "Lowering your legs during pushing didn't reduce tearing \u2014 but the data hint it might still help",
+      "journal": "Obstetrics and Gynecology",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1097/AOG.0000000000006438",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a randomized clinical trial of 1,206 nulliparous people delivering vaginally at term, researchers compared hip extension (legs lowered to reduce hip flexion at crowning) with usual positioning to see if it reduced perineal tearing. In the primary intention-to-treat analysis, there was no significant difference in significant lacerations (66.2% vs 66.6%). However, in as-treated analyses adjusting for adherence, women who actually extended their hips showed a statistically significant protective shift in laceration severity and roughly half the rate of serious anal sphincter injuries, though this difference did not survive full adjustment.",
+      "why_it_matters": "For first-time birthers and their care teams, this trial suggests that delivery positioning may matter for perineal outcomes, but the evidence isn't yet strong enough to change standard practice.",
+      "caveats": "nonblinded design, 25% non-adherence in intervention group, as-treated benefit did not survive full statistical adjustment",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large RCT, nulliparous women, birth/postpartum hook strong, counterintuitive null-but-signal result.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A Simple Leg Position During Delivery Might Cut Serious Tearing in Half \u2014 But the Proof Isn't There Yet",
+          "hook": "Straightening your legs instead of pulling them back at the moment of crowning was associated with far fewer severe tears in a 1,200-person trial \u2014 even though the main analysis came up empty.",
+          "pitch_angle": "A large randomized trial tested whether hip extension during delivery could protect the perineum, and while the primary result was neutral, women who actually followed through with the position showed dramatically lower rates of serious anal sphincter injuries. It's a reminder that birth positioning is still an open and clinically important question."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Way You Push During Labor Might Actually Change Your Risk of Tearing \u2014 Here's What a New Trial Found",
+          "hook": "A 1,200-person trial found that how you position your legs at the moment of crowning could be more important than anyone realized \u2014 but the answer isn't simple.",
+          "pitch_angle": "Researchers randomized first-time birthers to lower their legs at crowning versus staying in the typical flexed position, and while the official result was a wash, those who actually did extend their hips saw roughly half the rate of severe anal sphincter tears. For anyone building a birth plan, it's worth a conversation with your provider."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42767516",
+      "headline": "Anxiety disorders raise stroke risk by 29% \u2014 and PTSD raises it by 50%, even after accounting for heart disease risk factors",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Sep 21",
+      "doi": "10.1016/j.jad.2026.122527",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a meta-analysis of 23 longitudinal cohort studies including over 11 million participants to quantify associations between clinically diagnosed anxiety disorders, PTSD, OCD, and risk of first-ever stroke. Clinically diagnosed anxiety disorder was associated with a 29% higher stroke risk and PTSD with a 50% higher risk, with the strongest signal for ischemic stroke; haemorrhagic stroke associations did not reach statistical significance. These associations persisted after adjusting for cardiovascular risk factors and depression, suggesting the mental health conditions may represent independent vascular risk markers.",
+      "why_it_matters": "Women are diagnosed with anxiety disorders and PTSD at higher rates than men, making this large-scale finding about stroke risk especially relevant to understanding cardiovascular health across women's lifespans.",
+      "caveats": "observational design, no sex-disaggregated data reported in primary finding, heterogeneity across included studies, OCD evidence limited to one study",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Huge sample, strong effect sizes, clear women's health relevance; docked for no sex-disaggregated primary result.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Your Anxiety Could Be Raising Your Stroke Risk \u2014 Even If Your Heart Seems Healthy",
+          "hook": "A sweeping analysis of 11 million people found that anxiety disorders and PTSD are linked to significantly higher stroke risk, independent of traditional heart disease factors.",
+          "pitch_angle": "Women are diagnosed with anxiety and PTSD at higher rates than men, and this meta-analysis suggests these conditions may quietly increase vascular risk \u2014 even after accounting for blood pressure, cholesterol, and other heart markers. Researchers say anxiety and PTSD may need to be recognized as stroke risk factors in their own right."
+        },
+        {
+          "publication_type": "Health.com",
+          "headline": "PTSD May Raise Your Stroke Risk by 50% \u2014 Here's What the Largest Study Yet Found",
+          "hook": "Post-traumatic stress disorder was associated with a 50% higher risk of stroke in a meta-analysis of more than 11 million people \u2014 a number that surprised even the researchers.",
+          "pitch_angle": "The analysis, which pooled data from 23 long-term studies, found that the stroke risk tied to PTSD was greater than that tied to anxiety disorders alone, and held up even when depression and cardiovascular risk factors were accounted for. Because women carry a disproportionate burden of both PTSD and anxiety diagnoses, the findings point to an underappreciated cardiovascular threat in women's mental health."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42764407",
+      "headline": "A new once-weekly weight-loss injection caused nearly 10% body weight loss in early human trial",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Sep 20",
+      "doi": "10.1111/dom.71218",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers evaluated ribupatide (HRS9531), a novel dual GLP-1/GIP receptor agonist, in preclinical animal models and a Phase 1 human trial involving 90 healthy Chinese participants across single- and multiple-ascending dose groups. After four weekly subcutaneous doses, participants in the highest dose groups lost a mean of up to 7.7 kg (9.6%) body weight compared with 1.2 kg in the placebo group, with no serious adverse events reported. The drug's half-life of 7\u20138 days supports once-weekly dosing, and fasting plasma glucose decreased dose-dependently.",
+      "why_it_matters": "A new entrant in the GLP-1/GIP drug class suggests the competitive landscape for weight-loss injections is expanding, which may eventually affect access and options for women managing obesity or type 2 diabetes.",
+      "caveats": "small sample (N<100 in human phase), short follow-up, single-center human trial, no sex-disaggregated data, industry funding [Jiangsu Hengrui Pharmaceuticals], China-only population",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Early Phase 1 drug trial; no female-specific data; limited generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Another Once-Weekly Weight-Loss Shot Is Entering the Race \u2014 Here's What the Early Data Show",
+          "hook": "A new injectable drug targeting the same receptors as tirzepatide helped healthy adults lose nearly 10% of their body weight in just four weeks.",
+          "pitch_angle": "Ribupatide, a dual GLP-1/GIP agonist from a Chinese pharma company, showed meaningful weight loss and glucose lowering in a small first-in-human trial, with no serious side effects \u2014 suggesting the GLP-1 drug pipeline is far from finished. Women already navigating a crowded and expensive weight-loss medication market may eventually benefit from increased competition driving down costs."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42764392",
+      "headline": "Women on dialysis lose more muscle than men \u2014 and almost no one is tracking it",
+      "journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
+      "pubdate": "2026 Sep 20",
+      "doi": "10.1002/jpen.70143",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a cross-sectional study of 105 adults (January\u2013July 2025) receiving maintenance hemodialysis at a public hospital in Panama, assessing dietary intake and multiple muscle health indicators. Nearly 90% of participants consumed less than 80% of their energy requirements, and 79% fell short on protein. Sarcopenia was present in 22.9% overall, but was notably more common in women (31.6%) than men (17.9%), though the difference did not reach statistical significance (p=0.17).",
+      "why_it_matters": "The higher rate of muscle loss observed in women on dialysis suggests they may need more targeted nutritional screening in kidney care settings, where routine muscle assessment is often lacking.",
+      "caveats": "small sample (N<100 per sex subgroup), observational design, single-center, self-reported outcomes (single 24-hour dietary recall), short follow-up, sex difference not statistically significant",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant sex difference in sarcopenia; single-center, non-significant finding limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Women on Dialysis Are Losing More Muscle \u2014 and Experts Say Routine Care Is Missing It",
+          "hook": "A new study found women on dialysis were nearly twice as likely as men to have dangerous muscle loss \u2014 and almost no one was monitoring it.",
+          "pitch_angle": "Researchers studying hemodialysis patients found severe nutritional shortfalls and higher rates of sarcopenia in women, raising questions about whether kidney care adequately addresses women's specific muscle health needs. The findings spotlight a gap in routine dialysis care that could have real consequences for women's strength, mobility, and quality of life."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42762980",
+      "headline": "Tirzepatide shrank dangerous belly fat in Japanese adults with obesity \u2014 and simple waist measurements tracked it almost as well as expensive scans",
+      "journal": "Endocrine Practice",
+      "pubdate": "2026 Sep 19",
+      "doi": "10.1016/j.eprac.2026.09.006",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed data from the SURMOUNT-J trial, a randomized controlled trial of 225 Japanese adults without diabetes who had obesity disease, assigned to tirzepatide (10 mg or 15 mg) or placebo plus lifestyle modification for 72 weeks. Tirzepatide significantly reduced visceral fat, liver fat, leptin, and inflammatory markers while raising adiponectin, with weight loss strongly correlated with visceral adipose tissue (VAT) reduction (r=0.72\u20130.84). Notably, simple waist measurements correlated strongly with VAT reduction, suggesting they may serve as practical proxies for costly imaging in clinical practice.",
+      "why_it_matters": "Visceral belly fat is a key driver of metabolic and cardiovascular risk in women, particularly around menopause, and this study suggests waist measurements \u2014 something women can track at home \u2014 may meaningfully reflect deeper fat loss from newer obesity medications.",
+      "caveats": "single-center, industry funding [Eli Lilly], no sex-disaggregated data, Japanese population (findings may not fully generalize to non-Asian populations given body composition differences)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "RCT with clear metabolic hook for women; industry-funded, no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "Tirzepatide Torched Deep Belly Fat \u2014 And Your Tape Measure Predicted It Almost as Well as a Body Scan",
+          "hook": "People taking the weight-loss drug tirzepatide saw dramatic reductions in dangerous visceral fat \u2014 and a simple waist measurement told almost the same story as an expensive imaging test.",
+          "pitch_angle": "A new analysis of a randomized trial found that tirzepatide cut deep abdominal fat and improved metabolic markers like inflammation and blood sugar regulation in adults with obesity; the surprising takeaway is that waist circumference tracked visceral fat loss nearly as well as sophisticated scans, making progress easier to monitor for women managing metabolic health."
+        },
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Your Waist Measurement May Be the Best Way to Track Whether Your Belly Fat Treatment Is Actually Working",
+          "hook": "Researchers found that a tape measure around your waist captured the reduction in dangerous deep belly fat almost as accurately as CT-level body scans after tirzepatide treatment.",
+          "pitch_angle": "In a 72-week clinical trial, weight loss from tirzepatide was tightly linked to reductions in visceral fat \u2014 the metabolically harmful fat stored around organs \u2014 and simple waist measurements were nearly as informative as costly imaging; for women, especially those navigating midlife metabolic changes, this finding suggests an accessible, low-tech way to gauge whether lifestyle or medical interventions are reaching the fat that matters most."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42759449",
-      "headline": "A negativity bias toward others' faces may help explain why ethnic minority groups face higher psychosis risk",
+      "headline": "Negative facial bias may help explain why ethnic minority groups face higher psychosis rates \u2014 but the effect is modest",
       "journal": "Schizophrenia Research",
       "pubdate": "2026 Sep 18",
       "doi": "10.1016/j.schres.2026.09.011",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed data from 1,035 people with first-episode psychosis and 1,382 controls across five European countries and Brazil (the EU-GEI study) to test whether negativity bias and impaired facial affect recognition help explain elevated psychosis rates in ethnic minority groups. They found modest indirect effects of negativity bias and facial affect recognition difficulty \u2014 particularly in Black and Mixed-ethnicity participants \u2014 on first-episode psychosis risk, though effects were attenuated after adjusting for processing speed. The authors caution that these cognitive-affective pathways are partial and modest, not the whole explanation.",
-      "why_it_matters": "For women from ethnic minority backgrounds, understanding cognitive pathways to psychosis risk could inform culturally tailored mental health screening and early intervention.",
-      "caveats": "observational design, modest effect sizes, results attenuated after processing speed adjustment, no sex-disaggregated data reported, multinational sample with heterogeneous contexts",
+      "summary": "Researchers analyzed data from 1,035 people with first-episode psychosis and 1,382 controls across five European countries and Brazil to test whether negativity bias and impaired facial affect recognition partially explain elevated psychosis rates in ethnic minority groups. They found modest indirect effects of negativity bias in Black participants and of facial affect recognition in Black and Mixed participants \u2014 but these effects were largely attenuated after accounting for processing speed. Authors caution that these cognitive-affective pathways may play a role but the effect sizes are small.",
+      "why_it_matters": "Women of color face compounded social adversity that may shape mental health risk through psychological pathways that remain underrecognized and understudied.",
+      "caveats": "observational design, no sex-disaggregated data, modest effect sizes, self-reported outcomes",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large multinational human study; limited women-specific data and modest effect sizes.",
+      "relevance_score": 4,
+      "relevance_score_reason": "No sex-disaggregated data; modest effects; limited women's health hook.",
       "pitch_angles": [
         {
-          "publication_type": "Health.com",
-          "headline": "Why Ethnic Minority Women May Face Greater Psychosis Risk \u2014 and What the Brain Has to Do With It",
-          "hook": "A large international study found that the way people read faces may partially explain why ethnic minority groups are diagnosed with psychosis at higher rates.",
-          "pitch_angle": "Chronic exposure to social adversity may train the brain to interpret neutral or ambiguous faces as threatening \u2014 a negativity bias that may contribute to psychosis risk among Black and Mixed-ethnicity individuals. The finding points toward cognitive interventions and culturally responsive mental health care as potential tools for a high-risk, underserved population."
+          "publication_type": "The Cut",
+          "headline": "The Hidden Brain Pattern That May Explain Why Women of Color Are More Vulnerable to Psychosis",
+          "hook": "Social adversity may literally reshape how ethnic minority individuals read others' faces \u2014 and that bias may be linked to psychosis risk.",
+          "pitch_angle": "A large multinational study found that a tendency to interpret faces negatively may partially explain higher psychosis rates among Black and Mixed-race individuals \u2014 though the effects are modest and the study didn't break out results by gender. The cultural context raises urgent questions about how chronic social stress shapes mental health in women of color."
         }
       ],
-      "run_date": "2026-09-20",
+      "run_date": "2026-09-23",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42757824",
-      "headline": "Zika virus hides and replicates in two unexpected parts of the male reproductive tract \u2014 explaining why it lingers in semen long after infection clears",
+      "headline": "Scientists pinpoint exactly where Zika virus hides in the male reproductive tract \u2014 explaining why it lingers in semen for months",
       "journal": "Human Reproduction",
       "pubdate": "2026 Sep 18",
       "doi": "10.1093/humrep/deag141",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed novel ex vivo organotypic cultures of human efferent ducts and epididymis corpus using post-mortem tissue from 11 male organ donors (ages 29\u201379) to model Zika virus (ZIKV) infection in the male reproductive tract. They found that ZIKV replicates persistently in the efferent duct epithelium for up to 9 days and infects stromal macrophages and smooth muscle cells in the epididymis corpus \u2014 both segments triggering only weak immune responses and no significant tissue damage, consistent with a non-cytopathic infection. The study identifies these organs as distinct viral reservoirs that may explain why infectious ZIKV persists in semen long after acute systemic illness resolves.",
-      "why_it_matters": "For women planning pregnancy with a male partner who has had Zika infection, this research suggests the virus may linger in semen via multiple biological pathways \u2014 with implications for understanding sexual transmission risk timelines.",
-      "caveats": "small sample (N=11 donors), ex vivo/tissue model (not in vivo human study), short follow-up (9-day culture), single-center, no sex-disaggregated data (male tissue only \u2014 findings relate to female partners' exposure risk indirectly)",
+      "summary": "Using novel organotypic ex vivo cultures developed from post-mortem tissue of 11 male organ donors (ages 29\u201379), French researchers modeled Zika virus infection in the human efferent ducts and epididymis over a 9-day period. The study found that Zika replicated persistently in efferent duct epithelium and in stromal macrophages of the epididymis \u2014 two distinct cellular reservoirs \u2014 while triggering only weak immune responses and no significant tissue damage. These findings offer a mechanistic explanation for why Zika can be sexually transmitted by men long after acute infection resolves, with implications for women's risk of exposure.",
+      "why_it_matters": "For women of reproductive age and pregnant women specifically, this research helps explain the biological basis of prolonged Zika sexual transmission risk from male partners \u2014 a key concern for family planning and pregnancy safety.",
+      "caveats": "small sample (N<100), ex vivo (not in vivo), single-center, short follow-up, no sex-disaggregated data, male tissue only",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Novel human tissue model, sexual transmission risk relevant to reproductive-age women, small sample limits score.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Indirect but meaningful women's health relevance (sexual transmission risk); ex vivo design limits strength.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "Zika can hide in semen way longer than doctors realized \u2014 new research explains why",
-          "hook": "Scientists have identified two previously overlooked sites in the male reproductive tract where Zika virus quietly replicates and hides \u2014 with almost no immune alarm raised.",
-          "pitch_angle": "Using human tissue cultures, researchers found that Zika doesn't just linger in the testes \u2014 it also takes up residence in the efferent ducts and epididymis, both of which mount surprisingly weak immune responses to infection. For women who may be trying to conceive with a partner who has had Zika, this finding sheds new light on why current sexual transmission windows may underestimate the risk."
+          "publication_type": "Women's Health Magazine",
+          "headline": "Zika Can Hide in a Man's Reproductive Tract for Months \u2014 Scientists Just Found Out Exactly Where",
+          "hook": "New lab research pinpoints two specific sites in the male reproductive tract where Zika virus silently persists \u2014 explaining why sexually transmitted Zika risk doesn't disappear when symptoms do.",
+          "pitch_angle": "Using human tissue models, researchers found that Zika replicates in the efferent ducts and in specialized immune cells of the epididymis, both of which mount only weak defenses against the virus \u2014 findings that matter especially for women who are pregnant or trying to conceive with a partner who has traveled to a Zika-affected region."
         }
       ],
-      "run_date": "2026-09-20",
+      "run_date": "2026-09-23",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42760497",
-      "headline": "A genetic variant in one egg-specific protein leaves some women unable to produce viable eggs \u2014 no matter how many IVF cycles they try",
+      "headline": "A genetic glitch in one protein leaves eggs permanently stuck \u2014 and no fertility treatment can fix it",
       "journal": "Journal of Assisted Reproduction and Genetics",
       "pubdate": "2026 Sep 18",
       "doi": "10.1007/s10815-026-04025-7",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers enrolled six Chinese women with primary infertility caused by persistent oocyte maturation arrest (OMA), performing whole-exome sequencing to identify variants in the TUBB8 gene, which encodes a protein essential for egg cell division. All six women had normal ovarian reserve and hormone levels but showed five distinct TUBB8 mutations that caused 85% of retrieved eggs to arrest at an early division stage, with a fertilization rate of only 6.3% and no pregnancies achieved even with advanced IVF techniques including artificial oocyte activation. The findings expand the known range of TUBB8 mutations and suggest that routine genetic screening for this gene could spare women with this variant from repeated, futile IVF cycles.",
+      "why_it_matters": "For women facing repeated unexplained IVF failure, early TUBB8 genetic screening could prevent years of emotionally and financially costly treatment that is unlikely to succeed.",
+      "caveats": "small sample (N<100), single-center, Chinese population only \u2014 generalizability to other ethnic groups uncertain",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Female-specific, fertility/IVF hook strong; very small N; single-center; Chinese cohort limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Some Women's Eggs Simply Can't Mature \u2014 and a Gene Test Could Reveal It Before Costly IVF Rounds",
+          "hook": "For a subset of women, repeated IVF failure isn't bad luck \u2014 it's a genetic certainty written in a single protein.",
+          "pitch_angle": "New research identified TUBB8 gene variants in women whose eggs consistently arrested before they could be fertilized, regardless of how many IVF cycles they attempted. Early genetic screening for this mutation could help women avoid years of failed cycles and pursue alternative paths to parenthood sooner."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42755127",
+      "headline": "A reversible stomach stent \u2014 no surgery required \u2014 helped people lose 11% of their body weight in 3 months",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Sep 17",
+      "doi": "10.1111/dom.71330",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This retrospective multicentre real-world study evaluated a novel Gastric Bypass Stent System (GBSS) \u2014 a removable duodenal-jejunal bypass liner \u2014 in 1,536 patients with overweight or obesity across 239 hospitals in China, with a mean BMI of 34.4. By 3 months post-implantation, participants lost a mean of 11.5% of total body weight, and 90.2% achieved at least 5% weight loss; stent displacement occurred in 4.6% and gastrointestinal bleeding in 4.3%, with no deaths. Weight loss remained relatively stable through 12 months among those who kept the device.",
+      "why_it_matters": "For women seeking a middle-ground option between dieting and bariatric surgery, a reversible, endoscopically removable device that produces meaningful short-term weight loss \u2014 without permanent anatomical changes \u2014 could represent a meaningful new option if data replicate outside China.",
+      "caveats": "observational design, retrospective, no sex-disaggregated data, China-only population, short follow-up for most participants (median implantation 3 months), self-selected clinical sample",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large real-world sample, novel device angle, but no female-specific data and China-only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Prevention",
+          "headline": "There's a New Weight-Loss Option Between Dieting and Surgery \u2014 And It's Removable",
+          "hook": "A removable stomach stent helped more than 90% of participants lose at least 5% of their body weight in just three months \u2014 with no permanent surgery.",
+          "pitch_angle": "The Gastric Bypass Stent System works like a temporary internal sleeve placed via endoscopy and can be removed if tolerated poorly \u2014 offering a reversible bridge for people not ready for bariatric surgery. With data from over 1,500 patients across hundreds of hospitals, the early results are notable, though the study was conducted entirely in China and did not break out outcomes by sex."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42751923",
+      "headline": "A new brain scan metric predicts stroke recovery better than existing tools \u2014 and it's already being used in CT imaging",
+      "journal": "Journal of Cerebral Blood Flow and Metabolism",
+      "pubdate": "2026 Sep 17",
+      "doi": "10.1177/0271678X261492523",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed a new perfusion imaging metric called the granular Hypoperfusion Intensity Ratio (gHIR) and tested it in 570 acute ischemic stroke patients (median age 77, 50.8% female) across multiple centers, comparing it to four established metrics for predicting functional recovery at 90 days. The gHIR outperformed all four existing CT-based methods, with an AUC of 0.75 for predicting good functional outcome (modified Rankin Scale \u22642). A gHIR score above 0.30 was associated with faster infarct growth and worse outcomes.",
+      "why_it_matters": "Because women tend to have worse stroke outcomes than men and are often older at stroke onset, a more accurate imaging tool for predicting recovery trajectory could have real implications for how women's strokes are triaged and treated.",
+      "caveats": "single-center analysis for derivation (multicentre validation noted but details limited in abstract), retrospective application, no sex-disaggregated outcome analysis reported",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Majority-female sample, clinically meaningful metric, but no sex-disaggregated outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "A New Brain Scan Score Could Predict How Well You'll Recover from a Stroke",
+          "hook": "A novel CT imaging metric outperformed every existing standard tool for predicting whether a stroke patient would recover meaningful function within 90 days.",
+          "pitch_angle": "The granular Hypoperfusion Intensity Ratio calculates how quickly brain tissue is dying during a stroke \u2014 giving doctors a sharper, real-time picture of prognosis using standard CT scans already available in most hospitals. With women making up half the study population and generally experiencing worse stroke outcomes than men, better triage tools could be especially consequential for women."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42754334",
+      "headline": "A simple kidney-filter ratio may flag heart disease risk in diabetic kidney disease better than standard tests",
+      "journal": "BMJ Open Diabetes Research & Care",
+      "pubdate": "2026 Sep 17",
+      "doi": "10.1136/bmjdrc-2026-006417",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers studied 182 adults with biopsy-confirmed diabetic kidney disease in China, defining a new phenotype called selective glomerular hypofiltration syndrome (SGHS) using a ratio of two kidney-function estimates (cystatin C vs. creatinine). Those with SGHS had over nine times higher odds of having cardiovascular disease at diagnosis and were nearly three times more likely to experience kidney disease progression over a median 30-month follow-up. The ratio outperformed standard kidney markers \u2014 including urinary albumin-to-creatinine ratio \u2014 in predicting heart disease risk.",
+      "why_it_matters": "Women with diabetes are at elevated cardiovascular risk, and a simple calculated ratio from routine lab values could offer earlier warning of compounding heart and kidney danger.",
+      "caveats": "small sample (N<100 per subgroup), observational design, single-center, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically interesting but no female-specific data; small single-center Chinese cohort.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "Your Doctor's Routine Blood Work May Hold a Hidden Heart Risk Clue \u2014 If They Know to Look",
+          "hook": "A ratio calculated from two standard kidney lab values predicted heart disease risk in diabetic kidney disease better than the tests doctors already rely on.",
+          "pitch_angle": "Researchers found that a simple ratio of two kidney-filtration estimates flagged cardiovascular disease risk far better than standard markers in people with diabetic kidney disease; for women managing diabetes \u2014 who already face outsized cardiovascular risk \u2014 knowing your doctor can calculate this from existing labs is a low-effort, potentially high-payoff conversation."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42750667",
+      "headline": "Only 4 in 10 adolescent girls in rural South Africa used contraception at first sex \u2014 and secondary education was unexpectedly linked to lower odds",
+      "journal": "African Journal of Reproductive Health",
+      "pubdate": "2026 Sep 17",
+      "doi": "10.29063/ajrh2026/v30i17.2",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a cross-sectional survey of 290 adolescent girls from nine villages in the Ratlou local municipality of South Africa to identify predictors of contraceptive use at sexual debut. Bivariate and logistic regression analyses were used to examine sociodemographic and behavioral factors. Counterintuitively, secondary education, older age at first sex, and prior dual-method contraceptive use were all associated with lower \u2014 not higher \u2014 odds of using contraception at first sex.",
+      "why_it_matters": "Understanding why even seemingly protective factors like education are associated with lower contraceptive use at sexual debut is critical for designing effective adolescent reproductive health interventions in rural African communities.",
+      "caveats": "small sample (N<100 per village subgroup), observational design, self-reported outcomes, single-municipality (South Africa), cross-sectional design, narrow to single region with limited global generalizability",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant reproductive health topic; narrow regional context limits generalizability for US-focused outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "More Education Didn't Mean More Contraception for These Teen Girls \u2014 Here's What Researchers Found",
+          "hook": "A study of adolescent girls in rural South Africa found that having secondary education was associated with lower odds of using contraception at first sex \u2014 a counterintuitive finding that challenges common assumptions.",
+          "pitch_angle": "In a survey of 290 adolescent girls, researchers found that only 41% used contraception at sexual debut, and several expected protective factors \u2014 including secondary education \u2014 were linked to lower contraceptive use, suggesting that access barriers and social dynamics may override educational messaging in rural settings."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42747779",
+      "headline": "One in five people who get gastric bypass surgery develops alcohol use disorder symptoms within five years \u2014 and the ethics of bariatric care are being reexamined",
+      "journal": "Obesity Surgery",
+      "pubdate": "2026 Sep 16",
+      "doi": "10.1007/s11695-026-08933-6",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers performed whole-exome sequencing on six unrelated Chinese women with primary infertility due to persistent oocyte maturation arrest (OMA), identifying five previously unreported or recurrent TUBB8 missense variants. All six women had normal ovarian reserve and hormone profiles, yet 85.4% of retrieved eggs arrested before maturity; despite ICSI with artificial oocyte activation, the fertilization rate was only 6.3% and no pregnancies resulted. The study found that TUBB8 variants appear to disrupt the spindle structures eggs need to complete meiosis, suggesting routine genetic screening for TUBB8 could spare women with unexplained IVF failure from repeated futile cycles.",
-      "why_it_matters": "For women facing repeated, unexplained IVF failure despite normal fertility test results, this research suggests a genetic explanation may exist \u2014 and that early testing could help guide more realistic reproductive counseling.",
-      "caveats": "small sample (N<100), single-center, observational design, population limited to Chinese women (findings may not fully generalize globally, though TUBB8 variants have been reported internationally)",
+      "summary": "This SANRA-guided narrative review synthesized ethical challenges across the bariatric surgery patient journey using the four principles framework (autonomy, beneficence, non-maleficence, justice), drawing on published literature rather than new primary data. Key issues flagged include the validity of informed consent under conditions of obesity stigma and desperation bias, the ~21% five-year cumulative incidence of new alcohol use disorder symptoms after Roux-en-Y gastric bypass, and long-term gaps in nutritional and psychological follow-up. The authors call for multimodal consent processes, individualized multidisciplinary assessment, and equity-oriented access policies.",
+      "why_it_matters": "Women undergo bariatric surgery at higher rates than men and face particular vulnerabilities around body image, psychiatric comorbidities, and alcohol use disorder after surgery \u2014 making the ethical gaps identified in this review directly relevant to their long-term health.",
+      "caveats": "narrative review (not systematic), no primary data, no sex-disaggregated data, Iran-affiliated authors (potential context specificity for collectivist framing section), AI-assisted writing disclosed",
       "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Female-specific fertility condition, strong clinical hook, small sample limits score.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's health hook on alcohol risk post-surgery; narrative review limits evidence grade.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Well+Good",
+          "headline": "What Nobody Tells You Before Bariatric Surgery: 1 in 5 People Develop Alcohol Problems Within 5 Years",
+          "hook": "A new review of bariatric surgery ethics highlights a striking and underreported risk: roughly 21% of gastric bypass patients develop alcohol use disorder symptoms within five years of their procedure.",
+          "pitch_angle": "Altered gut physiology after Roux-en-Y gastric bypass can intensify alcohol's effects, making patients vulnerable to dependence even if they had no prior history \u2014 and women, who undergo weight-loss surgery at higher rates than men, may be especially at risk. The review argues that current consent processes often fail to adequately prepare patients for this and other long-term consequences."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Bariatric Surgery Conversation Isn't Keeping Up with the Risks \u2014 And Women Are Paying the Price",
+          "hook": "A new ethics review argues that the way doctors obtain consent for weight-loss surgery is failing patients \u2014 especially when it comes to addiction risk and long-term psychological care.",
+          "pitch_angle": "With a reported 21% five-year rate of new alcohol use disorder symptoms after gastric bypass and documented gaps in postoperative psychological follow-up, researchers are calling for a wholesale rethinking of how bariatric care is delivered and who gets access to it. Women, who dominate bariatric surgery populations and face higher rates of psychiatric comorbidity, have the most to gain from these reforms \u2014 and the most to lose when systems fall short."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42749162",
+      "headline": "Resilience can stop gut-and-mood distress from getting worse in teens \u2014 but once it's severe, it's very hard to reverse",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Sep 16",
+      "doi": "10.1016/j.jad.2026.122517",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a two-wave prospective study of 9,035 Chinese children and adolescents aged 10\u201317, researchers tracked co-occurring gut problems, anxiety, depression, and suicidality over 12 months using validated self-report measures. Using latent profile and transition analyses, they identified four severity groups and found that higher baseline resilience \u2014 particularly emotion regulation, family support, and peer support \u2014 significantly reduced the odds of healthy adolescents worsening into more distressed states. However, resilience did not predict recovery for teens already experiencing mild or severe distress, suggesting it works better as prevention than as a cure.",
+      "why_it_matters": "Adolescent girls are disproportionately affected by internalizing disorders and functional gut conditions, and this finding that resilience buffers onset but not recovery has implications for how we time mental health interventions.",
+      "caveats": "observational design, self-reported outcomes, single-country (China), no sex-disaggregated data, short follow-up (12 months)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large sample and novel finding; docked for China-only context, no sex-disaggregated data, short follow-up.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Building Resilience Prevents Teen Mental Health Decline \u2014 But It Won't Undo Distress That's Already Severe",
+          "hook": "A study of 9,000 adolescents found that resilience skills significantly shield against worsening gut-and-mood distress \u2014 but offer little help once serious symptoms are already established.",
+          "pitch_angle": "Researchers tracking anxiety, depression, suicidality, and gut disorders in adolescents found that resilience \u2014 especially emotion regulation and strong family connections \u2014 cut the odds of healthy teens spiraling into distress, but had no significant effect on recovery in those already struggling. The finding suggests that resilience-building programs work best as early prevention, not as treatment for established mental health problems."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42762626",
+      "headline": "A tiny brain structure shows different damage patterns in first-time versus repeat depression \u2014 hinting at why the illness changes over time",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Sep 16",
+      "doi": "10.1016/j.jpsychires.2026.08.028",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used structural MRI data from 839 adults with major depressive disorder (MDD) \u2014 including 346 with first-episode drug-naive MDD and 261 with recurrent MDD \u2014 and 788 healthy controls from the REST-meta-MDD consortium to map structural covariance networks centered on the habenula, a small brain region linked to reward and emotional processing. First-episode patients showed reduced habenula connectivity with frontal, cerebellar, and insular regions, while those with recurrent depression showed distinct reductions involving the basal ganglia and temporoparietal junction. Across both groups, structural covariance between the habenula and the posterior cingulate cortex was associated with depressive \u2014 but not anxious \u2014 symptom severity, suggesting the habenula's structural relationships may track depression-specific pathology.",
+      "why_it_matters": "Women are diagnosed with depression at roughly twice the rate of men, and understanding why depression recurs and worsens over time could eventually point toward better-targeted treatments for chronic depression.",
+      "caveats": "observational design, no sex-disaggregated data, single-region study population (China), secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large sample and novel brain finding, but no female-specific data and highly technical.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Scientists Found That Depression Actually Changes the Brain Differently Each Time It Strikes",
+          "hook": "A new study suggests the brain looks structurally different in people experiencing depression for the first time versus those who've been through it before \u2014 and a tiny, often-overlooked structure may be at the center of it all.",
+          "pitch_angle": "Research on the habenula \u2014 a pea-sized brain region involved in reward and mood \u2014 found distinct patterns of structural disruption depending on whether depression was a first episode or recurrent, suggesting the condition may progressively alter brain organization. For women, who are disproportionately affected by recurrent depression, this adds early biological evidence for why the illness can feel harder to treat over time."
+        }
+      ],
+      "run_date": "2026-09-23",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42763908",
+      "headline": "A male fertility supplement changed sperm DNA chemistry \u2014 but didn't improve sperm quality",
+      "journal": "Systems Biology in Reproductive Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/19396368.2026.2722986",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tracked 31 men across three groups \u2014 young healthy, young infertile, and older infertile \u2014 who took AlphaSperm\u00ae daily for 9 months, measuring semen parameters and sperm DNA methylation before and after. The supplement did not significantly improve standard sperm metrics or DNA fragmentation in any group. However, it did produce measurable epigenetic changes in sperm DNA, most prominently in older infertile men, including hypermethylation at five genes previously linked to male infertility.",
+      "why_it_matters": "For couples using male fertility supplements while trying to conceive, this suggests these products may be altering sperm biology in ways standard semen analysis cannot detect \u2014 for better or worse.",
+      "caveats": "small sample (N<100), no placebo control, short follow-up relative to fertility outcomes, functional significance of epigenetic changes unvalidated, industry product studied (AlphaSperm\u00ae)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Male fertility topic; no female sample; small N; no placebo; fertility hook moderate.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "Some Women Can't Get Pregnant Through IVF No Matter What \u2014 A DNA Clue May Finally Explain Why",
-          "hook": "Six women with normal ovarian reserves went through multiple IVF rounds with zero pregnancies \u2014 a single genetic variant in an egg-specific protein appears to be why.",
-          "pitch_angle": "New research identifies TUBB8 gene variants that prevent eggs from maturing properly, making IVF essentially ineffective for affected women; the finding suggests a simple genetic screen could save women years of failed, emotionally and financially draining fertility treatment."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "If Your IVF Keeps Failing and No One Knows Why, a Genetic Test Might Finally Have Answers",
-          "hook": "Researchers found that a variant in one gene \u2014 specific to egg cells \u2014 can cause complete IVF failure even when all standard fertility markers look normal.",
-          "pitch_angle": "A study of women with unexplained, recurrent IVF failure identified mutations in the TUBB8 gene that prevent eggs from completing the final steps of maturation, pointing toward a genetic screening tool that could help women and their doctors make more informed treatment decisions earlier."
+          "headline": "Your Partner's Fertility Supplement Is Changing His Sperm DNA \u2014 But Not in the Way You'd Expect",
+          "hook": "A popular male fertility supplement rewired sperm DNA chemistry over 9 months \u2014 without actually improving sperm count, motility, or quality.",
+          "pitch_angle": "New research found that a multivitamin marketed for male fertility produced significant epigenetic changes in sperm DNA, especially in older men, even though the standard markers couples track \u2014 sperm count, motility, DNA fragmentation \u2014 didn't budge. It raises real questions about what 'working' even means for these supplements."
         }
       ],
-      "run_date": "2026-09-20",
+      "run_date": "2026-09-23",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
@@ -114,87 +603,6 @@
       ],
       "run_date": "2026-09-20",
       "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42755127",
-      "headline": "A reversible stent \u2014 not surgery \u2014 helped most patients lose 10% of body weight in 3 months",
-      "journal": "Diabetes, Obesity & Metabolism",
-      "pubdate": "2026 Sep 17",
-      "doi": "10.1111/dom.71330",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers evaluated a reversible gastric bypass stent (GBSS) \u2014 a minimally invasive duodenal-jejunal bypass liner \u2014 in 1,536 patients with overweight or obesity (mean BMI 34.4) across 239 hospitals in China. Within 3 months of implantation, participants lost an average of 11.5% of total body weight, and 60.7% achieved more than 10% weight loss. Stent displacement occurred in 4.6% of cases and gastrointestinal bleeding in 4.3%, but all adverse events were managed without surgery or deaths.",
-      "why_it_matters": "For women who aren't candidates for bariatric surgery, this reversible device suggests a new middle-ground option for meaningful weight loss may be on the horizon.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, short follow-up, retrospective registry, China-based population only",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large real-world sample, novel device, but no sex-disaggregated data and China-only context.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Prevention",
-          "headline": "A Swallowable Stent Could Deliver Surgery-Level Weight Loss \u2014 Without the Surgery",
-          "hook": "A reversible, removable stent helped 9 in 10 patients lose at least 5% of their body weight in just 3 months \u2014 no operating room required.",
-          "pitch_angle": "A large real-world study found that a device placed endoscopically to reroute digestion produced meaningful weight loss with manageable side effects. For women who've been told they're 'not quite' a bariatric surgery candidate, early evidence suggests a less drastic option may be coming."
-        }
-      ],
-      "run_date": "2026-09-20",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42751923",
-      "headline": "A new brain scan metric may predict stroke recovery better than current standard tools",
-      "journal": "Journal of Cerebral Blood Flow and Metabolism",
-      "pubdate": "2026 Sep 17",
-      "doi": "10.1177/0271678X261492523",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed and tested a novel perfusion imaging metric called the granular Hypoperfusion Intensity Ratio (gHIR) in 570 stroke patients (median age 77; 50.8% female) to predict how quickly brain tissue dies and whether patients will recover functional independence 90 days after stroke. The gHIR outperformed four established imaging metrics in predicting good functional outcomes, with an AUC of 0.75. Patients with a gHIR above 0.30 had significantly worse odds of functional recovery.",
-      "why_it_matters": "Stroke is a leading cause of disability in older women, and a more accurate imaging metric for predicting recovery could eventually help clinicians make faster, better-informed treatment decisions.",
-      "caveats": "single-center, observational design, no sex-disaggregated analysis reported despite near-equal sex split",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Near-equal female sample, relevant condition, but no sex-disaggregated analysis and niche clinical topic.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "A New Stroke Scan Score Could Finally Tell Doctors How Quickly Your Brain Is in Danger",
-          "hook": "A brain imaging metric that weighs blood flow across multiple thresholds predicted stroke recovery more accurately than any existing tool \u2014 and half the patients studied were women.",
-          "pitch_angle": "Researchers found that a new CT perfusion score called gHIR could flag which stroke patients are at highest risk of permanent disability within 90 days, outperforming current standard imaging methods. For women, who face higher lifetime stroke risk and worse outcomes than men, better prediction tools could eventually translate to faster, more targeted care."
-        }
-      ],
-      "run_date": "2026-09-20",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42754334",
-      "headline": "A simple blood ratio may predict heart disease risk far better than standard kidney tests in diabetic patients",
-      "journal": "BMJ Open Diabetes Research & Care",
-      "pubdate": "2026 Sep 17",
-      "doi": "10.1136/bmjdrc-2026-006417",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 182 patients with biopsy-confirmed diabetic kidney disease in China to assess whether a new kidney dysfunction marker \u2014 the ratio of two different filtration-rate estimates (eGFRcys/eGFRcr) \u2014 could predict cardiovascular disease and kidney decline. Patients with the low-ratio phenotype (called SGHS) had over nine times the odds of already having cardiovascular disease at diagnosis. Over a median 30-month follow-up, SGHS patients also faced significantly faster kidney disease progression.",
-      "why_it_matters": "For women with diabetes-related kidney disease, a ratio derivable from existing blood tests may offer earlier warning of heart disease risk than standard measures \u2014 though findings need replication in larger, more diverse populations.",
-      "caveats": "small sample (N<100 per subgroup), observational design, single-center, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Cardiovascular-diabetes finding; no female-specific data; single-center China cohort.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "Your Doctor May Be Missing a Key Heart-Risk Signal Hidden in Your Kidney Labs",
-          "hook": "A simple ratio between two routine blood tests outperformed every standard kidney marker at predicting heart disease in diabetic patients.",
-          "pitch_angle": "Early evidence suggests that comparing two types of kidney-filtration estimates could flag cardiovascular danger far sooner than current tools; because women with diabetes already face underdiagnosed heart risk, any earlier detection signal warrants attention \u2014 though this study needs replication in female-specific and more diverse samples."
-        }
-      ],
-      "run_date": "2026-09-20",
-      "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
@@ -319,60 +727,6 @@
       "status": "new"
     },
     {
-      "pmid": "42747779",
-      "headline": "One in five bariatric surgery patients may develop alcohol use disorder within 5 years \u2014 and the ethics of consent aren't keeping up",
-      "journal": "Obesity Surgery",
-      "pubdate": "2026 Sep 16",
-      "doi": "10.1007/s11695-026-08933-6",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review synthesized ethical issues across the bariatric surgery patient journey, applying the four core bioethical principles (autonomy, beneficence, non-maleficence, justice) to real-world clinical challenges. Authors flagged a reported five-year cumulative incidence of new alcohol use disorder symptoms of approximately 21% after Roux-en-Y gastric bypass as a key informed-consent gap. The review calls for multimodal consent processes, individualized psychiatric assessment, and equity-oriented long-term follow-up systems.",
-      "why_it_matters": "Women undergo bariatric surgery at higher rates than men and may face distinct vulnerabilities around alcohol use disorder after surgery \u2014 risks that are frequently underdisclosed during the consent process.",
-      "caveats": "narrative review, no sex-disaggregated data, no primary data collected, Iran-based authors (though topic is universal)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant women's health context, important statistic, but narrative review with no primary data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Bariatric Surgery Has a Hidden Risk Nobody Talks About: Alcohol Use Disorder",
-          "hook": "About 1 in 5 people who get Roux-en-Y gastric bypass may develop alcohol use disorder symptoms within five years \u2014 and a new ethics review says consent processes are failing patients.",
-          "pitch_angle": "A narrative review found that existing informed-consent practices for bariatric surgery often fall short on disclosing the significant risk of post-surgery alcohol dependence. Women, who make up the majority of bariatric patients, may be particularly affected \u2014 yet the review found no tailored guidance for sex-specific risks."
-        }
-      ],
-      "run_date": "2026-09-20",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42749162",
-      "headline": "Resilience skills protect teens from developing anxiety and gut problems \u2014 but can't reverse them once they're severe",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Sep 16",
-      "doi": "10.1016/j.jad.2026.122517",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 9,035 Chinese children and adolescents (ages 10\u201317) over 12 months, using validated self-report tools to track anxiety, depression, suicidal behavior, and functional gastrointestinal symptoms. Latent profile analysis identified four distinct distress groups, and higher baseline resilience \u2014 especially emotion regulation, family support, and interpersonal help \u2014 significantly reduced the odds of healthy teens developing worse symptoms. However, resilience did not predict recovery in teens who were already moderately or severely distressed, suggesting it works as prevention but not as treatment.",
-      "why_it_matters": "The finding that resilience skills protect against distress onset but cannot reverse established symptoms suggests early, universal resilience-building programs \u2014 not just crisis intervention \u2014 are critical for adolescent girls' mental and gut health.",
-      "caveats": "observational design, self-reported outcomes, single-country (China) sample, no sex-disaggregated data reported, short follow-up (12 months)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large human sample, counterintuitive prevention-vs-treatment finding; no sex-disaggregated data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Teaching Teens Resilience Works \u2014 But Only Before Anxiety and Gut Problems Take Hold",
-          "hook": "A study of more than 9,000 adolescents found that resilience skills cut the risk of developing anxiety, depression, and digestive disorders \u2014 but offered little help to teens who were already severely struggling.",
-          "pitch_angle": "Researchers discovered that emotion regulation and strong social support effectively shield adolescents from worsening mental and physical symptoms, but once distress is severe, those same skills fail to reverse the trajectory. The implication: building resilience in kids needs to start early and broadly, not just in response to crisis."
-        }
-      ],
-      "run_date": "2026-09-20",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42013312",
       "headline": "A blood test called glycated CD59 could replace the notoriously unpleasant glucose drink test for diagnosing gestational diabetes",
       "journal": "Endocrine Reviews",
@@ -402,33 +756,6 @@
       ],
       "run_date": "2026-09-20",
       "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42762626",
-      "headline": "A tiny brain structure shows different damage patterns in first-time vs. repeat depression \u2014 and it may track how severe symptoms get",
-      "journal": "Journal of Psychiatric Research",
-      "pubdate": "2026 Sep 16",
-      "doi": "10.1016/j.jpsychires.2026.08.028",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using structural MRI data from the REST-meta-MDD consortium, researchers analyzed brain connectivity patterns in 839 people with major depressive disorder (346 first-episode drug-naive, 261 recurrent) and 788 healthy controls to examine how structural covariance of the habenula \u2014 a small region linked to reward and emotion \u2014 differs by depression subtype. First-episode patients showed reduced connectivity between the habenula and frontal, cerebellar, and insular regions, while those with recurrent depression showed reductions in basal ganglia and temporoparietal junction connectivity. Structural covariance between the habenula and the posterior cingulate cortex was positively associated with depressive symptom severity, suggesting this tiny region may serve as a marker of how the brain changes across depression episodes.",
-      "why_it_matters": "Given that women are roughly twice as likely as men to develop recurrent major depression, understanding how the brain changes across successive episodes could eventually inform more personalized treatment approaches \u2014 though this study does not report sex-disaggregated findings.",
-      "caveats": "no sex-disaggregated data, observational design, single-region focus may not capture full network complexity, China-based consortium (generalizability uncertain), cross-sectional MRI design limits causal inference",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant to women's mental health but no female-specific analysis; observational neuroimaging with no sex breakdown.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "Your Brain Looks Different After Multiple Bouts of Depression \u2014 Scientists Just Found the Structural Proof",
-          "hook": "A brain region no bigger than a grain of rice shows distinctly different damage patterns depending on whether someone is experiencing depression for the first time or the fifth \u2014 and it may even track how bad symptoms get.",
-          "pitch_angle": "A large neuroimaging study found that the habenula, a tiny brain structure involved in reward and mood, shows different structural disruptions in first-episode versus recurrent depression, suggesting the brain may be progressively rewired by repeated depressive episodes \u2014 an insight that could matter especially for women, who are disproportionately affected by recurrent MDD."
-        }
-      ],
-      "run_date": "2026-09-20",
-      "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
@@ -636,33 +963,6 @@
       ],
       "run_date": "2026-09-19",
       "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42750667",
-      "headline": "Less than half of South African teen girls used contraception at first sex \u2014 and higher education was linked to lower odds",
-      "journal": "African Journal of Reproductive Health",
-      "pubdate": "2026 Sep 17",
-      "doi": "10.29063/ajrh2026/v30i17.2",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a cross-sectional study of 290 adolescent girls drawn from nine villages in the Ratlou local municipality of rural South Africa, using logistic regression to identify predictors of contraceptive use at sexual debut. Only 41% of participants reported using contraception at first sex. Counterintuitively, secondary education, older age at first sex, and prior dual-method contraceptive use were each associated with lower \u2014 not higher \u2014 odds of contraceptive use at sexual debut.",
-      "why_it_matters": "The findings suggest that conventional assumptions about education and contraceptive uptake may not hold in rural, low-resource settings, pointing to gaps in youth-friendly reproductive health services that matter for adolescent girls globally.",
-      "caveats": "small sample (N<100 per village subgroup), observational design, single-center, self-reported outcomes, narrow geographic region (rural South Africa \u2014 limited generalizability to US/global readership)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant reproductive health topic; narrow regional context limits US outlet pitch potential.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Why More Schooling Doesn't Always Mean Safer Sex for Teen Girls",
-          "hook": "A new study from rural South Africa found that adolescent girls with secondary education were actually less likely to use contraception at first sex \u2014 upending a key assumption in reproductive health.",
-          "pitch_angle": "Researchers found education, older age at debut, and even prior contraceptive experience were linked to lower odds of using contraception at first sex \u2014 suggesting structural barriers, not knowledge gaps, may be the real driver. This counterintuitive finding raises broader questions about how reproductive health programs are designed for young women in low-resource settings worldwide."
-        }
-      ],
-      "run_date": "2026-09-19",
-      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
