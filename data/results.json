@@ -1,33 +1,735 @@
 {
-  "last_updated": "2026-09-26T15:05:56.041437+00:00",
-  "total_studies": 957,
-  "new_this_run": 27,
+  "last_updated": "2026-09-27T15:42:43.314324+00:00",
+  "total_studies": 963,
+  "new_this_run": 6,
   "studies": [
     {
       "pmid": "42444565",
-      "headline": "NICU nurses and parents embraced picture icons on baby isolettes as a way to prevent dangerous mix-ups",
+      "headline": "NICU babies are getting picture symbols as ID tags \u2014 and parents and nurses actually love it",
       "journal": "Journal of Perinatal Medicine",
       "pubdate": "2026 Sep 25",
       "doi": "10.1515/jpm-2026-0027",
-      "groundbreaking": "Relevant women's health finding",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "As part of a multicenter RCT on wrong-patient errors in NICUs, researchers first assessed the feasibility and acceptability of assigning unique pictograph icons (chosen by caregivers, displayed at bedside and in the EHR) to newborns at two study sites. The vast majority of caregivers selected a pictograph for their infant, and clinicians recognized these visual cues as useful safeguards, particularly for multiples. The study did not yet report error-rate outcomes, as full RCT effectiveness results are pending.",
-      "why_it_matters": "For parents of NICU infants \u2014 especially those of twins or triplets who face the highest risk of wrong-patient medication and milk errors \u2014 this suggests a simple, low-cost visual ID system is both acceptable and feasible, with effectiveness data still to come.",
-      "caveats": "observational design (feasibility phase only \u2014 RCT effectiveness results not yet reported), single-center (two sites), self-reported outcomes (acceptability surveys), short follow-up",
+      "summary": "Researchers at multiple US hospital NICUs tested a system called Pictographs \u2014 parent-chosen images uploaded to the electronic health record and posted at each baby's bedside \u2014 as a way to prevent wrong-patient medical errors for newborns. The feasibility and acceptability study found that the vast majority of caregivers selected a Pictograph for their infant, and clinicians recognized the visual cue as helpful, especially for twins and multiples. The system is being evaluated in a larger randomized controlled trial for effectiveness.",
+      "why_it_matters": "Wrong-patient errors in NICUs \u2014 including giving medications or breast milk to the wrong baby \u2014 are a recognized safety crisis, and this study suggests a simple, parent-empowering visual tool may help prevent them.",
+      "caveats": "small sample (N<100), single-center (feasibility phase, two sites), observational design, no effectiveness data yet",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Relevant to NICU/postpartum parents; feasibility only \u2014 no effectiveness data yet.",
+      "relevance_score_reason": "Strong postpartum/NICU relevance for new mothers; feasibility only, no outcome data yet.",
       "pitch_angles": [
         {
           "publication_type": "Good Housekeeping / First for Women",
-          "headline": "A Simple Picture Icon on Your Baby's NICU Isolette Could Prevent a Dangerous Medical Mix-Up",
-          "hook": "Hospitals are testing whether giving each NICU newborn a unique picture symbol \u2014 like a sun or a duck \u2014 can stop terrifying wrong-patient errors before they happen.",
-          "pitch_angle": "A multicenter study found that parents and NICU clinicians enthusiastically accepted a new system that assigns visual pictographs to newborns in intensive care, displayed both at the bedside and in the electronic health record \u2014 especially for twins and triplets who are most at risk for mix-ups. The full trial testing whether the system actually reduces errors is underway, but early adoption data suggest the approach is both practical and welcomed by families."
+          "headline": "NICUs Are Giving Preemies Picture Symbols to Stop a Frightening Medical Mix-Up",
+          "hook": "Hospitals are letting parents choose a small icon \u2014 a star, a flower, a rocket \u2014 to be posted at their NICU baby's bedside as a safeguard against wrong-patient errors.",
+          "pitch_angle": "A multicenter US study found that a parent-selected visual ID system for NICU newborns was widely embraced by families and clinicians alike, especially for twins and multiples who are most at risk of mix-ups. Larger trials are underway to see whether Pictographs can actually reduce dangerous errors like giving the wrong breast milk or medication to a baby."
         }
       ],
-      "run_date": "2026-09-26",
+      "run_date": "2026-09-27",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42790802",
+      "headline": "More muscle mass is linked to lower risk of herniated discs and spinal stenosis \u2014 but grip strength doesn't seem to matter",
+      "journal": "Bone",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1016/j.bone.2026.118113",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed UK Biobank data from up to 497,300 adults and used Mendelian randomization to assess whether sarcopenia-related traits \u2014 specifically muscle mass and grip strength \u2014 causally influence the risk of spinal degenerative diseases including lumbar disc herniation and spinal stenosis. Higher whole-body and appendicular lean mass was associated with and showed a protective causal effect against lumbar slipped discs and spinal stenosis, while grip strength showed no significant causal effect. Twelve genes were identified as potentially involved in spinal degeneration pathways.",
+      "why_it_matters": "Because women are at higher risk for sarcopenia after menopause and also experience more spinal degenerative disease, this finding suggests that preserving muscle mass \u2014 not just strength \u2014 may be especially important for women's spine health as they age.",
+      "caveats": "no sex-disaggregated data, observational design",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large cohort, counterintuitive grip-strength null finding; no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "It's Your Muscle Mass \u2014 Not Your Grip Strength \u2014 That Protects Your Spine as You Age",
+          "hook": "A study of nearly half a million people found that having more lean muscle mass was causally linked to lower risk of herniated discs and spinal stenosis \u2014 but grip strength made no difference.",
+          "pitch_angle": "The finding flips the conventional wisdom that functional strength is the key to a healthy back, and it carries particular weight for women, who lose muscle mass faster after menopause and face higher rates of spinal degeneration."
+        },
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "The Real Reason Women Over 50 Get More Back Problems \u2014 And What Actually Helps",
+          "hook": "New research suggests the secret to avoiding spinal disc problems isn't how hard you can squeeze \u2014 it's how much lean muscle you're carrying overall.",
+          "pitch_angle": "A large genetic analysis found that total muscle mass (not grip strength) protects against herniated discs and spinal stenosis, a finding that matters for women heading into menopause, when muscle loss accelerates and spinal problems become more common."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42788222",
+      "headline": "A digital support platform helped caregivers of people with first-episode psychosis feel less alone and more compassionate toward themselves",
+      "journal": "Journal of Mental Health",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1080/09638237.2026.2732880",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested Altitudes, a 6-month blended digital platform combining psychoeducation, therapy content, and social networking, among caregivers of individuals with first-episode psychosis. The pilot study enrolled caregivers (N not specified beyond retention data) assessed at baseline, 3 months, and 6 months. At follow-up, participants reported lower distress, greater self-compassion, more positive caregiving experiences, and reduced loneliness, though all effects had wide confidence intervals.",
+      "why_it_matters": "Women disproportionately shoulder informal caregiving roles, and this early evidence suggests a digital-only tool could reduce the mental health toll of supporting a loved one through psychosis.",
+      "caveats": "small sample (N<100), no control group, no sex-disaggregated data, short follow-up, self-reported outcomes, preprint/online ahead of print",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Caregiver mental health is women-adjacent but no female-specific data; weak design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Caring for a Loved One With Psychosis? A New Digital Platform May Help You Feel Less Alone",
+          "hook": "A blended online therapy platform helped caregivers of people with first-episode psychosis report lower distress and greater self-compassion after six months.",
+          "pitch_angle": "Women make up the majority of informal mental health caregivers, yet their own wellbeing is rarely centered. Early evidence suggests a digital peer-and-therapy hybrid could fill that gap without requiring in-person access."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786262",
+      "headline": "Psychiatric symptoms \u2014 including psychosis and depression \u2014 can be caused by the immune system attacking the brain, and most clinicians are still missing it",
+      "journal": "Molecular Psychiatry",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1038/s41380-026-03871-2",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "The GENERATE network \u2014 a large consortium of German psychiatry and neurology centers \u2014 developed clinical recommendations for detecting autoimmune encephalitis in patients presenting with psychiatric symptoms such as psychosis, mania, or catatonia. The expert consensus document addresses unresolved challenges in distinguishing autoimmune encephalitis from primary psychiatric disorders, including which patients to test and which antibodies to screen for. Key recommendations and ongoing controversies are outlined to help psychiatric clinicians identify a potentially treatable neurological cause of symptoms that are routinely misattributed to primary mental illness.",
+      "why_it_matters": "Autoimmune encephalitis disproportionately affects women \u2014 particularly anti-NMDAR encephalitis, the most common form \u2014 meaning women with treatment-resistant psychiatric symptoms may be the population most likely to benefit from broader clinical awareness of this diagnosis.",
+      "caveats": "expert consensus/clinical guideline (not primary research data), German network only, no primary patient sample, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Women disproportionately affected; fills real clinical gap; strong wellness/diagnostic hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Your 'Psychiatric' Symptoms Could Actually Be Your Immune System Attacking Your Brain \u2014 Here's What Doctors Now Say",
+          "hook": "A major network of European psychiatrists and neurologists has issued new guidance to help clinicians recognize when symptoms like psychosis or severe mood swings are caused by an autoimmune attack on the brain \u2014 not a primary mental illness.",
+          "pitch_angle": "Anti-NMDA receptor encephalitis, the most common form of autoimmune encephalitis, affects women at roughly four times the rate of men, yet it is routinely misdiagnosed as schizophrenia or bipolar disorder; these new recommendations could shorten the diagnostic odyssey for women who haven't responded to standard psychiatric treatment."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "When 'Mental Illness' Is Really an Immune Disorder: New Guidelines Aim to Close a Dangerous Diagnostic Gap",
+          "hook": "Doctors across Germany's largest psychiatric network have agreed on new steps to catch autoimmune encephalitis \u2014 a condition where the immune system attacks the brain \u2014 in patients who look like they have schizophrenia or severe depression.",
+          "pitch_angle": "Because women are the majority of autoimmune encephalitis cases, the new guidelines matter especially for women with treatment-resistant psychiatric symptoms who may never have been told that a blood or spinal fluid test could uncover a treatable physical cause."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42789056",
+      "headline": "A missing gene fragment may be why some sperm cause fertilization chaos \u2014 and a new IVF workaround led to a live birth",
+      "journal": "Asian Journal of Andrology",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.4103/aja202630",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers identified a rare homozygous chromosomal microdeletion in the ACTL9 gene in a single infertile man whose sperm caused abnormal fertilization (polyspermy) during conventional IVF and near-total failure with ICSI. Lab analysis found that the deletion disrupted acrosome structure and eliminated a key protein (PLCZ1) needed for normal egg activation. An artificial oocyte activation technique successfully rescued fertilization and resulted in a live birth.",
+      "why_it_matters": "For couples facing unexplained IVF failure, this finding suggests that rare genetic deletions in sperm \u2014 not egg quality \u2014 may be the culprit, and that targeted activation techniques could offer a path to pregnancy.",
+      "caveats": "small sample (N<100), single-center, single case report",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Fertility/IVF hook for women; single case limits generalizability significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "IVF Kept Failing \u2014 Then Doctors Found the Problem Was in the Sperm's DNA",
+          "hook": "A missing stretch of genetic code in one man's sperm was quietly sabotaging every fertilization attempt \u2014 until a specialized lab technique changed everything.",
+          "pitch_angle": "Researchers traced repeated IVF failure to a rare sperm gene deletion that scrambled the fertilization process, and a targeted egg-activation workaround resulted in a live birth. For couples told their IVF failures are unexplained, this case suggests sperm genetics deserve a closer look."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786378",
+      "headline": "Two shots instead of daily injections for egg freezing works almost as well \u2014 but not quite enough to call it equal",
+      "journal": "Human Reproduction",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1093/humrep/deag142",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a phase III randomized controlled trial at a fertility unit in Barcelona involving 194 women aged \u226440 undergoing elective egg freezing, comparing a novel two-injection ovarian stimulation protocol against a conventional daily-injection regimen. The two-shot group produced a mean of 6.14 mature oocytes vs. 7.19 in the conventional group \u2014 a difference that was not statistically significant, but the pre-specified non-inferiority margin of \u22121.5 oocytes was not met. The two-shot protocol did not demonstrate non-inferiority, meaning it cannot yet be considered a fully equivalent alternative, though stimulation duration and follicle counts were comparable between groups.",
+      "why_it_matters": "For women considering egg freezing, a two-injection protocol could meaningfully reduce the burden of daily hormone shots \u2014 but more evidence is needed before it can be recommended as equivalent to standard care.",
+      "caveats": "single-center, limited to elective fertility preservation population (results may not apply to IVF patients), non-inferiority not met",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "RCT design, fertility preservation topic, directly patient-relevant; non-inferiority failure is key nuance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Well+Good",
+          "headline": "Could Egg Freezing Soon Require Just Two Shots Instead of Weeks of Daily Injections?",
+          "hook": "A new clinical trial tested whether two strategically timed hormone injections could replace the grueling daily shot routine that puts many women off egg freezing \u2014 and the results are promising, with an important catch.",
+          "pitch_angle": "The randomized trial found that a two-injection protocol produced nearly as many mature eggs as conventional daily injections in women undergoing elective fertility preservation, but fell just short of proving the two approaches are fully equivalent. Researchers say the protocol shows enough promise to continue development \u2014 and for women who dread the needle burden of egg freezing, even a close result is worth watching."
+        },
+        {
+          "publication_type": "Shape / Allure",
+          "headline": "Egg Freezing's Biggest Barrier Might Be Getting Smaller \u2014 Scientists Are Testing a Two-Shot Protocol",
+          "hook": "Daily hormone injections are one of the most cited reasons women hesitate to freeze their eggs \u2014 a new RCT suggests two shots might get close to the same result.",
+          "pitch_angle": "A Barcelona-based trial randomized 194 women to either two total injections or the standard daily protocol and found comparable egg yields, though the two-shot method didn't fully clear the bar for equivalence. The science isn't there yet to swap protocols, but the study opens a real conversation about reducing the physical and logistical demands of fertility preservation."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42779420",
+      "headline": "A two-week blood sugar snapshot may work better than HbA1c for millions of women with diabetes-complicating conditions",
+      "journal": "Journal of Diabetes Investigation",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1111/jdi.70447",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This review revisits glycated albumin (GA), a blood marker that reflects average glucose levels over the past two weeks \u2014 filling a gap between daily glucose checks and the standard three-month HbA1c test. GA is particularly useful when HbA1c is unreliable, such as in people with iron deficiency, anemia, kidney disease, or hemoglobin variants \u2014 conditions that disproportionately affect women. New measurement approaches including finger-prick, home testing, and saliva or tear assays suggest GA could become a practical everyday monitoring tool for people with diabetes.",
+      "why_it_matters": "Women with diabetes are more likely to have iron deficiency or anemia that can skew HbA1c readings, making GA a potentially more accurate glucose-monitoring option for them.",
+      "caveats": "observational design, secondary analysis, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to women with diabetes but review only; no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Your Diabetes Blood Test Might Be Giving You the Wrong Picture \u2014 Here's the Fix",
+          "hook": "For millions of women whose standard blood sugar test is thrown off by iron deficiency or anemia, a lesser-known two-week glucose marker may be far more accurate.",
+          "pitch_angle": "Glycated albumin captures blood sugar trends over just two weeks and may be more reliable than HbA1c for women with iron deficiency or kidney disease \u2014 and it could soon be measurable at home with a finger prick or saliva test."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42782508",
+      "headline": "A little-known fat molecule may quietly trigger your body's own GLP-1 \u2014 no injection required",
+      "journal": "Diabetologia",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1007/s00125-026-06877-1",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used metabolomics on plasma from human meal tests to identify sphinganine \u2014 a sphingolipid fat molecule \u2014 as the strongest predictor of a high GLP-1 response, then tested it in cell lines, human intestinal organoids, rat intestinal models, and mice. In vitro, sphinganine doubled GLP-1 secretion via a G-protein-coupled receptor mechanism; in the rat intestinal perfusion model, the GLP-1-boosting effect was statistically significant only in male rats. In mice fed a high-fat diet, prolonged sphinganine feeding reduced weight gain without cutting food intake, though acute oral dosing did not raise GLP-1 levels.",
+      "why_it_matters": "The finding suggests a naturally occurring fat molecule could one day inform dietary or therapeutic strategies for boosting the body's own GLP-1, relevant to the millions of women managing obesity or metabolic conditions.",
+      "caveats": "animal or cell study, no sex-disaggregated data (rat intestinal effect significant in males only \u2014 female effect unclear), small human metabolomics sample (N not specified for meal-test cohort), early-stage mechanistic research, industry-adjacent funding (Novo Nordisk Foundation)",
+      "fact_check_note": "The abstract explicitly states the GLP-1 increase in the rat intestinal perfusion model was statistically significant only in male rats \u2014 a critical sex-disaggregation caveat that must be noted in any coverage.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Metabolic health hook for women, but mostly animal/cell data and sex-disaggregated gap.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Scientists Found a Fat Molecule That May Boost Your Body's Own GLP-1 \u2014 Here's What That Means",
+          "hook": "Your gut may already have a natural GLP-1 switch \u2014 and a little-known sphingolipid could be the key to flipping it.",
+          "pitch_angle": "New research identified sphinganine, a naturally occurring fat molecule, as a strong predictor of GLP-1 release after meals \u2014 and it doubled the hormone's secretion in lab models. It's early-stage science, but it opens a conversation about whether diet could one day be tailored to stimulate the body's own GLP-1 pathway, without a prescription."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42785553",
+      "headline": "More than half of children on long-term IV nutrition show hidden feeding problems",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1016/j.clnesp.2026.105137",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This cross-sectional study assessed feeding difficulties in 51 children (median age 31.8 months) with intestinal failure who had been receiving parenteral nutrition for more than two months, using three complementary assessment instruments. More than half of participants (52.9%) showed feeding abnormalities on at least one instrument, with the highest detection rate in children under 36 months. The findings suggest that using multiple tools simultaneously improves identification of feeding challenges that could delay the transition to normal eating.",
+      "why_it_matters": "For parents and caregivers of infants and toddlers with intestinal failure, this finding suggests that standard single-tool assessments may miss feeding difficulties that could be addressed with earlier, targeted intervention.",
+      "caveats": "small sample (N<100), observational design, single-center, cross-sectional",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric focus with limited direct women's health angle; small single-center sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Babies on IV Nutrition Are Quietly Struggling to Eat \u2014 and Doctors Are Missing It",
+          "hook": "More than half of young children receiving long-term IV nutrition have hidden feeding difficulties that standard assessments often fail to catch.",
+          "pitch_angle": "A new study found that using three assessment tools together uncovered feeding problems in over half of infants and toddlers with intestinal failure \u2014 problems that a single tool would have missed. Early identification matters because feeding difficulties can delay the critical transition away from IV nutrition."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42775908",
+      "headline": "A new PET scan tracer may detect rare adrenal cancer more accurately \u2014 and predict survival",
+      "journal": "Endocrine-Related Cancer",
+      "pubdate": "2026 Sep 23",
+      "doi": "10.1530/ERC-26-0314",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a bicentric study across Uppsala and Cambridge, 20 patients with adrenocortical carcinoma (ACC) \u2014 a rare and aggressive adrenal gland cancer \u2014 underwent PET/CT with both the new tracer 18F-CETO and standard 18F-FDG imaging, identifying 235 lesions total. Compared with 18F-FDG, 18F-CETO detected more lesions at initial staging in 5 of 13 patients, though it detected fewer at restaging; a further 70 patients helped define three imaging phenotypes linked to differences in overall survival. RNA sequencing confirmed that tracer uptake correlated with a key enzyme marker of adrenocortical differentiation.",
+      "why_it_matters": "Adrenocortical carcinoma disproportionately affects women, and a more practical adrenal-specific imaging tool could improve staging accuracy and survival prediction for this often-diagnosed-late cancer.",
+      "caveats": "small sample (N=20 for primary imaging comparison), observational design, bicentric (Sweden and UK), short follow-up not described, survival analyses described as exploratory",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Women-relevant rare cancer, but very small sample and highly specialized imaging topic.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Smarter Scan for a Rare Adrenal Cancer \u2014 And It May Predict Who Survives",
+          "hook": "A new PET imaging tracer spotted adrenal cancer lesions that the standard scan missed \u2014 and three distinct scan patterns correlated with different survival outcomes.",
+          "pitch_angle": "Adrenocortical carcinoma is rare but aggressive, and it strikes women more often than men; early accurate staging is critical. This first clinical study of the 18F-CETO tracer found it can catch lesions missed by the current standard and may help classify tumors by survival risk \u2014 a potential step toward more personalized treatment planning."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42775647",
+      "headline": "People who use drugs have been informally checking their supply for safety all along \u2014 and programs are finally catching up",
+      "journal": "Substance Use & Addiction Journal",
+      "pubdate": "2026 Sep 23",
+      "doi": "10.1177/29767342261484080",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Yale developed a conceptual framework describing how people who use drugs (PWUD) already evaluate their drug supply through sensory data \u2014 sight, taste, smell, touch, and embodied sensation \u2014 to make informal safety decisions. The study is not an empirical trial but a framework paper drawing on harm reduction program experience. Authors argue that community-based drug checking programs should formally incorporate PWUD's sensory expertise into intake processes rather than treating participants as passive recipients.",
+      "why_it_matters": "Women who use drugs face compounded stigma and safety risks in an increasingly unpredictable drug supply, and recognizing their existing harm-reduction knowledge may improve engagement with life-saving drug-checking services.",
+      "caveats": "observational design, no sex-disaggregated data, small sample (N<100), self-reported outcomes, conceptual framework (not empirical trial)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Harm reduction angle has some women's health relevance but no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Drug Users Have Been Quietly Safety-Testing Their Own Supplies for Years \u2014 Science Is Just Now Catching Up",
+          "hook": "Long before formal drug-checking programs existed, people who use drugs were already using their senses to spot dangerous substances \u2014 and a new Yale framework says that knowledge deserves a seat at the table.",
+          "pitch_angle": "Researchers argue that people who use drugs are expert harm-reducers whose sensory observations should be built into community drug-checking programs. For women navigating substance use, stigma, and an unpredictable drug supply, this reframe could open doors to services that actually meet them where they are."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42772501",
+      "headline": "Common 'forever chemicals' found in blood are linked to disrupted thyroid hormones \u2014 and nearly three-quarters of people exceeded the risk threshold",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Sep 23",
+      "doi": "10.1016/j.fct.2026.116401",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This cross-sectional study measured 22 PFAS (per- and polyfluoroalkyl substance) compounds in the blood of 165 adults in Shandong, China, then assessed associations with three thyroid hormones (FT3, FT4, and TSH). PFAS mixtures showed positive associations with free thyroid hormones and a negative association with TSH, with PFOS identified as the most influential compound; 73.3% of participants had PFOS levels exceeding the estimated risk threshold. Molecular modeling suggested PFOS may affect thyroid function through PI3K-Akt and MAPK signaling pathways.",
+      "why_it_matters": "Women are disproportionately affected by thyroid disorders, and this study adds to growing evidence that everyday PFAS exposure \u2014 from nonstick cookware, food packaging, and water \u2014 may be quietly disrupting thyroid hormone balance.",
+      "caveats": "small sample (N<100), observational design, single-center, cross-sectional, China-specific population, no sex-disaggregated data",
+      "fact_check_note": "N=165, which is above the N<100 threshold; small sample flag removed. However, the sample remains modest for a population exposure study.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Thyroid disruption highly relevant to women; limited by small regional sample and no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Forever Chemicals in Your Blood May Be Quietly Throwing Off Your Thyroid, New Study Suggests",
+          "hook": "Nearly three-quarters of study participants had PFAS levels high enough to potentially disrupt thyroid hormone balance \u2014 a finding with particular relevance for women.",
+          "pitch_angle": "A new study found that PFAS mixtures were associated with measurable changes in thyroid hormone levels, with the most common 'forever chemical' \u2014 PFOS \u2014 exceeding risk thresholds in almost three out of four participants. While the study was conducted in China and didn't break results down by sex, the finding matters for women, who are far more likely to develop thyroid conditions and may face compounded risk from ongoing PFAS exposure."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Nonstick Pan Might Be Messing With Your Thyroid \u2014 Here's What a New Study Found",
+          "hook": "A study found that a mix of 'forever chemicals' commonly found in household products was linked to disrupted thyroid hormone levels in most participants tested.",
+          "pitch_angle": "Researchers measured 22 different PFAS compounds in adults' blood and found widespread associations with thyroid hormone shifts \u2014 raising fresh concerns about cumulative exposure from everyday sources like cookware and food packaging. The thyroid connection is especially relevant for women, who face a much higher lifetime risk of thyroid dysfunction."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42771056",
+      "headline": "Nearly half of incarcerated women in Spain are on psychiatric medication \u2014 and solitary confinement doubles the odds",
+      "journal": "Archives of Women's Mental Health",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1007/s00737-026-01769-0",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 1,544 female prisoners across 39 prisons in Spain using a 60-question self-completed questionnaire to identify factors associated with psychiatric medication use. Results showed 44.1% of participants were taking psychotropic medication; key predictors included intellectual disability (8x more likely), self-injury (nearly 5x), being Spanish-national vs. foreign-born (5x), prior treatment for anxiety or depression (3x), and a history of solitary confinement (2.6x more likely). Researchers concluded that mental health care in women's prisons must move beyond pharmacological approaches toward gender-centered, recovery-oriented models.",
+      "why_it_matters": "The finding that solitary confinement more than doubles the odds of psychiatric medication use highlights a structural driver of mental health crisis in a population of women rarely included in health research.",
+      "caveats": "observational design, self-reported outcomes, single-country (Spain) \u2014 may not generalize to US/global prison populations",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large female-only sample; strong women's mental health angle; Spain-specific context limits US pitch generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut / General health",
+          "headline": "Almost Half of Women in Prison Are on Psychiatric Drugs \u2014 Researchers Say the System Is Making Them Sicker",
+          "hook": "A study of nearly 1,600 incarcerated women found that solitary confinement more than doubles the likelihood of being on psychiatric medication \u2014 raising hard questions about whether prisons are treating mental illness or creating it.",
+          "pitch_angle": "Spanish researchers surveyed female prisoners across 39 facilities and found that structural factors like isolation and intellectual disability were among the strongest predictors of psychiatric drug use; the authors argue that women's mental health in prison demands gender-specific, non-pharmacological interventions. The finding adds to a growing body of evidence that incarceration itself is a women's health issue."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42771819",
+      "headline": "Straightening your legs during delivery doesn't prevent tearing \u2014 a large RCT says the popular idea didn't hold up",
+      "journal": "Obstetrics and Gynecology",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1097/AOG.0000000000006438",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a randomized clinical trial of 1,206 nulliparous (first-time) people giving birth vaginally at term, researchers tested whether extending the hips at the moment of crowning \u2014 lowering the legs to reduce hip flexion \u2014 reduced perineal tearing compared to the standard flexed pushing position. In the primary intention-to-treat analysis, rates of significant lacerations (second-, third-, or fourth-degree) were virtually identical between groups (66.2% vs 66.6%). A secondary as-treated analysis showed a modest protective signal for fewer anal sphincter injuries, but this did not survive statistical adjustment.",
+      "why_it_matters": "Perineal tearing affects the majority of first-time vaginal births and can have lasting pelvic floor consequences, so this rigorously designed trial suggests that repositioning the legs at crowning \u2014 sometimes advocated as a simple fix \u2014 may not be the protective strategy it was hoped to be.",
+      "caveats": "nonblinded, 25% non-adherence in intervention group",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive RCT overturning a promising intervention; large N, direct reproductive health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Health.com",
+          "headline": "That Leg Position Trick for Preventing Birth Tearing? A Big New Study Says It Doesn't Work",
+          "hook": "Lowering your legs during crowning was gaining traction as a way to reduce perineal tears \u2014 but a randomized trial of more than 1,200 first-time birthers found no difference.",
+          "pitch_angle": "Researchers assigned first-time vaginal birthers to either extend their hips at crowning or deliver in the standard flexed position, and found no significant reduction in serious tearing with the extension technique. The findings suggest that positioning alone may not be the lever for preventing one of birth's most common and impactful injuries."
+        },
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Does How You Position Your Legs During Delivery Actually Prevent Tearing? Here's What a New Study Found",
+          "hook": "For years, some birth practitioners have suggested extending the legs at crowning to protect the perineum \u2014 a new trial of over 1,200 women tested that idea head-on.",
+          "pitch_angle": "A randomized trial found that hip extension at crowning did not significantly reduce perineal lacerations compared to the usual flexed position in first-time vaginal deliveries. Given that serious tearing occurred in about two-thirds of participants regardless of position, experts say attention may need to turn to other evidence-based protective strategies."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42770208",
+      "headline": "Self-diagnosing as autistic \u2014 without a doctor's sign-off \u2014 is helping many adults adapt at work and finally understand themselves",
+      "journal": "Journal of Mental Health",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1080/09638237.2026.2732894",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 130 self-diagnosed autistic adults in the UK who had not yet received a formal diagnosis, analyzing questionnaire responses and free-text comments using qualitative content analysis. Most participants were motivated by recognition from friends, family, or autistic public figures, and the majority wanted a formal diagnosis but faced long waitlists and healthcare barriers. Participants largely reported that self-diagnosis was positive, enabling workplace and educational accommodations and fostering self-compassion.",
+      "why_it_matters": "Women are significantly underdiagnosed with autism, and this study suggests self-diagnosis may serve as a meaningful \u2014 if imperfect \u2014 bridge that helps women access accommodations and self-understanding while they wait years for formal evaluation.",
+      "caveats": "small sample (N=130), self-reported outcomes, observational design, single-country (UK), no sex-disaggregated data reported, qualitative/non-representative sample",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's health angle (autism underdiagnosis in women); limited by no sex breakdown.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Thousands of Women Are Diagnosing Themselves With Autism \u2014 and Saying It Changed Their Lives",
+          "hook": "A new study finds that self-diagnosing as autistic helped adults access workplace accommodations and develop self-compassion, even without a doctor's confirmation.",
+          "pitch_angle": "Women are historically underdiagnosed with autism and face some of the longest waits for formal evaluation; this research suggests that the growing trend of self-identification isn't just social media noise \u2014 it may be filling a real gap left by a healthcare system that wasn't built to recognize autism in women."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Self-Diagnosing With Autism? A New Study Says It Might Actually Help You Thrive",
+          "hook": "Most self-diagnosed autistic adults in a new study said the label helped them make sense of their experiences and advocate for accommodations at work \u2014 even before seeing a doctor.",
+          "pitch_angle": "With formal autism diagnoses taking years and women frequently falling through the cracks, self-diagnosis is emerging as a mental-wellness tool that's helping people reframe struggles as neurological differences rather than personal failures."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42771106",
+      "headline": "Autism masking may be causing women and others to be misdiagnosed with schizophrenia for years",
+      "journal": "Neuropsychiatrie",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1007/s40211-026-00595-1",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Austrian psychiatrists present a single case report of a patient whose core autistic features were misclassified as treatment-resistant negative symptoms of schizophrenia for years before an autism spectrum disorder (ASD) diagnosis was confirmed via gold-standard assessment during inpatient care. The case illustrates how camouflaging and masking behaviors \u2014 more common in women and girls \u2014 can obscure ASD in clinical high-risk psychosis settings. Authors call for ASD to be considered a primary differential diagnosis when psychotic or psychotic-like experiences are present.",
+      "why_it_matters": "Women and girls are disproportionately likely to camouflage autistic traits, raising the stakes of ASD being missed and misdiagnosed as schizophrenia, leading to years of inappropriate treatment.",
+      "caveats": "small sample (N<100), single-center, observational design, case report (N=1), no sex-disaggregated data, article in German",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant masking angle for women, but N=1 case report severely limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Women Are Being Misdiagnosed With Schizophrenia When They Actually Have Autism",
+          "hook": "A new case report highlights how the tendency of autistic women to mask their symptoms can fool even experienced clinicians into a wrong diagnosis for years.",
+          "pitch_angle": "Because autistic women are socialized to camouflage their traits, clinicians may interpret those hidden behaviors as treatment-resistant schizophrenia \u2014 and this Austrian case study shows just how long that misdiagnosis can persist. The finding underscores a systemic blind spot in psychiatry that disproportionately affects women."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42800290",
+      "headline": "An immune molecule may be the missing link between a stress hormone and psychosis symptoms \u2014 even before antipsychotics are prescribed",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1016/j.schres.2026.09.031",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers measured prolactin and inflammatory cytokines in 50 first-episode, drug-naive schizophrenia patients and 52 healthy controls at a single center in Guangzhou, China. Within the patient group, lower IL-17 levels were nominally associated with higher prolactin and more severe positive symptoms, and mediation analysis suggested IL-17 may partly link prolactin to symptom severity. The between-group IL-17 difference disappeared after covariate adjustment, and all findings are exploratory.",
+      "why_it_matters": "Because prolactin levels naturally fluctuate across the menstrual cycle and are elevated in conditions like PCOS, this preliminary finding raises questions about whether hormonal-immune interactions may influence psychosis vulnerability differently in women.",
+      "caveats": "small sample (N<100), observational design, cross-sectional, single-center, exploratory/no correction for multiple comparisons, no sex-disaggregated data, single non-US region (Guangzhou, China)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Intriguing prolactin-immune angle for women, but tiny exploratory sample, no sex breakdown.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Could a Stress Hormone and an Immune Molecule Combine to Drive Psychosis? New Research Offers a Clue",
+          "hook": "A small exploratory study found that an immune signaling molecule called IL-17 may mediate the link between elevated prolactin and the severity of psychotic symptoms.",
+          "pitch_angle": "The finding is preliminary, but it points to a hormonal-immune pathway in schizophrenia that could have particular relevance for women, whose prolactin levels shift across reproductive stages and hormonal conditions like PCOS."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42768788",
+      "headline": "In fibromyalgia, how severe your symptoms are has almost nothing to do with how many medications you're taking",
+      "journal": "CNS Spectrums",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1017/S1092852926101199",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed a multisite cohort of 695 adults with fibromyalgia, stratifying them into high-impact (n=175) and low-impact (n=520) neurobehavioral phenotypes based on disability level. Medication burden \u2014 including centrally acting drugs \u2014 explained less than 5% of within-phenotype symptom variability after controlling for demographics. The study found that symptom phenotypes remained stable regardless of pharmacologic exposure, suggesting medications reflect response to severity rather than driving or organizing symptom patterns.",
+      "why_it_matters": "Fibromyalgia predominantly affects women, and this finding suggests that adding more medications may not be the lever for reducing symptom burden \u2014 pointing toward the value of non-pharmacologic, multidimensional approaches.",
+      "caveats": "observational design, no sex-disaggregated data, single-center",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive finding in a majority-female condition; large cohort, clean design, clear lifestyle hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Taking More Fibromyalgia Medications Doesn't Mean Fewer Symptoms \u2014 A Large Study Explains Why",
+          "hook": "A study of nearly 700 fibromyalgia patients found that medication load explained less than 5% of how bad symptoms actually were \u2014 suggesting the drugs are following the disease, not driving it.",
+          "pitch_angle": "Researchers found that fibromyalgia symptom severity remained remarkably stable no matter how many medications patients were taking, which challenges the assumption that escalating drug treatment translates to better control. For the millions of women living with fibromyalgia, this early evidence suggests focusing on multidimensional care strategies \u2014 not just pill counts \u2014 may matter more."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "More Fibromyalgia Meds Doesn't Equal Less Pain \u2014 So What Actually Helps?",
+          "hook": "A 695-person study found that the number of medications someone with fibromyalgia takes explains almost none of the variation in how much they're suffering.",
+          "pitch_angle": "The research found that fibromyalgia's distinct symptom profiles \u2014 ranging from manageable to severely disabling \u2014 stayed stable regardless of pharmacologic exposure, suggesting these patterns are driven by the nervous system itself, not by drug treatment. For women seeking relief, this finding opens the door to conversations about non-medication approaches targeting central sensitization."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42797090",
+      "headline": "Going gluten-free may unmask a hidden parathyroid condition that keeps harming bones",
+      "journal": "Nutrients",
+      "pubdate": "2026 Sep 21",
+      "doi": "10.3390/nu18183107",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This literature review synthesized observational studies, case series, and case reports examining the co-occurrence of celiac disease (CD) and primary hyperparathyroidism (PHPT). Researchers found that vitamin D deficiency driven by celiac malabsorption may reduce suppression of parathyroid cell proliferation, potentially allowing PHPT to develop or go undetected. A key finding is that adopting a gluten-free diet \u2014 the standard celiac treatment \u2014 may unmask underlying PHPT by correcting secondary hyperparathyroidism, revealing persistent elevated PTH that requires separate evaluation.",
+      "why_it_matters": "Women are disproportionately affected by both celiac disease and primary hyperparathyroidism, and this finding suggests that bone loss may continue even after a successful gluten-free diet if an underlying parathyroid condition goes undetected.",
+      "caveats": "observational design, secondary analysis, small sample (N<100)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant women's health finding on bone health; limited by review design and no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Going Gluten-Free Isn't Enough: Why Your Bones May Still Be at Risk After a Celiac Diagnosis",
+          "hook": "Treating celiac disease with a gluten-free diet can actually reveal a second hidden condition that silently continues weakening bones.",
+          "pitch_angle": "Researchers found that a gluten-free diet may unmask primary hyperparathyroidism in some celiac patients \u2014 meaning bone loss can persist even after dietary treatment. Since women bear a higher burden of both conditions, experts suggest monitoring PTH and calcium even after going gluten-free."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42764813",
+      "headline": "Eating disorders don't fit neatly into diagnostic boxes \u2014 a new data analysis reveals four distinct patient profiles that cross diagnostic lines",
+      "journal": "European Eating Disorders Review",
+      "pubdate": "2026 Sep 21",
+      "doi": "10.1002/erv.70171",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used computational clustering analysis on 809 female patients with anorexia nervosa or bulimia nervosa treated at a specialist eating disorders unit to identify data-driven phenotypes beyond standard DSM-5 categories. Four distinct clusters emerged: two roughly aligned with restricting-type anorexia and bulimia nervosa, while two diagnostically mixed clusters were characterized by either high psychopathological severity with trauma history, or older age with longer illness duration and more severe malnutrition. Cluster membership was weakly associated with remission at discharge, with the bulimia-like cluster showing the highest rates of full remission.",
+      "why_it_matters": "For the millions of women living with eating disorders, this suggests that a single DSM-5 diagnosis may not capture the complexity of their condition \u2014 and that trauma history or illness duration could matter as much as diagnostic category in determining treatment response.",
+      "caveats": "single-center, observational design, short follow-up (discharge only), secondary analysis, Italian specialist unit (may not generalize broadly)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "All-female sample N=809; counterintuitive cross-diagnostic clustering; strong women's mental health angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Eating Disorder Diagnosis Might Not Tell the Whole Story \u2014 Here's What Researchers Found Instead",
+          "hook": "A study of 809 women found that standard eating disorder diagnoses missed two entire subgroups defined by trauma history and illness duration.",
+          "pitch_angle": "Computational analysis revealed that many women with eating disorders don't fit neatly into anorexia or bulimia categories \u2014 and that trauma exposure may be just as defining as eating behaviors, pointing toward the need for more personalized, trauma-informed care."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The DSM Says You Have Anorexia or Bulimia. Your Brain Might Have a Different Category Entirely.",
+          "hook": "Scientists found that nearly half of eating disorder patients cluster into profiles that cross diagnostic lines \u2014 blurring the categories psychiatry has relied on for decades.",
+          "pitch_angle": "By letting the data define the groups rather than the DSM, researchers identified two clinically meaningful patient profiles \u2014 one defined by trauma, one by chronicity \u2014 that existing diagnostic labels completely overlook, raising questions about whether the mental health system is treating the right thing."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Some Women with Eating Disorders Recover Faster \u2014 Scientists May Have Found a Key Pattern",
+          "hook": "A new analysis found that women with bulimia-like profiles were most likely to achieve full remission after treatment \u2014 but two overlooked subgroups may need a very different approach.",
+          "pitch_angle": "Researchers identified four distinct eating disorder profiles in 809 women, finding that trauma history and illness duration \u2014 not just diagnosis \u2014 predicted treatment outcomes, suggesting that personalized care plans could improve recovery rates."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42797079",
+      "headline": "Night-owl teens eat worse \u2014 but extreme early birds don't eat well either, study finds",
+      "journal": "Nutrients",
+      "pubdate": "2026 Sep 21",
+      "doi": "10.3390/nu18183097",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This cross-sectional study of 982 adolescents recruited through stratified random sampling in Xiamen, China assessed the relationship between self-reported chronotype (morning vs. evening preference) and diet quality using validated questionnaires. Diet quality improved as adolescents shifted from an evening toward a morning chronotype, but deteriorated again at extreme morningness \u2014 suggesting a sweet spot rather than a simple earlier-is-better pattern. The association appeared driven more by increased consumption of health-promoting foods than by reduced intake of unhealthy foods.",
+      "why_it_matters": "For parents and teens, this suggests that sleep-timing interventions aimed at improving adolescent health should be paired with nutrition guidance, since neither extreme chronotype appears to support the best dietary habits.",
+      "caveats": "observational design, self-reported outcomes, cross-sectional, single-center, China-specific population, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive finding on sleep timing and diet; no sex-disaggregated data, regional sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Being a Morning Person Helps Teens Eat Healthier \u2014 Until It Doesn't",
+          "hook": "A new study found that diet quality in teenagers peaks at moderate morningness \u2014 and actually declines again for the most extreme early birds.",
+          "pitch_angle": "Researchers found an inverted-U relationship between chronotype and diet quality in nearly 1,000 adolescents, upending the simple assumption that earlier sleep timing is always better for health behaviors. The finding suggests teens and their parents should focus on consistent, moderate sleep schedules alongside nutritional habits rather than pushing extreme morning routines."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42764407",
+      "headline": "A new once-weekly GLP-1/GIP dual drug caused nearly 10% body weight loss in early human trial",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Sep 20",
+      "doi": "10.1111/dom.71218",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted preclinical studies and a Phase 1 first-in-human trial of ribupatide (HRS9531), a new dual GLP-1/GIP receptor agonist administered subcutaneously once weekly, in 90 healthy Chinese adults. After four weekly doses, participants in the highest dose groups lost an average of 4.3\u20137.7 kg (6.7\u20139.6% of body weight) compared with 1.2 kg in the placebo group, with all adverse events mild-to-moderate and no serious events or deaths. The drug also reduced fasting plasma glucose in a dose-dependent manner.",
+      "why_it_matters": "As the GLP-1 drug class rapidly expands, this early human data on a new dual-action candidate suggests the pipeline of once-weekly weight-loss medications may continue to grow \u2014 with potential relevance for women seeking alternatives to existing options.",
+      "caveats": "small sample (N=90), single-center, short follow-up (4 weeks multiple-dose phase), no sex-disaggregated data, study population limited to healthy Chinese adults (may not generalize), Phase 1 safety trial only \u2014 efficacy not primary endpoint, industry funding (Jiangsu Hengrui Pharmaceuticals)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant metabolic/weight topic but no female-specific data, industry-funded Phase 1 only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Another Once-Weekly Weight-Loss Shot Is in the Pipeline \u2014 And Early Results Look Promising",
+          "hook": "A new dual GLP-1/GIP drug caused up to nearly 10% body weight loss in just four weeks in a first human trial.",
+          "pitch_angle": "Ribupatide joins a growing class of injectable weight-loss medications targeting both GLP-1 and GIP receptors \u2014 the same dual mechanism as tirzepatide \u2014 with a first-in-human trial showing meaningful weight loss and a clean safety profile. It's still Phase 1 and was tested only in healthy adults in China, so real-world use is years away, but it signals the next wave of options in this fast-moving space."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42797065",
+      "headline": "Age was hiding the real link between health literacy and eating well \u2014 until researchers looked closer",
+      "journal": "Nutrients",
+      "pubdate": "2026 Sep 20",
+      "doi": "10.3390/nu18183082",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This cross-sectional study analyzed 5,353 Korean adults aged 19 and older from a nationally representative 2024 health survey, examining whether health literacy was associated with diet quality as measured by the Korean Healthy Eating Index. Before adjusting for age, lower health literacy appeared linked to better diet quality \u2014 but once age was controlled, the relationship flipped, with lower health literacy associated with meaningfully poorer eating patterns. The association was stronger in men than in women, suggesting health literacy interventions may have different dietary implications by sex.",
+      "why_it_matters": "For women specifically, the study found the health literacy\u2013diet quality link was less pronounced than in men, raising questions about what other factors \u2014 such as caregiving roles or food purchasing behavior \u2014 may drive women's dietary choices beyond health knowledge alone.",
+      "caveats": "observational design, self-reported outcomes, single-center, cross-sectional, single 24-hour dietary recall, Korean population only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large nationally representative sample but Korean-specific context; association weaker in women.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Knowing More About Health Doesn't Automatically Make You Eat Better \u2014 Here's What the Data Actually Shows",
+          "hook": "A counterintuitive new study found that the obvious link between health literacy and diet quality was completely hidden \u2014 and reversed \u2014 until researchers accounted for age.",
+          "pitch_angle": "After controlling for age in more than 5,000 adults, researchers found that lower health literacy was associated with poorer diet quality \u2014 but the association was stronger in men than women, suggesting women's eating habits are shaped by more than just knowledge. The finding points to the need for dietary interventions that go beyond information-sharing."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42763908",
+      "headline": "A popular male fertility supplement changed sperm DNA chemistry \u2014 but didn't actually improve sperm quality",
+      "journal": "Systems Biology in Reproductive Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/19396368.2026.2722986",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a prospective multi-institutional within-subject study, 31 men (healthy young, young infertile, and older infertile) took the supplement AlphaSperm\u00ae daily for 9 months while researchers tracked standard semen parameters, sperm DNA fragmentation, and sperm DNA methylation patterns. The supplement produced no significant improvements in conventional semen quality measures or DNA fragmentation. However, it did induce measurable epigenetic changes \u2014 regional DNA hypermethylation \u2014 in all groups, most pronounced in older infertile men, including at genes linked to male infertility.",
+      "why_it_matters": "For women partnered with men taking fertility supplements, this early evidence suggests the supplements may be altering sperm biology in ways not captured by a standard semen analysis \u2014 with unknown implications for embryo health.",
+      "caveats": "small sample (N<100), no placebo control, observational design, short follow-up, industry funding [AlphaSperm\u00ae \u2014 not explicitly stated but product studied; authors include clinic-affiliated researchers], self-reported outcomes",
+      "fact_check_note": "The abstract does not explicitly identify industry funding; the product AlphaSperm\u00ae is named and one author (Turek) is affiliated with a private fertility clinic. Flag as potential conflict rather than confirmed industry funding.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive fertility supplement finding; very small sample and no placebo control.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Male Fertility Supplements Are Changing Sperm DNA \u2014 But Not in the Way You'd Expect",
+          "hook": "Men taking a popular fertility supplement for 9 months showed measurable changes in their sperm's epigenetics \u2014 yet their sperm counts and quality scores didn't budge.",
+          "pitch_angle": "A small study found that a multi-ingredient male fertility supplement altered chemical tags on sperm DNA, a form of epigenetic change whose fertility implications are still unknown, without improving any standard semen metrics. For couples trying to conceive, it raises questions about what 'better sperm' really means \u2014 and whether supplement labels are telling the full story."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786437",
+      "headline": "A $1.50 device could finally solve one of childbirth's deadliest diagnostic problems in low-resource settings",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2734654",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed and bench-tested Quantavag, a low-cost uterine blood-loss measurement device intended for low-resource settings, conducting 45 interviews with healthcare professionals and patients in Ghana and the US to define design requirements. Verification testing using 3D-printed prototypes and anatomical models found the device collected fluid with greater than 80% accuracy across volumes of 100\u2013500 mL. Estimated per-use cost is $1.50, and early results suggest the device could support faster, more accurate postpartum hemorrhage diagnosis in settings like Ghana, where PPH accounts for roughly 27% of maternal deaths.",
+      "why_it_matters": "Postpartum hemorrhage is the leading cause of maternal death globally, and an affordable, accurate diagnostic tool could meaningfully reduce preventable deaths in underserved settings.",
+      "caveats": "small sample (N<100), single-center, short follow-up, no clinical validation yet \u2014 benchtop only, tested with water not blood",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong maternal health hook; major caveat is pre-clinical, benchtop-only stage.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Women's Health Magazine",
+          "headline": "A $1.50 Device Could Save Mothers' Lives \u2014 If It Makes It Out of the Lab",
+          "hook": "Postpartum hemorrhage kills hundreds of thousands of women a year, often because blood loss isn't measured accurately \u2014 a new low-cost tool is designed to change that.",
+          "pitch_angle": "Researchers at the University of Michigan designed a device that costs about $1.50 per use and can quantify uterine blood loss with over 80% accuracy in early testing. While clinical trials are still ahead, the tool is aimed squarely at closing one of global maternal health's most deadly diagnostic gaps."
+        }
+      ],
+      "run_date": "2026-09-27",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -97,33 +799,6 @@
       "status": "new"
     },
     {
-      "pmid": "42790802",
-      "headline": "Higher muscle mass \u2014 not grip strength \u2014 appears to protect against spinal disc and stenosis problems, large study finds",
-      "journal": "Bone",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1016/j.bone.2026.118113",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used UK Biobank data from approximately 490,000\u2013497,000 adults to examine associations between two markers of muscle health \u2014 appendicular lean mass (ALM) and grip strength \u2014 and four types of spinal degenerative disease (SDD), including lumbar disc herniation and spinal stenosis. Mendelian randomization analyses found that greater whole-body and appendicular lean mass had protective causal effects against lumbar slipped discs and spinal stenosis, while grip strength showed no significant causal relationship with any SDD outcome. Additional gene-expression analyses identified 12 genes potentially involved in SDD risk.",
-      "why_it_matters": "Because women are at higher risk of both sarcopenia and spinal conditions as they age, findings suggesting that building muscle mass \u2014 rather than grip strength alone \u2014 may protect the spine offer a concrete wellness target.",
-      "caveats": "observational design, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large cohort, counterintuitive grip-strength null finding, relevant aging/women's health angle; no sex-disaggregated analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Shape",
-          "headline": "Your Grip Strength Doesn't Predict Back Problems \u2014 But This Muscle Metric Does",
-          "hook": "A study of nearly half a million people found that overall muscle mass \u2014 not how hard you can squeeze \u2014 was what protected against spinal disc herniation and stenosis.",
-          "pitch_angle": "Using genetic analysis alongside observational data from the UK Biobank, researchers found that lean muscle mass throughout the body had a causally protective effect on two major spinal conditions, while grip strength came up empty \u2014 suggesting that full-body resistance training, not hand-strength exercises, may be the real spine protector as women age."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42788193",
       "headline": "Cancer survivors who get more calcium may have lower odds of depression, a large US survey suggests",
       "journal": "The British Journal of Nutrition",
@@ -153,147 +828,6 @@
       ],
       "run_date": "2026-09-26",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42788222",
-      "headline": "A digital therapy platform may ease the mental health toll on caregivers of young people with psychosis",
-      "journal": "Journal of Mental Health",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1080/09638237.2026.2732880",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers evaluated a 6-month digital intervention called Altitudes \u2014 combining psychoeducation, therapy content, and social networking \u2014 among caregivers of people experiencing first-episode psychosis (FEP). Participants completed assessments at baseline, 3 months, and 6 months; the sample size and sex breakdown were not reported in the abstract. At follow-up, caregivers reported lower distress, greater self-compassion, reduced loneliness, and more positive caregiving experiences, though all effects had wide confidence intervals.",
-      "why_it_matters": "Women disproportionately bear family caregiving responsibilities, and accessible digital tools that address their own mental health needs \u2014 not just their loved one's illness \u2014 could fill a significant gap.",
-      "caveats": "small sample (N not reported in abstract), no sex-disaggregated data, short follow-up, no control group, wide confidence intervals",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Caregiver mental health is women-relevant but no female-specific data reported.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "This App Was Designed for People Caring for Someone with Psychosis \u2014 and It Might Actually Help",
-          "hook": "A new digital platform that blends therapy content with peer support found early signs it could reduce loneliness and distress in one of caregiving's most grueling roles.",
-          "pitch_angle": "Caregivers of people with first-episode psychosis rarely get mental health support themselves \u2014 Altitudes, a blended digital intervention, showed early promise in reducing distress and loneliness in a 6-month feasibility trial. For the many women who take on family caregiving roles, tools that center the caregiver's own wellbeing represent a meaningful shift in how we think about mental health support."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786262",
-      "headline": "Some psychiatric patients may actually have a treatable brain immune condition \u2014 and psychiatrists are missing it",
-      "journal": "Molecular Psychiatry",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1038/s41380-026-03871-2",
-      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A large network of German psychiatry and neurology centers (GENERATE) published clinical recommendations for diagnosing autoimmune encephalitis (AE) \u2014 a brain inflammation disorder caused by immune system antibodies \u2014 in patients presenting primarily with psychiatric symptoms. The report, a consensus from multiple academic medical centers across Germany, outlines diagnostic challenges and unresolved questions when AE mimics schizophrenia, bipolar disorder, or other psychiatric conditions. The key finding is that AE is likely underdiagnosed in psychiatric settings, and clearer protocols are urgently needed to identify patients who might benefit from immunotherapy rather than standard psychiatric treatment.",
-      "why_it_matters": "Autoimmune encephalitis disproportionately affects women and young adults, and misdiagnosis as a primary psychiatric disorder can delay life-changing immunotherapy treatment.",
-      "caveats": "single-center (Germany-based network, non-US), consensus/expert opinion rather than primary data, no sex-disaggregated data reported",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Women disproportionately affected; misdiagnosis angle strong but expert consensus, not primary data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "She Was Diagnosed with a Psychiatric Disorder. The Real Culprit Was Her Immune System.",
-          "hook": "A brain immune condition that mimics schizophrenia and bipolar disorder is being missed in psychiatric settings \u2014 and it disproportionately strikes women.",
-          "pitch_angle": "Autoimmune encephalitis can look exactly like a mental health crisis, but it's caused by immune system antibodies attacking the brain \u2014 and it responds to immunotherapy, not antipsychotics. A new expert consensus from a large European psychiatry network says the condition is almost certainly being underdiagnosed, and clearer screening protocols are urgently needed."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Women Are Being Diagnosed with Psychiatric Disorders When the Real Problem Is Their Immune System",
-          "hook": "A treatable brain condition that mimics serious mental illness is going undetected \u2014 and women are most at risk of being misdiagnosed.",
-          "pitch_angle": "Autoimmune encephalitis \u2014 in which the immune system attacks the brain, triggering psychosis, personality changes, and cognitive symptoms \u2014 is frequently mistaken for schizophrenia or bipolar disorder, especially in women. A new European clinical consensus argues psychiatrists need better tools to catch it before patients spend years on the wrong treatment."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42789056",
-      "headline": "A rare gene deletion in one man's sperm caused fertilization chaos in the IVF lab \u2014 and a fix was found",
-      "journal": "Asian Journal of Andrology",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.4103/aja202630",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers identified a novel homozygous chromosomal microdeletion in the ACTL9 gene in a single infertile man whose sperm caused polyspermy (multiple sperm fertilizing one egg) in conventional IVF and near-total fertilization failure in ICSI. Microscopy and immunofluorescence revealed structurally abnormal acrosomes and absence of the PLCZ1 protein, which normally triggers the egg's block against multiple sperm. Artificial oocyte activation paired with ICSI successfully bypassed the defect and resulted in a live birth.",
-      "why_it_matters": "For couples experiencing repeated IVF failure with no clear explanation, this case suggests that rare sperm gene mutations affecting the egg-activation signal \u2014 not just egg quality \u2014 may be a diagnosable and treatable cause.",
-      "caveats": "small sample (N<100), single-center, single case report, animal or cell study (electron microscopy/immunofluorescence on sperm \u2014 human case but n=1 patient)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant to IVF/fertility audience but single case; limited generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "When IVF Keeps Failing, the Problem May Be in the Sperm's DNA \u2014 Not the Eggs",
-          "hook": "A single gene deletion in one man's sperm was causing fertilization to fail repeatedly in the IVF lab \u2014 and scientists found a way to fix it.",
-          "pitch_angle": "A new case report identified a rare mutation in the ACTL9 gene that prevented sperm from properly triggering fertilization, leading to polyspermy and ICSI failure \u2014 both of which were resolved with artificial oocyte activation, resulting in a live birth. For women who have experienced unexplained repeated IVF failure, this is an early signal that some cases trace back to a specific, diagnosable sperm defect."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42779420",
-      "headline": "A two-week glucose snapshot may work better than the standard three-month HbA1c test for many women with diabetes",
-      "journal": "Journal of Diabetes Investigation",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1111/jdi.70447",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review revisits glycated albumin (GA), a biomarker that reflects average blood glucose over approximately two weeks, as a complement or alternative to HbA1c for diabetes monitoring. The authors summarize evidence that GA is more reliable than HbA1c in people whose red blood cell lifespan is altered \u2014 including those with iron deficiency, a condition disproportionately affecting women \u2014 and that it better captures short-term glucose swings after meals. New measurement approaches including finger-prick home testing and noninvasive saliva and tear assays are also reviewed.",
-      "why_it_matters": "Women with iron deficiency anemia \u2014 a common condition \u2014 may be getting misleading HbA1c readings, and a two-week glucose marker could offer a more accurate picture of their diabetes control.",
-      "caveats": "secondary analysis, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant diabetes monitoring angle; review only, no primary data, no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "Your Standard Diabetes Test May Be Giving You the Wrong Number \u2014 Especially If You're Low in Iron",
-          "hook": "A two-week blood sugar snapshot called glycated albumin may be more accurate than the classic three-month HbA1c test for women with iron deficiency.",
-          "pitch_angle": "Researchers reviewed evidence that the widely used HbA1c test can mislead when iron stores are low \u2014 a gap that falls harder on women. A lesser-known marker measured over just two weeks, now available via finger-prick or even saliva, may fill that blind spot."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42782508",
-      "headline": "A lipid compound found naturally in food may trigger the same gut hormone that GLP-1 drugs mimic",
-      "journal": "Diabetologia",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1007/s00125-026-06877-1",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used metabolomics on plasma samples from meal tests in adults and identified sphinganine \u2014 a naturally occurring sphingolipid \u2014 as the strongest predictor of a high GLP-1 response, then tested it across cell lines, human intestinal organoids, and animal models. In vitro, sphinganine doubled GLP-1 secretion via a receptor-mediated mechanism; in a rat gut perfusion model, the GLP-1-boosting effect was statistically significant only in male rats. In mice, prolonged oral sphinganine feeding reduced high-fat-diet-induced weight gain without changing food intake, though it did not significantly raise GLP-1 in live animals.",
-      "why_it_matters": "As interest in natural ways to support the GLP-1 pathway grows among women seeking alternatives to injectable medications, this early evidence suggests a dietary lipid compound may influence the same hormone pathway \u2014 though human trials are needed.",
-      "caveats": "no sex-disaggregated data, animal or cell study, short follow-up, industry funding [Novo Nordisk Foundation \u2014 advisory roles disclosed for two authors]",
-      "fact_check_note": "The rat intestinal perfusion GLP-1 effect was statistically significant only in male rats \u2014 a meaningful sex limitation that must be noted. In vivo mouse data did not show acute GLP-1 elevation. Both caveats verified against abstract.",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive GLP-1 mechanism with wellness hook, but mostly animal/cell data and sex-disaggregated gap.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Scientists Found a Natural Compound That May Trigger Your Body's Own GLP-1 \u2014 No Injection Required",
-          "hook": "A lipid found naturally in food called sphinganine doubled GLP-1 secretion in lab models and reduced weight gain in mice \u2014 pointing to a potential dietary route to the hormone everyone's talking about.",
-          "pitch_angle": "New early-stage research suggests sphinganine, a sphingolipid compound, may activate the same GLP-1 gut hormone pathway targeted by Ozempic and Wegovy. The findings are preliminary and largely from animal and cell models \u2014 but they raise intriguing questions about whether food-based strategies could one day support the GLP-1 system naturally."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
@@ -328,33 +862,6 @@
       "run_date": "2026-09-26",
       "category": "Nutritional Sciences",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42785553",
-      "headline": "More than half of children on long-term IV nutrition show feeding difficulties \u2014 and standard tools miss many of them",
-      "journal": "Clinical Nutrition ESPEN",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1016/j.clnesp.2026.105137",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Brazil conducted a cross-sectional study of 51 children aged 6 months to 18 years with intestinal failure who had been receiving parenteral nutrition for more than two months. Using three standardized assessment tools, they found that over half (52.9%) showed feeding abnormalities, yet no single instrument captured all cases \u2014 and the oral motor assessment identified significantly more abnormalities in children under 36 months. The findings suggest that using multiple tools together improves detection of feeding difficulties that could otherwise delay the transition from IV to oral nutrition.",
-      "why_it_matters": "For parents and caregivers of children with intestinal failure, this early evidence suggests that feeding struggles are far more common than clinicians may recognize \u2014 and that relying on a single assessment tool could leave many children without targeted support.",
-      "caveats": "small sample (N<100), observational design, single-center, cross-sectional",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Pediatric nutrition topic; low direct relevance to women's health audiences.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Half of Kids on IV Nutrition Have Hidden Feeding Problems \u2014 and Doctors Often Miss Them",
-          "hook": "A new study found that more than half of children receiving long-term IV nutrition had feeding difficulties that could delay their recovery \u2014 yet most were going undetected.",
-          "pitch_angle": "Brazilian researchers found that over 52% of children with intestinal failure on parenteral nutrition had measurable feeding abnormalities, but no single clinical tool caught them all. The study suggests a multi-tool screening approach could help caregivers and clinicians identify and address these issues earlier, speeding up the path to normal eating."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -424,33 +931,6 @@
       "status": "new"
     },
     {
-      "pmid": "42775908",
-      "headline": "A new PET scan tracer may finally give doctors a sharper picture of a deadly adrenal cancer",
-      "journal": "Endocrine-Related Cancer",
-      "pubdate": "2026 Sep 23",
-      "doi": "10.1530/ERC-26-0314",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a bicentric clinical study, 20 patients with adrenocortical carcinoma (ACC) underwent PET/CT imaging with a novel tracer called 18F-CETO alongside the standard 18F-FDG tracer, identifying 235 lesions total. The new tracer detected more lesions than the standard approach at initial staging in 5 of 13 patients, and researchers identified three distinct imaging phenotypes associated with differences in overall survival. RNA sequencing confirmed the tracer's uptake correlates with adrenocortical differentiation markers, suggesting 18F-CETO could improve tumor characterization.",
-      "why_it_matters": "Adrenocortical carcinoma disproportionately affects women, and better imaging tools that can characterize tumor biology at staging could support more personalized treatment decisions for this rare and aggressive cancer.",
-      "caveats": "small sample (N<100), single-center, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "First-in-class human study but very small N, highly clinical, limited lifestyle hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "A New Type of PET Scan Could Change How Doctors Diagnose a Rare Adrenal Cancer That Hits Women Hard",
-          "hook": "A novel imaging tracer is showing early promise at catching more tumors \u2014 and predicting survival \u2014 in adrenocortical carcinoma, a rare cancer that disproportionately affects women.",
-          "pitch_angle": "Early clinical data from 20 patients suggest the tracer 18F-CETO can detect adrenal cancer lesions that standard scans miss and may reveal biological differences between tumors with different survival outcomes. Though the sample is small, it marks the first clinical test of this adrenal-specific imaging tool."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42773730",
       "headline": "Pituitary tumors in older adults are being missed because symptoms look just like normal aging",
       "journal": "European Journal of Endocrinology",
@@ -475,33 +955,6 @@
       "run_date": "2026-09-26",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42775647",
-      "headline": "People who use drugs have been informally 'checking' their supply with their senses all along \u2014 and harm reduction programs are missing that expertise",
-      "journal": "Substance Use & Addiction Journal",
-      "pubdate": "2026 Sep 23",
-      "doi": "10.1177/29767342261484080",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at Yale developed a conceptual framework \u2014 the 5 Senses Framework \u2014 describing how people who use drugs (PWUD) already evaluate their drug supply through sensory cues (sight, smell, taste, touch, hearing) and embodied experience. The framework is based on qualitative and theoretical work, not a primary data study with a defined participant sample. The authors argue that formal drug-checking programs should incorporate this sensory knowledge and treat PWUD as expert members rather than passive recipients of harm-reduction services.",
-      "why_it_matters": "Women who use drugs \u2014 a group with distinct patterns of drug use initiation and often greater barriers to harm-reduction services \u2014 could benefit if programs are designed to respect and build on their lived drug-checking experience.",
-      "caveats": "observational design, no sex-disaggregated data, small sample (N<100), self-reported outcomes, conceptual/framework paper not an empirical study",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Harm reduction angle; no female-specific data; conceptual framework, not empirical study.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Harm Reduction Experts Say People Who Use Drugs Are Already Their Own Best Safety Tool \u2014 Programs Just Aren't Listening",
-          "hook": "A new Yale framework argues that the sensory knowledge people who use drugs have built up over years is exactly what formal drug-checking programs are missing.",
-          "pitch_angle": "The piece would explore how centering lived experience \u2014 including the experiences of women, who face unique stigma in addiction services \u2014 could make drug-checking programs more effective and accessible."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Psychiatry",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -592,132 +1045,6 @@
       "status": "new"
     },
     {
-      "pmid": "42771056",
-      "headline": "Nearly half of incarcerated women in Spain are on psychiatric medication \u2014 and solitary confinement doubles the odds",
-      "journal": "Archives of Women's Mental Health",
-      "pubdate": "2026 Sep 22",
-      "doi": "10.1007/s00737-026-01769-0",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers surveyed 1,544 female prisoners across 39 prisons in Spain using a self-completed 60-question questionnaire, conducting descriptive, bivariate, and logistic regression analyses. They found that 44.1% of women were taking psychotropic medication in prison, with having been placed in solitary confinement associated with more than twice the odds of psychiatric medication use (OR 2.65). Other strong predictors included intellectual disability (OR 7.88), prior treatment for anxiety or depression (OR 3.32), and self-injury (OR 4.89).",
-      "why_it_matters": "This large women-only study highlights that incarcerated women face compounding mental health vulnerabilities that current prison systems \u2014 designed around male populations \u2014 are poorly equipped to address.",
-      "caveats": "observational design, self-reported outcomes, Spain-specific population",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large women-only sample; counterintuitive solitary-confinement finding; strong social justice angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "Nearly Half of Women in Spanish Prisons Are on Psychiatric Meds \u2014 and Solitary Confinement Is Making It Worse",
-          "hook": "A new study of 1,500 incarcerated women finds that the prison system itself may be driving mental health crises \u2014 with solitary confinement more than doubling the odds of psychiatric medication use.",
-          "pitch_angle": "Researchers studying female prisoners across Spain found that nearly half were taking psychotropic medication, and that punitive measures like solitary confinement were strongly associated with worse mental health outcomes. The authors argue that prison mental health models built around men's needs are failing incarcerated women, calling for a gender-responsive approach to psychiatric care behind bars."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Prison Mental Health Systems Were Built for Men \u2014 And a New Study Shows How Women Are Paying the Price",
-          "hook": "Almost half of incarcerated women in a major European study were on psychiatric medication \u2014 a finding researchers link directly to prison conditions, not just history.",
-          "pitch_angle": "A survey of over 1,500 women across 39 Spanish prisons found that solitary confinement, intellectual disability, and prior mental health treatment were the strongest predictors of psychiatric medication use \u2014 and the researchers say existing prison mental health systems weren't designed with women in mind. The study makes a pointed case for gender-centered mental health care in carceral settings."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42771819",
-      "headline": "Dropping your legs during crowning doesn't actually prevent tearing \u2014 a large RCT just confirmed it",
-      "journal": "Obstetrics and Gynecology",
-      "pubdate": "2026 Sep 22",
-      "doi": "10.1097/AOG.0000000000006438",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers randomized 1,206 nulliparous patients at term to either extend (lower) their hips at the moment of crowning or continue with usual flexed positioning during first vaginal delivery. In the primary intention-to-treat analysis, the rate of significant perineal lacerations (second-degree or worse) was virtually identical \u2014 66.2% vs 66.6% \u2014 with no statistically significant difference. While an exploratory as-treated analysis suggested a modest protective shift toward fewer severe tears and sphincter injuries among those who actually performed hip extension, that signal disappeared after adjustment.",
-      "why_it_matters": "For first-time birthers hoping to reduce their risk of serious perineal tearing, this suggests that changing leg position at crowning alone \u2014 a tip that has circulated among patients and birth workers \u2014 is unlikely to be the protective factor it was thought to be.",
-      "caveats": "observational design (as-treated exploratory analysis only \u2014 primary RCT was negative), nonblinded, 25% non-adherence in intervention arm, single-region (US academic centers)",
-      "fact_check_note": "",
-      "relevance_score": 9,
-      "relevance_score_reason": "RCT, large N, directly relevant to first-time birthers, counterintuitive null result.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine / Shape",
-          "headline": "That Tip About Dropping Your Legs During Labor to Prevent Tearing? A 1,200-Woman Study Just Debunked It",
-          "hook": "Thousands of first-time mothers have been told that extending their hips at the moment of crowning could reduce serious tearing \u2014 but a rigorous new randomized trial found it made no meaningful difference.",
-          "pitch_angle": "A Harvard-affiliated RCT of more than 1,200 first-time vaginal deliveries found that deliberately lowering the legs at crowning did not significantly cut rates of second-, third-, or fourth-degree tears. The finding challenges a widely shared labor tip and underscores how little has been rigorously tested about common birthing positions."
-        },
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Birth Prep Advice About Hip Position During Labor Doesn't Hold Up in the Largest Trial Ever Done on the Topic",
-          "hook": "The idea that changing how you hold your legs during crowning can protect your perineum has spread widely in birth communities \u2014 a new trial of more than 1,200 women says the evidence just isn't there.",
-          "pitch_angle": "Researchers at Massachusetts General Hospital ran the first large randomized trial on hip extension during crowning and found no statistically significant reduction in serious perineal lacerations in the primary analysis \u2014 raising questions about how well-meaning labor advice gets ahead of the science."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42770208",
-      "headline": "Adults who self-diagnose with autism say it improved their lives \u2014 even without official paperwork",
-      "journal": "Journal of Mental Health",
-      "pubdate": "2026 Sep 22",
-      "doi": "10.1080/09638237.2026.2732894",
-      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers surveyed 130 adults in the UK who had self-diagnosed with autism spectrum disorder but had not yet received a formal diagnosis, using questionnaire responses and qualitative free-text analysis. Most participants reported that self-diagnosis was largely positive \u2014 enabling workplace and educational accommodations and fostering self-compassion \u2014 despite facing long NHS waiting lists and perceived inadequacies in healthcare as major barriers to formal diagnosis. Ten percent did not wish to pursue a formal diagnosis at all, while most who did faced significant access obstacles.",
-      "why_it_matters": "Women are historically underdiagnosed with autism, and self-diagnosis is increasingly serving as a practical \u2014 and apparently meaningful \u2014 bridge when formal assessment is inaccessible.",
-      "caveats": "small sample (N=130), self-reported outcomes, observational design, single-country (UK), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong women's health relevance (female autism underdiagnosis); no sex-disaggregated data limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Self-Diagnosing with Autism Before Getting the Official Stamp? Turns Out It May Actually Help",
-          "hook": "A new study found that adults who self-identified as autistic reported real benefits \u2014 better self-understanding, workplace accommodations, and self-compassion \u2014 even without a formal diagnosis.",
-          "pitch_angle": "With NHS waiting lists stretching years, many adults \u2014 a disproportionate number of them women who were missed in childhood \u2014 are turning to self-diagnosis, and a new UK study suggests that process is often genuinely helpful. Participants reported that naming their experience as autism, even informally, unlocked accommodations and a sense of self-compassion that formal diagnosis had denied them."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Women Are Diagnosing Themselves with Autism Because the Healthcare System Won't Do It For Them",
-          "hook": "A new study finds that self-diagnosis is filling a real gap for adults who can't access formal autism assessment \u2014 and for many, it's working.",
-          "pitch_angle": "With formal autism diagnoses gatekept by years-long waitlists and clinicians still poorly trained to recognize autism in women, self-diagnosis has become a practical \u2014 and according to new research, largely positive \u2014 alternative. The study adds nuance to the often-stigmatized act of self-diagnosis, showing it can be a genuine tool for self-understanding and accommodation."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42771106",
-      "headline": "A patient's autism was mistaken for treatment-resistant schizophrenia for years \u2014 and a new case report says it's more common than clinicians realize",
-      "journal": "Neuropsychiatrie",
-      "pubdate": "2026 Sep 22",
-      "doi": "10.1007/s40211-026-00595-1",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Austrian psychiatrists published a case report describing a patient whose autistic features \u2014 including masking and camouflaging \u2014 were misread as treatment-resistant negative symptoms of schizophrenia for years before an autism spectrum disorder (ASD) diagnosis was confirmed through gold-standard assessment during an inpatient stay. The report highlights that symptom overlap between ASD and schizophrenia spectrum disorders, compounded by camouflaging behaviors, can delay correct diagnosis. No sample size applies; this is a single case report, and the patient's sex was not specified in the English-language abstract.",
-      "why_it_matters": "Women and girls with autism are especially prone to masking and camouflaging, making them particularly vulnerable to misdiagnosis as schizophrenia \u2014 with potentially years of inappropriate treatment as a result.",
-      "caveats": "small sample (N<100), single-center, case report only, no sex-disaggregated data, article primarily in German",
-      "fact_check_note": "The abstract does not specify the patient's sex; the women's health relevance is inferred from the well-established literature on female camouflaging in ASD, not from this paper's findings directly.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant masking angle for women; single case report; no female-specific data confirmed in abstract.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Women With Autism Are Being Diagnosed With Schizophrenia Instead \u2014 And It Can Take Years to Correct",
-          "hook": "A new case report illustrates how autistic women's tendency to mask their symptoms can fool even experienced psychiatrists into a completely wrong diagnosis.",
-          "pitch_angle": "The piece would explore the growing recognition that autism 'masking' \u2014 more common in women \u2014 makes ASD nearly invisible in clinical settings, leading to misdiagnosis, inappropriate medication, and years of inadequate care."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42771036",
       "headline": "Nearly three-quarters of women using bladder catheters don't want to keep doing it \u2014 and small technique changes may make the difference",
       "journal": "International Urogynecology Journal",
@@ -805,33 +1132,6 @@
       "status": "new"
     },
     {
-      "pmid": "42797090",
-      "headline": "Going gluten-free may unmask a hidden parathyroid condition in celiac patients \u2014 raising fracture risk even after diet change",
-      "journal": "Nutrients",
-      "pubdate": "2026 Sep 21",
-      "doi": "10.3390/nu18183107",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a literature review of observational studies, case series, and case reports examining the overlap between celiac disease (CD) and primary hyperparathyroidism (PHPT). The review found early evidence that a gluten-free diet, while correcting malabsorption, may unmask underlying PHPT in some celiac patients \u2014 meaning bone loss and elevated parathyroid hormone can persist or worsen even after dietary treatment. Because celiac disease disproportionately affects women and both conditions are associated with osteoporosis, the authors call for ongoing monitoring of PTH, vitamin D, and calcium in this population.",
-      "why_it_matters": "For women with celiac disease \u2014 who already face elevated osteoporosis risk \u2014 this suggests that going gluten-free may not fully protect bones if an underlying parathyroid condition goes undetected.",
-      "caveats": "observational design, small sample (N<100), secondary analysis, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Women's bone health angle; limited by review design and no female-specific data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Going Gluten-Free Isn't Always Enough to Protect Your Bones \u2014 Here's the Hidden Condition Doctors May Be Missing",
-          "hook": "For women with celiac disease, a gluten-free diet may actually reveal a second underlying condition that silently keeps eating away at bone density.",
-          "pitch_angle": "A literature review suggests that treating celiac disease with a gluten-free diet can unmask primary hyperparathyroidism \u2014 a parathyroid disorder that independently drives bone loss. Experts say women with celiac who still show high PTH levels after going gluten-free may need evaluation by an endocrinologist, not just a dietitian."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42767495",
       "headline": "Blood pressure medications don't lower metabolism \u2014 but one class may quietly increase body fat in older men",
       "journal": "Clinical Nutrition ESPEN",
@@ -910,33 +1210,6 @@
       "run_date": "2026-09-26",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42764407",
-      "headline": "A new once-weekly GLP-1/GIP dual drug caused up to 9.6% body weight loss in early human testing",
-      "journal": "Diabetes, Obesity & Metabolism",
-      "pubdate": "2026 Sep 20",
-      "doi": "10.1111/dom.71218",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tested ribupatide (HRS9531), a novel dual GLP-1/GIP receptor agonist similar in mechanism to tirzepatide, in preclinical animal models and a Phase 1 trial of 90 healthy Chinese adults. Participants received subcutaneous injections once weekly for up to 4 weeks across multiple dose levels. After four weekly doses, average weight loss in the drug groups ranged from 4.3 kg to 7.7 kg (up to 9.6% of body weight), with all side effects rated mild-to-moderate.",
-      "why_it_matters": "A new entry into the GLP-1/GIP weight-loss drug class could eventually expand treatment options for women managing obesity or type 2 diabetes.",
-      "caveats": "small sample (N=90), short follow-up, single-center, no sex-disaggregated data, industry funding [Jiangsu Hengrui Pharmaceuticals], single-region population (healthy Chinese adults \u2014 generalizability uncertain)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Phase 1 safety trial only; no sex-disaggregated data; single-region, industry-funded.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A New GLP-1/GIP Weight-Loss Drug Is Entering Human Trials \u2014 Here's What Early Data Show",
-          "hook": "A once-weekly injectable drug produced nearly 10% body weight loss in early human testing, adding to a growing field of dual-hormone obesity treatments.",
-          "pitch_angle": "Early Phase 1 data on ribupatide suggest it may join tirzepatide in the dual GLP-1/GIP class, with promising short-term weight-loss signals \u2014 though sex-specific data and long-term safety results are still needed before women can assess its relevance to their own health."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -1105,99 +1378,6 @@
       "run_date": "2026-09-26",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42763908",
-      "headline": "A popular male fertility supplement changed sperm DNA chemistry \u2014 but didn't improve sperm counts or quality",
-      "journal": "Systems Biology in Reproductive Medicine",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/19396368.2026.2722986",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a prospective within-subject study, 31 men across three groups (young healthy, young infertile, older infertile) took the AlphaSperm\u00ae supplement daily for nine months while researchers tracked semen parameters, sperm DNA fragmentation, and sperm DNA methylation patterns. Standard semen parameters and DNA fragmentation did not significantly improve in any group. However, the supplement induced novel regional sperm DNA hypermethylation \u2014 most pronounced in older infertile men \u2014 including changes to five genes previously associated with male infertility, with unclear functional significance.",
-      "why_it_matters": "For women partnered with men taking fertility supplements marketed to improve sperm quality, early evidence suggests these products may be altering sperm epigenetics \u2014 the chemical tags on DNA that influence embryo development \u2014 without changing the conventional measures that fertility clinics use to assess sperm.",
-      "caveats": "small sample (N<100), no placebo control, industry funding [AlphaSperm\u00ae product studied \u2014 authors affiliated with Path Fertility and The Turek Clinic], short follow-up, observational design (within-subject, no comparator arm), functional significance of epigenetic changes unvalidated",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive null on semen parameters; epigenetic angle novel but small N and no placebo.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "Male Fertility Supplements May Be Changing Sperm DNA in Ways We Don't Yet Understand",
-          "hook": "A new study found that a popular male fertility supplement didn't improve sperm counts \u2014 but it did alter the chemical tags on sperm DNA, which may matter for embryo development.",
-          "pitch_angle": "Researchers tracked sperm DNA methylation in men taking AlphaSperm\u00ae for nine months and found no improvement in standard semen parameters, but significant epigenetic changes \u2014 especially in older infertile men \u2014 in genes linked to male infertility. For couples using supplements as part of an IVF or natural conception plan, the findings are an early signal that these products may be doing something biologically meaningful that standard sperm tests don't capture, though what that means for fertility outcomes remains unknown."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786437",
-      "headline": "A $1.50 device could save mothers' lives by catching the most dangerous complication of childbirth faster in low-resource settings",
-      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/14767058.2026.2734654",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at the University of Michigan, in collaboration with partners in Ghana, developed and bench-tested Quantavag, a low-cost device designed to accurately measure postpartum blood loss to enable faster diagnosis of postpartum hemorrhage (PPH) in low-resource clinical settings. The development process included 45 interviews with healthcare professionals, midwives, and patients in Ghana and the US; no patient clinical trial has yet been conducted. Bench testing showed the device collected fluid at over 80% accuracy across 100\u2013500 mL volumes, with an estimated per-use cost of $1.50.",
-      "why_it_matters": "Postpartum hemorrhage is the leading cause of maternal death globally, and an affordable, accurate blood-loss measurement tool could meaningfully reduce delayed diagnosis and preventable deaths in under-resourced settings.",
-      "caveats": "small sample (N<100), observational design, short follow-up, no clinical validation yet \u2014 bench testing only",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong global maternal health relevance; pre-clinical stage limits immediate pitch strength.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "A $1.50 Postpartum Device Could Change the Odds for Mothers Around the World",
-          "hook": "Postpartum hemorrhage kills more mothers than almost any other childbirth complication \u2014 and a new $1.50 tool may help catch it in time.",
-          "pitch_angle": "University of Michigan engineers and clinicians designed Quantavag, an ultra-affordable device to accurately measure blood loss after delivery, targeting settings in Ghana and other low-resource countries where PPH accounts for more than a quarter of maternal deaths. Though still in bench-testing, its early accuracy results and $1.50 price point suggest it could be a practical step toward closing a deadly gap in maternal care globally."
-        },
-        {
-          "publication_type": "Good Housekeeping",
-          "headline": "The Simple $1.50 Tool That Could Help Prevent Mothers From Dying After Childbirth",
-          "hook": "The leading killer of new mothers worldwide is a complication that's often caught too late \u2014 but a new low-cost device aims to change that.",
-          "pitch_angle": "Researchers developed a simple, affordable blood-measurement device to help healthcare workers in places like Ghana detect postpartum hemorrhage before it becomes fatal. The device is still being tested, but early results are promising \u2014 and the story of how it was designed, from patient interviews to 3D printing, is as compelling as the science."
-        }
-      ],
-      "run_date": "2026-09-26",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786378",
-      "headline": "Two injections instead of daily shots may work almost as well for egg freezing \u2014 but 'almost' wasn't enough to prove it",
-      "journal": "Human Reproduction",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1093/humrep/deag142",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a phase III randomized controlled trial at a Barcelona fertility center comparing a novel 'two-shot' ovarian stimulation protocol (two sequential injections of corifollitropin alfa) to conventional daily injection stimulation in 194 women aged \u226440 undergoing elective egg freezing. The two-shot protocol produced a comparable average number of mature (MII) oocytes (6.14 vs 7.19) with no statistically significant difference, but the pre-specified non-inferiority margin was not met, meaning the simpler protocol could not be formally declared equivalent. Both protocols had similar stimulation duration and follicle counts, though FSH levels were notably higher in the two-shot group.",
-      "why_it_matters": "For women considering egg freezing, a protocol requiring just two injections instead of daily shots could meaningfully reduce the physical and logistical burden \u2014 if future research confirms equivalence.",
-      "caveats": "single-center, non-inferiority margin not met, focused on elective fertility preservation only (results may not apply to IVF for infertility), short follow-up, no live birth or embryo outcomes reported",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "RCT, female-only sample, fertility preservation hook; non-inferiority not met limits claims.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Egg Freezing Could Get a Lot Less Painful \u2014 If This Two-Injection Protocol Pans Out",
-          "hook": "What if you could go through ovarian stimulation for egg freezing with just two shots instead of weeks of daily injections?",
-          "pitch_angle": "A new RCT found a two-injection protocol produced nearly as many mature eggs as conventional daily-shot stimulation, though it fell just short of formal equivalence. For women navigating the grueling logistics of fertility preservation, this early signal is worth watching."
-        },
-        {
-          "publication_type": "Health.com",
-          "headline": "A New Egg-Freezing Protocol Uses Only 2 Shots. Here's What the Research Actually Shows",
-          "hook": "Researchers tested whether two injections could replace weeks of daily hormone shots for egg freezing \u2014 and the results were close, but not quite there.",
-          "pitch_angle": "The randomized trial found no statistically significant difference in mature egg yield, but the simpler protocol didn't meet the bar for formal equivalence, meaning it's promising but not yet proven. Experts say the patient-friendly approach warrants larger follow-up studies."
-        }
-      ],
-      "run_date": "2026-09-25",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
       "status": "new"
     },
     {
