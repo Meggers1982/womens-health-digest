@@ -1,85 +1,172 @@
 {
-  "last_updated": "2026-09-29T16:58:09.354999+00:00",
-  "total_studies": 975,
-  "new_this_run": 8,
+  "last_updated": "2026-10-01T17:14:27.652532+00:00",
+  "total_studies": 990,
+  "new_this_run": 15,
   "studies": [
     {
-      "pmid": "42806816",
-      "headline": "A glucose monitor worn for days may flag which relatives of type 1 diabetics are about to tip into full diabetes",
-      "journal": "Diabetes Technology & Therapeutics",
-      "pubdate": "2026 Sep 29",
-      "doi": "10.1177/15209156261492040",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "pmid": "42815105",
+      "headline": "Nearly 1,000 first-person addiction stories reveal an eight-stage path from early trauma to recovery \u2014 and structural barriers matter as much as willpower",
+      "journal": "The International Journal on Drug Policy",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1016/j.drugpo.2026.105521",
+      "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted an exploratory analysis of CGM data from 27 autoantibody-positive first-degree relatives of people with type 1 diabetes who also had dysglycemia, drawn from the multinational INNODIA consortium (52% female, median age 16.8 years). Nine participants progressed to Stage 3 type 1 diabetes within a median of 163 days of CGM assessment. Combining multiple CGM metrics \u2014 including time above 140 mg/dL, overnight high glucose, and early-morning lows \u2014 identified progressors with 100% sensitivity and 86% specificity in the restricted pre-progression analysis.",
-      "why_it_matters": "For daughters or sisters of people with type 1 diabetes who are already showing early glucose irregularities, continuous glucose monitoring may offer a non-invasive way to signal who needs urgent preventive care sooner.",
-      "caveats": "small sample (N=27), observational design, exploratory/secondary analysis, short follow-up, single time-point CGM assessment",
+      "summary": "Researchers at Auburn University analyzed 991 in-depth interview transcripts from a publicly accessible YouTube series documenting first-person accounts of substance use disorder, processing approximately 3.9 million words using grounded theory and AI-assisted text analysis. The sample consisted of heavily marginalized individuals with long-term substance use; demographic breakdown by sex was not reported. Analysis produced an eight-stage model of addiction progression \u2014 from early developmental vulnerability through relapse or stabilization \u2014 identifying structural barriers like missing ID documents and stigma as key mechanisms preventing treatment access regardless of motivation.",
+      "why_it_matters": "Women with substance use disorder face distinct structural barriers to treatment \u2014 including childcare needs, domestic violence, and stigma \u2014 that this kind of stage-specific framework could help advocates and policymakers better address.",
+      "caveats": "observational design, no sex-disaggregated data, self-reported outcomes, qualitative design limits generalizability, convenience sample from single YouTube series",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Human data, majority female sample, actionable CGM angle; very small N limits strength.",
+      "relevance_score": 4,
+      "relevance_score_reason": "No sex-disaggregated data; qualitative design; structural barriers angle has women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Nearly 1,000 Addiction Stories Reveal Why Wanting to Get Better Isn't Enough",
+          "hook": "A sweeping analysis of nearly 1,000 first-person accounts of addiction found that structural barriers \u2014 not lack of motivation \u2014 systematically block people from getting care.",
+          "pitch_angle": "Researchers identified eight distinct stages of addiction from vulnerability to recovery, with bureaucratic obstacles like missing ID documents and stigma cited as key barriers that cut off treatment access even when people were ready to seek help \u2014 a pattern with particular resonance for women facing compounded social disadvantages."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42811250",
+      "headline": "When a mother is hospitalized for mental health after birth, her child's risk of preventable illness spikes \u2014 but only for Aboriginal families",
+      "journal": "Archives of Women's Mental Health",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1007/s00737-026-01774-3",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed 16 years of linked administrative data for 59,159 children born in Australia's Northern Territory (2002\u20132017) to examine whether mothers' postnatal mental health hospitalizations were associated with their children's risk of potentially avoidable hospitalizations (PAH) between ages 1\u20135. Among children of Aboriginal mothers, those whose mothers had a postnatal mental health hospitalization faced a 24% higher risk of PAH compared to unexposed peers; no significant difference was found for children of non-Aboriginal mothers. The study highlights how structural disadvantage amplifies the downstream health consequences of perinatal mental illness for Indigenous families.",
+      "why_it_matters": "The finding suggests that perinatal mental health crises don't stay with the mother \u2014 for the most marginalized families, they ripple outward into preventable illness in young children, underscoring the need for culturally grounded postpartum mental health support.",
+      "caveats": "observational design, single-center (Northern Territory, Australia), administrative data (self-reported outcomes not applicable), findings may not generalize to non-Indigenous or non-Australian populations",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large cohort, postpartum mental health focus, counterintuitive race-stratified finding; regional population limits generalizability.",
       "pitch_angles": [
         {
           "publication_type": "Prevention / Health.com",
-          "headline": "If type 1 diabetes runs in your family, a CGM worn for just days could reveal your real risk",
-          "hook": "A combination of continuous glucose monitor readings correctly identified nearly every family member who went on to develop type 1 diabetes within months \u2014 before any symptoms appeared.",
-          "pitch_angle": "In a small but striking study of at-risk relatives of type 1 diabetics, specific overnight and early-morning CGM patterns distinguished those who progressed to full diabetes from those who didn't. The findings suggest that wearable glucose technology may one day be used to triage who needs the most urgent follow-up, which is especially relevant for women planning pregnancies or already managing autoimmune conditions."
+          "headline": "A Mother's Postpartum Mental Health Crisis Can Land Her Child in the Hospital \u2014 Here's What the Data Show",
+          "hook": "A new large-scale study found that when mothers are hospitalized for mental illness in their baby's first year, their young children face significantly higher odds of preventable hospitalizations \u2014 but only in the most disadvantaged communities.",
+          "pitch_angle": "Analyzing data on nearly 60,000 children over 16 years, researchers found a 24% higher risk of avoidable child hospitalizations when Aboriginal mothers had a postnatal mental health crisis \u2014 a stark illustration of how untreated perinatal mental illness can cascade into children's physical health. The finding adds urgency to calls for culturally responsive postpartum mental health care."
+        },
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Postpartum Mental Health Isn't Just a Mom Problem \u2014 It Affects Her Children's Physical Health Too",
+          "hook": "We talk about the 'fourth trimester' as a time to support new mothers, but a sweeping new study shows the stakes extend well beyond her own wellbeing.",
+          "pitch_angle": "Researchers tracking nearly 60,000 Australian children found that kids whose mothers were hospitalized for postpartum mental illness faced a measurably higher risk of ending up in the hospital themselves for preventable causes \u2014 with the effect concentrated among Indigenous families already facing structural barriers to care. It reframes perinatal mental health as a family health issue, not just a maternal one."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42806816",
+      "headline": "Nighttime glucose spikes \u2014 not just daytime readings \u2014 may flag people most likely to develop full type 1 diabetes",
+      "journal": "Diabetes Technology & Therapeutics",
+      "pubdate": "2026 Sep 29",
+      "doi": "10.1177/15209156261492040",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed continuous glucose monitoring (CGM) data from 27 autoantibody-positive first-degree relatives of people with type 1 diabetes who also had early blood sugar irregularities, as part of the multinational INNODIA consortium; 14 participants (52%) were female and median age was 16.8 years. Nine participants progressed to clinical type 1 diabetes within a median of 163 days. Combining CGM metrics \u2014 including time spent above 140 mg/dL and nighttime glucose elevations between 9 PM and 2 AM \u2014 improved prediction of progression, with one model achieving 100% sensitivity and 86% specificity.",
+      "why_it_matters": "For families with a history of type 1 diabetes, this early evidence suggests that continuous glucose monitoring \u2014 including overnight patterns \u2014 may help identify who among at-risk relatives is most likely to develop the condition soon.",
+      "caveats": "small sample (N<100), exploratory analysis, short follow-up, preprint status unclear \u2014 online ahead of print",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive nighttime pattern finding; majority-female sample; clear wellness hook; very small N limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "If Type 1 Diabetes Runs in Your Family, Your Overnight Glucose Readings May Be the Earliest Warning Sign",
+          "hook": "A new study found that blood sugar levels between 9 PM and 2 AM \u2014 not just daytime spikes \u2014 were among the strongest early signals that at-risk relatives would progress to clinical type 1 diabetes.",
+          "pitch_angle": "Researchers tracking autoantibody-positive relatives of people with type 1 diabetes found that combining multiple CGM metrics, especially nighttime glucose elevations, dramatically improved prediction of who would develop the disease within months. Though the study was small and exploratory, it points to CGM as a potentially powerful early-warning tool for high-risk families."
+        }
+      ],
+      "run_date": "2026-10-01",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42811486",
+      "headline": "Antarctic Krill Peptides May Help Counter Bone Loss Caused by Steroid Medications \u2014 In Mice",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "pubdate": "2026 Sep 29",
+      "doi": "10.1002/jsfa.71112",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers fed Antarctic krill peptides (AKP) to C57BL/6J mice in which osteoporosis had been induced by glucocorticoid treatment, over a 4-week period. AKP at doses of 20\u2013100 mg/kg significantly reduced bone resorption markers and increased bone formation markers, improved bone mineral density and microstructure, and reduced calcium excretion compared to untreated model mice. The findings suggest AKP could have potential as a functional food ingredient for glucocorticoid-induced osteoporosis, though all results are from an animal model only.",
+      "why_it_matters": "Women who take long-term corticosteroids \u2014 for conditions like lupus, rheumatoid arthritis, or asthma \u2014 face heightened osteoporosis risk, and early evidence suggesting a marine-derived peptide supplement could help protect bone health may be worth watching as human research develops.",
+      "caveats": "animal or cell study, no sex-disaggregated data, short follow-up, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Bone health angle relevant to women; animal-only study limits score significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Could a Supplement Made from Tiny Shrimp Help Protect Your Bones If You Take Steroids?",
+          "hook": "Early animal research suggests that peptides from Antarctic krill may help counteract the bone-thinning side effect of long-term steroid medications.",
+          "pitch_angle": "Long-term corticosteroid use is a major driver of secondary osteoporosis, especially in women with autoimmune conditions. Mouse data on Antarctic krill peptides improving bone density and microstructure offers a compelling \u2014 if very early \u2014 wellness angle on marine-sourced supplements and bone health."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42803872",
-      "headline": "Klinefelter syndrome's metabolic and brain effects start in childhood \u2014 long before puberty reveals the diagnosis",
+      "headline": "Klinefelter syndrome's metabolic and cognitive risks begin in childhood \u2014 long before most boys are diagnosed",
       "journal": "Endocrine",
       "pubdate": "2026 Sep 28",
       "doi": "10.1007/s12020-026-04802-5",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A narrative review by pediatric endocrinologists, neuropsychiatrists, psychologists, and genetic experts synthesized current evidence on Klinefelter syndrome (XXY chromosome pattern) in children and adolescents, including a patient-advocacy perspective on family priorities and unmet needs. Emerging evidence highlighted in the review finds that insulin resistance, altered body composition, and neurodevelopmental vulnerabilities \u2014 including language delays and executive function difficulties \u2014 can appear in early childhood, well before overt hypogonadism develops at puberty. The authors argue that rising use of noninvasive prenatal testing is producing earlier diagnoses and that a proactive, multidisciplinary approach beginning in early childhood offers the best window for intervention.",
-      "why_it_matters": "For mothers who receive a prenatal Klinefelter diagnosis for a son, this review maps what to watch for and advocate for across childhood \u2014 well before the teen years when the condition is classically managed.",
-      "caveats": "narrative review (not original data), no sex-disaggregated data (condition affects males), single-region (Italy-led, though multinational expert panel)",
+      "summary": "Pediatric endocrinologists, neuropsychiatrists, and genetic experts conducted a narrative review of current evidence on Klinefelter syndrome (KS) \u2014 the most common sex chromosome aneuploidy in males \u2014 across childhood and adolescence, incorporating a patient advocacy perspective. The review found that altered body composition, insulin resistance, and neurodevelopmental vulnerabilities (including language delays and executive dysfunction) may emerge in childhood, often well before the overt hypogonadism that typically triggers diagnosis. Authors argue that increased prenatal testing via NIPT is creating a newly diagnosed infant population that requires a proactive, multidisciplinary management framework.",
+      "why_it_matters": "For mothers receiving a prenatal or early-childhood KS diagnosis, this review highlights that the window for early intervention \u2014 before metabolic and cognitive problems compound \u2014 is earlier than previously recognized.",
+      "caveats": "narrative review, no primary data collected, no sex-disaggregated data (condition affects males only \u2014 relevant for mothers/families as audience)",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Condition affects males; relevant to mothers/families via prenatal testing angle, but indirect women's health fit.",
+      "relevance_score_reason": "Relevant to mothers navigating pediatric rare disease; narrative review limits score.",
       "pitch_angles": [
         {
-          "publication_type": "Good Housekeeping / First for Women",
-          "headline": "Prenatal tests are catching this common chromosome condition earlier than ever \u2014 here's what parents need to know",
-          "hook": "Klinefelter syndrome affects roughly 1 in 600 males, yet most are diagnosed late \u2014 a new review says rising prenatal testing is changing that, and early action in childhood matters far more than waiting for puberty.",
-          "pitch_angle": "A multidisciplinary expert review finds that insulin resistance, weight changes, and learning differences in boys with Klinefelter syndrome can begin in early childhood, long before the classic signs appear at puberty. For mothers navigating a prenatal XXY diagnosis, the review outlines why connecting with a specialist team early \u2014 rather than adopting a wait-and-see approach \u2014 may meaningfully improve their child's long-term health and development."
+          "publication_type": "Good Housekeeping / Prevention",
+          "headline": "More Babies Are Being Diagnosed with Klinefelter Syndrome Before Birth \u2014 Here's What Parents Need to Know",
+          "hook": "Prenatal genetic testing is catching a common but underdiagnosed chromosomal condition earlier \u2014 and new research says acting fast in childhood makes a real difference.",
+          "pitch_angle": "Klinefelter syndrome affects roughly 1 in 650 males, yet most aren't diagnosed until puberty or adulthood \u2014 but expanded prenatal testing is changing that. A new review finds that metabolic and cognitive challenges tied to the condition often begin in early childhood, making the case for earlier, more coordinated care starting from infancy."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42804809",
-      "headline": "The brain's waste-clearance system may malfunction differently in schizophrenia depending on when symptoms first appear",
+      "headline": "The brain's waste-clearance system shows different dysfunction patterns depending on when schizophrenia first strikes",
       "journal": "Schizophrenia Research",
       "pubdate": "2026 Sep 28",
       "doi": "10.1016/j.schres.2026.09.024",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a brain imaging marker (DTI-ALPS) as an indirect proxy for glymphatic fluid dynamics in 195 first-episode schizophrenia patients (103 early-onset, 92 adult-onset) and 191 matched healthy controls. Adult-onset patients showed significantly lower ALPS indices \u2014 suggesting reduced glymphatic activity \u2014 compared to both early-onset patients and older healthy controls. Lower right-hemisphere ALPS scores in adult-onset patients were also associated with greater hallucination severity.",
-      "why_it_matters": "Understanding why adult-onset and early-onset schizophrenia differ biologically could eventually help explain why women, who more often experience later-onset schizophrenia, sometimes present with different symptom profiles than men.",
-      "caveats": "observational design, single-center, DTI-ALPS is an indirect/putative marker only, no sex-disaggregated data, antipsychotic dosage as confounder adjusted but not eliminated, study population in China",
+      "summary": "Researchers used diffusion tensor imaging to measure indirect markers of glymphatic (brain waste-clearance) function in 195 people with first-episode schizophrenia \u2014 103 with early onset and 92 with adult onset \u2014 plus 191 matched healthy controls. Adults who developed schizophrenia in adulthood showed significantly lower glymphatic activity indices than both early-onset patients and older healthy controls, particularly in the right hemisphere. In adult-onset patients, lower right-hemisphere glymphatic activity was associated with greater hallucination severity.",
+      "why_it_matters": "Since schizophrenia presents differently by sex and age of onset \u2014 with women more likely to experience adult-onset forms \u2014 research distinguishing these subtypes at a brain-biology level could eventually inform more targeted treatment approaches.",
+      "caveats": "single-center, observational design, no sex-disaggregated data, indirect measure of glymphatic function, potential industry ties (one author reports honoraria from Janssen, Otsuka, and others)",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Interesting brain-aging mechanism but no sex-disaggregated data and indirect imaging marker.",
+      "relevance_score_reason": "Mechanistic brain imaging study; no female-specific analysis limits women's health pitch.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Your Brain Has a Waste-Clearance System \u2014 and It May Break Down Differently in Schizophrenia Based on Your Age at Diagnosis",
-          "hook": "New brain imaging research suggests the brain's built-in 'cleaning' system functions differently in people who develop schizophrenia as adults versus in adolescence \u2014 and the difference is tied to hallucination severity.",
-          "pitch_angle": "A study of nearly 200 first-episode schizophrenia patients found that adult-onset patients showed signs of reduced glymphatic activity \u2014 a system that flushes waste from the brain during sleep \u2014 compared to early-onset patients. The finding may help explain why schizophrenia looks so different depending on when it starts, which is relevant for women who statistically tend to develop the condition later than men."
+          "headline": "When Schizophrenia Strikes in Adulthood, the Brain's Waste System Is More Disrupted Than in Teenage-Onset Cases",
+          "hook": "New brain imaging data suggests that adult-onset schizophrenia \u2014 the form more common in women \u2014 is associated with more pronounced disruption to the system that clears toxic waste from the brain.",
+          "pitch_angle": "Researchers found that adults who developed schizophrenia later in life had measurably lower glymphatic activity than those who developed it as teenagers, and that this deficit was linked to more severe hallucinations. The finding hints at a distinct biological pathway that could one day point toward subtype-specific treatments."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
@@ -92,28 +179,844 @@
       "doi": "10.1136/tc-2026-060270",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed publicly available industry reports, government documents, corporate records, and media sources in English and Chinese to map the globalization strategies of China's e-cigarette industry. They found China produces over 90% of the world's e-cigarettes \u2014 including brands sold by major tobacco companies like Vuse and Njoy \u2014 and exports to more than 160 countries using a fast-moving consumer goods model of rapid product turnover and flavor variation. Domestic Chinese regulations imposed in 2022 appear to have accelerated global expansion rather than curbing it, with complex corporate structures obscuring accountability.",
-      "why_it_matters": "Young women are among the fastest-growing groups of e-cigarette users in the US, and evidence that the industry is structurally designed to evade regulation suggests current consumer protections may be insufficient.",
-      "caveats": "observational design, secondary analysis, no sex-disaggregated data, document analysis methodology limits causal inference",
+      "summary": "Researchers used a tobacco industry globalization framework to analyze publicly available industry reports, corporate records, and government documents in English and Chinese, examining how China's e-cigarette sector operates globally. China produces over 90% of the world's e-cigarettes \u2014 including those sold under major brand names like Vuse and Njoy \u2014 and exports to more than 160 countries. Chinese manufacturers use a fast-moving consumer goods model with rapid product turnover and flavour variation that is specifically structured to adapt to and circumvent regulatory actions.",
+      "why_it_matters": "Young women are among the fastest-growing groups of e-cigarette users, and this analysis suggests that current regulations are structurally unable to keep up with the pace of new products reaching the market.",
+      "caveats": "observational design, no primary data collection, policy/industry analysis rather than clinical study, no sex-disaggregated data",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant public health finding but no female-specific data and policy/industry framing.",
+      "relevance_score": 4,
+      "relevance_score_reason": "No clinical data or female-specific findings; policy framing limits direct women's health pitch.",
       "pitch_angles": [
         {
+          "publication_type": "Well+Good",
+          "headline": "The Vape Industry Was Literally Designed to Stay One Step Ahead of Every Rule Meant to Protect You",
+          "hook": "A new analysis reveals that China's e-cigarette manufacturers deliberately operate on a fast-fashion model \u2014 churning out new flavours and devices faster than any regulator can act.",
+          "pitch_angle": "Researchers found that the same Shenzhen factories supplying disposable vapes like Elf Bar and Puff Bar are structured to rapidly pivot whenever a country bans a flavour or device type, making traditional tobacco regulation essentially ineffective. For women who vape or have teens who do, understanding who is actually controlling what ends up in stores \u2014 and why it keeps changing \u2014 is newly urgent."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42790802",
+      "headline": "More muscle mass may protect your spine \u2014 but grip strength doesn't seem to matter as much as scientists thought",
+      "journal": "Bone",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1016/j.bone.2026.118113",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used UK Biobank data from nearly 500,000 adults to examine whether sarcopenia-related traits \u2014 specifically appendicular lean mass (ALM) and grip strength \u2014 were associated with four types of spinal degenerative diseases (SDDs), including lumbar disc herniation and spinal stenosis. Mendelian randomization analyses found that whole-body lean mass and ALM had protective causal effects against lumbar slipped discs and spinal stenosis, while grip strength showed no significant causal relationship to SDDs. An additional genetic analysis identified 12 genes potentially involved in SDD risk or protection.",
+      "why_it_matters": "Because women lose muscle mass more rapidly after menopause and are at elevated risk for spinal degeneration, these findings suggest that preserving lean muscle \u2014 not just grip strength \u2014 may be a meaningful target for spine health in midlife and beyond.",
+      "caveats": "observational design, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large cohort, counterintuitive grip-strength null finding, menopause-relevant muscle loss angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Grip Strength Won't Save Your Spine \u2014 But This Type of Muscle Might",
+          "hook": "A study of nearly half a million people found that total muscle mass \u2014 not how hard you squeeze \u2014 appears to protect against slipped discs and spinal stenosis.",
+          "pitch_angle": "Researchers found that lean body mass had a protective causal effect on spinal degeneration, while grip strength did not \u2014 a counterintuitive finding that shifts focus from functional strength tests to overall muscle preservation. For women in perimenopause and beyond, who lose lean mass faster than men, this adds a new urgency to resistance training."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Real Reason Your Back Hurts More As You Age (And It's Not What You Think)",
+          "hook": "It turns out grip strength \u2014 a popular proxy for overall fitness \u2014 may not protect your spine the way scientists assumed, but total muscle mass might.",
+          "pitch_angle": "A massive genetic and observational study found that lean muscle mass was causally linked to lower risk of lumbar disc herniation and spinal stenosis, while grip strength had no significant effect. The wellness takeaway: building muscle through resistance training may matter more for long-term spinal health than standard fitness benchmarks like grip tests."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42788222",
+      "headline": "A digital support platform cut loneliness and distress in caregivers of people with first-episode psychosis",
+      "journal": "Journal of Mental Health",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1080/09638237.2026.2732880",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers piloted the Altitudes platform \u2014 a 6-month blended digital intervention combining psychoeducation, therapy content, and peer social networking \u2014 with caregivers of people experiencing first-episode psychosis. Participants completed assessments at baseline, 3 months, and 6 months; the study did not report sample size or sex breakdown in the abstract. At follow-up, caregivers reported lower distress, greater self-compassion, more positive caregiving experiences, and reduced loneliness, though all effects had wide confidence intervals.",
+      "why_it_matters": "Women make up the majority of unpaid mental health caregivers, and a digital intervention that addresses their own wellbeing \u2014 not just their loved one's illness \u2014 could fill a significant gap.",
+      "caveats": "small sample (N not reported in abstract), no sex-disaggregated data, short follow-up, no control group, self-reported outcomes, wide confidence intervals",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Caregiver mental health is women-relevant; weak design limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "An App Built for People Caring for Someone With Psychosis Is Helping Them Feel Less Alone",
+          "hook": "When a loved one is diagnosed with psychosis, caregivers rarely get support for their own mental health \u2014 a new digital platform is changing that.",
+          "pitch_angle": "The Altitudes app gave psychosis caregivers access to therapy content, peer networks, and psychoeducation over six months, with early evidence suggesting less loneliness and distress. Since women disproportionately fill caregiving roles, tools that center caregiver wellbeing \u2014 not just the patient's \u2014 represent a meaningful shift."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786262",
+      "headline": "Some psychiatric patients may actually have a brain immune disorder \u2014 and a new expert network is pushing to catch it earlier",
+      "journal": "Molecular Psychiatry",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1038/s41380-026-03871-2",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "The GENERATE network \u2014 a large consortium of German psychiatry and neurology centers \u2014 released clinical recommendations for diagnosing autoimmune encephalitis in psychiatric settings, where it is frequently missed or confused with primary psychiatric illness. The paper details diagnostic algorithms, unresolved challenges, and protocols for identifying autoimmune causes of psychosis, mood disorders, and catatonia. Women are known to be disproportionately affected by autoimmune encephalitis, particularly anti-NMDA receptor encephalitis, which can present primarily as a psychiatric emergency.",
+      "why_it_matters": "Women are more likely than men to develop autoimmune encephalitis, and because its psychiatric symptoms \u2014 psychosis, mood episodes, behavioral change \u2014 mimic primary mental illness, it is routinely misdiagnosed and treated incorrectly for months or years.",
+      "caveats": "no primary data (clinical recommendations/consensus paper), European (German) network, limited generalizability to US clinical settings, no sex-disaggregated outcome data reported",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly relevant women's condition; consensus paper limits scoring; no primary outcome data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Your 'Psychiatric Crisis' Could Actually Be Your Immune System Attacking Your Brain",
+          "hook": "A major European expert network is pushing psychiatrists to routinely screen for autoimmune encephalitis \u2014 a brain immune condition that disproportionately strikes women and is routinely mistaken for schizophrenia or bipolar disorder.",
+          "pitch_angle": "Anti-NMDA receptor encephalitis and related autoimmune brain disorders can cause sudden psychosis, paranoia, and personality changes that look exactly like a first psychiatric break \u2014 but they require immunotherapy, not antipsychotics. New clinical recommendations from a large German network aim to standardize how psychiatrists catch these cases earlier, which could be life-changing for the women who are most often affected."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "She Was Told It Was a Mental Health Crisis. It Was Actually Her Immune System Attacking Her Brain.",
+          "hook": "A little-known brain disorder that disproportionately affects women can look exactly like a sudden psychiatric emergency \u2014 and experts say it's being missed constantly.",
+          "pitch_angle": "Autoimmune encephalitis \u2014 where the immune system mistakenly targets brain tissue \u2014 can cause rapid-onset psychosis, mood swings, and memory loss in otherwise healthy women, yet it's routinely diagnosed as schizophrenia or a mood disorder and treated incorrectly for months. A new clinical consensus from European experts is now pushing psychiatrists to test for it earlier, and advocates say that for affected women, the difference in outcome can be profound."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42789056",
+      "headline": "A rare sperm gene deletion caused total fertilization failure \u2014 until one intervention saved the day",
+      "journal": "Asian Journal of Andrology",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.4103/aja202630",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers identified a homozygous chromosomal microdeletion in the ACTL9 gene in a single infertile man whose sperm caused polyspermy (multiple sperm fertilizing one egg) in conventional IVF and near-total fertilization failure in ICSI. Electron microscopy revealed structural defects in the sperm's acrosome, and immunofluorescence showed absence of a key activation protein (PLCZ1) that explained why eggs couldn't block additional sperm. Artificial oocyte activation combined with ICSI successfully rescued fertilization and resulted in a live birth.",
+      "why_it_matters": "For couples facing repeated unexplained IVF failure, findings like this suggest that rare genetic sperm defects \u2014 not egg quality \u2014 may be the culprit, and targeted interventions like artificial oocyte activation could offer a path to conception.",
+      "caveats": "small sample (N<100), single-center, single case report",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Compelling fertility/IVF hook for women; single-case report limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "When IVF Keeps Failing, the Problem Might Be in the Sperm's DNA \u2014 Not the Eggs",
+          "hook": "A man whose sperm caused chaotic fertilization failures had a rare genetic deletion that no standard semen analysis would catch \u2014 and a specialized technique finally led to a live birth.",
+          "pitch_angle": "Researchers traced repeated IVF catastrophe to a microscopic deletion in a single sperm gene that disrupted the egg's ability to block multiple sperm from entering. For women who've experienced unexplained fertilization failure, this case suggests that advanced sperm genetic testing and oocyte activation techniques may deserve a closer look."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42444565",
+      "headline": "Picture symbols on NICU cribs could stop life-threatening mix-ups between newborns",
+      "journal": "Journal of Perinatal Medicine",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1515/jpm-2026-0027",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested a system called Pictographs \u2014 distinctive images chosen by caregivers and posted at the bedside and in the electronic health record \u2014 to help prevent wrong-patient errors in NICUs, with feasibility evaluated at two hospital sites as part of a larger multicenter RCT. Caregivers and clinicians largely accepted and used the system, with the vast majority of families selecting a pictograph for their newborn. Clinicians found the visual cues especially helpful for distinguishing twins and other multiple-birth infants.",
+      "why_it_matters": "Wrong-patient errors in NICUs \u2014 including giving the wrong breast milk or medication \u2014 pose serious harm to the most vulnerable newborns, and a simple visual tool parents help choose could be a meaningful safety upgrade.",
+      "caveats": "small sample (N<100 at feasibility phase), single-center per site, self-reported outcomes, short follow-up, secondary analysis (feasibility phase of larger RCT)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong perinatal safety hook; feasibility phase limits confidence in effect size.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping / First for Women",
+          "headline": "NICU Hospitals Are Using Picture Symbols to Keep Newborns Safe \u2014 And Parents Help Pick Them",
+          "hook": "A surprisingly simple idea \u2014 letting parents choose a little image posted on their baby's crib \u2014 could prevent dangerous mix-ups in the NICU.",
+          "pitch_angle": "Researchers found that a pictograph system parents select for their newborns was widely embraced by both families and medical staff, and clinicians said it especially helped them tell apart twins and multiples. The multicenter RCT is still underway, but early feasibility results suggest this low-tech solution could become a standard patient-safety tool in hospitals."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "This Low-Tech NICU Safety Tool Gives Parents More Agency \u2014 and Could Prevent Serious Errors",
+          "hook": "Giving NICU parents the power to choose a personalized image for their baby's bedside isn't just sweet \u2014 it may actively prevent medical mistakes.",
+          "pitch_angle": "A new patient-safety study found that a pictograph identification system \u2014 co-designed with caregivers \u2014 was feasible, warmly received, and seen by clinicians as a useful check against ordering errors, especially for multiples. It's an early-stage finding, but the parent-empowerment angle makes it a compelling wellness and advocacy story."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42779420",
+      "headline": "A blood sugar marker faster than HbA1c is getting a second look \u2014 and it could be tested at home within weeks",
+      "journal": "Journal of Diabetes Investigation",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1111/jdi.70447",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This review revisits glycated albumin (GA), a biomarker that reflects average blood glucose over the prior two weeks \u2014 filling a gap between daily glucose monitoring and the standard three-month HbA1c test. GA is particularly useful in populations where HbA1c is unreliable, such as people with renal failure, hemolytic anemia, or iron deficiency, all of which are more common in women. Emerging measurement approaches including finger-prick sampling, home weekly testing, and noninvasive saliva and tear assays may make GA practical for everyday diabetes monitoring.",
+      "why_it_matters": "For women with diabetes who also have iron deficiency anemia or kidney disease \u2014 conditions that skew HbA1c readings \u2014 glycated albumin may offer a more accurate and faster-responding window into blood sugar control.",
+      "caveats": "observational design, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Review article, no new human data; clear women's health relevance via iron deficiency and renal disease.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Your HbA1c Test Might Not Tell the Whole Story \u2014 Here's the Faster Glucose Marker Doctors Are Reconsidering",
+          "hook": "A decades-old blood sugar biomarker is making a comeback \u2014 and it could give a clearer picture of glucose control in just two weeks rather than three months.",
+          "pitch_angle": "Glycated albumin reflects blood sugar changes two to three times faster than HbA1c, and it stays accurate even when standard tests are thrown off by anemia or kidney disease \u2014 conditions women face more often. New home-testing formats including saliva and tear strips could make it a practical addition to everyday diabetes management."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42782508",
+      "headline": "A little-known fat molecule may be quietly triggering your body's own GLP-1 \u2014 no injection required",
+      "journal": "Diabetologia",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1007/s00125-026-06877-1",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used metabolomics on plasma samples from meal tests in adults to identify sphinganine \u2014 a sphingolipid fat molecule \u2014 as the strongest predictor of a high GLP-1 response, then tested it across cell lines, human intestinal organoids, rat intestinal perfusion models, and mice. In cell and organoid studies, sphinganine doubled GLP-1 secretion via a receptor-mediated mechanism; in rats, the effect in intestinal perfusion was statistically significant only in males. In mice fed a high-fat diet, oral sphinganine did not acutely raise GLP-1 but did reduce diet-induced weight gain without changing food intake.",
+      "why_it_matters": "This early-stage research suggests a naturally occurring fat molecule may activate the same hunger-regulating hormone pathway targeted by GLP-1 drugs, raising questions about whether dietary sphingolipids could one day play a role in metabolic health.",
+      "caveats": "animal or cell study, no sex-disaggregated data in human portion, sex-specific effect seen only in male rats (not females), short follow-up, industry funding [Novo Nordisk Foundation \u2014 advisory roles disclosed for two authors]",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Mechanistically interesting but primarily animal/cell data; sex-disaggregated human findings absent.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Scientists Found a Fat Molecule That May Naturally Trigger Your Body's Own GLP-1 \u2014 Here's What That Means",
+          "hook": "A sphingolipid found naturally in food may activate the same hormone pathway as Ozempic \u2014 at least in lab settings.",
+          "pitch_angle": "Researchers identified sphinganine, a naturally occurring fat molecule, as the top predictor of a strong GLP-1 response after meals \u2014 and it doubled the hormone's secretion in human gut organoids. The findings are very early-stage (mostly animal and cell data), but they open a conversation about whether the foods we eat could influence our body's own GLP-1 release."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42557604",
+      "headline": "Suicide rates in veterans may look like they're rising \u2014 but a statistical illusion could be hiding the real picture",
+      "journal": "Psychiatric Services",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1176/appi.ps.20240228",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "VA researchers describe how Simpson's Paradox \u2014 a statistical phenomenon where aggregated data produces conclusions opposite to those found in subgroups \u2014 can distort suicide surveillance data. The analysis draws on VA population data and explains how combining demographic subgroups with different baseline risk levels can mask true trends. The finding suggests that national suicide statistics may be misleading if data are not properly disaggregated by age, sex, and other factors.",
+      "why_it_matters": "Women veterans are among the fastest-growing and most at-risk groups for suicide, and aggregated data that obscures subgroup trends could lead to misdirected prevention efforts.",
+      "caveats": "no sex-disaggregated data, observational design, single-system population (VA)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Methodological piece; indirect women's health relevance; no female-specific findings.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Statistic Behind Suicide Prevention May Be Lying to Us",
+          "hook": "A quirk of math called Simpson's Paradox can make suicide rates look stable \u2014 or even improving \u2014 when they're actually getting worse in specific groups.",
+          "pitch_angle": "VA researchers found that aggregating suicide data across demographic groups can produce conclusions that are the opposite of what's happening within subgroups, including women veterans. For journalists covering mental health equity, this raises urgent questions about whose crisis is being counted."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42537444",
+      "headline": "Getting into treatment faster \u2014 and receiving more psychosis-specific sessions \u2014 dramatically improves recovery odds",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.schres.2026.07.017",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed a naturalistic cohort of 1,085 people aged 18\u201335 (mean age 23.8) with first-episode psychosis enrolled in Italy's Emilia-Romagna regional program between 2013 and 2019, with a mean follow-up of 2.5 years. Longer duration of untreated psychosis was associated with poorer recovery, while receiving more than 36 psychosis-specific interventions (CBT or psychoeducation) was associated with 74% higher odds of remission. Sociodemographic factors including single status, lower education, and foreign citizenship were associated with worse outcomes, raising equity concerns.",
+      "why_it_matters": "Young women experiencing first-episode psychosis face unique barriers to timely diagnosis, and this large real-world study suggests that delays in reaching care \u2014 and gaps in specialized treatment \u2014 meaningfully worsen long-term outcomes.",
+      "caveats": "observational design, single-region (Italy), no sex-disaggregated data reported",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large real-world cohort; no sex-disaggregated data limits women's health framing.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Longer Psychosis Goes Untreated, the Harder Recovery Becomes \u2014 New Real-World Data Confirms",
+          "hook": "A study of more than 1,000 young adults found that every delay in reaching care \u2014 and every missed specialized session \u2014 meaningfully reduced the odds of recovery from psychosis.",
+          "pitch_angle": "Italy's large regional psychosis program found that quicker access to care and more psychosis-specific therapy sessions each independently improved outcomes, while social disadvantages like lower education and foreign citizenship were linked to worse recovery. The findings underscore how structural barriers \u2014 not just biology \u2014 shape who gets better."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42476451",
+      "headline": "Vitamin D supplements don't seem to fight frailty \u2014 unless you're already deficient, new review finds",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.metabol.2026.156697",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a narrative review integrating clinical, epidemiological, and mechanistic evidence on vitamin D and physical frailty in adults, examining data from observational cohorts and randomized controlled trials. While observational studies consistently link low vitamin D levels to sarcopenia, bone loss, immune dysfunction, and frailty onset, RCTs in community-dwelling adults with adequate vitamin D status have largely shown neutral results. Notably, high-dose intermittent bolus regimens were associated with increased falls and fractures \u2014 the opposite of the intended benefit.",
+      "why_it_matters": "For older women concerned about frailty and muscle loss, this review suggests that routine vitamin D supplementation may only help those who are genuinely deficient \u2014 and that high-dose regimens could actually increase fall risk.",
+      "caveats": "observational design (for cohort findings), narrative review (not systematic meta-analysis), heterogeneous frailty definitions across studies, no sex-disaggregated data reported",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive RCT-era finding relevant to older women's bone/muscle health; narrative review limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "You're Probably Taking Vitamin D to Stay Strong \u2014 But New Research Says It May Not Be Working",
+          "hook": "Despite decades of hype, vitamin D supplements appear to do little for frailty unless you're already deficient \u2014 and high doses may actually raise your fall risk.",
+          "pitch_angle": "A major review found that while low vitamin D is clearly linked to muscle loss and frailty in observational data, clinical trials in people with adequate levels show no protective benefit \u2014 and some high-dose regimens made things worse. For older women stocking up on vitamin D hoping to stay strong and independent, this is a meaningful reality check about supplement assumptions."
+        },
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "The Vitamin D and Frailty Story Is More Complicated Than Anyone Told You",
+          "hook": "We've been told vitamin D protects aging muscles and bones \u2014 but the clinical trial evidence tells a surprisingly different story.",
+          "pitch_angle": "A new narrative review reveals that randomized trials have largely failed to show that vitamin D supplements prevent frailty in people who already have adequate levels, even though the biological mechanisms look compelling on paper. It's an important reminder that association in population data doesn't always translate into a pill that works \u2014 and that supplement dosing strategy matters enormously."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42462501",
+      "headline": "Soy isoflavones shield mouse ovaries from nanoparticle damage \u2014 but we're far from knowing if it works in women",
+      "journal": "Journal of Trace Elements in Medicine and Biology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jtemb.2026.127926",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers exposed female mice to zinc oxide nanoparticles (ZnONPs) \u2014 widely used in sunscreens, cosmetics, and industrial products \u2014 and found dose-dependent ovarian damage including follicle loss, increased cell death, and hormonal disruption. Daily supplementation with soybean isoflavone (SI) at 50 mg/kg reduced oxidative stress, inhibited apoptosis, and largely reversed the structural and hormonal damage to ovarian tissue in mice. RNA sequencing identified a specific gene network (Ddx4/Er/Ar/H2ab1) through which SI appeared to exert its protective effects.",
+      "why_it_matters": "As zinc oxide nanoparticles become more prevalent in everyday consumer products, early animal evidence suggesting that dietary isoflavones may protect ovarian function from nanoparticle exposure warrants attention \u2014 though human relevance remains unconfirmed.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Animal study only; ovarian health angle relevant but findings not translatable to women yet.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Sunscreen's Nanoparticles Might Affect Your Ovaries \u2014 And Soy Could (Theoretically) Help",
+          "hook": "A new mouse study found that zinc oxide nanoparticles \u2014 a common ingredient in mineral sunscreens \u2014 damaged ovarian tissue, while soy isoflavones reversed much of that harm.",
+          "pitch_angle": "The study is in mice only, so no one should swap their SPF for edamame just yet \u2014 but the findings add to growing questions about nanoparticle exposure from cosmetics and personal care products and reproductive health. It's an early signal worth watching as human research catches up."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42419629",
+      "headline": "Cholesterol metabolism \u2014 not just cortisol \u2014 may be a key driver of adrenal tumors",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.metabol.2026.156691",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed proteomic profiling of adrenal tumor tissue samples from 29 patients with cortisol-producing adenomas (9 with Cushing's syndrome, 10 with subclinical Cushing's syndrome) and 10 non-functioning adenomas. Analysis found a progressive gradient of cholesterol metabolic dysregulation mirroring disease severity, and identified a four-protein panel as candidate diagnostic markers. Downregulation of a protein called CAB39L was flagged as a key driver of excess cortisol production.",
+      "why_it_matters": "Adrenal cortisol-producing adenomas disproportionately affect women, and identifying cholesterol metabolism as a disease driver may open new diagnostic and treatment avenues.",
+      "caveats": "small sample (N<100), single-center, animal or cell study components, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Endocrine topic with women's health relevance, but tiny sample, no sex-disaggregated data, and journalist recently passed on similar angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Surprise Culprit Behind Cortisol-Producing Tumors? Cholesterol Metabolism",
+          "hook": "Scientists studying adrenal tumors found that cholesterol processing \u2014 not cortisol pathways alone \u2014 appears to drive how severe these growths become.",
+          "pitch_angle": "A new proteomic study identified cholesterol metabolic reprogramming as a central feature of cortisol-producing adrenal adenomas, with dysregulation intensifying alongside disease severity. While the sample was small and findings are early-stage, the discovery suggests a new biological lens for understanding a condition that most often affects women."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42406274",
+      "headline": "Blocking a single signaling pathway may make drug-resistant thyroid cancer cells take up treatment again",
+      "journal": "Journal of Endocrinological Investigation",
+      "pubdate": "2026 Oct",
+      "doi": "10.1007/s40618-026-02963-8",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using a three-dimensional cell culture model designed to mimic the dedifferentiation process in thyroid cancer, researchers tested whether blocking TGF-\u03b21/Smad signaling with a drug called galunisertib could restore radioiodine uptake in resistant cancer cells. The 3D model successfully replicated hallmarks of treatment-resistant thyroid cancer, including loss of thyroid-specific proteins and increased stem cell markers. Galunisertib suppressed cancer stem cell characteristics and enhanced radioiodine uptake in the lab model.",
+      "why_it_matters": "Thyroid cancer is the most common endocrine malignancy and disproportionately affects women; this cell study suggests a potential strategy for restoring sensitivity to standard radioiodine therapy in hard-to-treat cases.",
+      "caveats": "animal or cell study, single-center, no sex-disaggregated data, no human clinical data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Women's health relevance for thyroid cancer; cell study only limits clinical translation; no human subjects.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Lab Discovery Could Help Make Stubborn Thyroid Cancer Respond to Treatment Again",
+          "hook": "Scientists found that blocking a single molecular pathway pushed drug-resistant thyroid cancer cells to once again absorb the radioiodine therapy they had stopped responding to.",
+          "pitch_angle": "In a cell study, researchers used a 3D tumor model to show that inhibiting TGF-\u03b21 signaling reversed features of treatment resistance in thyroid cancer and restored radioiodine uptake. Thyroid cancer is the most common endocrine cancer and is far more prevalent in women, making this early-stage finding one to watch \u2014 though human trials are needed."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42349366",
+      "headline": "A mental flexibility skill may shield pregnant women from depression triggered by fear of childbirth",
+      "journal": "Midwifery",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.midw.2026.104896",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed baseline data from the Flexi-PREP longitudinal cohort study, recruiting 395 pregnant women in their third trimester at three French maternity hospitals. Participants completed validated questionnaires measuring fear of childbirth, psychological flexibility, coping strategies, and depressive symptoms. Higher fear of childbirth and avoidant coping were associated with more prenatal depressive symptoms, while greater psychological flexibility was associated with fewer \u2014 and among women with low flexibility, fear of childbirth was more strongly linked to depression.",
+      "why_it_matters": "Psychological flexibility may be a trainable skill that could help protect pregnant women prone to childbirth-related fear from developing prenatal depression.",
+      "caveats": "observational design, single-country (France), cross-sectional analysis, self-reported outcomes, short follow-up",
+      "fact_check_note": "The moderation analysis did not show a statistically significant buffering effect overall \u2014 the abstract clearly states 'psychological flexibility did not significantly buffer the association between fear of childbirth and depressive symptoms'; the headline reflects the conditional/directional finding rather than a confirmed moderation effect.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong perinatal mental health topic fit; observational design and French-only sample limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A Simple Mindset Skill Could Help Protect Pregnant Women From Depression",
+          "hook": "Women who scored higher on 'psychological flexibility' during pregnancy had significantly fewer depressive symptoms \u2014 even when they were afraid of childbirth.",
+          "pitch_angle": "A French cohort study of nearly 400 third-trimester women found that psychological flexibility \u2014 the ability to accept difficult thoughts without being controlled by them \u2014 was associated with lower prenatal depression. The finding suggests childbirth prep programs that build this skill could offer meaningful mental health protection."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Fear of Giving Birth Is Real \u2014 Here's the Mental Skill That May Help",
+          "hook": "Fear of childbirth is one of the strongest predictors of prenatal depression, but a new study suggests how you relate to that fear matters just as much as the fear itself.",
+          "pitch_angle": "Researchers found that among pregnant women with low psychological flexibility, fear of childbirth was far more strongly tied to depressive symptoms \u2014 raising the question of whether ACT-based or mindfulness-rooted birth prep could be a missing piece in perinatal care."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42144695",
+      "headline": "Standard cortisol blood tests leave more than half of kids in a diagnostic gray zone for adrenal insufficiency",
+      "journal": "Clinical Endocrinology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/cen.70164",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 15 years of cortisol-stimulating test data from 904 pediatric patients (median age 10.1 years, 60% male) at a Brazilian tertiary center to evaluate how well baseline and peak cortisol levels diagnose central adrenal insufficiency. Baseline cortisol classified 58% of patients as indeterminate, meaning most children required a full stimulation test to reach a diagnosis. Both insulin tolerance and glucagon stimulation tests were found to be safe when performed in experienced centers.",
+      "why_it_matters": "For parents navigating a child's potential adrenal insufficiency diagnosis, this study suggests that a simple blood cortisol level is rarely sufficient and formal stimulation testing \u2014 though intimidating \u2014 is both necessary and safe.",
+      "caveats": "observational design, single-center, retrospective cohort, majority male sample, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric focus, majority male sample, no sex-disaggregated data, limited lifestyle hook for women's health readership.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Your Child's Cortisol Blood Test Probably Can't Diagnose Adrenal Insufficiency on Its Own",
+          "hook": "A 15-year study found that a basic cortisol reading left more than half of children in diagnostic limbo \u2014 requiring a more involved stimulation test to get answers.",
+          "pitch_angle": "Researchers analyzed nearly a thousand pediatric cases and found that standard baseline cortisol levels were diagnostically inconclusive in the majority of children tested for central adrenal insufficiency. The good news: the more rigorous stimulation tests needed to confirm the diagnosis are safe when done at experienced centers."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42813471",
+      "headline": "Men's brains activate reward circuits in response to fearful faces after becoming fathers \u2014 and it predicts bonding",
+      "journal": "Journal of Neuroendocrinology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/jne.70276",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used fMRI to study how 38 first-time expectant fathers processed fearful facial expressions before their child's birth and again approximately 8 months postpartum (n=34 at follow-up). After becoming fathers, men showed activation in the dorsal striatum \u2014 a reward-related brain region \u2014 in response to fearful faces, a pattern not seen prenatally. Higher dorsal striatum activation was associated with fewer father-infant bonding difficulties.",
+      "why_it_matters": "Understanding how fathers' brains adapt to parenthood \u2014 particularly how reward circuits engage with signals of distress \u2014 may help explain the neurobiology of paternal bonding and inform support for families where father-infant connection is strained.",
+      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "First longitudinal fMRI study of fatherhood transition; counterintuitive reward-fear link; indirectly relevant to perinatal family health.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "New Dads' Brains Literally Rewire to Notice When Someone Looks Scared \u2014 and It Makes Them Better Fathers",
+          "hook": "After having a baby, men's brains began treating fearful expressions as something to move toward rather than away from \u2014 and the stronger that response, the better they bonded with their infants.",
+          "pitch_angle": "A longitudinal fMRI study found that after becoming fathers, men activated reward brain regions when viewing fearful faces \u2014 a shift that wasn't present before their child was born. The finding suggests parenthood reshapes men's threat-detection systems in ways that support caregiving, offering a new lens on paternal bonding struggles."
+        },
+        {
           "publication_type": "The Cut",
-          "headline": "The Vape in Your Bag Was Almost Certainly Made in China \u2014 and the Industry Is Built to Stay One Step Ahead of Bans",
-          "hook": "Over 90% of the world's e-cigarettes are manufactured in a single city in China, using a business model specifically designed to outpace regulators \u2014 and it's working.",
-          "pitch_angle": "A new analysis found that China's e-cigarette industry operates like a fast-fashion brand \u2014 constantly refreshing flavors, designs, and products to sidestep bans, and exporting to 160-plus countries. With young women among the fastest-growing vape users in the US, the finding raises serious questions about whether any current regulation can actually keep up."
+          "headline": "Science Finally Looked at What Happens to Men's Brains When They Become Fathers",
+          "hook": "We talk a lot about how motherhood changes women's brains \u2014 but the first longitudinal fMRI study of new dads reveals fathers undergo their own quiet neurological transformation.",
+          "pitch_angle": "Researchers scanned expectant fathers' brains before and after their child's birth and found that the transition to fatherhood activated reward circuitry in response to fearful faces \u2014 a pattern linked to stronger father-infant bonding. The study is the first to track fear processing longitudinally across the transition to fatherhood in men."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710386",
+      "headline": "Fatty liver disease may hinge on an iron-oxidative stress loop \u2014 and diet could help break it",
+      "journal": "Nutrition Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.nutres.2026.08.002",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review from researchers in China examines how oxidative stress and iron metabolism interact to drive metabolic dysfunction-associated fatty liver disease (MAFLD), proposing the 'oxidative stress\u2013iron dysmetabolism axis' as a central disease mechanism. The authors summarize emerging dietary strategies \u2014 including specific dietary patterns, bioactive food compounds, and probiotics \u2014 that may interrupt this cycle and reduce liver injury. No original human trial data were generated; the review synthesizes existing preclinical and clinical evidence.",
+      "why_it_matters": "Women are increasingly affected by MAFLD \u2014 particularly around menopause when metabolic risk rises \u2014 making evidence-based dietary strategies targeting liver health especially relevant for this life stage.",
+      "caveats": "observational design, no sex-disaggregated data, review article (not primary research), animal or cell study data included within reviewed literature, study population in China",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant dietary/liver health topic for women; review design limits novelty.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Your Liver and Iron Levels Are More Connected Than You Think \u2014 Especially After Menopause",
+          "hook": "A new review suggests that a feedback loop between iron overload and oxidative stress may be quietly driving fatty liver disease \u2014 and specific dietary changes could interrupt it.",
+          "pitch_angle": "Researchers identified a key biological cycle linking iron dysregulation and cell-damaging reactive oxygen species at the heart of MAFLD progression, and found early evidence that dietary compounds and probiotics may help break this cycle. For women navigating midlife metabolic changes, the emerging link between iron metabolism and liver health is a largely overlooked angle worth exploring."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42385294",
+      "headline": "Psychedelics won't fix autism's core symptoms \u2014 but they might ease the anxiety and emotional chaos that come with it",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpsychires.2026.06.035",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Brazilian researchers conducted a narrative review of preclinical and early clinical evidence on psychedelic compounds \u2014 including psilocybin, LSD, MDMA, and ketamine \u2014 as potential therapies for autism spectrum disorder. No single large human trial was analyzed; the review synthesized mechanistic and translational data. The authors found that current evidence does not support psychedelics for core ASD social or behavioral symptoms, but suggests possible benefit for co-occurring anxiety, emotional dysregulation, and mood symptoms.",
+      "why_it_matters": "Autistic women are significantly underdiagnosed and often carry high burdens of anxiety and emotional dysregulation, making targeted approaches to these co-occurring symptoms particularly relevant.",
+      "caveats": "narrative review, no sex-disaggregated data, limited direct human clinical trial data in ASD populations, no pediatric evidence",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant emerging topic; narrative review limits strength; no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Psychedelics Are Being Studied for Autism \u2014 But Not for the Reasons You Think",
+          "hook": "Researchers say psilocybin and MDMA probably won't touch autism's core traits \u2014 but they may help with the relentless anxiety and emotional overwhelm that often accompany it.",
+          "pitch_angle": "The piece could explore why autistic women in particular might stand to benefit from anxiety-focused psychedelic-assisted approaches, and what the current evidence actually supports versus what the hype overpromises."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42379070",
+      "headline": "Online peer support predicts whether depressed teens actually use digital therapy \u2014 and gender doesn't change that",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpsychires.2026.06.036",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Australian researchers analyzed data from 109 young people aged 15\u201325 (mean age 20.5; 61% female) in remission from major depressive disorder who participated in Rebound, a peer-supported digital mental health intervention. They developed a new coding tool to measure therapeutic alliance expressed spontaneously in peer-to-peer online posts, finding it was reliably measurable for most dimensions. Stronger peer therapeutic alliance was significantly associated with greater engagement with online therapy content, and this relationship held equally across genders.",
+      "why_it_matters": "With depression rates rising sharply among young women, findings that peer connection \u2014 not just professional support \u2014 drives engagement with digital therapy tools could reshape how mental health apps are designed for this demographic.",
+      "caveats": "small sample (N<100 effective for subgroup analyses), observational design, single-center, Australian population, short follow-up, gender not disaggregated in outcome reporting",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Majority-female youth sample, digital mental health hook; small N and observational limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Secret to Actually Using Your Mental Health App? Peer Connection, Not Features",
+          "hook": "A new study found that depressed young people were far more likely to engage with digital therapy when they felt genuine connection with peers on the platform \u2014 not just with the app itself.",
+          "pitch_angle": "Researchers found that peer-to-peer therapeutic alliance in an online depression program significantly predicted how much users engaged with therapy content, suggesting the social layer of mental health apps may matter more than the tools themselves \u2014 a finding with direct implications for the booming women's wellness app market."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42143913",
+      "headline": "Genetic overlap between autistic traits and 'negative symptoms' in first-episode psychosis may explain why so many patients go unrecognized",
+      "journal": "European Neuropsychopharmacology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.euroneuro.2026.112859",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Spanish researchers conducted an exploratory longitudinal genetic study of adults with non-affective first-episode psychosis, examining whether polygenic scores for autism spectrum disorder predict autistic trait severity and negative symptoms (such as emotional blunting and social withdrawal) over time. The abstract was truncated and full sample size and sex breakdown could not be verified from the available text. Early findings suggest genetic architecture partially overlaps between autistic traits and negative symptoms in early psychosis, which may have implications for differential diagnosis.",
+      "why_it_matters": "Autistic traits are frequently missed in women with psychotic disorders, and genetic markers that help distinguish overlapping symptom profiles could eventually improve diagnostic accuracy for this underserved group.",
+      "caveats": "observational design, exploratory study, single-center (Spain), abstract truncated \u2014 full N and sex disaggregation could not be verified, longitudinal but early-stage",
+      "fact_check_note": "Abstract was truncated in the source material; sample size, sex breakdown, and full results could not be confirmed. Findings described are based on available text only.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Exploratory genetic study; truncated abstract limits verification; limited direct women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Psychosis and Autism May Share More Genetic Ground Than Doctors Realized",
+          "hook": "A new longitudinal study suggests that genetic factors underlying autistic traits and the 'negative symptoms' of psychosis \u2014 like emotional flatness and social withdrawal \u2014 may significantly overlap, complicating diagnosis.",
+          "pitch_angle": "Researchers found that polygenic scores for autism predicted autistic trait severity in people experiencing their first psychotic episode, raising questions about how often the two conditions are confused or missed \u2014 a diagnostic blind spot that disproportionately affects women, who are already underdiagnosed for both."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42134004",
+      "headline": "Women with ADHD, PTSD, and autism face disproportionately higher self-harm risk than men with the same diagnoses",
+      "journal": "European Neuropsychopharmacology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.euroneuro.2026.112860",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed 16 years of territory-wide electronic health records in Hong Kong, comparing 322,922 people with a first-recorded mental disorder diagnosis to 888,031 primary-care controls. Across all 14 diagnostic categories studied, people with mental disorders had roughly 10.6 times the self-harm incidence rate of controls. Subgroup analyses found that women showed disproportionately elevated self-harm risk compared to men across most diagnoses \u2014 most notably in PTSD, personality disorders, alcohol use disorder, autism spectrum disorder, and ADHD \u2014 and that youth aged 24 and under were at highest risk overall.",
+      "why_it_matters": "For women specifically, these findings suggest that commonly underdiagnosed conditions like ADHD and ASD may carry a self-harm risk that clinicians and loved ones are not adequately screening for.",
+      "caveats": "observational design, single-center (Hong Kong health system \u2014 results may not generalize to Western or diverse populations), secondary analysis of administrative records, no sex-disaggregated data on all subgroup comparisons",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large female-relevant cohort, sex-disaggregated findings, observational design limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Women With ADHD and Autism Are at Sharply Higher Self-Harm Risk \u2014 and Almost No One Is Talking About It",
+          "hook": "A massive 16-year study found that women newly diagnosed with ADHD or autism faced disproportionately higher self-harm risk than their male counterparts \u2014 conditions already notoriously underdiagnosed in women.",
+          "pitch_angle": "Researchers tracking over 300,000 people found female-skewed self-harm risk across most mental disorders, with ADHD, autism, and PTSD showing the starkest gender gaps. For a readership increasingly aware of late-diagnosis stories, this reframes those diagnoses not just as identity revelations but as urgent safety signals."
         },
         {
           "publication_type": "Prevention",
-          "headline": "Why Vaping Bans Keep Failing \u2014 and What It Means for Your Health",
-          "hook": "Every time regulators ban a vape product, new ones flood the market almost instantly \u2014 and a new study explains exactly why that keeps happening.",
-          "pitch_angle": "Researchers traced the global dominance of Chinese e-cigarette manufacturers, who produce more than 90% of the world's supply using rapid-innovation tactics borrowed from consumer goods, not tobacco. The result is a regulatory gap that disproportionately affects younger women who vape, since health risks from constantly changing product formulations remain largely unstudied."
+          "headline": "Your Mental Health Diagnosis May Put You at Far Greater Self-Harm Risk Than Doctors Realize \u2014 Especially If You're a Woman",
+          "hook": "New research tracking 322,000 people over 16 years found that women with mental health diagnoses \u2014 especially PTSD, ADHD, and autism \u2014 faced consistently higher self-harm rates than men with the same conditions.",
+          "pitch_angle": "The study maps self-harm risk across 14 mental disorders and finds women are consistently more vulnerable, a pattern that suggests standard mental health screening may be missing something critical in female patients. Prevention readers managing their own or a family member's mental health will want to know which diagnoses warrant the closest watch."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42229608",
+      "headline": "Scientists grow human ovary tissue in 3D without a scaffold \u2014 opening new doors for fertility and cancer research",
+      "journal": "Fertility and Sterility",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.fertnstert.2026.05.168",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Universit\u00e9 Catholique de Louvain in Belgium developed a novel matrix-free, three-dimensional ovarian model called 'ovarioids' using human ovarian tissue. The study describes the establishment and characterization of this lab model, which does not require an external scaffold to maintain structure. The model is intended to advance research into ovarian function, fertility preservation, and gynecologic disease without the limitations of traditional 2D cell cultures.",
+      "why_it_matters": "A more realistic lab model of human ovarian tissue could accelerate research into fertility preservation, ovarian aging, and treatments for conditions like ovarian cancer and premature ovarian insufficiency.",
+      "caveats": "animal or cell study, small sample, single-center, no clinical outcomes reported",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Fertility research relevance; lab/cell model limits immediate clinical applicability and reader hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Scientists Just Built a 3D Model of the Human Ovary \u2014 And It Could Change Fertility Research",
+          "hook": "For the first time, researchers have grown functional human ovary tissue in three dimensions without any scaffold \u2014 a step that could eventually help women preserve their fertility before cancer treatment.",
+          "pitch_angle": "Belgian scientists created 'ovarioids,' self-organizing clusters of human ovarian cells that mimic real ovarian tissue, offering a more accurate model than anything used before; while still early-stage lab science, the technology could one day help researchers test fertility-preserving treatments and study ovarian aging in a way that's far closer to what happens inside a woman's body."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42808571",
+      "headline": "Ultrasound misses a key form of endometriosis far too often \u2014 and a decade of data shows exactly where it falls short",
+      "journal": "The Australian & New Zealand Journal of Obstetrics & Gynaecology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/ajo.70183",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective observational study of 221 patients with suspected endometriosis who underwent enhanced transvaginal ultrasound (eTVUS) followed by laparoscopy at a single Australian tertiary hospital between 2015 and 2024. Ultrasound and surgical findings were mapped using the #ENZIAN classification system, with laparoscopy serving as the reference standard. eTVUS performed well for ovarian endometriomas (sensitivity 81.4%) but showed low sensitivity for peritoneal disease, rarely detecting it at all, and zero positive predictive value for ureteric involvement.",
+      "why_it_matters": "For the millions of women on a years-long path to an endometriosis diagnosis, these findings highlight that a commonly used imaging tool may be missing some of the hardest-to-detect disease \u2014 particularly peritoneal lesions \u2014 even at a specialized center.",
+      "caveats": "observational design, retrospective, single-center, single-country (Australia)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Endometriosis diagnostic accuracy; strong topic fit, but retrospective single-center design limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Ultrasound Still Misses One Type of Endometriosis Almost Entirely",
+          "hook": "A decade of data from a specialized Australian hospital found that enhanced transvaginal ultrasound \u2014 often the first imaging step for suspected endometriosis \u2014 rarely detected peritoneal disease at all.",
+          "pitch_angle": "The study of 221 women found that while ultrasound caught ovarian endometriomas reasonably well, it nearly always missed the peritoneal form of the disease, raising serious questions about why so many women wait years for a diagnosis even after imaging; experts say laparoscopy remains the gold standard, and this data underscores why symptoms should never be dismissed when scans come back 'normal.'"
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "You Had the Ultrasound. It Came Back Normal. You Still Might Have Endometriosis.",
+          "hook": "A ten-year retrospective study found that a specialized pelvic ultrasound \u2014 the test many doctors rely on first \u2014 has a near-zero detection rate for one common form of endometriosis.",
+          "pitch_angle": "Researchers reviewed over 200 cases where ultrasound findings were later compared to what surgeons actually found, and the gap was stark for peritoneal disease \u2014 the type that doesn't show up as cysts; for women who've been told their imaging looks fine but whose pain persists, this data suggests the diagnostic system may still be failing them."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42296620",
+      "headline": "Healthcare providers aren't prepared to help larger-bodied women breastfeed \u2014 and the gaps start before birth",
+      "journal": "Midwifery",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.midw.2026.104892",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Germany and Switzerland conducted 22 semi-structured qualitative interviews with healthcare professionals (n=20) and mothers with lived experience (n=2) to explore how breastfeeding support is provided to women with overweight or obesity across the perinatal period. Participants described inconsistent information, unclear professional responsibilities, and gaps in continuity of care as key barriers, with midwives identified as the most important source of practical and relational support. The study found no coordinated, stigma-sensitive system for this population, despite their known lower breastfeeding initiation and duration rates.",
+      "why_it_matters": "Women with higher BMIs are already less likely to breastfeed, and this study suggests that fragmented, potentially stigmatizing care from providers may be making that gap worse \u2014 pointing to a fixable systemic problem.",
+      "caveats": "small sample (N<100), qualitative design, single-center (Germany/Switzerland), self-reported outcomes, only 2 mothers with lived experience included",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postpartum/breastfeeding focus, women-specific; very small sample and qualitative design limit weight.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Larger-Bodied Women Want to Breastfeed \u2014 But the Healthcare System Keeps Dropping the Ball",
+          "hook": "Women with higher BMIs breastfeed less \u2014 and a new study suggests it's not just biology, it's the inconsistent, sometimes stigmatizing care they receive from providers.",
+          "pitch_angle": "Interviews with 20 healthcare professionals across Germany and Switzerland revealed a fragmented, poorly coordinated system for supporting breastfeeding in women with overweight or obesity, with unclear roles and inconsistent guidance leaving mothers without the help they need. Midwives emerged as the most trusted support figure, but even their guidance wasn't standardized \u2014 signaling a gap the healthcare system has yet to seriously address."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42161192",
+      "headline": "A simple ultrasound ratio taken mid-pregnancy may flag a rare muscle disorder before birth",
+      "journal": "Early Human Development",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.earlhumdev.2026.106580",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in China established normal reference ranges for a new ultrasound measurement \u2014 the ratio of lean mass to soft tissue in the fetal mid-thigh (LMSTr) \u2014 across 430 singleton pregnancies from 20 to 32 weeks of gestation. They then retrospectively reviewed six confirmed cases of fetal congenital myopathy and found that five of them (83%) showed an abnormally low LMSTr on ultrasound. The measurement showed strong inter- and intra-observer agreement, suggesting it is reproducible.",
+      "why_it_matters": "Congenital myopathies are difficult to detect prenatally, and an easy-to-obtain ultrasound ratio could give pregnant women and their care teams earlier warning to plan for specialized newborn care.",
+      "caveats": "small sample (N<100 for myopathy cases), single-center, observational design, study population limited to Chinese cohort (reference ranges may not generalize)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Prenatal health hook; very small myopathy case series limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "A Routine Ultrasound Measurement Could Flag a Rare Muscle Disorder Before a Baby Is Born",
+          "hook": "By looking at the ratio of lean tissue to fat in a fetus's thigh, researchers found they could spot a rare \u2014 and often missed \u2014 muscle condition as early as 20 weeks.",
+          "pitch_angle": "A new study found that a straightforward ultrasound ratio correctly flagged congenital myopathy in 83% of confirmed cases, suggesting it could become a practical prenatal screening tool. The research is early and based on a small number of affected fetuses, but for pregnant women in high-risk families, earlier detection could meaningfully change delivery planning and newborn care."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42097447",
+      "headline": "A rare vaginal birth defect is frequently mismanaged before specialist referral \u2014 even in teenage girls with severe symptoms",
+      "journal": "Journal of pediatric and adolescent gynecology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpag.2026.04.017",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a 10-year retrospective cohort study at a specialist UK center reviewing surgical outcomes in 61 patients (median age 15, range 11\u201331) with obstructed hemivagina, a rare congenital anomaly causing trapped menstrual blood and significant pain. One-quarter of patients had already undergone emergency or incomplete procedures before specialist referral, and one-third were not receiving menstrual suppression at referral. Vaginal septal excision at the specialist center was associated with a low re-obstruction rate of 3.3%.",
+      "why_it_matters": "Girls and young women with this rare but painful condition are frequently mismanaged before reaching specialist care, highlighting gaps in adolescent gynecological awareness that could delay treatment of a surgically correctable condition.",
+      "caveats": "small sample (N<100), single-center, observational design, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Adolescent reproductive health, surgical outcomes, clear gap-in-care finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "A Painful Teen Gynecology Condition Is Being Missed \u2014 and One-Quarter of Girls Get the Wrong Treatment First",
+          "hook": "A congenital vaginal condition that causes trapped menstrual blood and severe pelvic pain in teenage girls is frequently misdiagnosed or mismanaged before specialist care \u2014 but surgery fixes it with just a 3% recurrence rate.",
+          "pitch_angle": "A 10-year UK study of 61 adolescents and young women found that obstructed hemivagina \u2014 which often causes debilitating symptoms at the first period \u2014 was frequently handled with emergency or incomplete procedures before specialist referral, delaying proper care. Specialist surgery resolved the condition in nearly all cases, pointing to an urgent need for better awareness among frontline providers."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why So Many Teenage Girls With This Hidden Reproductive Condition Get the Wrong Treatment First",
+          "hook": "One in four young women with a surgically correctable vaginal birth defect had already been through an emergency or incomplete procedure before anyone correctly diagnosed them.",
+          "pitch_angle": "Obstructed hemivagina \u2014 a rare congenital anomaly that often surfaces when a girl gets her first period \u2014 is frequently mishandled before reaching a specialist, according to a decade-long UK study. The finding underscores how little awareness exists around rare adolescent gynecological conditions, and how access to specialist care can be lifesaving for young women in pain."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786437",
+      "headline": "A $1.50 device could catch the bleeding that kills one in four new mothers in Ghana",
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14767058.2026.2734654",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at the University of Michigan, in collaboration with clinicians in Ghana, developed and bench-tested Quantavag, a low-cost device designed to accurately measure uterine blood loss after delivery \u2014 a critical gap in postpartum hemorrhage (PPH) diagnosis in low-resource settings. The development process included 45 interviews with healthcare professionals, midwives, and patients in Ghana and the US. In benchtop verification using 3D-printed prototypes, the device collected fluid at over 80% accuracy across 100\u2013500 mL volumes at an estimated per-use cost of $1.50.",
+      "why_it_matters": "Postpartum hemorrhage is the leading cause of maternal death globally, and an accurate, affordable blood-loss tool could help frontline health workers in low-resource settings catch dangerous bleeding before it becomes fatal.",
+      "caveats": "small sample (N<100), benchtop/prototype testing only (no clinical validation yet), single-center, no real-blood or clot testing completed, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Postpartum safety innovation; early-stage but globally significant maternal health finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "This $1.50 Device Could Save Mothers' Lives by Measuring Postpartum Bleeding More Accurately",
+          "hook": "Postpartum hemorrhage kills more new mothers than nearly any other complication \u2014 and often, the problem is that no one measures blood loss accurately enough to catch it in time.",
+          "pitch_angle": "A University of Michigan team developed Quantavag, a simple device costing just $1.50 per use that could help midwives and health workers in low-resource settings accurately gauge dangerous postpartum bleeding. Early lab tests show it collected fluid at over 80% accuracy \u2014 now clinical trials in Ghana will test whether it can save lives at scale."
+        },
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Postpartum Hemorrhage Is Still a Leading Killer of New Mothers. A New $1.50 Device Wants to Change That.",
+          "hook": "In Ghana, postpartum hemorrhage accounts for about 27% of maternal deaths \u2014 often because blood loss goes unmeasured until it's too late.",
+          "pitch_angle": "Engineers and OB-GYNs collaborated across the US and Ghana to build Quantavag, an inexpensive uterine blood-loss tool designed for clinics where costly monitoring equipment isn't available. The early bench-test results suggest it could become a practical frontline tool for one of childbirth's most dangerous and preventable complications."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42807524",
+      "headline": "PRP is being used on postpartum wounds and C-section scars \u2014 but the evidence barely supports it yet",
+      "journal": "International Journal of Women's Health",
+      "pubdate": "2026",
+      "doi": "10.2147/IJWH.S636448",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review from a Chinese maternal-child health hospital evaluated published clinical evidence for platelet-rich plasma (PRP) in postpartum wound and scar repair, covering cesarean abdominal wounds, perineal injury, pelvic floor trauma, and uterine scars. The strongest evidence \u2014 from several small controlled studies and two meta-analyses \u2014 suggests only modest improvement in early wound and scar measures after cesarean delivery, with no consistent reduction in postoperative pain. Evidence for perineal and uterine scar applications is limited, heterogeneous, and largely exploratory, with uterine scar use resting on a single small pilot trial.",
+      "why_it_matters": "As PRP gains popularity as a 'natural' healing treatment, this review cautions that the evidence does not yet support routine postpartum use \u2014 particularly for uterine scars, where claims about improved fertility or reduced rupture risk are not backed by the data.",
+      "caveats": "narrative review (not systematic), single-center authorship (Chengdu, China), no primary data, heterogeneous underlying studies, no patient-level data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postpartum and reproductive health topic with wellness hook; narrative review limits evidential weight.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Allure",
+          "headline": "PRP Is Trending for Postpartum Healing \u2014 But Scientists Say the Evidence Is Barely There",
+          "hook": "Platelet-rich plasma is being applied to C-section scars, perineal tears, and even uterine wounds \u2014 but a new review finds the science hasn't caught up with the hype.",
+          "pitch_angle": "A review of all available clinical evidence found that while PRP shows modest promise for surface-level cesarean wound healing, claims about it strengthening uterine scars, improving fertility, or reducing rupture risk are not supported by current data. Researchers say better-designed trials with patient-reported outcomes are urgently needed before PRP becomes a routine postpartum recommendation."
+        },
+        {
+          "publication_type": "Health.com / Prevention",
+          "headline": "That 'Natural' Blood Plasma Treatment for C-Section Scars? Doctors Say It's Not Ready for Routine Use",
+          "hook": "PRP \u2014 the same therapy used in sports medicine and cosmetic procedures \u2014 is making its way into postpartum care, but a new review finds the evidence is thin.",
+          "pitch_angle": "Researchers analyzed clinical studies on PRP for postpartum wounds and found that early results for C-section skin healing are modestly encouraging, but evidence for deeper applications \u2014 including uterine scar repair \u2014 rests on just one small pilot trial. Until larger, better-designed studies exist, routine postpartum PRP use isn't supported."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
@@ -178,126 +1081,6 @@
       "status": "new"
     },
     {
-      "pmid": "42790802",
-      "headline": "More muscle mass may protect your spine \u2014 but grip strength alone doesn't, large study finds",
-      "journal": "Bone",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1016/j.bone.2026.118113",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed data from over 490,000 UK Biobank participants and used Mendelian randomization \u2014 a method that helps infer causal relationships from genetic data \u2014 to examine whether muscle mass and grip strength are linked to spinal degenerative diseases including lumbar disc herniation and spinal stenosis. Higher whole-body and appendicular lean mass (muscle mass) showed a protective causal effect against lumbar slipped discs and spinal stenosis, but grip strength alone did not show a significant causal effect. An additional gene-level analysis identified 12 genes potentially involved in these relationships, including protective genes linked to spinal health.",
-      "why_it_matters": "Women lose muscle mass more rapidly around menopause and are at elevated risk for spinal stenosis and disc disease, making this finding especially relevant to understanding whether preserving lean mass through midlife could support spine health.",
-      "caveats": "observational design, no sex-disaggregated data, single-center (UK Biobank population)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large cohort, counterintuitive grip-strength null finding; no female-specific analysis limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Building Muscle \u2014 Not Just Hand Strength \u2014 May Be What Protects Your Spine as You Age",
-          "hook": "A massive study of nearly 500,000 people found that overall muscle mass \u2014 not grip strength \u2014 may causally protect against two of the most common causes of back pain and disability.",
-          "pitch_angle": "Lumbar disc herniation and spinal stenosis are leading causes of pain and mobility loss in midlife women, and this study suggests that preserving lean muscle mass \u2014 not just strength \u2014 may be key to spine health. The finding is especially timely given that women lose muscle mass more quickly after menopause, when spinal disease risk also climbs."
-        },
-        {
-          "publication_type": "Shape",
-          "headline": "Your Grip Strength Doesn't Predict Back Problems \u2014 But Your Total Muscle Mass Might",
-          "hook": "Forget what you've heard about hand-grip tests as a health proxy: a 490,000-person study found it's overall muscle mass, not grip strength, that's linked to a lower risk of serious spinal conditions.",
-          "pitch_angle": "Researchers found a likely causal protective effect of lean body mass against lumbar disc herniation and spinal stenosis \u2014 but grip strength alone didn't make the cut as a predictor. For women focused on functional fitness, the message shifts from 'squeeze harder' to 'build more muscle throughout your body.'"
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42788222",
-      "headline": "An online therapy platform helped psychosis caregivers feel less alone \u2014 and less burned out",
-      "journal": "Journal of Mental Health",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1080/09638237.2026.2732880",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tested Altitudes, a 6-month blended digital platform offering psychoeducation, therapy content, and social networking for caregivers of people with first-episode psychosis. Participants (N not specified in abstract) completed assessments at baseline, 3 months, and 6 months. At follow-up, caregivers reported lower distress, greater self-compassion, more positive caregiving experiences, and reduced loneliness, though confidence intervals were wide.",
-      "why_it_matters": "Because women make up the majority of informal caregivers for people with serious mental illness, digital tools that reduce caregiver burnout and loneliness could meaningfully improve their own mental health.",
-      "caveats": "small sample (N<100), no control group, self-reported outcomes, short follow-up, no sex-disaggregated data, wide confidence intervals noted by authors",
-      "fact_check_note": "Abstract does not specify sample size (N); described only as caregivers of first-episode psychosis patients. This should be verified before publishing.",
-      "relevance_score": 5,
-      "relevance_score_reason": "Caregiver mental health is women-relevant but no sex-disaggregated data and weak design.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "This Online Platform Helped Psychosis Caregivers Feel Less Burned Out \u2014 From Home",
-          "hook": "Caring for a family member with psychosis is isolating work \u2014 but a new digital therapy platform suggests it doesn't have to be.",
-          "pitch_angle": "A 6-month online program combining therapy, peer support, and psychoeducation found that caregivers reported less distress and loneliness by the end. Since women shoulder the majority of informal caregiving, accessible digital mental health tools could fill a real gap for this overlooked group."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786262",
-      "headline": "Some psychiatric patients may actually have an immune system disorder attacking their brain \u2014 and doctors are missing it",
-      "journal": "Molecular Psychiatry",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1038/s41380-026-03871-2",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A large European expert network (GENERATE) published clinical recommendations for identifying autoimmune encephalitis \u2014 a condition where the immune system attacks the brain \u2014 in psychiatric settings. The guidance addresses patients who present with psychiatric symptoms such as psychosis, mood disturbance, or cognitive changes and may be misdiagnosed with primary psychiatric disorders. The panel found significant unresolved challenges in diagnosis, including the lack of standardized testing protocols and the frequent overlap of autoimmune encephalitis symptoms with schizophrenia, bipolar disorder, and depression.",
-      "why_it_matters": "Women are disproportionately affected by autoimmune conditions, making it especially important for clinicians and patients to recognize when psychiatric symptoms may have an immune-driven, treatable cause.",
-      "caveats": "no sex-disaggregated data, single-region (Germany/Europe), consensus/expert-opinion design rather than original clinical trial",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant autoimmune-psychiatric overlap; no female-specific data reported.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "Your 'Psychiatric' Symptoms Might Actually Be Your Immune System Attacking Your Brain",
-          "hook": "A major European expert network says autoimmune encephalitis is being routinely missed in psychiatric patients \u2014 and women, who are more prone to autoimmune disease, may be most at risk of misdiagnosis.",
-          "pitch_angle": "Researchers from dozens of German medical centers have published the first clinical roadmap for spotting an immune-driven brain condition that masquerades as psychosis, depression, or bipolar disorder. For women \u2014 who already face higher rates of autoimmune disease \u2014 this raises urgent questions about whether psychiatric diagnoses are always what they seem."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42789056",
-      "headline": "A rare genetic deletion in sperm causes fertilization to go haywire \u2014 and a workaround led to a live birth",
-      "journal": "Asian journal of andrology",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.4103/aja202630",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in China identified a novel homozygous chromosomal microdeletion in the ACTL9 gene in a single infertile man whose sperm caused multiple eggs to be fertilized simultaneously (polyspermy) during conventional IVF and near-total fertilization failure during ICSI. Microscopy revealed structural defects in the sperm's acrosome and absence of a key protein (PLCZ1) needed to trigger normal fertilization. Using ICSI combined with artificial egg activation, the team rescued the fertilization problem and achieved a live birth.",
-      "why_it_matters": "For couples experiencing unexplained IVF failure, this case suggests sperm genetic mutations affecting fertilization activation \u2014 not just sperm count or motility \u2014 may be an overlooked cause, and targeted lab interventions may help.",
-      "caveats": "small sample (N<100), single-center, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong fertility hook; single case limits generalizability significantly.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "IVF Kept Failing \u2014 Then Doctors Found a Rare Sperm Gene Defect No One Had Seen Before",
-          "hook": "When a couple's conventional IVF produced only chaotically fertilized eggs, the problem turned out to be hidden in the sperm's DNA.",
-          "pitch_angle": "A new case report reveals that a rare deletion in a gene called ACTL9 can cause sperm to trigger abnormal fertilization \u2014 and that a specialized lab technique called artificial oocyte activation successfully led to a live birth, expanding what's possible for couples with unexplained IVF failure."
-        },
-        {
-          "publication_type": "Health.com",
-          "headline": "A Mysterious IVF Failure Was Traced to a Gene Defect in Sperm \u2014 and a Creative Fix Made a Baby",
-          "hook": "Not all IVF failures are about egg quality \u2014 sometimes the problem lives in the sperm's genes.",
-          "pitch_angle": "Researchers identified a previously unreported genetic deletion that caused a man's sperm to malfunction during fertilization; a specialized IVF technique bypassed the defect and resulted in a healthy birth, suggesting new diagnostic pathways for couples facing repeated unexplained IVF failure."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42786378",
       "headline": "Two injections instead of daily shots may work nearly as well for egg freezing \u2014 but the math isn't quite there yet",
       "journal": "Human Reproduction",
@@ -327,93 +1110,6 @@
       ],
       "run_date": "2026-09-29",
       "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42444565",
-      "headline": "Giving NICU babies picture symbols \u2014 like a star or a turtle \u2014 may help prevent dangerous mix-up errors",
-      "journal": "Journal of perinatal medicine",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1515/jpm-2026-0027",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers across multiple US medical centers piloted a system called 'Pictographs' \u2014 simple images chosen by parents and displayed at the bedside and in the electronic health record \u2014 to help clinicians correctly identify newborns in the NICU and avoid wrong-patient medication or procedure errors. The feasibility study, part of a larger multicenter RCT, found that the vast majority of caregivers selected a pictograph for their infant, and clinicians recognized its potential to reduce mix-ups, particularly for twins and other multiples. The study did not yet measure whether errors were actually reduced, as effectiveness data from the full RCT are pending.",
-      "why_it_matters": "Wrong-patient errors in the NICU can cause serious harm to the most vulnerable newborns, and a simple parent-driven visual system could be a low-cost, scalable safety solution for families navigating an already stressful experience.",
-      "caveats": "small sample (N<100), observational design, short follow-up, self-reported outcomes",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant to new parents; feasibility only, no efficacy data yet.",
-      "pitch_angles": [
-        {
-          "publication_type": "Good Housekeeping",
-          "headline": "NICU Parents Are Being Asked to Pick a Picture Symbol for Their Baby \u2014 And It Could Prevent a Scary Medical Error",
-          "hook": "A simple idea \u2014 giving each NICU baby a unique picture, like a butterfly or a moon, chosen by the parents \u2014 may help prevent dangerous mix-ups in one of the most high-stakes hospital settings.",
-          "pitch_angle": "A multicenter pilot found that parents readily embraced assigning pictograph identifiers to their NICU infants, and nurses and doctors said the visual cues could help them avoid wrong-patient errors, especially for twins; the full randomized trial is underway to confirm whether the approach actually reduces mistakes."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42779420",
-      "headline": "A neglected blood sugar test may catch what your A1c is missing \u2014 especially if you have anemia or kidney disease",
-      "journal": "Journal of Diabetes Investigation",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1111/jdi.70447",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This review revisits glycated albumin (GA), a blood marker that reflects average glucose levels over roughly two weeks \u2014 shorter than the three-month window of the standard HbA1c test \u2014 and examines its clinical utility, limitations, and emerging measurement methods. GA is especially useful when HbA1c is unreliable, such as in people with iron deficiency anemia, kidney failure, or hemoglobin variants, conditions that disproportionately affect women. New measurement approaches including finger-prick sampling, home weekly testing, and noninvasive saliva and tear assays are expanding its potential for everyday diabetes monitoring.",
-      "why_it_matters": "Women with diabetes who also have iron deficiency anemia \u2014 a common combination \u2014 may be getting misleading A1c readings, and glycated albumin could offer a more accurate short-term picture of blood sugar control.",
-      "caveats": "secondary analysis, observational design, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong women's health hook (iron deficiency, anemia); review design limits scoring.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "If You Have Anemia and Diabetes, Your A1c Test May Be Lying to You",
-          "hook": "A decades-old blood marker is getting a second look \u2014 and it may be more useful than the standard A1c test for women managing both iron deficiency and diabetes.",
-          "pitch_angle": "Glycated albumin tracks blood sugar over just two weeks and isn't thrown off by low iron or anemia the way HbA1c is, making it potentially more accurate for a sizable group of women. New home-testing formats \u2014 including finger-prick and even saliva samples \u2014 could make it practical for everyday monitoring."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Two-Week Blood Sugar Snapshot That Could Change How Women with Diabetes Track Their Health",
-          "hook": "A lesser-known blood test responds to dietary changes in as little as two weeks \u2014 and researchers say it may catch blood sugar problems that the standard three-month A1c test misses.",
-          "pitch_angle": "Glycated albumin picks up short-term glucose spikes, including after meals, and isn't distorted by iron deficiency or anemia \u2014 conditions that are far more common in women. With noninvasive saliva and tear-based versions in development, it could eventually become a routine at-home health tool."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42782508",
-      "headline": "A little-known fat molecule may quietly boost GLP-1 \u2014 the same hormone Ozempic mimics",
-      "journal": "Diabetologia",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1007/s00125-026-06877-1",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used metabolomics on meal-test plasma samples from adults to identify sphinganine \u2014 a sphingolipid fat molecule \u2014 as the strongest predictor of a high GLP-1 response, then tested it across cell lines, human intestinal organoids, rat intestinal perfusion models, and mice. In cell and organoid experiments, sphinganine doubled GLP-1 secretion via a G-protein-coupled receptor mechanism; in rats, luminal administration increased GLP-1 but the effect reached statistical significance only in males. In mice on a high-fat diet, prolonged feeding with sphinganine reduced weight gain without changing food intake, though acute oral dosing did not raise GLP-1.",
-      "why_it_matters": "Early evidence suggests a naturally occurring lipid could influence the same appetite-regulating hormone pathway targeted by GLP-1 drugs, potentially opening dietary or therapeutic avenues for women managing weight or metabolic health.",
-      "caveats": "animal or cell study, no sex-disaggregated data (human arm is metabolomics only; rat GLP-1 effect significant in males only), small sample (N<100 for human metabolomics), short follow-up, industry funding [Novo Nordisk Foundation], secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Mechanistic/preclinical; GLP-1 hook relevant but mostly animal data, sex gap flagged.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "Your body may already make a molecule that triggers the same hormone as Ozempic \u2014 here's what scientists just found",
-          "hook": "A fat molecule called sphinganine doubled GLP-1 \u2014 the hunger hormone Ozempic mimics \u2014 in lab experiments, and early mouse data hints it may curb weight gain.",
-          "pitch_angle": "Researchers identified sphinganine, a naturally occurring sphingolipid, as the strongest predictor of a robust GLP-1 response in a metabolomics study of adults eating a meal. The finding is very early-stage and mostly from animal and cell work, but it raises intriguing questions about whether dietary or lifestyle factors that influence sphingolipid levels could matter for metabolic health."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
@@ -654,60 +1350,6 @@
       ],
       "run_date": "2026-09-29",
       "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786437",
-      "headline": "A $1.50 device could catch deadly postpartum bleeding before it's too late in low-resource hospitals",
-      "journal": "Journal of Maternal-Fetal & Neonatal Medicine",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/14767058.2026.2734654",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at the University of Michigan and Ghana developed Quantavag, a low-cost device designed to accurately measure postpartum blood loss in resource-limited settings, conducting 45 stakeholder interviews in Ghana and the US followed by benchtop prototype testing. The device achieved greater than 80% fluid collection accuracy across clinically relevant blood loss volumes (100\u2013500 mL) and its estimated per-use cost is $1.50. Postpartum hemorrhage causes roughly 27% of maternal deaths in Ghana and is the leading cause of maternal mortality globally in low-resource settings.",
-      "why_it_matters": "Accurate, affordable blood loss measurement at delivery could save thousands of women's lives annually in under-resourced hospitals where postpartum hemorrhage often goes undetected until it becomes fatal.",
-      "caveats": "pre-clinical (benchtop only, no human subjects tested yet), tested with water not blood, single-region development focus (Ghana/US), no clinical validation data yet",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Compelling global maternal health angle; pre-clinical stage limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com / General health",
-          "headline": "A $1.50 Device Could Soon Prevent One of the Deadliest Childbirth Complications Worldwide",
-          "hook": "Postpartum hemorrhage is the leading cause of maternal death in low-resource settings \u2014 and a cheap, 3D-printed tool may finally give hospitals a way to catch it in time.",
-          "pitch_angle": "University of Michigan engineers and Ghanaian clinicians developed Quantavag, a disposable blood-collection device that accurately measured simulated postpartum blood loss in lab testing at a cost of just $1.50 per use. While human trials are still ahead, the early data suggests it could one day close a critical gap in maternal care for women who currently have no reliable way to have their blood loss objectively measured after delivery."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42807524",
-      "headline": "PRP injections are being used on C-section scars and perineal tears \u2014 but the evidence is still thin",
-      "journal": "International Journal of Women's Health",
-      "pubdate": "2026",
-      "doi": "10.2147/IJWH.S636448",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review from a Chinese maternal-child health hospital examined existing clinical evidence for platelet-rich plasma (PRP) therapy applied to postpartum wound sites including cesarean abdominal wounds, perineal tears, and uterine scars. Evidence was strongest for cesarean wound healing, where two meta-analyses showed modest early improvement in some wound measures, though postoperative pain was not consistently reduced; evidence for perineal repair was heterogeneous and largely uncontrolled; and uterine scar application rests on a single small pilot trial. The authors conclude that PRP's clinical translation in obstetrics is limited by inconsistent preparation protocols, small samples, and absence of long-term reproductive outcomes.",
-      "why_it_matters": "As PRP becomes increasingly marketed for postpartum recovery, this review suggests the evidence base for most obstetric uses remains too weak to support routine use \u2014 an important reality check for postpartum women considering the treatment.",
-      "caveats": "narrative review (not systematic), single-center authorship, China-based authors (some study context may not generalize), no original data, heterogeneous underlying studies",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Postpartum health topic with wellness hook; narrative review design limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "PRP for C-Section Scars Is Trending \u2014 but Does It Actually Work?",
-          "hook": "Platelet-rich plasma therapy is being offered for postpartum wound healing, but a new review of all the evidence finds the science hasn't caught up with the hype.",
-          "pitch_angle": "A comprehensive review found that while PRP may modestly help some early measures of cesarean wound healing, it has not been shown to reduce pain, and evidence for perineal repair or uterine scar strengthening is largely anecdotal or from tiny studies. For postpartum women curious about PRP, this is a signal to ask hard questions before paying out of pocket for an unproven treatment."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
@@ -12397,33 +13039,6 @@
       "status": "new"
     },
     {
-      "pmid": "42557604",
-      "headline": "Suicide statistics may be hiding a troubling truth about who is at risk \u2014 due to a math quirk",
-      "journal": "Psychiatric Services",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1176/appi.ps.20240228",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This analysis from VA researchers examined how Simpson's Paradox \u2014 a statistical phenomenon where trends visible in subgroups disappear or reverse when data are combined \u2014 can distort suicide surveillance data. The study used Veterans Affairs data to illustrate how aggregating suicide rates across demographic subgroups can obscure real patterns of risk. No sample size or specific subgroup results are reported in the available abstract.",
-      "why_it_matters": "Misleading aggregated suicide statistics could mask elevated risk in specific groups of women \u2014 including veterans or women of color \u2014 leading to underfunded prevention efforts.",
-      "caveats": "no sex-disaggregated data, abstract-only \u2014 insufficient detail to verify findings",
-      "fact_check_note": "Abstract provides no sample size, methodology detail, or specific results; summary reflects only what can be confirmed from the available text.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Methodological commentary; no female-specific data; abstract too thin to score higher.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "The Way We Count Suicide Deaths May Be Hiding Who's Most at Risk",
-          "hook": "A statistical quirk called Simpson's Paradox means that combining suicide data across groups can make real trends \u2014 including spikes in specific populations \u2014 vanish entirely.",
-          "pitch_angle": "VA researchers warn that aggregated suicide surveillance numbers can be deeply misleading, a problem with serious implications for women's mental health policy and prevention funding."
-        }
-      ],
-      "run_date": "2026-08-12",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42562318",
       "headline": "Older adults who struggle to swallow eat less Mediterranean diet \u2014 and the reverse may also be true",
       "journal": "Clinical Nutrition ESPEN",
@@ -15996,33 +16611,6 @@
       "status": "new"
     },
     {
-      "pmid": "42537444",
-      "headline": "Getting into psychosis treatment faster \u2014 and doing more of it \u2014 leads to better real-world outcomes, a large Italian program shows",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Jul 31",
-      "doi": "10.1016/j.schres.2026.07.017",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers evaluated a multicomponent early intervention program for first-episode psychosis (FEP) across the Emilia-Romagna region of Italy, tracking 1,085 patients aged 18\u201335 from 2013 to 2019 with a mean follow-up of 2.5 years. Shorter duration of untreated psychosis was associated with better recovery, and receiving more than 36 FEP-specific interventions (CBT or psychoeducation) was associated with nearly double the odds of remission. Immigrants had higher severity at baseline and follow-up, while those who were single or had lower education were less likely to achieve remission, highlighting equity gaps.",
-      "why_it_matters": "For young women experiencing a first psychotic episode, this real-world data suggests that faster access to specialized care \u2014 and more of it \u2014 may meaningfully improve long-term outcomes, while also exposing systemic inequities in who receives adequate treatment.",
-      "caveats": "observational design, single-center (regional Italian program), no sex-disaggregated data \u2014 generalizability to US healthcare systems uncertain",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large cohort, real-world design; no sex-disaggregated data; region-specific healthcare context limits US relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "The Sooner You Treat a First Psychotic Episode, the Better the Outcome \u2014 A Large Study Confirms It",
-          "hook": "Receiving more than 36 sessions of specialized psychosis therapy nearly doubled a patient's odds of remission in a real-world Italian program.",
-          "pitch_angle": "A study of over 1,000 young adults with first-episode psychosis found that both speed of treatment and amount of therapy mattered significantly for recovery \u2014 but immigrants and those with lower education were far less likely to benefit equally, raising urgent questions about equity in mental health care."
-        }
-      ],
-      "run_date": "2026-08-07",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42011998",
       "headline": "Missing cancer registry data isn't a data problem \u2014 it's a disparity problem, surgeons argue",
       "journal": "Journal of the American College of Surgeons",
@@ -17840,33 +18428,6 @@
       ],
       "run_date": "2026-07-27",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42476451",
-      "headline": "Vitamin D supplements don't reliably prevent frailty \u2014 except in people who are already deficient",
-      "journal": "Metabolism: Clinical and Experimental",
-      "pubdate": "2026 Jul 20",
-      "doi": "10.1016/j.metabol.2026.156697",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review synthesized clinical, epidemiological, and mechanistic evidence on the relationship between vitamin D and frailty, drawing on observational cohort studies and randomized controlled trials in community-dwelling adults. While low vitamin D levels are consistently associated with sarcopenia, bone loss, cognitive decline, and frailty in observational data, most RCTs showed neutral results in people with adequate vitamin D status \u2014 and high-dose intermittent bolus regimens were associated with increased falls and fractures. The authors conclude that benefits appear limited to individuals with deficiency or heightened vulnerability, and that methodological inconsistencies across studies make definitive conclusions difficult.",
-      "why_it_matters": "Older women \u2014 who are at elevated risk for both vitamin D deficiency and frailty \u2014 may be taking high-dose supplements with little benefit and possible harm if their baseline levels are already adequate.",
-      "caveats": "observational design, no sex-disaggregated data, secondary analysis, industry funding [Abiogen \u2014 one author]",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive supplement finding relevant to older women; narrative review limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Well+Good",
-          "headline": "Taking Extra Vitamin D to Stay Strong as You Age? It May Not Help \u2014 and Could Actually Increase Your Fall Risk",
-          "hook": "Despite decades of enthusiasm for vitamin D supplements as a hedge against muscle loss and frailty, most clinical trials show no benefit for people who aren't already deficient \u2014 and high-dose regimens have been linked to more falls and fractures, not fewer.",
-          "pitch_angle": "A new review finds that the vitamin D-frailty story is far more nuanced than supplement marketing suggests: the hormone matters biologically, but flooding the system with extra doses appears to backfire. For older women especially \u2014 who are frequently encouraged to supplement \u2014 knowing your actual levels before adding more may be the more evidence-based move."
-        }
-      ],
-      "run_date": "2026-07-27",
-      "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
@@ -20409,33 +20970,6 @@
       "status": "new"
     },
     {
-      "pmid": "42462501",
-      "headline": "Soy compounds shielded mouse ovaries from nanoparticle damage \u2014 but it's too early to draw conclusions for women",
-      "journal": "Journal of Trace Elements in Medicine and Biology",
-      "pubdate": "2026 Jul 14",
-      "doi": "10.1016/j.jtemb.2026.127926",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Qingdao Agricultural University in China administered zinc oxide nanoparticles (ZnONPs) \u2014 widely used in industry and biomedicine \u2014 to female mice (N=5 groups) by daily gavage for 45 days, with or without concurrent soybean isoflavone (SI) supplementation. ZnONPs caused dose-dependent ovarian damage including follicle loss, hormonal disruption, and increased apoptosis. Soybean isoflavone treatment significantly reversed these effects by reducing oxidative stress and normalizing hormone-related protein expression in ovarian tissue.",
-      "why_it_matters": "As zinc oxide nanoparticles are increasingly used in sunscreens, cosmetics, and medical devices, early animal evidence suggesting ovarian toxicity \u2014 and a potential dietary countermeasure \u2014 is worth monitoring for women's reproductive health reporters.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Ovarian health angle relevant but animal-only study limits applicability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Could Nanoparticles in Your Sunscreen Harm Ovarian Health? Here's What Mouse Studies Show",
-          "hook": "A new animal study found that zinc oxide nanoparticles \u2014 found in many mineral sunscreens \u2014 damaged ovaries in mice, while a soy compound appeared to offer protection.",
-          "pitch_angle": "Though findings are in mice and nowhere near human application, this early research raises questions about nanoparticle reproductive safety that are already circulating in wellness communities \u2014 and gives reporters a scientifically grounded reason to revisit the sunscreen-ingredient conversation with appropriate caveats."
-        }
-      ],
-      "run_date": "2026-07-19",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42461444",
       "headline": "Daily coffee is linked to higher testosterone-binding protein in women \u2014 but the hormone story is more complicated than headlines suggest",
       "journal": "European Journal of Nutrition",
@@ -21345,33 +21879,6 @@
       "status": "new"
     },
     {
-      "pmid": "42419629",
-      "headline": "Cholesterol metabolism \u2014 not just cortisol \u2014 may be a key driver of adrenal tumor hormone overproduction",
-      "journal": "Metabolism: Clinical and Experimental",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1016/j.metabol.2026.156691",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers performed comprehensive proteomic profiling of adrenal tumor tissue from 29 patients (9 with Cushing's syndrome, 10 with subclinical Cushing's syndrome, 10 with non-functioning adenomas) at a single center in China. Analysis revealed a progressive gradient of cholesterol metabolic dysregulation tracking with disease severity, and identified downregulation of a protein called CAB39L as a potential key driver of pathological cortisol production. A four-protein panel (LDLR, HMGCS1, LIPE, SYP) was identified as candidate diagnostic markers.",
-      "why_it_matters": "Adrenal cortisol-producing adenomas disproportionately affect women, and identifying cholesterol metabolism as a driver \u2014 rather than a consequence \u2014 could eventually point toward new diagnostic or therapeutic targets.",
-      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, single non-US region (China)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Mechanistically interesting but very small sample, no sex-disaggregated data, limited generalizability; journalist previously passed on similar adrenal tumor angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Adrenal Tumors May Be Fueled by Cholesterol Gone Wrong \u2014 Not Just Stress Hormones",
-          "hook": "A new proteomic study suggests that cholesterol reprogramming inside adrenal tumors may be driving excess cortisol production \u2014 a finding that could reshape how researchers think about Cushing's syndrome.",
-          "pitch_angle": "Scientists analyzing tumor tissue from patients with cortisol-producing adrenal adenomas found that cholesterol metabolism was progressively disrupted in line with disease severity, identifying a protein called CAB39L as a potential new mechanistic target \u2014 though the study is very early-stage with only 29 tissue samples."
-        }
-      ],
-      "run_date": "2026-07-14",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42411754",
       "headline": "Endometriosis changes the cellular environment of follicles in the affected ovary \u2014 even compared to the other ovary in the same patient",
       "journal": "Reproduction (Cambridge, England)",
@@ -21700,33 +22207,6 @@
           "headline": "Ozempic Is Doing Something to Your Liver That Has Nothing to Do With Your Weight",
           "hook": "The liver benefits of semaglutide appear to operate through an entirely separate pathway from weight loss \u2014 which changes what we think these drugs are actually doing.",
           "pitch_angle": "As GLP-1 drugs become ubiquitous, a new mouse study adds a layer of complexity: semaglutide's protection against liver disease may be happening at the cellular level, independent of the scale \u2014 raising questions about who else might benefit from these medications, and why."
-        }
-      ],
-      "run_date": "2026-07-13",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42406274",
-      "headline": "Blocking a key signaling pathway may help make radioiodine-resistant thyroid cancer vulnerable to treatment again \u2014 in lab models",
-      "journal": "Journal of Endocrinological Investigation",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1007/s40618-026-02963-8",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Chinese researchers developed a 3D cell culture model of thyroid cancer to study how tumors become resistant to radioiodine therapy, a standard post-surgery treatment. Using bioinformatic analysis and tissue samples from patients with papillary thyroid carcinoma, they identified TGF-\u03b21 as a driver of the dedifferentiation process that causes resistance. In lab models, the drug galunisertib blocked TGF-\u03b21 signaling and restored radioiodine uptake in cancer cells.",
-      "why_it_matters": "Thyroid cancer disproportionately affects women and radioiodine resistance is a major clinical challenge, making early-stage research into ways to restore treatment sensitivity particularly relevant.",
-      "caveats": "animal or cell study, single-center, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Thyroid cancer is women-prevalent condition; cell/lab study only limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Thyroid Cancer Can Stop Responding to Standard Treatment \u2014 Scientists May Have Found a Way to Fix That",
-          "hook": "A drug already in development may be able to 're-sensitize' thyroid cancer cells to radioiodine therapy after they've developed resistance \u2014 at least in lab models.",
-          "pitch_angle": "Thyroid cancer, which is about three times more common in women than men, sometimes becomes resistant to the standard post-surgery radioiodine treatment as cells lose their original identity \u2014 and this early-stage research suggests blocking a specific cell-signaling pathway could reverse that process."
         }
       ],
       "run_date": "2026-07-13",
@@ -28063,44 +28543,6 @@
       "run_date": "2026-06-26",
       "category": "Psychiatry",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42349366",
-      "headline": "A mental flexibility skill may protect pregnant women from depression even when they're terrified of childbirth",
-      "journal": "Midwifery",
-      "pubdate": "2026 Jun 19",
-      "doi": "10.1016/j.midw.2026.104896",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed baseline data from the Flexi-PREP longitudinal cohort study, recruiting 395 pregnant women in their third trimester at three French maternity hospitals. Participants completed validated questionnaires measuring fear of childbirth, psychological flexibility, coping strategies, and depressive symptoms. Higher fear of childbirth and avoidant coping were associated with more depressive symptoms, while greater psychological flexibility was associated with fewer. Notably, moderation analysis found that psychological flexibility did not significantly buffer the link between fear of childbirth and depressive symptoms overall, though conditional effects suggested women with low flexibility were more vulnerable when fear was high.",
-      "why_it_matters": "Prenatal depression affects a significant proportion of pregnant women and is linked to adverse outcomes for both mother and child; this study suggests that teaching psychological flexibility skills \u2014 a trainable mental skill central to Acceptance and Commitment Therapy \u2014 could be a targeted intervention for pregnant women with high childbirth anxiety.",
-      "caveats": "observational design, cross-sectional baseline data only, single-country (France), self-reported outcomes, short follow-up, moderation finding did not reach significance in primary analysis",
-      "fact_check_note": "Headline and summary carefully reflect the abstract's nuance: the moderation analysis did NOT find a statistically significant buffering effect overall; only conditional effects suggested vulnerability at low flexibility. This distinction is preserved throughout.",
-      "excluded": false,
-      "relevance_score": 8,
-      "relevance_score_reason": "Exclusively female sample (N=395), perinatal mental health focus with clear lifestyle/wellness hook, though the cross-sectional design and non-significant primary moderation finding are meaningful limitations.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Mental Skill That Could Help Pregnant Women Cope With Fear of Childbirth \u2014 and Ward Off Depression",
-          "hook": "Being mentally flexible \u2014 not fearless \u2014 may be what actually protects pregnant women from prenatal depression.",
-          "why_it_fits": "Well+Good readers are deeply interested in evidence-based mental wellness tools, especially ones rooted in practices like ACT (Acceptance and Commitment Therapy) that translate directly into trainable, everyday habits.",
-          "pitch_angle": "A new study of nearly 400 third-trimester pregnant women found that psychological flexibility \u2014 the ability to adapt to difficult thoughts and feelings rather than avoid them \u2014 was independently associated with fewer depressive symptoms during pregnancy. Women who relied on avoidant coping strategies fared worst, while those with higher flexibility showed relative protection. The findings point to a trainable skill, not a personality trait, as a potential buffer against one of pregnancy's most common mental health risks.",
-          "caveats_to_flag": "Cross-sectional design means causality cannot be established; the study was conducted in France and may not generalize; the headline moderation finding was not statistically significant \u2014 the effect was only seen in subgroup analysis."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Fear of Childbirth Is Linked to Prenatal Depression \u2014 But This Coping Skill Might Help",
-          "hook": "New research suggests how a pregnant woman copes with fear of labor may matter as much as the fear itself.",
-          "why_it_fits": "Prevention readers skew toward women in their 30s\u201350s who value practical, science-backed health strategies and are likely to seek information for themselves or family members who are pregnant.",
-          "pitch_angle": "A French study of 395 third-trimester pregnant women found that fear of childbirth and avoidant coping \u2014 pushing difficult feelings aside rather than processing them \u2014 were independently linked to higher rates of prenatal depressive symptoms. Psychological flexibility, a mental skill that involves accepting uncomfortable emotions rather than fighting them, was associated with lower depressive symptoms. Researchers say interventions targeting this skill, such as Acceptance and Commitment Therapy, could be especially helpful for women who report high childbirth-related fear.",
-          "caveats_to_flag": "Observational, self-reported data; cross-sectional design cannot confirm whether flexibility causes reduced depression; primary moderation analysis was not statistically significant."
-        }
-      ],
-      "run_date": "2026-06-26",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
       "status": "new"
     },
     {
