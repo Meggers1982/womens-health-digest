@@ -1,92 +1,917 @@
 {
-  "last_updated": "2026-10-03T14:51:44.295057+00:00",
-  "total_studies": 996,
-  "new_this_run": 2,
+  "last_updated": "2026-10-04T15:26:44.323191+00:00",
+  "total_studies": 1001,
+  "new_this_run": 5,
   "studies": [
     {
       "pmid": "42815105",
-      "headline": "Analysis of nearly 1,000 addiction stories reveals an eight-stage path from early trauma to recovery \u2014 and where the system keeps failing people",
-      "journal": "The International Journal on Drug Policy",
+      "headline": "Nearly 1,000 personal addiction stories reveal a hidden bureaucratic trap that keeps people out of treatment even when they're ready to get help",
+      "journal": "International Journal on Drug Policy",
       "pubdate": "2026 Sep 30",
       "doi": "10.1016/j.drugpo.2026.105521",
-      "groundbreaking": "First-in-class human study",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted qualitative content analysis of 991 first-person interview transcripts from the Soft White Underbelly YouTube series \u2014 approximately 3.9 million words \u2014 using grounded theory coding and large-language-model-assisted text processing. The analysis produced an eight-stage sequential model of substance use disorder (SUD) progression, spanning early developmental vulnerability through recovery and relapse or stabilization. Key findings highlight how early adversity, cognitive distortions, and structural barriers \u2014 including stigma, lack of ID documents, and limited treatment access \u2014 systematically block people from care regardless of their motivation to recover.",
-      "why_it_matters": "Women with substance use disorder face unique structural and stigma-related barriers to treatment \u2014 including childcare, housing, and domestic violence \u2014 making a model that centers lived experience and systemic obstacles especially relevant for understanding gaps in women's recovery pathways.",
-      "caveats": "observational design, self-reported outcomes, secondary analysis of publicly available content, no sex-disaggregated data, YouTube-sourced sample may skew toward severe and visible cases, no demographic verification of participants",
+      "summary": "Researchers conducted qualitative content analysis of 991 first-person interview transcripts from the YouTube series Soft White Underbelly, processing approximately 3.9 million words with grounded theory coding and AI-assisted text analysis. Participants were individuals experiencing significant social marginalization and long-term substance use disorder (SUD); age range and sex breakdown were not specified in the abstract. The analysis produced an eight-stage model of SUD progression and found that missing ID documents, stigmatizing beliefs, and structural access barriers form compounding 'exclusion loops' that remove motivated individuals from care regardless of their readiness to recover.",
+      "why_it_matters": "Women with SUD \u2014 who already face gendered barriers like childcare responsibilities and domestic violence \u2014 may be disproportionately caught in these structural exclusion loops, suggesting that policy reform, not just personal motivation, is critical to closing treatment gaps.",
+      "caveats": "observational design, self-reported outcomes, no sex-disaggregated data, single-source sample (YouTube series), non-representative convenience sample, qualitative only",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large qualitative sample; no female-specific analysis; observational and secondary design limits clinical applicability.",
+      "relevance_score": 4,
+      "relevance_score_reason": "No sex-disaggregated data; qualitative/structural framing limits women's health pitch specificity.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention",
-          "headline": "Nearly 1,000 Addiction Stories Reveal the Exact Moment the System Stops Helping \u2014 and Why",
-          "hook": "An analysis of almost a thousand first-person addiction narratives found that people aren't failing to recover because they lack motivation \u2014 structural barriers are systematically removing them from care.",
-          "pitch_angle": "By analyzing nearly 1,000 real-life addiction stories, researchers identified eight distinct stages of substance use disorder and pinpointed where systemic failures \u2014 stigma, missing ID, lack of treatment access \u2014 cut off recovery regardless of a person's readiness. For women, who face additional barriers like childcare gaps and domestic violence, this framework suggests that motivation alone is never the missing piece."
+          "publication_type": "Well+Good",
+          "headline": "Your Motivation to Get Sober Isn't the Problem \u2014 The System Is, According to 1,000 Real Recovery Stories",
+          "hook": "A new study analyzing nearly 1,000 addiction narratives found that people who were ready and willing to seek treatment were still systematically shut out \u2014 not by their own choices, but by missing paperwork and institutional stigma.",
+          "pitch_angle": "Researchers mapped eight stages of substance use disorder from real firsthand accounts and discovered that 'exclusion loops' \u2014 combining ID document requirements, structural access gaps, and provider stigma \u2014 block care even for motivated individuals. For women navigating recovery alongside caregiving, financial instability, or domestic violence, these findings reframe the conversation from willpower to systemic change."
         }
       ],
-      "run_date": "2026-10-03",
+      "run_date": "2026-10-04",
       "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42811250",
-      "headline": "When Aboriginal mothers are hospitalized for mental health in their baby's first year, their children face significantly more preventable hospital visits",
+      "headline": "When new mothers are hospitalized for mental health crises, their young children face measurably higher rates of preventable hospitalizations \u2014 but only in Indigenous families",
       "journal": "Archives of Women's Mental Health",
       "pubdate": "2026 Sep 30",
       "doi": "10.1007/s00737-026-01774-3",
-      "groundbreaking": "Relevant women's health finding",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using 16 years of linked administrative data from the Northern Territory of Australia, researchers examined 59,159 children born between 2002 and 2017 to assess whether maternal mental health hospitalization in the first postnatal year was associated with preventable child hospitalizations between ages 1 and 5. Among children of Aboriginal mothers, those whose mothers had a mental health hospitalization had a 24% higher risk of potentially avoidable hospitalizations compared to unexposed children; no significant difference was found among children of non-Aboriginal mothers. The study used multilevel survival analysis with overlap weighting to adjust for confounders.",
-      "why_it_matters": "The finding highlights that postpartum mental health crises in Aboriginal mothers are linked to downstream preventable health harms in their young children, underscoring the need for culturally grounded, integrated maternal and child health support.",
-      "caveats": "observational design, administrative data only, single-region (Northern Territory, Australia), findings specific to Aboriginal population context and may not generalize globally",
-      "fact_check_note": "The abstract reports no significant association for children of non-Aboriginal mothers (wHR 0.73, CI 0.50\u20131.08), meaning the effect was specific to Aboriginal mothers. Summary and headline accurately reflect this distinction.",
-      "relevance_score": 6,
-      "relevance_score_reason": "Perinatal mental health topic fit; findings specific to Australian Aboriginal population context.",
+      "summary": "Researchers analyzed 16 years of linked administrative health records for 59,159 children born in Australia's Northern Territory between 2002 and 2017, comparing rates of potentially avoidable hospitalizations (PAH) in children aged 12\u201360 months based on whether their mothers had a mental health-related hospitalization in the first postnatal year. Children of Aboriginal mothers who had such a hospitalization faced a 24% higher risk of avoidable hospitalization compared to unexposed peers; strikingly, no corresponding elevated risk was found among children of non-Aboriginal mothers. The disparity points to the compounding effect of systemic disadvantage on the child health consequences of postnatal mental illness.",
+      "why_it_matters": "The finding suggests that postnatal mental health crises ripple into children's physical health outcomes in ways shaped by systemic inequity, underscoring why culturally responsive postpartum care is especially urgent for Indigenous mothers.",
+      "caveats": "observational design, single-center, administrative data only, findings specific to Northern Territory Australia and may not generalize globally, effect confined to Aboriginal subgroup",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Perinatal mental health focus, large N, but region-specific findings limit US pitch generalizability.",
       "pitch_angles": [
         {
-          "publication_type": "General health",
-          "headline": "Postpartum Mental Health Crises Don't Just Affect Mothers \u2014 They May Shape Their Children's Health for Years",
-          "hook": "Children of Aboriginal mothers who were hospitalized for mental health conditions in their baby's first year had a 24% higher risk of preventable hospitalizations by age 5, a large Australian study found.",
-          "pitch_angle": "Analyzing 16 years of population-level data, researchers found a significant link between severe postpartum mental illness in Aboriginal mothers and their young children's preventable hospitalizations \u2014 a ripple effect that suggests maternal mental health is also a child health issue. The findings add urgency to calls for culturally responsive, integrated perinatal care that addresses the structural inequities driving both maternal mental health crises and child health disparities."
+          "publication_type": "Prevention / General health",
+          "headline": "A Mother's Mental Health Crisis After Birth Has Real Consequences for Her Child's Physical Health \u2014 But Not Equally for All Women",
+          "hook": "A new 16-year study found that young children of Aboriginal mothers hospitalized for postpartum mental illness faced significantly more preventable hospitalizations \u2014 a link that didn't appear in non-Aboriginal families.",
+          "pitch_angle": "Researchers tracked nearly 60,000 children and found that postpartum mental health crises carry downstream health risks for children, but those risks are dramatically shaped by systemic disadvantage \u2014 raising urgent questions about how postpartum care is resourced across communities."
+        },
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Postpartum Mental Health Isn't Just a Mom Issue \u2014 It Shapes Her Child's Health for Years, and the System Bears Responsibility",
+          "hook": "A sweeping 16-year study shows that when mothers are hospitalized for mental health crises after birth, their children end up in the hospital more often for preventable conditions \u2014 and the gap is widest for the most marginalized families.",
+          "pitch_angle": "The research reveals that the health consequences of untreated or under-resourced postpartum mental illness extend beyond the mother, hitting children hardest in communities already facing structural inequity \u2014 a finding that reframes postpartum care as a children's health issue, not just a maternal one."
         }
       ],
-      "run_date": "2026-10-03",
+      "run_date": "2026-10-04",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42806816",
-      "headline": "A wearable glucose monitor may catch Type 1 diabetes months before it fully develops \u2014 even in family members with no symptoms yet",
+      "headline": "Nighttime glucose spikes picked up by a CGM sensor may warn years before full type 1 diabetes strikes in high-risk relatives",
       "journal": "Diabetes Technology & Therapeutics",
       "pubdate": "2026 Sep 29",
       "doi": "10.1177/15209156261492040",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed continuous glucose monitoring (CGM) data from 27 first-degree relatives of people with Type 1 diabetes who had positive islet autoantibodies and early glucose abnormalities, part of the multinational INNODIA consortium (52% female, median age 16.8 years). Nine participants progressed to full Type 1 diabetes within a median of 163 days. In the period just before diagnosis, progressors showed higher nighttime glucose levels and more time above 140 mg/dL; combining multiple CGM metrics achieved 100% sensitivity and 86% specificity for identifying progressors.",
-      "why_it_matters": "For women with a parent or sibling with Type 1 diabetes \u2014 including those in their reproductive years when a new diagnosis can complicate pregnancy planning \u2014 CGM may one day offer an earlier, more precise warning than current standard screening.",
-      "caveats": "small sample (N<100), exploratory/secondary analysis, short follow-up, observational design, no sex-disaggregated data reported",
+      "summary": "In an exploratory analysis of 27 autoantibody-positive first-degree relatives of people with type 1 diabetes (52% female, median age ~17 years), researchers tracked CGM patterns in participants who later progressed to clinical (Stage 3) T1D versus those who did not. Those who progressed showed higher nighttime glucose elevations (9 PM\u20132 AM) and lower early-morning dips before diagnosis. A combined CGM metric model achieved 100% sensitivity and 86% specificity for identifying progressors.",
+      "why_it_matters": "For women and girls with a family history of type 1 diabetes, this early evidence suggests wearable CGM could flag disease progression long before symptoms appear, potentially opening a window for intervention.",
+      "caveats": "small sample (N<100), observational design, exploratory/secondary analysis, short follow-up, single-center",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Useful diabetes-prevention angle; very small exploratory sample limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A Glucose Monitor Worn at Night Could Flag Type 1 Diabetes Risk Before Any Symptoms Appear",
+          "hook": "Subtle blood sugar patterns captured between 9 PM and 2 AM may predict who in a high-risk family will develop type 1 diabetes \u2014 months before diagnosis.",
+          "pitch_angle": "An early-stage study found that people who went on to develop type 1 diabetes showed distinct nighttime glucose elevations detectable by a continuous glucose monitor, suggesting wearable tech could serve as an early-warning system for at-risk families. Though the sample was very small, the findings raise the possibility that a CGM \u2014 already worn by millions \u2014 could do double duty as a screening tool."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42804809",
+      "headline": "Adult-onset schizophrenia may involve a distinct brain waste-clearance problem that early-onset does not \u2014 and it links to hallucinations",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Sep 28",
+      "doi": "10.1016/j.schres.2026.09.024",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used a brain imaging technique (DTI-ALPS) as an indirect marker of glymphatic function \u2014 the brain's waste-clearance system \u2014 in 195 first-episode schizophrenia patients (103 early-onset, 92 adult-onset) and 191 matched healthy controls at a single center in China. Adult-onset patients showed significantly lower glymphatic-related fluid dynamics in the right hemisphere compared to both early-onset patients and older healthy controls. Lower right-hemisphere glymphatic function in adult-onset patients was associated with greater hallucination severity.",
+      "why_it_matters": "Because schizophrenia onset patterns differ between women and men \u2014 women tend to have a later peak of onset \u2014 findings suggesting adult-onset involves distinct brain biology could eventually inform more targeted treatment approaches for women.",
+      "caveats": "single-center, observational design, indirect imaging marker (not direct glymphatic measurement), sample from China",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Majority-female sample; wearable tech angle; limited by very small N.",
+      "relevance_score_reason": "Intriguing biological finding; human sample N\u2265100; no sex-disaggregated analysis reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "The Brain's Waste-Clearance System May Work Differently in People Who Develop Schizophrenia as Adults",
+          "hook": "A new brain imaging study suggests that adult-onset schizophrenia involves a distinct disruption in the brain's fluid-drainage system \u2014 one not seen in people who develop the condition as teenagers.",
+          "pitch_angle": "Researchers found that adults newly diagnosed with schizophrenia showed lower activity in a brain waste-clearance pathway, and the more impaired that system was, the more severe their hallucinations \u2014 a finding that hints at why the condition may look so different depending on when it begins, which matters for women, who often experience later onset than men."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42805779",
+      "headline": "China makes 90% of the world's e-cigarettes \u2014 and its industry is deliberately designed to outrun regulators",
+      "journal": "Tobacco Control",
+      "pubdate": "2026 Sep 28",
+      "doi": "10.1136/tc-2026-060270",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed publicly available industry reports, government documents, and corporate records in English and Chinese to map how China's e-cigarette industry operates globally. China produces over 90% of the world's e-cigarettes \u2014 including those sold under major Western brand names \u2014 and exports to more than 160 countries. The industry uses a fast-moving consumer goods model with rapid flavor turnover and complex corporate structures that are specifically suited to evading regulation.",
+      "why_it_matters": "Young women are among the fastest-growing groups of e-cigarette users, and understanding that the products they're using are engineered to bypass safety oversight has direct implications for informed consumer choices.",
+      "caveats": "observational design, no sex-disaggregated data, policy/industry analysis rather than clinical study",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant public health finding but no female-specific data; no clinical or biological outcomes.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "Your Continuous Glucose Monitor Might Detect Type 1 Diabetes Months Before You Actually Have It",
-          "hook": "In people already at risk for Type 1 diabetes, a combination of CGM readings predicted who would develop the disease with striking accuracy \u2014 up to five months before diagnosis.",
-          "pitch_angle": "A new exploratory study found that nighttime glucose patterns picked up by a wearable CGM could distinguish high-risk individuals who went on to develop Type 1 diabetes from those who didn't. The finding suggests that CGMs \u2014 increasingly popular for wellness tracking \u2014 may have a meaningful role in early disease detection for people with a family history."
+          "headline": "That Disposable Vape You're Using? It Was Designed to Outpace Safety Rules",
+          "hook": "New research reveals that China's e-cigarette industry \u2014 which makes 90% of the world's vapes \u2014 deliberately cycles through flavors and designs fast enough to stay one step ahead of regulators.",
+          "pitch_angle": "A major industry analysis found that the same Elf Bars and Puff Bars popular with young women are products of a system engineered to evade oversight, with complex corporate structures that obscure accountability and keep new, untested products flowing to market."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42828882",
+      "headline": "The emotional toll of a baby's death in the womb stays with midwives for years \u2014 and the healthcare system largely leaves them to cope alone",
+      "journal": "Midwifery",
+      "pubdate": "2026 Sep 28",
+      "doi": "10.1016/j.midw.2026.105001",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using a mixed-methods design, researchers surveyed 41 midwives in Japan and interviewed 8 of them about their retrospective experiences of providing care after an intrauterine fetal death (IUFD) during their first three years of practice. Participants described emotional distress, helplessness, and shock, with those showing higher current secondary traumatic stress scores also reporting stronger retrospective emotional reactions and higher burnout. Midwives coped primarily through peer support from senior colleagues, emotional self-regulation, and gradually reframing the experience \u2014 formal institutional support was largely absent.",
+      "why_it_matters": "As providers of intimate end-of-life care for families experiencing stillbirth, midwives face a hidden occupational trauma burden that, left unaddressed, may fuel burnout and threaten the quality of care available to grieving mothers.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, retrospective recall bias, single-center, Japan-specific context, self-selected sample",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to reproductive health care workforce but small sample and provider-focused rather than patient-focused.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Midwives Are Quietly Traumatized by Stillbirth Care \u2014 and Nobody's Talking About It",
+          "hook": "A new mixed-methods study found that midwives who cared for families after a baby's death in the womb experienced lasting emotional distress and higher burnout \u2014 with most left to process it largely on their own.",
+          "pitch_angle": "The research sheds light on the hidden psychological cost borne by the providers who support grieving mothers through one of their worst moments, raising important questions about who takes care of the caregivers in reproductive health settings."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42829367",
+      "headline": "AI guides surgeons through pituitary tumor operations in real time \u2014 first human trial shows it's feasible and safe",
+      "journal": "Pituitary",
+      "pubdate": "2026 Oct 3",
+      "doi": "10.1007/s11102-026-01762-x",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted the first-in-human evaluation of a real-time AI anatomical segmentation system during endoscopic pituitary surgery, enrolling 8 patients with pituitary adenomas at a single UK center. The AI system was successfully deployed in 6 of 8 cases, providing live pixel-level mapping of surgical anatomy without causing adverse events or distracting the surgeon. Iterative feedback between cases led to improvements including carotid artery segmentation and expanded training data.",
+      "why_it_matters": "Pituitary adenomas disproportionately affect women and can disrupt hormonal health, fertility, and quality of life \u2014 safer, AI-guided surgery could improve outcomes for this population.",
+      "caveats": "small sample (N<100), single-center, industry funding [Panda Surgical \u2014 lead author HJM employed by and holds shares], short follow-up, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant via pituitary/hormonal health in women; very early-stage surgical tech study.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "AI Is Now Helping Surgeons Navigate Brain Tumor Operations in Real Time \u2014 Here's What That Means for Women With Pituitary Disorders",
+          "hook": "For the first time, an AI system guided surgeons through live pituitary tumor surgery \u2014 and it worked without a single adverse event.",
+          "pitch_angle": "Pituitary adenomas are more common in women and can cause hormonal chaos, infertility, and vision loss, yet the surgery to remove them is notoriously difficult. A new early-stage trial found that real-time AI anatomical mapping helped surgeons safely navigate the procedure, suggesting a future where this high-stakes operation becomes more precise and accessible."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42829180",
+      "headline": "A compound called P7C3 may protect bones during prolonged bed rest or spaceflight \u2014 and it works differently than any osteoporosis drug",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Oct 3",
+      "doi": "10.1016/j.metabol.2026.156794",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested a compound called P7C3 on human bone-forming and bone-resorbing cells in the lab, then in a mouse model of bone loss caused by immobility (hindlimb suspension). The study used in vitro human cell cultures and an in vivo mouse model \u2014 no human participants. P7C3 was found to simultaneously promote bone formation, suppress bone breakdown, and reduce bone marrow fat accumulation, suggesting it may address a type of bone loss that current osteoporosis drugs largely cannot.",
+      "why_it_matters": "Disuse bone loss \u2014 from injury, illness, or prolonged bed rest \u2014 disproportionately affects women and is largely untreatable with existing osteoporosis medications, so a new multi-target approach could be meaningful.",
+      "caveats": "animal or cell study, no human participants, no sex-disaggregated data, preprint (online ahead of print), single-center",
+      "fact_check_note": "Abstract states the in vivo work used mouse hindlimb suspension, not human subjects; headline and summary corrected to reflect this. The abstract does not disaggregate findings by sex.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Bone loss relevance for women offset by animal/cell-only design and no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "There's a New Approach to Bone Loss That Works Even When Exercise Isn't an Option",
+          "hook": "A compound tested in lab and animal studies may protect bones during the kind of prolonged inactivity that current osteoporosis drugs can't touch.",
+          "pitch_angle": "Researchers found that a compound called P7C3 simultaneously promoted bone-building and blocked bone breakdown in cell studies and a mouse immobility model \u2014 a different mechanism from any existing drug. For women recovering from injury or illness-related bed rest, this early-stage research points toward a future therapy for a type of bone loss that currently has no good fix."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42829171",
+      "headline": "A new once-weekly injection added to GLP-1 drugs may boost weight loss beyond what GLP-1s alone can do",
+      "journal": "Molecular Metabolism",
+      "pubdate": "2026 Oct 3",
+      "doi": "10.1016/j.molmet.2026.102452",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Eli Lilly developed nisotirostide, a selective NPY2 receptor agonist designed to be used alongside GLP-1 drugs like dulaglutide, and tested it in a Phase 1 trial of 65 healthy participants and people with type 2 diabetes. When added to dulaglutide, a 1 mg dose of nisotirostide produced up to 2.58 kg more weight loss than dulaglutide alone (p<0.05) over the short trial period. The study provides early clinical proof of concept for a new add-on obesity/diabetes therapy, though the trial was small and sex-disaggregated results were not reported.",
+      "why_it_matters": "For women living with type 2 diabetes or obesity who plateau on GLP-1 medications, this early evidence suggests a new class of add-on drug may amplify weight loss results.",
+      "caveats": "small sample (N<100), short follow-up, industry funding [Eli Lilly], no sex-disaggregated data, Phase 1 only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant obesity/diabetes topic but small Phase 1, industry-funded, no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "GLP-1 Drugs Not Working Well Enough? A New Weekly Injection May Help Push Weight Loss Further",
+          "hook": "A small clinical trial found that adding a new once-weekly injection to a GLP-1 drug produced significantly more weight loss than the GLP-1 drug alone.",
+          "pitch_angle": "Nisotirostide, a novel NPY2 receptor agonist developed by Eli Lilly, early evidence suggests may boost weight loss when added to GLP-1 medications like Ozempic \u2014 potentially useful for the many women who plateau on current therapies, though much larger trials are needed."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42557604",
+      "headline": "Suicide rate trends in veterans look different \u2014 and more alarming \u2014 once you stop lumping groups together",
+      "journal": "Psychiatric Services",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1176/appi.ps.20240228",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "VA researchers examined how Simpson's Paradox \u2014 a statistical phenomenon where trends in subgroups reverse when data are combined \u2014 distorts suicide surveillance in veteran populations. The study is a methodological commentary rather than an original data study, drawing on VA suicide prevention data. The authors found that aggregating suicide rates across demographic subgroups can obscure rising risk in specific groups, potentially misleading public health responses.",
+      "why_it_matters": "For women specifically, this suggests that female veteran suicide trends \u2014 already underrepresented in aggregated data \u2014 may be masked by broader population averages.",
+      "caveats": "no sex-disaggregated data, commentary/opinion piece rather than original research, no primary sample",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Statistical commentary; limited original data; no women-specific analysis reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Why National Suicide Statistics May Be Hiding a Crisis Among Women Veterans",
+          "hook": "A statistical quirk called Simpson's Paradox means suicide trends that look stable overall can actually be worsening dramatically for specific groups \u2014 including women.",
+          "pitch_angle": "VA researchers warn that lumping suicide data together masks danger signals in subpopulations; for women veterans, whose suicide rates have risen faster than men's, this methodological blind spot could delay life-saving interventions."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42821652",
+      "headline": "A common assumption about a rare diabetes gene is wrong \u2014 and it may have led to incorrect treatments",
+      "journal": "Diabetes",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.2337/db26-0406",
+      "groundbreaking": "Overturns prior research / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested 16 ABCC8 gene variants previously linked to maturity-onset diabetes of the young (MODY) \u2014 a rare inherited form of diabetes \u2014 in recombinant channel experiments. Contrary to the prevailing assumption that these variants cause overactive potassium channels (gain-of-function), 13 of 16 variants actually caused loss-of-function, and none caused gain-of-function. This overturns the rationale for using KATP channel inhibitors (like sulfonylureas) to treat MODY patients carrying ABCC8 variants.",
+      "why_it_matters": "Women with a family history of young-onset diabetes may carry ABCC8 variants, and this finding suggests some may have been prescribed treatments based on a flawed assumption about how those variants work.",
+      "caveats": "animal or cell study, single-center, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive overturn of prior belief but cell/channel study only; rare condition limits broad appeal.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Researchers Say a Long-Held Assumption About a Rare Diabetes Gene Is Wrong \u2014 and It Matters for Treatment",
+          "hook": "A new study found that a diabetes-linked gene variant long assumed to overactivate a key channel actually does the opposite \u2014 potentially meaning some patients have been prescribed the wrong treatment.",
+          "pitch_angle": "For people with MODY, a rare inherited diabetes often misdiagnosed in young women, this finding challenges the biological rationale behind a standard drug class and may prompt a rethink of how genetic test results translate to prescriptions."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42823075",
+      "headline": "A next-generation weight-loss drug protected kidneys and reversed diabetes damage in mice \u2014 human trials are already underway",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1111/dom.71387",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested survodutide \u2014 a dual glucagon/GLP-1 receptor agonist currently in Phase 3 trials for obesity and fatty liver disease \u2014 in a mouse model of severe diabetic kidney disease involving hypertension, diabetes, and single-kidney function. Compared to vehicle-treated controls, survodutide-treated mice showed significantly reduced albuminuria, kidney hypertrophy, and glomerulosclerosis, along with improved blood glucose and insulin levels. The drug is already in late-stage clinical development for other metabolic conditions.",
+      "why_it_matters": "Diabetic kidney disease is a leading cause of kidney failure in women with type 2 diabetes, and early evidence that a next-generation metabolic drug may protect kidney function adds meaningful context for women watching the GLP-1 drug landscape.",
+      "caveats": "animal or cell study, industry funding [Boehringer Ingelheim; Gubra A/S], no sex-disaggregated data",
+      "fact_check_note": "The study used female db/db mice only \u2014 this is not a mixed-sex sample, so while sex-disaggregated data across sexes is not an issue, generalizability to male or human populations is limited and should be noted.",
+      "relevance_score": 4,
+      "relevance_score_reason": "GLP-1 drug landscape interest; animal-only study with industry funding limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Next Big GLP-1-Style Drug May Also Protect Your Kidneys \u2014 At Least in Mice",
+          "hook": "Survodutide, already in late-stage trials for obesity, dramatically reduced kidney damage in diabetic mice \u2014 raising hopes it could be a multi-system metabolic drug.",
+          "pitch_angle": "As the GLP-1 drug class expands, survodutide is emerging as a potential dual-threat against both metabolic disease and kidney complications, with animal data showing it reversed hallmarks of severe diabetic kidney disease. The findings are early and in mice only, but with Phase 3 human trials already underway for obesity and liver disease, kidney protection could become a compelling addition to its profile."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42537444",
+      "headline": "Getting into psychosis treatment faster \u2014 and getting the right kind \u2014 dramatically improves recovery odds, real-world data suggest",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.schres.2026.07.017",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers evaluated a multicomponent early intervention program for first-episode psychosis across Italy's Emilia-Romagna region in a naturalistic cohort of 1,085 patients aged 18\u201335 (mean age 23.8 years, mean follow-up 2.5 years). Longer duration of untreated psychosis was associated with poorer recovery, while receiving more than 36 psychosis-specific interventions (such as CBT or psychoeducation) was associated with nearly double the odds of remission. Equity gaps emerged: foreign-born patients had higher severity at both baseline and follow-up, and single status and lower education were linked to lower remission likelihood.",
+      "why_it_matters": "First-episode psychosis often strikes during the reproductive years, and this large real-world study suggests that access speed and treatment type \u2014 not just diagnosis \u2014 significantly shape long-term outcomes for young women.",
+      "caveats": "observational design, single-region (Italy), no sex-disaggregated data, self-reported and clinician-rated outcomes, limited generalizability outside Italian public mental health system",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large real-world cohort N>1000; reproductive-age population; no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "When You Get Help for a First Psychotic Episode May Matter as Much as What Treatment You Get",
+          "hook": "A large real-world study found that young adults who waited longer to receive care for a first psychotic episode recovered significantly less well \u2014 and that getting specific therapies, not just medication, nearly doubled the odds of remission.",
+          "pitch_angle": "Tracking over 1,000 patients aged 18\u201335 for more than two years, Italian researchers found that both speed of access and treatment type shaped outcomes \u2014 a finding with particular relevance for women, in whom psychosis often first appears during the childbearing years and is frequently misattributed to other conditions."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42476451",
+      "headline": "Vitamin D supplements don't reliably prevent frailty \u2014 unless you're already deficient",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.metabol.2026.156697",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review integrates clinical trial data, observational cohort studies, and mechanistic evidence to examine whether vitamin D can prevent or slow frailty \u2014 a syndrome of weakness, fatigue, and vulnerability that disproportionately affects older women. Despite strong mechanistic rationale linking vitamin D receptor signaling to muscle, bone, immune, and cognitive health, most randomized controlled trials in community-dwelling adults with adequate vitamin D levels showed neutral results. The authors found that benefits appear limited to people with true deficiency, and that high-dose intermittent bolus regimens were associated with increased fall and fracture risk.",
+      "why_it_matters": "Older women are disproportionately affected by frailty and are among the highest consumers of vitamin D supplements, making the finding that supplementation may only help those who are truly deficient \u2014 and may backfire at high doses \u2014 directly relevant to their health decisions.",
+      "caveats": "narrative review, observational design (for cohort data cited), no sex-disaggregated data reported in review, industry funding [Abiogen \u2014 one author]",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive finding on popular supplement, strong women's health relevance, frailty disproportionately affects older women.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "You're Probably Taking Vitamin D to Stay Strong as You Age. New Research Says It May Not Be Helping",
+          "hook": "Despite decades of hype, vitamin D supplements don't appear to prevent frailty in most older adults \u2014 and mega-doses may actually increase fall risk.",
+          "pitch_angle": "A comprehensive review of clinical trials found that vitamin D supplements showed no meaningful benefit for frailty prevention in people who weren't already deficient, and that high-dose regimens backfired; the takeaway for women investing in their long-term strength and independence is that getting tested for true deficiency matters more than simply taking a pill."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Vitamin D and Aging Story Is More Complicated Than Anyone Told You",
+          "hook": "Vitamin D has a compelling biological story \u2014 it's linked to muscle, bone, brain, and immune health \u2014 but the clinical trial results keep coming back neutral.",
+          "pitch_angle": "A new review unpacks why the science sounds so promising yet the supplements so often disappoint: benefits seem real only for people with genuine deficiency, while healthy people taking large bolus doses may actually be increasing their fracture risk \u2014 a nuanced wellness story with real stakes for women planning their supplement routines."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42419629",
+      "headline": "A protein pattern in cortisol-producing adrenal tumors points to cholesterol metabolism as a key driver",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.metabol.2026.156691",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed comprehensive proteomic profiling of adrenal tumors from 29 patients (9 with Cushing's syndrome, 10 with subclinical Cushing's syndrome, and 10 with non-functioning adenomas) at a Chinese tertiary center. They found a progressive gradient of cholesterol metabolic dysregulation mirroring disease severity, and identified a four-protein panel (LDLR, HMGCS1, LIPE, SYP) as candidate pathological markers. Downregulation of a protein called CAB39L emerged as a potential key driver of excess cortisol production.",
+      "why_it_matters": "Cushing's syndrome disproportionately affects women, and identifying protein-based markers could eventually improve how these tumors are diagnosed and categorized.",
+      "caveats": "small sample (N<100), single-center, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Endocrine condition affecting women but tiny sample, no female-specific analysis, highly technical.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists May Have Found What Makes Cortisol-Producing Adrenal Tumors Tick",
+          "hook": "A small but detailed study suggests cholesterol metabolism \u2014 not just hormone signaling \u2014 may be central to why some adrenal tumors overproduce cortisol.",
+          "pitch_angle": "Researchers mapped proteins inside cortisol-producing adrenal tumors and found cholesterol processing gone awry at every stage of severity; early findings like these could eventually lead to better diagnostic tools for a condition that strikes women far more often than men."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42406274",
+      "headline": "Blocking a single signaling protein may make treatment-resistant thyroid cancer cells sensitive to radioiodine therapy again",
+      "journal": "Journal of Endocrinological Investigation",
+      "pubdate": "2026 Oct",
+      "doi": "10.1007/s40618-026-02963-8",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using a three-dimensional cell culture model designed to mimic dedifferentiated thyroid cancer, researchers at Southeast University and the Jiangsu Institute of Nuclear Medicine identified TGF-\u03b21 signaling as a key driver of radioiodine resistance in thyroid cancer cells. Treatment with galunisertib, a TGF-\u03b21 receptor inhibitor, suppressed cancer stem cell markers and restored radioiodine uptake in the cell spheroids. Immunohistochemical staining of actual papillary thyroid carcinoma tissue samples supported the pathway's relevance in human disease.",
+      "why_it_matters": "Thyroid cancer is diagnosed in women roughly three times as often as in men, and radioiodine-refractory cases carry a poor prognosis \u2014 identifying a potential way to restore drug sensitivity is an early but meaningful step.",
+      "caveats": "animal or cell study, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Women's cancer relevance; cell/lab study only limits clinical applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Scientists Found a Way to Make Treatment-Resistant Thyroid Cancer Cells Respond to Standard Therapy Again \u2014 In the Lab",
+          "hook": "A targeted drug reversed the changes that make some thyroid cancers stop responding to radioiodine \u2014 the most common post-surgery treatment.",
+          "pitch_angle": "Thyroid cancer strikes women far more often than men, and a subset of cases become resistant to radioiodine therapy, leaving patients with limited options. Early lab research suggests that blocking a protein called TGF-\u03b21 may restore the cancer cells' ability to absorb radioiodine \u2014 a finding that, if it holds up in human trials, could eventually change treatment options for the hardest-to-treat cases."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42349366",
+      "headline": "Pregnant women who can sit with discomfort \u2014 not just cope with it \u2014 have fewer depression symptoms, even when they're afraid of childbirth",
+      "journal": "Midwifery",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.midw.2026.104896",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed cross-sectional baseline data from 395 pregnant women in their third trimester recruited from three French maternity hospitals, assessing fear of childbirth, psychological flexibility, coping strategies, and depressive symptoms using validated scales. Higher fear of childbirth and avoidant coping were associated with greater prenatal depressive symptoms, while greater psychological flexibility was associated with fewer symptoms. Although psychological flexibility did not significantly buffer the link between fear of childbirth and depression overall, among women with low psychological flexibility, fear of childbirth was more strongly tied to depressive symptoms.",
+      "why_it_matters": "The finding suggests that building psychological flexibility \u2014 the ability to accept difficult thoughts and feelings without being ruled by them \u2014 may be a practical, teachable target for reducing prenatal depression, particularly in women with high childbirth anxiety.",
+      "caveats": "observational design, cross-sectional, single-center, self-reported outcomes, sample limited to France, moderation finding was not statistically significant at conventional threshold",
+      "fact_check_note": "The abstract notes the moderation analysis did not reach statistical significance for psychological flexibility buffering fear of childbirth \u2192 depression; the headline reflects the conditional effect direction, not a confirmed moderation.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Perinatal mental health, female-only sample, actionable wellness angle, but cross-sectional limits causal claims.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "The Mental Skill That May Protect Pregnant Women From Depression \u2014 Even When They're Terrified of Childbirth",
+          "hook": "A new study of nearly 400 pregnant women found that psychological flexibility \u2014 the ability to accept uncomfortable feelings without avoiding them \u2014 was linked to fewer depression symptoms in the third trimester, even among those with high childbirth fear.",
+          "pitch_angle": "Researchers found that it's not just fear of birth that drives prenatal depression, but how women relate to that fear \u2014 suggesting that mindfulness-based and acceptance-focused approaches could be a concrete, accessible tool for supporting mental health in the final stretch of pregnancy."
+        },
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Dreading Labor? The Way You Handle That Fear May Predict Your Risk of Prenatal Depression",
+          "hook": "Among 395 pregnant women in their third trimester, those who coped by avoiding their feelings had higher rates of depressive symptoms \u2014 while those who could psychologically 'make room' for fear fared better.",
+          "pitch_angle": "The research highlights avoidant coping as a key vulnerability factor for prenatal depression and points to psychological flexibility training as a potentially low-cost, non-pharmacological way to support emotional health during the final weeks of pregnancy."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42813471",
+      "headline": "New fathers' brains recruit reward circuits when seeing fearful faces \u2014 and it predicts how well they bond with their babies",
+      "journal": "Journal of Neuroendocrinology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/jne.70276",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In the first longitudinal fMRI study of fear processing across the transition to fatherhood, researchers scanned 38 first-time fathers before their child's birth and 34 again about 8 months postpartum. After becoming fathers, men activated reward-related brain regions (dorsal striatum, nucleus accumbens) in response to fearful faces \u2014 regions not prominently engaged prenatally. Higher striatal activation to fearful faces postpartum was associated with fewer father-infant bonding difficulties.",
+      "why_it_matters": "Understanding how new fathers' brains adapt to caregiving cues may help explain variability in paternal bonding and inform support strategies for families in the early postpartum period.",
+      "caveats": "small sample (N<100), single-center, short follow-up, observational design",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Novel fatherhood neuroscience finding; indirect women's health relevance via partner/family context.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Science Says New Dads' Brains Actually Rewire Around Baby \u2014 and It Affects How Well They Bond",
+          "hook": "Becoming a father physically reshapes how men's brains respond to vulnerability cues \u2014 and the change predicts whether dad truly connects with his newborn.",
+          "pitch_angle": "A first-of-its-kind brain imaging study found that after their baby arrives, new fathers activate the same reward circuitry linked to motivation and pleasure when they see fearful faces \u2014 a signal that may help explain why some dads bond more easily than others. For partners navigating the postpartum period together, this research reframes paternal bonding struggles as a neurobiological process, not a character flaw."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710386",
+      "headline": "Your diet may directly target the liver's hidden stress-iron cycle driving fatty liver disease",
+      "journal": "Nutrition Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.nutres.2026.08.002",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic review of dietary intervention strategies for metabolic dysfunction-associated fatty liver disease (MAFLD), focusing on a newly identified 'oxidative stress-iron dysmetabolism axis' as a central driver of liver damage. The review synthesized evidence on specific dietary patterns, bioactive compounds, nutrients, and probiotics that may interrupt this cycle. Key finding: multiple dietary approaches \u2014 from targeted nutrients to probiotics \u2014 show early promise for disrupting the oxidative stress-iron overload loop that accelerates MAFLD progression.",
+      "why_it_matters": "MAFLD is rising among women, particularly around menopause, and this review highlights emerging dietary strategies that may offer accessible, non-pharmacological management options.",
+      "caveats": "observational design, no sex-disaggregated data, single-center (review from one Chinese institution), review article not primary study",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Nutrition-liver hook relevant to women, but review only, no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Fatty Liver Disease May Have a Diet Fix \u2014 and It Targets a Stress-Iron Cycle You've Never Heard Of",
+          "hook": "A newly identified biological cycle \u2014 where oxidative stress and iron overload fuel each other \u2014 may be the key to why fatty liver disease progresses, and certain foods may help break it.",
+          "pitch_angle": "Researchers have mapped a vicious cycle inside the liver where iron overload and cellular stress continuously worsen each other; a systematic review suggests that specific dietary patterns, probiotics, and bioactive compounds may interrupt this loop, offering a practical, food-based management angle for the growing number of women diagnosed with metabolic fatty liver disease."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42385294",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpsychires.2026.06.035",
+      "headline": "Psychedelics won't fix autism's core symptoms \u2014 but early evidence suggests they may ease the anxiety and emotional pain that often come with it",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review examined existing clinical and preclinical evidence for psychedelic-assisted therapies \u2014 including psilocybin, MDMA, LSD, and ketamine \u2014 as potential treatments for autism spectrum disorder (ASD). Researchers reviewed mechanistic evidence involving serotonin receptor activity, neuroplasticity, and brain network reorganization. The review concluded that current evidence does not support psychedelics for core ASD symptoms like social communication deficits, but suggests potential benefit for co-occurring symptoms including social anxiety, emotional dysregulation, and mood disturbances.",
+      "why_it_matters": "Autistic women disproportionately experience anxiety and emotional dysregulation \u2014 and this early evidence that psychedelics may target those co-occurring symptoms, rather than autism itself, is an important nuance for any coverage of psychedelic therapy.",
+      "caveats": "narrative review (not systematic), animal or cell study data included alongside human data, no sex-disaggregated data, limited direct clinical ASD trials, no pediatric evidence",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive nuance (psychedelics \u2260 autism cure), timely topic, but narrative review with thin human evidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Before You Believe the Psychedelics-for-Autism Hype, Read This",
+          "hook": "A new review finds psychedelics probably can't touch autism's core traits \u2014 but they may help with the anxiety and emotional pain that often accompany it.",
+          "pitch_angle": "As psychedelic therapy generates enormous buzz, researchers are urging a more precise conversation: early evidence suggests compounds like psilocybin and MDMA may help autistic people manage co-occurring anxiety and mood symptoms, not the core features of autism \u2014 a distinction that matters especially for autistic women, who carry a higher burden of those emotional co-occurring symptoms."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Psychedelics-for-Autism Story Is More Complicated Than It Sounds",
+          "hook": "Researchers say the viral idea that psychedelics could 'treat' autism misses the point \u2014 and may even be misleading.",
+          "pitch_angle": "A new review pushes back on oversimplified narratives, finding no evidence psychedelics address autism's core traits, while noting possible benefits for the anxiety and emotional dysregulation many autistic adults \u2014 especially women \u2014 struggle with daily."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42379070",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpsychires.2026.06.036",
+      "headline": "Teen friendships inside a digital depression app may be what keeps young people coming back to therapy",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed a coding tool to measure therapeutic alliance \u2014 the sense of bond and shared purpose \u2014 expressed spontaneously in peer-to-peer posts within a digital mental health app called Rebound, designed for youth in remission from major depressive disorder. The study included 109 participants aged 15\u201325 (mean age 20.5; 61% female). Stronger peer therapeutic alliance significantly predicted greater engagement with the app's therapy content, and this relationship held equally across genders.",
+      "why_it_matters": "For young women recovering from depression, the quality of peer connection inside a digital mental health app \u2014 not just the app's clinical content \u2014 may be a key driver of whether they stay engaged with treatment.",
+      "caveats": "small sample (N<100 threshold not met but N=109 is modest), observational design, single-center, short follow-up, secondary analysis, Australian sample only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Majority-female sample, youth mental health hook, but modest N and no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Secret Ingredient That Keeps Young Women Actually Using Mental Health Apps",
+          "hook": "It's not the therapy content \u2014 it's the friendships formed inside the app that keep young people engaged.",
+          "pitch_angle": "A new study found that peer connection within a digital depression app predicted whether users stuck with their treatment \u2014 a finding with real implications as mental health apps proliferate for Gen Z women."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42143913",
+      "journal": "European Neuropsychopharmacology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.euroneuro.2026.112860",
+      "headline": "Autistic traits and psychosis may share more genetic roots than previously thought \u2014 especially in early illness",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In an exploratory longitudinal study, researchers examined the genetic architecture underlying autistic traits and negative symptoms (such as emotional flatness and social withdrawal) in people experiencing a first episode of non-affective psychosis, including schizophrenia. The study analyzed polygenic risk scores and symptom trajectories in a Spanish multi-site cohort. Results suggested shared genetic pathways between autistic traits and negative symptoms, indicating these overlapping presentations in early psychosis may have a partly common biological basis.",
+      "why_it_matters": "For women, who are often diagnosed with schizophrenia later and present differently than men, understanding the genetic overlap between autism and psychosis symptoms could eventually improve how early psychosis is recognized and treated in female patients.",
+      "caveats": "exploratory design, observational design, single-country (Spain), no sex-disaggregated data reported, small-to-moderate sample size",
+      "fact_check_note": "Abstract was truncated; specific N and full results could not be fully verified. Caveats reflect this limitation.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting genetic overlap finding but no sex-disaggregated data and truncated abstract limits verification.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Find Genetic Overlap Between Autism Traits and Psychosis Symptoms \u2014 and It Shows Up Early",
+          "hook": "A new study suggests autism-related traits and the withdrawn, flat-affect symptoms of psychosis may share genetic roots \u2014 a finding that could reshape how early mental illness is diagnosed.",
+          "pitch_angle": "Researchers studying first-episode psychosis found genetic overlap between autistic traits and negative symptoms, suggesting these co-occurring presentations aren't just coincidental \u2014 with potential implications for women, who are often diagnosed with psychosis later and atypically."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42134004",
+      "journal": "European Neuropsychopharmacology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.euroneuro.2026.112860",
+      "headline": "Women with ADHD, PTSD, and eating disorders face some of the sharpest spikes in self-harm risk after a first psychiatric diagnosis",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used a territory-wide electronic health records database in Hong Kong covering 322,922 people with a first-recorded mental health diagnosis and 888,031 controls, tracked over 16 years (2006\u20132021), to estimate self-harm risk across 14 psychiatric diagnoses. Every single diagnostic category was associated with significantly elevated self-harm risk, with substance use disorders carrying the highest hazard ratio (22.86), followed by alcohol use disorders, personality disorders, and major depression. Subgroup analyses found the highest self-harm risks in young people aged 24 and under, and found female predominance across most diagnoses \u2014 most notably in PTSD, personality disorders, alcohol use disorder, autism spectrum disorder, and ADHD.",
+      "why_it_matters": "This large population study highlights that women with ADHD, PTSD, and ASD \u2014 conditions often diagnosed late or missed in females \u2014 face particularly elevated self-harm risk, underscoring why timely and accurate diagnosis in women matters.",
+      "caveats": "observational design, single-country (Hong Kong \u2014 findings may not generalize to Western populations), health-record-based diagnosis (may undercount undiagnosed cases), self-harm events limited to those recorded in public health records",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Very large cohort, sex-disaggregated data, counterintuitive female-specific risk elevations across underdiagnosed conditions.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Women With ADHD and PTSD Face Surprisingly High Self-Harm Risk After Diagnosis \u2014 A Massive New Study Explains Why Early Detection Matters",
+          "hook": "A 16-year study of over a million people found that women with ADHD, PTSD, and autism had some of the sharpest self-harm risk increases after a first psychiatric diagnosis.",
+          "pitch_angle": "The study \u2014 one of the largest of its kind \u2014 found female predominance in self-harm risk across several conditions frequently missed or delayed in women, including ADHD and PTSD, suggesting the diagnostic gap for women in psychiatry may carry serious safety consequences."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Psychiatric Conditions Where Women's Self-Harm Risk Spikes the Hardest",
+          "hook": "A sweeping new study finds that women diagnosed with ADHD, PTSD, and autism face disproportionately elevated self-harm risk \u2014 conditions that are routinely diagnosed late in women.",
+          "pitch_angle": "Tracking over a million people across 16 years, researchers found female predominance in self-harm risk across exactly the diagnoses most often missed in women \u2014 raising hard questions about what delayed diagnosis costs women beyond just a label."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42229608",
+      "headline": "Scientists grow human ovary tissue in 3D without a scaffold \u2014 a potential game-changer for fertility preservation research",
+      "journal": "Fertility and Sterility",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.fertnstert.2026.05.168",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Universit\u00e9 Catholique de Louvain developed 'ovarioids' \u2014 self-organizing, three-dimensional human ovarian tissue models grown without an external matrix or scaffold, using tissue from the Gynecology Department at Cliniques Universitaires Saint-Luc in Brussels. The abstract does not specify sample size or participant characteristics. This matrix-free approach offers a new laboratory platform for studying ovarian biology, drug effects, and fertility preservation strategies in human tissue.",
+      "why_it_matters": "A reliable human ovarian organoid model could accelerate research into fertility preservation for cancer patients and women with premature ovarian insufficiency, without requiring animal surrogates.",
+      "caveats": "small sample (N<100 \u2014 not specified in abstract), single-center, no sex-disaggregated data, limited abstract detail on methodology and participant characteristics",
+      "fact_check_note": "Abstract does not provide sample size or participant age/reproductive status; these details are absent and cannot be verified.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Human ovarian tissue, fertility relevance, first-in-class model; limited abstract detail penalizes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Scientists Just Grew Human Ovary Tissue in 3D in a Lab \u2014 and It Could Change Fertility Research Forever",
+          "hook": "Researchers have created the first scaffold-free, three-dimensional human ovarian model \u2014 a development that could transform how scientists study fertility and ovarian disease.",
+          "pitch_angle": "Called 'ovarioids,' these self-organizing tissue structures are built from human ovarian cells without needing an artificial support matrix, making them more biologically realistic than prior lab models. Early evidence suggests they could become a key research tool for studying conditions like premature ovarian insufficiency and developing fertility preservation strategies for women undergoing cancer treatment."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42808571",
+      "headline": "Ultrasound catches ovarian endometriosis well \u2014 but still misses some of the most painful, hard-to-reach disease",
+      "journal": "The Australian & New Zealand Journal of Obstetrics & Gynaecology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/ajo.70183",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective observational study of 221 patients with suspected endometriosis at a single tertiary hospital in Perth, Australia, comparing preoperative transvaginal ultrasound (eTVUS) findings against laparoscopy as the gold standard over a decade (2015\u20132024). Enhanced TVU was highly accurate for detecting ovarian endometriomas (sensitivity 81.4%, specificity 84.1%), showed moderate performance for bowel involvement, but had low sensitivity for peritoneal disease and completely missed ureteric involvement (PPV 0%). The findings suggest that even specialist-performed ultrasound has meaningful blind spots for certain types of deep endometriosis.",
+      "why_it_matters": "For women navigating long diagnostic journeys with endometriosis, this suggests that a normal ultrasound does not rule out significant deep disease \u2014 a critical point for patients and their clinicians.",
+      "caveats": "observational design, single-center, retrospective, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Women-specific condition, N=221, actionable diagnostic finding, endometriosis topic fit.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "A 'Normal' Endometriosis Ultrasound Doesn't Mean You're in the Clear \u2014 Here's What It Still Misses",
+          "hook": "Even at a specialist center, transvaginal ultrasound missed virtually all ureteric endometriosis and most peritoneal disease \u2014 findings that can cause serious, ongoing pain.",
+          "pitch_angle": "A decade of data from 221 patients found that while enhanced ultrasound is reliable for ovarian cysts caused by endometriosis, it has significant blind spots for deep disease in other locations. For women who've been told their ultrasound looks fine but are still in pain, this research adds scientific weight to the lived experience of a frustratingly delayed diagnosis."
         },
         {
           "publication_type": "Prevention",
-          "headline": "If Diabetes Runs in Your Family, a Glucose Monitor Might Catch It Before Your Doctor Does",
-          "hook": "Scientists found that specific overnight glucose spikes, detected by continuous glucose monitors, predicted Type 1 diabetes onset months ahead in at-risk family members.",
-          "pitch_angle": "Among first-degree relatives of people with Type 1 diabetes, combining several CGM readings predicted who would progress to full diabetes with 100% sensitivity \u2014 far outperforming any single measure. Researchers say this could eventually give at-risk women an earlier window to act, though the study was small and exploratory."
+          "headline": "Why Your Endometriosis Could Be Hiding \u2014 Even From an Expert Ultrasound",
+          "hook": "New research confirms that one of the most common diagnostic tools for endometriosis misses key types of disease \u2014 even in experienced hands.",
+          "pitch_angle": "Researchers analyzed 10 years of data and found that transvaginal ultrasound, while good at spotting ovarian cysts, had a 0% detection rate for ureteric endometriosis and rarely identified peritoneal disease. The findings underscore why women with persistent pelvic pain symptoms may need additional diagnostic steps beyond imaging."
         }
       ],
-      "run_date": "2026-10-03",
-      "category": "Endocrinology & Metabolism",
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42296620",
+      "headline": "Healthcare providers admit they don't know how to properly support breastfeeding in women with obesity \u2014 and the gaps are costing new mothers",
+      "journal": "Midwifery",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.midw.2026.104892",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Germany and Switzerland conducted 22 semi-structured interviews \u2014 with 20 healthcare professionals and 2 mothers with lived experience \u2014 to explore how breastfeeding support is delivered to women with overweight or obesity across the perinatal period. Providers described inconsistent information, fragmented continuity of care, and uncertainty about professional roles, alongside a notable absence of stigma-sensitive, tailored support. Midwives emerged as the most important point of practical and relational support, though systemic gaps left many women underserved.",
+      "why_it_matters": "Since women with higher BMI are already less likely to initiate or sustain breastfeeding, the finding that care systems are poorly equipped to support them highlights a missed opportunity for improving maternal and infant health outcomes in a large and growing population.",
+      "caveats": "small sample (N<100), qualitative design, single-center, limited to Germany and Switzerland, only 2 mothers included as participants",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant postpartum feeding topic, female-specific, but very small qualitative sample limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "If You Have Obesity and Want to Breastfeed, the Healthcare System May Be Leaving You Behind",
+          "hook": "A new qualitative study found that healthcare providers openly admit they lack the training, role clarity, and sensitivity to adequately support breastfeeding in women with overweight or obesity.",
+          "pitch_angle": "Women with higher BMIs are already less likely to breastfeed, and this research suggests the system isn't helping \u2014 with providers describing inconsistent guidance and no clear playbook for stigma-free, tailored support, a gap that could have real consequences for both mothers and babies."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42161192",
+      "headline": "A simple ultrasound ratio of muscle to fat in the fetal thigh may flag rare muscle disorders before birth",
+      "journal": "Early Human Development",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.earlhumdev.2026.106580",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers prospectively recruited 430 pregnant women carrying singleton, non-anomalous fetuses between 20 and 32 weeks gestation at a single center in Guangzhou, China, to establish normal reference ranges for the ratio of mid-thigh lean mass to soft tissue (LMSTr) measured by ultrasound. They also retrospectively reviewed fetal thigh images from 6 confirmed congenital myopathy cases over three years. A reduced LMSTr was found in 5 of those 6 myopathy cases (83%), suggesting the measure may help identify at-risk fetuses during routine anatomy scans.",
+      "why_it_matters": "For pregnant women, a non-invasive ultrasound marker that could flag rare but serious fetal muscle disorders during routine mid-pregnancy scans may support earlier awareness and planning.",
+      "caveats": "single-center, narrow to single region with limited generalizability (Chinese cohort, Guangzhou), small retrospective myopathy sample (N=6), observational design, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Prenatal health angle but very small myopathy case set and single-region cohort limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "A Routine Pregnancy Ultrasound Measurement Could Spot Rare Muscle Disorders Before Birth",
+          "hook": "A simple ratio measured on a fetal thigh during a standard mid-pregnancy scan flagged a serious muscle condition in most of the affected fetuses studied.",
+          "pitch_angle": "Researchers found that measuring the balance of muscle to soft tissue in a fetus's thigh during a routine ultrasound may help identify congenital myopathy \u2014 a rare but serious disorder \u2014 earlier than current methods allow. While the study is small and based in China, it raises intriguing questions about what standard prenatal scans might reveal in the future."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42097447",
+      "headline": "One in four adolescent girls with a rare vaginal birth defect had already undergone incomplete or emergency surgery before reaching a specialist",
+      "journal": "Journal of Pediatric and Adolescent Gynecology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpag.2026.04.017",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This 10-year retrospective cohort study at a single UK specialist center included 61 patients (median age 15, range 11\u201331) who underwent surgery for obstructed hemivagina, a rare congenital anomaly in which one side of a duplicated vagina is blocked. One-quarter had already received emergency or incomplete procedures before specialist referral, and one-third were not on menstrual suppression at the time of referral. Vaginal septal excision at the specialist center was associated with a low re-obstruction rate of 3.3% (2/61), though accuracy of pre-surgical MRI classification was reduced for higher-positioned septa.",
+      "why_it_matters": "The finding that a significant proportion of adolescents with this condition arrive at specialist care having already undergone inadequate procedures highlights systemic gaps in recognizing and routing girls with rare gynecological anomalies to appropriate expertise early.",
+      "caveats": "small sample (N<100), retrospective, single-center, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant adolescent gynecology finding; limited by small N, single center, short follow-up.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Too Many Teen Girls With This Rare Vaginal Condition Get the Wrong Treatment First",
+          "hook": "A UK study found that one in four adolescents with obstructed hemivagina \u2014 a congenital condition that traps menstrual blood \u2014 had already undergone an incomplete or emergency procedure before they ever saw a specialist.",
+          "pitch_angle": "The 10-year study found that specialist surgical care was associated with very low rates of re-obstruction, but the high proportion of girls arriving with prior inadequate treatment suggests that this condition is still frequently mismanaged in non-specialist settings \u2014 and earlier, accurate diagnosis could spare young patients additional procedures."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42820931",
+      "headline": "Science still can't say what shift workers should eat \u2014 a new review of 43 studies found the evidence too weak to write guidelines",
+      "journal": "Journal of Human Nutrition and Dietetics",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/jhn.70340",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic review of 43 studies \u2014 including RCTs, crossover trials, and observational studies \u2014 examining nutrition interventions for shift workers, with a subgroup focus on first responders such as firefighters and police. Most study participants were nurses and healthcare professionals; first responders were represented in only 9% of studies. Despite testing approaches like time-restricted eating, macronutrient adjustments, and meal timing, methodological heterogeneity and high risk of bias meant no evidence-based dietary guidelines could be established.",
+      "why_it_matters": "Millions of women work nights or rotating shifts \u2014 many of them nurses \u2014 yet science still lacks the rigorous evidence to tell them specifically what to eat to protect their metabolic and cardiovascular health.",
+      "caveats": "observational design (majority of included studies), small sample (many constituent studies N<100), no sex-disaggregated data, short follow-up across included studies",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive null finding; women dominate shift-work healthcare roles; no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Millions of Women Work Night Shifts. Science Has No Idea What They Should Eat.",
+          "hook": "Despite decades of research, a sweeping new review of 43 studies found no strong enough evidence to tell shift workers \u2014 most of them women in healthcare \u2014 what to eat to stay healthy.",
+          "pitch_angle": "A systematic review found that time-restricted eating, meal timing strategies, and macronutrient tweaks have all been studied in shift workers, but the science is too messy to draw firm conclusions. For the legions of women working nights as nurses, EMTs, or other healthcare roles, this gap in guidance is both surprising and urgent."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Night-Shift Workers Are Told to 'Eat Healthy' \u2014 But No One Actually Knows What That Means for Them",
+          "hook": "A new analysis of 43 studies on shift-worker nutrition came to a humbling conclusion: the research isn't good enough yet to give real dietary advice.",
+          "pitch_angle": "Time-restricted eating, different macronutrient ratios, adjusted meal timing \u2014 all have been tested in night-shift workers, with inconclusive results. For women navigating nontraditional schedules, this review is a reminder that wellness advice often outruns the science behind it."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42033133",
+      "headline": "Brain scans show endometriosis pain rewires neural circuits \u2014 even after the physical source is treated",
+      "journal": "International Journal of Gynaecology and Obstetrics",
+      "pubdate": "2026 Oct",
+      "doi": "10.1002/ijgo.71039",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used resting-state fMRI to compare brain connectivity in 30 women aged 18\u201345: 10 with deep infiltrating endometriosis (DIE) and chronic pelvic pain, 10 with ovarian endometriomas but no pain, and 10 healthy controls. Women with DIE and pain showed significantly altered connectivity in key pain-processing regions \u2014 including the amygdala, anterior cingulate gyrus, and precuneus \u2014 compared with both other groups. Women with endometriomas but no pain showed no such differences, suggesting the brain changes are linked to pain experience, not endometriosis alone.",
+      "why_it_matters": "This early evidence suggests that treatment-resistant pelvic pain in women with endometriosis may partly reflect central nervous system changes \u2014 not just ongoing tissue damage \u2014 which could eventually inform why some women don't respond to standard therapies.",
+      "caveats": "small sample (N<100), observational design, retrospective, single-center",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive CNS finding in endometriosis; women-only sample; strong lifestyle/wellness hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Brain May Be Keeping Score of Your Endo Pain \u2014 Even When Treatment Seems to Help",
+          "hook": "Brain scans reveal that women with endometriosis and chronic pelvic pain have measurably different neural wiring in areas that regulate how pain feels \u2014 and it's not seen in women who have endo but no pain.",
+          "pitch_angle": "New fMRI research found that deep infiltrating endometriosis with chronic pain alters connectivity in the brain's pain-processing network, suggesting the nervous system may amplify and sustain pain independently of the underlying lesions \u2014 which could help explain why so many endo patients feel unheard when standard treatments fall short."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Endometriosis Pain Is Literally in the Brain \u2014 and That's Not What You Think It Means",
+          "hook": "A small but striking imaging study found that women with the most severe endometriosis-related pain show altered brain connectivity in emotion and pain regulation areas \u2014 while women with the same disease but no pain do not.",
+          "pitch_angle": "The findings add neurological weight to what many endo patients have long described: a pain that persists, intensifies, and resists explanation \u2014 and may help shift the conversation from 'it's all in your head' to 'it's also in your head, and that matters clinically.'"
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41983343",
+      "headline": "AI may one day decode the inner thoughts of patients who can't move or speak",
+      "journal": "The Neuroscientist",
+      "pubdate": "2026 Oct",
+      "doi": "10.1177/10738584261434939",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Western University reviewed the state of neural reconstruction \u2014 technology that translates brain activity into images, text, or speech using neuroimaging and deep learning \u2014 and its potential application to patients with disorders of consciousness (DoCs) such as vegetative or minimally conscious states. The review is not an original human study but a narrative synthesis of existing research. Key finding: reconstruction technology may eventually allow some non-responsive patients to communicate, but the authors warn that misapplying it could misrepresent a patient's inner experience and compromise their autonomy.",
+      "why_it_matters": "For women \u2014 who make up a significant share of long-term care and neurological patients \u2014 this emerging technology could one day change how families and clinicians interpret and respond to apparent unresponsiveness.",
+      "caveats": "no sex-disaggregated data, review article (not original human study), no N reported, no female-specific analysis",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Review article, no female-specific data, limited direct women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Could AI Read the Minds of Patients Who Seem Unconscious?",
+          "hook": "New brain-decoding technology may soon reveal whether someone in a vegetative state is actually aware \u2014 and could even let them 'speak.'",
+          "pitch_angle": "Researchers say AI tools that translate brain signals into words and images are close to being applied to patients with disorders of consciousness. The technology raises hope for families \u2014 but experts warn it must be used carefully to protect patients' inner lives and autonomy."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42413308",
+      "headline": "In Japan, fewer than 2% of first-episode schizophrenia patients ever receive long-acting injectable antipsychotics \u2014 even though evidence supports their use",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.schres.2026.07.004",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using a Japanese insurance claims database covering January 2005 to March 2024, researchers tracked 24,226 patients approximating a first-episode schizophrenia cohort to describe real-world patterns of long-acting injectable antipsychotic (LAI) use. Only 1.8% of patients ever received an LAI, and among those who did, the median time from diagnosis to first injection was 12 months. Among patients who switched from oral to injectable antipsychotics, about 27% had been hospitalized in the year before making the switch.",
+      "why_it_matters": "Women with schizophrenia face distinct challenges with medication adherence across hormonal life stages, and this study suggests a potentially underused treatment option that could support continuity of care remains rarely offered in real-world practice.",
+      "caveats": "observational design, claims-based proxy cohort, no sex-disaggregated data, single country (Japan), industry funding (AbbVie employee as co-author), no clinical outcomes beyond hospitalization",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Large claims database; no sex-disaggregated data; Japan-specific; industry conflict of interest.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Highly Effective Schizophrenia Treatment Is Almost Never Used \u2014 Even at Diagnosis",
+          "hook": "Despite evidence that long-acting injectable antipsychotics can improve treatment consistency, a study of more than 24,000 newly diagnosed patients found fewer than 2% ever received one.",
+          "pitch_angle": "Japanese claims data spanning nearly two decades reveal that a treatment option specifically designed to reduce the burden of daily pills \u2014 and the gaps in care that follow missed doses \u2014 is barely being used even when patients are most receptive to establishing a treatment routine, raising questions about prescription patterns globally."
+        }
+      ],
+      "run_date": "2026-10-04",
+      "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
@@ -118,87 +943,6 @@
       "status": "new"
     },
     {
-      "pmid": "42804809",
-      "headline": "Adult-onset schizophrenia shows weaker brain waste-clearance signals than early-onset \u2014 and it links to more severe hallucinations",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Sep 28",
-      "doi": "10.1016/j.schres.2026.09.024",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a brain-imaging technique called DTI-ALPS \u2014 an indirect measure of the brain's glymphatic (waste-clearance) system \u2014 to compare 195 first-episode schizophrenia patients (103 early-onset, 92 adult-onset) with 191 healthy controls. They found that adult-onset patients had significantly lower glymphatic-function markers, particularly in the right hemisphere, compared to both early-onset patients and older healthy controls. Lower right-hemisphere scores in adult-onset patients were also associated with more severe hallucinations.",
-      "why_it_matters": "For women, who are more likely than men to develop schizophrenia in adulthood (often post-menopause), this suggests adult-onset illness may involve a biologically distinct brain mechanism that could one day inform more targeted treatment.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, industry funding [Janssen Canada, Otsuka Canada \u2014 one co-author]",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Intriguing brain-mechanism finding, but no sex-disaggregated data limits women's-health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Scientists Found a Difference in Brain 'Waste Clearance' Between People Who Develop Schizophrenia Young vs. in Adulthood",
-          "hook": "Your brain has a built-in cleaning system \u2014 and new research suggests it works differently depending on when schizophrenia first appears.",
-          "pitch_angle": "Researchers found that adults who develop schizophrenia later in life show weaker signals from the brain's glymphatic (waste-removal) system than those with early-onset illness, and those weaker signals correlate with more intense hallucinations. The finding is notable for women because adult-onset schizophrenia is disproportionately more common in women, often emerging around menopause, raising questions about whether hormonal shifts interact with brain-clearance biology."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42805779",
-      "headline": "China makes 90% of the world's e-cigarettes \u2014 and its rapid-fire product model is outpacing every regulator on earth",
-      "journal": "Tobacco Control",
-      "pubdate": "2026 Sep 28",
-      "doi": "10.1136/tc-2026-060270",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed publicly available industry reports, government documents, corporate records, and media sources in English and Chinese to map how China's e-cigarette industry dominates global supply. They found that China produces over 90% of the world's e-cigarettes \u2014 including products sold by major Western brands \u2014 using a fast-moving consumer goods model built on rapid flavor and design turnover that is structurally incompatible with cigarette-era regulations. Domestic Chinese regulations introduced in 2022 appear to have accelerated, rather than slowed, global export expansion.",
-      "why_it_matters": "Young women are among the fastest-growing groups of e-cigarette users globally, making the finding that current regulations are structurally unable to keep pace with product innovation directly relevant to their health and safety.",
-      "caveats": "observational design, no sex-disaggregated data, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Strong public-health hook, but no women-specific data and no biological mechanism.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Vapes You See Everywhere Are Made in One Place \u2014 and Regulators Basically Can't Keep Up",
-          "hook": "Over 90% of the world's e-cigarettes come from a single manufacturing hub in China, and the business model they use was literally designed to outrun government oversight.",
-          "pitch_angle": "A new analysis reveals that Chinese e-cigarette companies operate like fast-fashion brands \u2014 churning out new flavors and devices faster than any regulatory agency can evaluate them \u2014 and that 2022 Chinese domestic rules actually pushed more products onto global markets. For women in their 20s and 30s who've swapped cigarettes for vapes thinking they're choosing the lesser evil, this structural accountability gap is a significant concern."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42557604",
-      "headline": "Suicide rate data may be hiding a hidden rise in certain groups \u2014 here's the statistical reason why",
-      "journal": "Psychiatric Services",
-      "pubdate": "2026 Oct 1",
-      "doi": "10.1176/appi.ps.20240228",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "VA researchers examined how aggregating suicide surveillance data can produce misleading trends through a phenomenon called Simpson's Paradox, where a trend that appears in combined data reverses or disappears when the data is broken into subgroups. The analysis draws on VA population data and illustrates how suicide rates that appear stable or declining at the population level may actually be rising in specific demographic subgroups. The authors argue that disaggregated surveillance is essential for accurate public health monitoring.",
-      "why_it_matters": "If national suicide data is masking rising rates in specific subgroups \u2014 including women, who have seen increasing suicide rates in recent decades \u2014 policymakers and clinicians may be acting on a falsely reassuring picture.",
-      "caveats": "no sex-disaggregated data, secondary analysis, observational design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Methodological piece; indirect women's health relevance, no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Suicide Statistics May Be Lying to Us \u2014 And a Classic Math Problem Explains Why",
-          "hook": "A statistical paradox is causing national suicide data to look better than it actually is for vulnerable subgroups.",
-          "pitch_angle": "VA researchers warn that aggregated suicide surveillance data can hide worsening trends in specific populations, including women, due to a well-known but underappreciated statistical phenomenon. The finding suggests that headline numbers showing 'stable' suicide rates may be concealing a real crisis in certain groups."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42415253",
       "headline": "Brain implants for mental illness are coming \u2014 but the ethics haven't caught up",
       "journal": "The American Journal of Psychiatry",
@@ -222,180 +966,6 @@
       ],
       "run_date": "2026-10-03",
       "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42821652",
-      "headline": "A gene mutation long blamed for causing low blood sugar in babies may actually trigger diabetes later in life \u2014 and current treatments may be wrong",
-      "journal": "Diabetes",
-      "pubdate": "2026 Oct 1",
-      "doi": "10.2337/db26-0406",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tested 16 variants of the ABCC8 gene \u2014 previously linked to a rare young-onset diabetes called MODY \u2014 in recombinant channel models to understand how they affect pancreatic potassium channel (KATP) function. The study was a lab-based functional analysis, not a human clinical trial. Thirteen of 16 variants caused loss-of-function (not gain-of-function as previously assumed), meaning the diabetes drugs currently presumed appropriate for these patients may actually be the wrong treatment.",
-      "why_it_matters": "For women of reproductive age or young women diagnosed with MODY, this finding suggests a significant portion may have been misclassified and potentially mistreated, with implications for diabetes management during pregnancy and family planning.",
-      "caveats": "animal or cell study, no sex-disaggregated data, small variant panel (N=16 variants)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Overturns prior belief but cell/channel study only; no female-specific data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "A Common Assumption About a Rare Diabetes Gene May Be Dangerously Wrong",
-          "hook": "Doctors have been prescribing treatments for a young-onset diabetes based on a mechanism that new lab evidence suggests is backwards.",
-          "pitch_angle": "Researchers found that ABCC8 gene variants linked to MODY \u2014 a diabetes that often strikes in young adulthood \u2014 cause channel loss-of-function, not gain-of-function as widely assumed, suggesting standard drug choices for these patients may need to be reconsidered."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42537444",
-      "headline": "Getting treatment fast and getting the right treatment both matter in first-episode psychosis \u2014 but equity gaps persist",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.schres.2026.07.017",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Italian researchers evaluated a multicomponent early intervention program for first-episode psychosis across the Emilia-Romagna region, analyzing outcomes in 1,085 patients aged 18\u201335 (mean age 23.8 years) over a mean follow-up of 2.5 years. Longer delays before treatment and fewer psychosis-specific interventions like CBT and psychoeducation were associated with worse recovery and lower remission rates. Importantly, foreign citizenship was linked to higher symptom severity at both baseline and follow-up, suggesting significant equity gaps in care access.",
-      "why_it_matters": "Young women experiencing a first episode of psychosis \u2014 especially those from immigrant communities \u2014 may face compounding disadvantages in accessing timely, specialized care that meaningfully affects long-term recovery.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large cohort, equity angle strong; no sex-disaggregated data limits women's health scoring.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Getting Early Psychosis Treatment Fast Matters \u2014 But So Does Who You Are When You Walk Through the Door",
-          "hook": "A real-world study of over 1,000 young adults found that both delays in care and lack of specialized therapy worsened psychosis recovery \u2014 but immigrant patients faced the biggest disadvantages.",
-          "pitch_angle": "Italian researchers found that early, specialized intervention for first-episode psychosis significantly improves outcomes, but equity gaps \u2014 particularly for patients with foreign citizenship \u2014 mean that access to timely care remains uneven. The findings add urgency to calls for culturally responsive mental health services, particularly for young women navigating both psychosis and systemic barriers."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42476451",
-      "headline": "Vitamin D supplements don't fight frailty the way we thought \u2014 and high-dose regimens may actually backfire",
-      "journal": "Metabolism: Clinical and Experimental",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.metabol.2026.156697",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review synthesized clinical, epidemiological, and mechanistic evidence on vitamin D's role in frailty \u2014 covering muscle loss, bone fragility, immune dysfunction, and cognitive decline \u2014 drawing on observational cohorts and randomized controlled trials in community-dwelling adults. Despite strong biological plausibility for vitamin D's protective effects, RCTs have largely shown neutral results in people with adequate vitamin D levels, and intermittent high-dose bolus regimens were associated with increased falls and fractures. Benefits appear limited to individuals who are actually deficient or particularly vulnerable, with persistent methodological inconsistencies clouding the picture.",
-      "why_it_matters": "For women \u2014 who face disproportionately higher rates of frailty, bone loss, and sarcopenia with age \u2014 this review suggests that routine high-dose vitamin D supplementation may not be the protective strategy it's often assumed to be.",
-      "caveats": "observational design (for cohort components), narrative review (not systematic meta-analysis), no sex-disaggregated data, industry funding [Abiogen \u2014 prior research funding to one author]",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Counterintuitive finding; strong women's health relevance for aging; narrative review limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "You've Been Taking Vitamin D to Stay Strong as You Age \u2014 But New Research Says It May Not Work That Way",
-          "hook": "Despite years of hype, vitamin D supplements largely failed to prevent frailty in rigorous trials \u2014 and megadoses may raise fall risk.",
-          "pitch_angle": "A major review finds that vitamin D only seems to help people who are already deficient, while high-dose regimens were linked to more falls and fractures, not fewer. For women already taking it as an anti-aging insurance policy, the evidence suggests it may be time to reassess."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Vitamin D-Frailty Connection Is More Complicated Than Wellness Culture Admits",
-          "hook": "The supplement everyone takes to protect their bones and muscles with age may only matter if you're actually low in vitamin D.",
-          "pitch_angle": "A new review integrating decades of research finds the biological case for vitamin D in preventing frailty is compelling \u2014 but the clinical reality is murkier, with benefits appearing only in truly deficient individuals and high-dose regimens potentially doing harm. For wellness-minded women tracking their levels, nuance matters more than ever."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42419629",
-      "headline": "Researchers find a protein pattern that may explain why some adrenal tumors overproduce cortisol \u2014 and others don't",
-      "journal": "Metabolism: Clinical and Experimental",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.metabol.2026.156691",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers performed comprehensive proteomic profiling on tissue from 29 adrenal adenomas \u2014 9 with full Cushing's syndrome, 10 with subclinical Cushing's syndrome, and 10 non-functioning adenomas \u2014 to identify molecular drivers of cortisol overproduction. They found progressive disruption of cholesterol metabolic pathways corresponding to disease severity, and identified a four-protein panel (LDLR, HMGCS1, LIPE, SYP) as candidate diagnostic markers. A protein called CAB39L was found to be downregulated in cortisol-producing adenomas and is proposed as a key contributor to pathological cortisol production.",
-      "why_it_matters": "Cushing's syndrome affects women at roughly three times the rate of men, and earlier or more precise identification of cortisol-producing adrenal tumors could eventually support faster diagnosis in women experiencing unexplained weight gain, fatigue, and metabolic changes.",
-      "caveats": "small sample (N<100), single-center, observational design, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant women's condition; very small sample, single-center, no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Scientists Are Closer to Understanding Why Certain Adrenal Tumors Flood the Body With Stress Hormones",
-          "hook": "A protein fingerprint in adrenal tumors may reveal why some quietly overproduce cortisol while others don't \u2014 pointing toward better ways to catch Cushing's syndrome sooner.",
-          "pitch_angle": "A proteomic study of adrenal tumor tissue identified a four-protein signature that tracks with cortisol overproduction severity, along with a key molecular driver called CAB39L. For women \u2014 who develop Cushing's syndrome far more often than men \u2014 improved tools for identifying these tumors early could eventually reduce years of diagnostic delay."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42406274",
-      "headline": "Blocking one signaling pathway may help make treatment-resistant thyroid cancer respond to radioiodine again",
-      "journal": "Journal of Endocrinological Investigation",
-      "pubdate": "2026 Oct",
-      "doi": "10.1007/s40618-026-02963-8",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Chinese researchers developed a 3D cell culture model of thyroid cancer to mimic the dedifferentiation process that makes tumors resistant to radioactive iodine (RAI) therapy, a standard post-surgical treatment. Using this model alongside analysis of papillary thyroid carcinoma tissue samples, they identified TGF-\u03b21 signaling as a key driver of dedifferentiation and RAI resistance. Blocking TGF-\u03b21 with an experimental drug called galunisertib suppressed cancer stem cell markers and restored radioiodine uptake in the lab model.",
-      "why_it_matters": "Thyroid cancer disproportionately affects women, and radioiodine-refractory cases have very limited treatment options; early-stage laboratory findings like these suggest a potential molecular target worth watching in future clinical research.",
-      "caveats": "animal or cell study, single-center, China-based tissue samples, no human clinical data, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Women-prevalent cancer but cell study only; no human or female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "Scientists Found a Way to Make Treatment-Resistant Thyroid Cancer More Treatable \u2014 In the Lab",
-          "hook": "A molecular pathway that causes thyroid tumors to stop responding to standard treatment may be reversible, at least in lab models.",
-          "pitch_angle": "Thyroid cancer is far more common in women than men, and cases that stop responding to radioactive iodine treatment have few options. New cell study findings suggest that blocking a single signaling pathway could help restore a tumor's sensitivity to standard therapy \u2014 though human trials are still needed."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42349366",
-      "headline": "Being mentally flexible during pregnancy may protect against depression \u2014 especially for women terrified of childbirth",
-      "journal": "Midwifery",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.midw.2026.104896",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed data from 395 pregnant women in their third trimester recruited at three French maternity hospitals, assessing fear of childbirth, psychological flexibility, coping strategies, and depressive symptoms. Higher fear of childbirth was associated with more prenatal depressive symptoms, while greater psychological flexibility and problem-focused coping were associated with fewer. Among women with low psychological flexibility, fear of childbirth was more strongly linked to depressive symptoms, suggesting flexibility may buffer \u2014 but does not fully moderate \u2014 this relationship.",
-      "why_it_matters": "Prenatal depression affects a significant share of pregnant women, and this study suggests that building psychological flexibility skills could be a targetable protective factor, particularly for those with high childbirth anxiety.",
-      "caveats": "observational design, single-center (three French hospitals), cross-sectional baseline data only, self-reported outcomes, short follow-up, moderation effect did not reach statistical significance",
-      "fact_check_note": "The abstract clarifies that psychological flexibility did not significantly moderate the association between fear of childbirth and depressive symptoms in the formal moderation test \u2014 only conditional effects suggested a stronger link among low-flexibility women. Headline and summary reflect this nuance.",
-      "relevance_score": 7,
-      "relevance_score_reason": "Strong perinatal mental health topic fit; observational and cross-sectional design limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Mindset Skill That May Help Pregnant Women Cope With Fear of Childbirth",
-          "hook": "Women who are terrified of giving birth are more likely to experience prenatal depression \u2014 but those who practice psychological flexibility may be better protected.",
-          "pitch_angle": "A new study found that psychological flexibility \u2014 the ability to adapt thoughts and behaviors in stressful situations \u2014 was associated with fewer depressive symptoms during pregnancy, especially among women with high childbirth fear. The findings open a conversation about accessible, mindset-based tools that could support emotional wellbeing in the third trimester."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Prenatal Depression and Childbirth Fear Are Linked \u2014 Here's the Mental Skill That May Help",
-          "hook": "Fear of childbirth is one of the strongest predictors of depression during pregnancy \u2014 and a new study points to a trainable mental skill that may soften the blow.",
-          "pitch_angle": "Researchers found that psychological flexibility \u2014 how well a person can adapt rather than avoid difficult emotions \u2014 was independently associated with lower prenatal depressive symptoms in a cohort of 395 third-trimester women. Interventions like Acceptance and Commitment Therapy (ACT) that build this skill could be a practical, non-pharmacological option for at-risk pregnant women."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
@@ -427,339 +997,6 @@
       "status": "new"
     },
     {
-      "pmid": "42813471",
-      "headline": "New fathers' brains actually rewire around their baby's distress \u2014 and the change predicts how well they bond",
-      "journal": "Journal of Neuroendocrinology",
-      "pubdate": "2026 Oct",
-      "doi": "10.1111/jne.70276",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In the first longitudinal fMRI study of fear processing across the transition to fatherhood, researchers scanned 38 first-time expectant fathers before birth and 34 of them again approximately 8 months postpartum while they viewed fearful facial expressions. Both before and after their child's birth, fathers showed activation in classic fear-processing brain regions including the amygdala and insula; but after birth, the reward-linked dorsal striatum was also recruited, and higher striatal activation was associated with fewer father-infant bonding difficulties. A trend toward increased nucleus accumbens activation from prenatal to postpartum further suggests that new fatherhood shifts the brain toward approach-motivated responses to others' distress.",
-      "why_it_matters": "Understanding that new fathers undergo measurable neurobiological changes \u2014 and that those changes are linked to bonding quality \u2014 adds scientific weight to calls for greater paternal inclusion in perinatal mental health and family support research.",
-      "caveats": "small sample (N<100), single-center, observational design, short follow-up, no female comparison group",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive first-in-class finding; perinatal relevance; male-only sample limits women's health score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "New Dads' Brains Physically Change to Pick Up on Distress Cues \u2014 and It Predicts How Well They Bond With Their Baby",
-          "hook": "The same brain reward circuitry that keeps new mothers attuned to their babies' needs lights up in new fathers too \u2014 and the stronger the signal, the better the bonding.",
-          "pitch_angle": "An fMRI study found that after their child's birth, first-time fathers began processing fearful faces through brain reward regions in addition to fear circuits \u2014 a neurological shift tied to better father-infant bonding outcomes. For couples navigating new parenthood together, the finding suggests paternal brain change isn't metaphorical: it's measurable."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Science Finally Looked at What Happens to Men's Brains When They Become Fathers",
-          "hook": "While research on maternal brain changes has exploded, the paternal brain has been largely ignored \u2014 until now.",
-          "pitch_angle": "The first longitudinal brain-imaging study of new fathers found measurable neural rewiring around processing others' fear and distress, with reward-circuit activation predicting stronger bonding. As the cultural conversation around involved fatherhood grows, the neuroscience is starting to catch up."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42710386",
-      "headline": "Diet may help break the vicious cycle driving fatty liver disease \u2014 here's what the evidence shows",
-      "journal": "Nutrition Research",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.nutres.2026.08.002",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review from researchers in China synthesizes current evidence on how oxidative stress and iron overload interact to drive metabolic dysfunction-associated fatty liver disease (MAFLD), and surveys dietary strategies \u2014 including specific dietary patterns, bioactive compounds, nutrients, and probiotics \u2014 that may interrupt this cycle. No original participant data were collected; the review draws on existing mechanistic and clinical literature. The authors identify the 'oxidative stress\u2013iron dysmetabolism axis' as a central pathological target for dietary intervention.",
-      "why_it_matters": "MAFLD affects a growing number of women, particularly postmenopausal women, and dietary strategies targeting underlying metabolic pathways could offer accessible management options.",
-      "caveats": "review article (no original data), no sex-disaggregated data, single-region authorship (China), mechanistic focus with limited clinical translation",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Review only; no original data; no female-specific analysis; moderate lifestyle hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Fatty Liver Disease Is Rising in Women \u2014 and Diet Might Target the Hidden Trigger",
-          "hook": "A new review suggests that a damaging loop between oxidative stress and excess iron in the liver may be a key driver of fatty liver disease \u2014 and that certain dietary strategies could interrupt it.",
-          "pitch_angle": "Researchers identified specific dietary patterns, nutrients, and probiotics that may help break the cycle fueling MAFLD, a condition increasingly common in midlife and postmenopausal women. While clinical evidence is still developing, the findings point to diet as a meaningful lever in liver health."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42385294",
-      "headline": "Psychedelics won't fix core autism symptoms \u2014 but early evidence suggests they may ease anxiety and emotional dysregulation",
-      "journal": "Journal of Psychiatric Research",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.jpsychires.2026.06.035",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review examined mechanistic and clinical evidence for using psychedelic compounds \u2014 including psilocybin, LSD, MDMA, and ketamine \u2014 as potential therapeutic agents for autism spectrum disorder (ASD). Researchers synthesized preclinical and emerging clinical data on how these substances interact with serotonergic, glutamatergic, and oxytocinergic pathways implicated in ASD. The review concludes that current evidence does not support psychedelics for core social communication deficits, but they may hold promise for co-occurring symptoms such as social anxiety, emotional dysregulation, and mood disorders.",
-      "why_it_matters": "With autistic women disproportionately affected by anxiety and emotional dysregulation \u2014 and frequently underserved by existing treatments \u2014 this emerging evidence could eventually expand therapeutic options for a long-overlooked population.",
-      "caveats": "narrative review (not systematic), limited direct clinical studies in ASD populations, no sex-disaggregated data, pediatric evidence absent, no RCT data in ASD",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Emerging psychedelics-ASD topic; narrative review limits strength; no female-specific data reported.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Psychedelics Can't Cure Autism \u2014 But They Might Help With the Anxiety That Comes With It",
-          "hook": "A new review finds that while psychedelics won't address core autism traits, they may offer real relief for the anxiety, emotional dysregulation, and mood struggles that disproportionately affect autistic people.",
-          "pitch_angle": "Researchers reviewed the emerging science on psilocybin, MDMA, and ketamine in autism and found the most promising signal for co-occurring mental health symptoms rather than core social deficits. For autistic women \u2014 who frequently go undiagnosed until adulthood and face higher rates of anxiety and depression \u2014 this nuanced finding opens a cautious but meaningful conversation about new therapeutic avenues."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42379070",
-      "headline": "Peer connection in digital therapy apps drives real engagement \u2014 and gender doesn't change the equation",
-      "journal": "Journal of Psychiatric Research",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.jpsychires.2026.06.036",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed and tested a coding tool to measure therapeutic alliance expressed spontaneously between peers in a digital mental health intervention (Rebound) for youth with major depressive disorder in remission. The study included 109 participants aged 15\u201325 (mean age 20.5; 61% female). Peer-to-peer therapeutic alliance significantly predicted engagement with online therapy content, and this relationship was not moderated by gender.",
-      "why_it_matters": "For the growing number of young women turning to digital mental health apps for depression support, this early evidence suggests that peer connection \u2014 not just clinical content \u2014 may be a key driver of whether they actually use these tools.",
-      "caveats": "small sample (N=109), observational design, single platform (Rebound), self-reported outcomes, Australian cohort, no sex-disaggregated outcome analysis beyond gender moderation test",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Majority-female sample; digital mental health hook relevant to young women; small N limits strength.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "The Secret Ingredient That Makes Mental Health Apps Actually Work? Other People",
-          "hook": "A new study found that how connected young people feel to their peers inside a digital therapy platform predicts whether they'll actually engage with the treatment content.",
-          "pitch_angle": "In a study of young adults (61% female) using an online depression intervention, peer-to-peer rapport \u2014 not just the app's clinical tools \u2014 was the strongest predictor of engagement with therapy content. The finding suggests that social features in mental health apps aren't just feel-good add-ons; they may be the engine that keeps users showing up."
-        },
-        {
-          "publication_type": "Health.com",
-          "headline": "Digital Therapy Works Better When You Have a Peer in Your Corner, Study Finds",
-          "hook": "Feeling a sense of connection with other users in a mental health app may be what actually keeps young people engaged with therapy \u2014 regardless of gender.",
-          "pitch_angle": "New research on a peer-supported digital depression program found that the therapeutic bond between participants \u2014 not clinician guidance alone \u2014 drove meaningful engagement with treatment content. With depression rates rising among young women, the finding highlights why the social layer of mental health apps deserves more attention in design and evaluation."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42143913",
-      "headline": "Autism traits and psychosis symptoms may share genetic roots \u2014 even at first episode",
-      "journal": "European Neuropsychopharmacology",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.euroneuro.2026.112859",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted an exploratory longitudinal study examining the genetic architecture underlying autistic traits and negative symptoms in people experiencing a first episode of non-affective psychosis (schizophrenia spectrum disorders). The study tracked participants from early illness onset to assess whether shared genetic factors drive co-occurring autistic and psychotic features. Findings suggest autistic traits and negative symptoms in early psychosis may share overlapping genetic pathways, even at illness onset.",
-      "why_it_matters": "Understanding shared genetic roots of autism and psychosis could eventually inform earlier, more personalized mental health support for women, who are often diagnosed later and differently than men in both conditions.",
-      "caveats": "small sample (N<100), observational design, single-center, exploratory design, no sex-disaggregated data, Spanish cohort",
-      "fact_check_note": "Abstract is truncated; sample size could not be verified from available text. Caveat applied accordingly.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Psychiatric genetics topic; no female-specific analysis; exploratory design limits applicability.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Autism and Psychosis May Share a Genetic Blueprint \u2014 Even at First Episode",
-          "hook": "New research suggests that when autism traits appear alongside psychosis, they may not be coincidental \u2014 they could share the same genetic underpinnings.",
-          "pitch_angle": "A longitudinal study found overlapping genetic architecture between autistic traits and negative psychosis symptoms from the very first episode of illness, suggesting a deeper biological connection than previously recognized. For women \u2014 who are frequently misdiagnosed or diagnosed later in both conditions \u2014 this could eventually point toward earlier, more targeted psychiatric care."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42134004",
-      "headline": "Women newly diagnosed with ADHD, PTSD, or autism face disproportionately higher self-harm risk than men with the same diagnoses",
-      "journal": "European Neuropsychopharmacology",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.euroneuro.2026.112860",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 16 years of territory-wide electronic health records in Hong Kong, comparing 322,922 people with a first-recorded mental disorder diagnosis to 888,031 primary-care controls. All 14 mental disorder categories were associated with elevated self-harm risk, with substance use disorders carrying the highest hazard ratio (22.86) and anxiety disorders the lowest (2.26). Subgroup analyses found that young people (\u226424 years) faced the greatest risk overall, and that women showed disproportionately elevated self-harm risk compared to men across most diagnoses \u2014 most notably in PTSD, personality disorders, alcohol use disorder, autism spectrum disorder, and ADHD.",
-      "why_it_matters": "For women, a new mental health diagnosis \u2014 even conditions not traditionally flagged as high-risk, like ADHD or autism \u2014 may signal a need for proactive self-harm screening that current clinical practice often overlooks.",
-      "caveats": "observational design, single-center (Hong Kong health system only), self-reported outcomes not applicable (administrative records used), findings may not generalize outside Hong Kong context, no sex-disaggregated data on specific diagnostic subgroups fully reported",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large female-inclusive cohort; sex-disaggregated finding; but single-region, observational.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Getting Diagnosed With ADHD or Autism as a Woman Comes With a Hidden Risk Most Doctors Miss",
-          "hook": "A massive 16-year study found that women newly diagnosed with ADHD, autism, or PTSD face a sharply higher self-harm risk than men with the same diagnoses \u2014 and the mental health system isn't built to catch it.",
-          "pitch_angle": "Researchers tracked over 300,000 people after their first mental health diagnosis and found female-specific self-harm vulnerability spiking in conditions increasingly diagnosed in adult women. The wellness angle: what women seeking late diagnoses should know about their mental health safety net."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Women Are Being Diagnosed With ADHD and Autism Later \u2014 and a New Study Suggests That Delay Has a Hidden Cost",
-          "hook": "A Hong Kong study of more than 300,000 people found that women newly diagnosed with ADHD, autism, and PTSD had a disproportionately higher self-harm risk than their male counterparts \u2014 raising urgent questions about what late diagnosis really costs women.",
-          "pitch_angle": "As the cultural conversation around women and late ADHD/autism diagnoses grows louder, this large epidemiological study adds a sobering data point: the period right after first diagnosis may be a window of particular vulnerability for women that clinicians aren't adequately screening for."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42229608",
-      "headline": "Scientists grew mini human ovaries in a lab \u2014 without any scaffold \u2014 and they actually work",
-      "journal": "Fertility and Sterility",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.fertnstert.2026.05.168",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at Universit\u00e9 Catholique de Louvain (Belgium) established a novel matrix-free, three-dimensional human ovarian organoid model \u2014 called 'ovarioids' \u2014 using human ovarian tissue, requiring no external structural scaffold. The model was developed to better study ovarian biology and disease outside the body. Early results suggest the ovarioids maintain ovarian cell architecture and function, offering a new platform for fertility and ovarian research.",
-      "why_it_matters": "A realistic human ovarian model could accelerate research into conditions like premature ovarian insufficiency, chemotherapy-related fertility loss, and ovarian aging \u2014 potentially benefiting women facing fertility preservation decisions.",
-      "caveats": "small sample (N<100), single-center, cell/tissue study (not human subjects trial), short follow-up",
-      "fact_check_note": "Abstract does not provide participant N or age range; sample size caveat applied conservatively. No conflict of interest for most authors; J. Donnez is on Theramex scientific advisory board \u2014 noted but unlikely to affect this lab-model study.",
-      "relevance_score": 6,
-      "relevance_score_reason": "Novel human tissue model for women's reproductive health; lab study limits direct clinical relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Scientists Just Built a Tiny Human Ovary in a Lab \u2014 Here's Why That's a Big Deal for Women's Fertility",
-          "hook": "Researchers have created miniature, self-assembling human ovarian models \u2014 no scaffold required \u2014 that could transform how we study everything from egg aging to fertility preservation.",
-          "pitch_angle": "These 'ovarioids' are the first matrix-free 3D human ovarian models, meaning scientists can now study ovarian biology with something far closer to the real thing than ever before. For women facing cancer treatment, early menopause, or unexplained infertility, this kind of research tool could eventually lead to better answers about ovarian health and fertility options."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Lab-Grown 'Mini Ovaries' Could Help Solve Some of Women's Most Puzzling Reproductive Health Problems",
-          "hook": "Scientists have developed tiny human ovarian models that grow in 3D without any artificial support structure \u2014 a potential game-changer for studying ovarian aging and disease.",
-          "pitch_angle": "The new 'ovarioid' model gives researchers a more realistic human ovarian system to test drugs and study conditions like premature ovarian insufficiency and fertility loss from chemotherapy. While still early-stage lab research, it's a significant step toward understanding why ovaries age and fail \u2014 and what might be done about it."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42808571",
-      "headline": "The ultrasound test used to diagnose endometriosis misses a significant chunk of cases \u2014 especially when disease is on the peritoneum",
-      "journal": "The Australian & New Zealand Journal of Obstetrics & Gynaecology",
-      "pubdate": "2026 Oct",
-      "doi": "10.1111/ajo.70183",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective observational study of 221 patients with suspected endometriosis who underwent both enhanced transvaginal ultrasound (eTVUS) and laparoscopy at a single Australian tertiary hospital between 2015 and 2024. eTVUS performed well for detecting ovarian endometriomas (sensitivity 81.4%, specificity 84.1%) but showed low sensitivity for peritoneal disease and variable performance for deep endometriosis depending on anatomical location. Ureteric endometriosis had a 0% positive predictive value, meaning the scan missed all confirmed cases.",
-      "why_it_matters": "For the estimated 1 in 10 women with endometriosis, understanding what the standard pre-surgical ultrasound can and cannot detect may help explain why diagnosis remains so delayed and incomplete.",
-      "caveats": "observational design, retrospective, single-center, data predates standardized scanning protocols",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Endometriosis topic fit; retrospective single-center design limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "The Most Common Ultrasound for Endometriosis Misses Many Cases \u2014 Especially the Hardest-to-Treat Kind",
-          "hook": "Enhanced transvaginal ultrasound \u2014 widely used before endometriosis surgery \u2014 detected ovarian cysts reasonably well but failed to identify peritoneal disease in most patients, a new study finds.",
-          "pitch_angle": "A decade-long review of 221 patients found that while eTVUS is a useful first step for spotting endometriomas on the ovaries, it has significant blind spots for peritoneal and ureteric endometriosis \u2014 forms that can cause serious pain and organ damage. For women who've been told their ultrasound looks 'normal,' this study suggests the scan may not be telling the whole story."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Your Endometriosis Ultrasound Might Be Missing the Worst of It",
-          "hook": "A study spanning a decade of real patients found that the standard pre-surgery ultrasound for endometriosis missed virtually all cases of ureteric involvement and most peritoneal disease.",
-          "pitch_angle": "Women with endometriosis already wait an average of 7\u201310 years for diagnosis \u2014 and this Australian study suggests one reason why: the imaging tool most commonly used before surgery has meaningful diagnostic gaps, particularly for disease outside the ovaries. It's a finding that could reshape how women advocate for more thorough workups."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42296620",
-      "headline": "Women with obesity get less breastfeeding support \u2014 and healthcare providers aren't sure whose job it is to help",
-      "journal": "Midwifery",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.midw.2026.104892",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted 22 semi-structured interviews with healthcare professionals (n=20) and mothers with lived experience (n=2) in Germany and Switzerland to explore breastfeeding challenges and support gaps for women with overweight or obesity. Findings revealed inconsistent information, fragmented care, unclear professional responsibilities, and a need for more stigma-sensitive, tailored support across the perinatal period. Midwives emerged as a key but underutilized resource, and the study found that this population faces structural and relational barriers that contribute to lower breastfeeding initiation and shorter duration.",
-      "why_it_matters": "Women with higher BMI are already less likely to breastfeed, and this study suggests the healthcare system may be making it harder \u2014 not easier \u2014 by failing to coordinate stigma-sensitive, consistent support.",
-      "caveats": "small sample (N<100), qualitative design, single-center (Germany and Switzerland), only two mothers with lived experience included",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Postpartum/breastfeeding topic fit; very small sample and qualitative design limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Good Housekeeping",
-          "headline": "Women With Obesity Want to Breastfeed \u2014 The Healthcare System Keeps Getting in the Way",
-          "hook": "New research finds that women with overweight or obesity receive inconsistent, sometimes stigmatizing breastfeeding support \u2014 and providers often don't know who's responsible for helping them.",
-          "pitch_angle": "A qualitative study of healthcare professionals in Germany and Switzerland found that breastfeeding support for women with higher BMIs is fragmented, with gaps in care continuity and a lack of clear role responsibility. The findings call for more stigma-sensitive, coordinated support \u2014 a practical concern for the millions of postpartum women in larger bodies who want to breastfeed but face unique physical and systemic barriers."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42161192",
-      "headline": "A routine ultrasound measurement during pregnancy may flag rare muscle disease in the fetus before birth",
-      "journal": "Early Human Development",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.earlhumdev.2026.106580",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers prospectively recruited 430 pregnant women in China carrying singleton pregnancies and established normal reference ranges for a new fetal thigh muscle-to-soft-tissue ratio (LMSTr) measured by ultrasound between 20 and 32 weeks' gestation. A retrospective review of 6 confirmed congenital myopathy cases found that 5 (83%) had an abnormally low LMSTr. The study suggests this ratio \u2014 measurable during a standard scan \u2014 could serve as an early prenatal signal for rare inherited muscle conditions.",
-      "why_it_matters": "If validated in larger studies, this non-invasive measurement could give pregnant women earlier warning of fetal muscle disease during anatomy scans they're already receiving.",
-      "caveats": "small sample (N<100) for myopathy cases (n=6), single-center, observational design, population limited to Chinese cohort \u2014 generalizability uncertain",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Pregnancy relevance and novel prenatal tool; severely limited by only 6 myopathy cases.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "A Simple Ultrasound Measurement Could Detect a Rare Fetal Muscle Disease Before Birth",
-          "hook": "Researchers found that a new ratio measured during a standard pregnancy scan correctly flagged fetal muscle disease in 5 out of 6 confirmed cases \u2014 potentially offering earlier answers to families.",
-          "pitch_angle": "The study is small and preliminary, but the finding that a non-invasive, already-routine scan could signal congenital myopathy as early as 20 weeks is meaningful for pregnant women navigating prenatal diagnosis \u2014 especially those with family histories of muscle disorders."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42097447",
-      "headline": "A Rare Vaginal Anomaly in Teen Girls Is Misdiagnosed Far Too Often \u2014 But Specialist Surgery Fixes It Almost Every Time",
-      "journal": "Journal of Pediatric and Adolescent Gynecology",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.jpag.2026.04.017",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a 10-year retrospective cohort study at a single UK specialist center, reviewing 61 patients (median age 15, range 11\u201331) who underwent surgery for obstructed hemivagina, a rare congenital reproductive tract anomaly. One-quarter of patients had already undergone emergency or incomplete procedures before reaching a specialist, and one-third were not receiving menstrual suppression at referral, highlighting significant gaps in pre-referral care. Vaginal septal excision at the specialist center was associated with a very low re-obstruction rate of 3.3% (2 of 61 patients), suggesting that centralized specialist management yields substantially better outcomes.",
-      "why_it_matters": "For adolescent girls with unexplained pelvic pain or menstrual problems, this study suggests that delayed or incomplete diagnosis of a rare but treatable vaginal anomaly is common \u2014 and that reaching a specialist center makes a meaningful difference in outcomes.",
-      "caveats": "small sample (N<100), observational design, single-center, short follow-up, retrospective cohort",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Adolescent reproductive health, women-specific condition, real surgical outcomes, single-center limit.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / Well+Good",
-          "headline": "Teen Girls With This Rare Vaginal Condition Are Often Misdiagnosed \u2014 Here's What Doctors Are Missing",
-          "hook": "One in four teenage girls with a rare but treatable congenital vaginal anomaly had already undergone emergency or incomplete procedures before finally reaching a specialist who could fix it properly.",
-          "pitch_angle": "Obstructed hemivagina is frequently missed or mismanaged in adolescence, leading to unnecessary pain and repeat procedures; a new 10-year study finds that specialist surgery resolves the condition with a remarkably low failure rate, raising urgent questions about why so many girls fall through the cracks before getting the right care."
-        },
-        {
-          "publication_type": "Good Housekeeping / Prevention",
-          "headline": "Your Teen's Painful Periods Could Signal a Rare Condition Most Doctors Don't Know to Look For",
-          "hook": "A congenital vaginal anomaly that typically surfaces in adolescence is routinely diagnosed late \u2014 and a new study shows the difference between seeing a specialist and not seeing one is dramatic.",
-          "pitch_angle": "New research tracking 61 young patients over a decade found that girls with obstructed hemivagina often face delays, emergency interventions, and incomplete treatment before reaching the right hands \u2014 but when they do, a minimally invasive surgical fix works in nearly all cases, making awareness among parents and general practitioners critical."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42786427",
       "headline": "Genetic testing catches rare hormone disorder in babies before symptoms appear \u2014 and it works better than waiting until puberty",
       "journal": "Journal of Neuroendocrinology",
@@ -783,99 +1020,6 @@
       ],
       "run_date": "2026-10-03",
       "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42820931",
-      "headline": "There's still no proven diet plan for shift workers \u2014 and women who work nights deserve better answers",
-      "journal": "Journal of Human Nutrition and Dietetics",
-      "pubdate": "2026 Oct",
-      "doi": "10.1111/jhn.70340",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a systematic review of 43 studies on nutrition interventions for shift workers, including a pre-specified subgroup analysis of first responders such as firefighters and police officers, drawing from databases searched through July 2025. Most studies involved nursing and healthcare professionals (40%) \u2014 a majority-female occupational group \u2014 and examined macronutrient adjustments, time-restricted eating, and meal timing. Despite the breadth of studies reviewed, methodological heterogeneity and prevalent risk of bias made it impossible to establish evidence-based dietary guidelines for shift workers.",
-      "why_it_matters": "Millions of women work non-traditional hours in healthcare and service industries, and this review underscores that science has yet to deliver reliable dietary guidance for managing the metabolic and cardiovascular risks that come with shift work.",
-      "caveats": "observational design, no sex-disaggregated data, methodological heterogeneity across included studies, moderate-to-high risk of bias in included studies",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Majority-female occupational group, clear wellness hook, but no female-specific analysis and inconclusive findings.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "If You Work Night Shifts, Science Still Has No Idea What You Should Eat",
-          "hook": "A major review of 43 studies on shift-worker nutrition found the evidence is too weak to tell night-shift nurses \u2014 or anyone else \u2014 what to actually eat.",
-          "pitch_angle": "Despite decades of research, a new systematic review finds no strong dietary guidelines exist for shift workers, a group that skews heavily female in healthcare. Time-restricted eating and meal timing show promise, but study quality is too poor to draw firm conclusions \u2014 leaving millions of women without evidence-based nutrition support."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Night-Shift Workers Have a Higher Disease Risk \u2014 So Why Don't We Know What They Should Eat?",
-          "hook": "A sweeping review of nutrition research for shift workers came back with a surprising verdict: we still don't know enough to give reliable dietary advice.",
-          "pitch_angle": "Shift work is linked to higher rates of heart disease, diabetes, and metabolic disorders \u2014 yet a new systematic review of 43 studies found the evidence too inconsistent to formulate official dietary guidelines. For the many women working nights in nursing and caregiving, this research gap has real health consequences."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42033133",
-      "headline": "Endometriosis pain isn't just in the pelvis \u2014 brain scans show it rewires pain networks in the mind too",
-      "journal": "International Journal of Gynaecology and Obstetrics",
-      "pubdate": "2026 Oct",
-      "doi": "10.1002/ijgo.71039",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used resting-state fMRI to compare brain connectivity in 30 women aged 18\u201345: 10 with deep infiltrating endometriosis (DIE) and chronic pelvic pain, 10 with ovarian endometriomas but no pain, and 10 healthy controls. Women with DIE and chronic pain showed significantly altered connectivity between the amygdala and multiple frontal and cingulate regions \u2014 hallmarks of central sensitization \u2014 while women with endometriomas who had no pain showed no such differences. The findings suggest that treatment-resistant pelvic pain in endometriosis may reflect maladaptive central pain processing, not just peripheral tissue disease.",
-      "why_it_matters": "For women whose endometriosis pain doesn't respond to standard treatments, this early evidence suggests the brain itself may need to be part of the treatment equation.",
-      "caveats": "small sample (N<100), observational design, retrospective, single-center",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Women-specific condition, counterintuitive neuroimaging finding, strong lifestyle/wellness hook; limited by very small N.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Endometriosis Pain May Be Living in Your Brain \u2014 Not Just Your Pelvis",
-          "hook": "New brain-scan research suggests that for some women with endometriosis, chronic pelvic pain has physically rewired neural networks \u2014 a finding that could reframe why standard treatments sometimes fail.",
-          "pitch_angle": "A small fMRI study found altered brain connectivity in women with deep infiltrating endometriosis and chronic pain, but not in women with endometriomas who felt no pain \u2014 pointing to central sensitization as a key, overlooked piece of the endo puzzle. This opens a conversation about why multidisciplinary care (think: pain psychology, nervous system tools) may matter as much as surgery."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Endometriosis Pain Is Being Dismissed as 'Just Cramps.' Science Says It's Changing Women's Brains.",
-          "hook": "A new study found measurable differences in pain-processing brain regions among women with endometriosis \u2014 which may explain why so many are told their pain is psychological when it is, in fact, neurological.",
-          "pitch_angle": "The research adds a neurobiological dimension to the long history of endometriosis being undertreated and misunderstood, suggesting that 'treatment-resistant' pain may be a brain phenomenon \u2014 and validating what millions of women have been saying for years."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41983343",
-      "headline": "Scientists can now decode brain activity from people in vegetative states \u2014 but knowing what they experience raises hard ethical questions",
-      "journal": "The Neuroscientist",
-      "pubdate": "2026 Oct",
-      "doi": "10.1177/10738584261434939",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at Western University reviewed advances in neural reconstruction \u2014 technology that translates brain signals into images, text, and speech \u2014 and examined what it would mean to apply these tools to patients with disorders of consciousness (DoC), such as those in vegetative or minimally conscious states. Neuroimaging studies have shown that some DoC patients retain cognitive function despite showing no behavioral signs of awareness. The authors warn that misapplying reconstruction technology could misrepresent a patient's inner life and violate their autonomy.",
-      "why_it_matters": "As AI-driven brain-decoding technology advances, the ability to 'hear' from patients long presumed unreachable could transform end-of-life care decisions that disproportionately affect women as both patients and family caregivers.",
-      "caveats": "no sex-disaggregated data, observational design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Compelling tech-ethics angle; no sex-disaggregated data; indirect women's relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "What If We Could Read the Minds of People in Vegetative States? Scientists Are Almost There",
-          "hook": "AI can now translate brain signals into words and images \u2014 and researchers are debating whether to use it on patients who can't respond.",
-          "pitch_angle": "A landmark review from Western University details how neural reconstruction technology is inching toward clinical use in patients with disorders of consciousness, raising profound questions about identity, autonomy, and what we owe people who may be aware but unable to communicate. As primary caregivers and healthcare decision-makers, women have a particular stake in how these ethical debates are resolved."
-        }
-      ],
-      "run_date": "2026-10-03",
-      "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
@@ -1039,33 +1183,6 @@
       "run_date": "2026-10-02",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42413308",
-      "headline": "In Japan, fewer than 2% of people with new-onset schizophrenia ever received a long-acting injectable antipsychotic \u2014 even after years of follow-up",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.schres.2026.07.004",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using Japan's JMDC Claims Database (2005\u20132024), researchers identified 24,226 patients with a claims-based proxy for first-episode schizophrenia and tracked long-acting injectable antipsychotic (LAI) prescribing over a median 30-month follow-up. Only 1.8% of patients received at least one LAI dispensing, and the annual proportion with any LAI dispensing remained below 2% throughout the study period. The median time from diagnosis to first LAI dispensing was 12 months, suggesting LAI initiation is rare and delayed even in newly diagnosed patients.",
-      "why_it_matters": "Long-acting injectables are associated with better treatment adherence and fewer relapses in schizophrenia \u2014 understanding why they remain underused, including in women of reproductive age for whom relapse prevention has specific implications, is a meaningful care gap question.",
-      "caveats": "observational design, single-country (Japan \u2014 insured claims population may not generalize), no sex-disaggregated data, industry funding [AbbVie, AstraZeneca, Eisai, and others], secondary analysis of claims data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "No sex-disaggregated data; Japan-specific claims context limits US generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Most People With New-Onset Schizophrenia Never Get the Treatment Most Likely to Keep Them Stable",
-          "hook": "A study of 24,000 patients found that fewer than 2% with newly diagnosed schizophrenia ever received a long-acting injectable antipsychotic \u2014 the form of treatment with the strongest evidence for preventing relapse.",
-          "pitch_angle": "Despite evidence that long-acting injectable antipsychotics reduce hospitalizations and treatment dropout, this large Japanese claims study found they are almost never prescribed in the early phase of schizophrenia \u2014 raising questions about whether underuse of these treatments is contributing to preventable relapses globally."
-        }
-      ],
-      "run_date": "2026-10-02",
-      "category": "Psychiatry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
