@@ -1,31 +1,652 @@
 {
-  "last_updated": "2026-10-13T17:32:24.266476+00:00",
-  "total_studies": 1050,
-  "new_this_run": 7,
+  "last_updated": "2026-10-14T15:05:36.751282+00:00",
+  "total_studies": 1058,
+  "new_this_run": 8,
   "studies": [
     {
       "pmid": "42852879",
-      "headline": "A gamified quiz reveals which students are most likely to tolerate dating violence \u2014 and the findings point to a surprising predictor",
+      "headline": "Male college students are more accepting of sexual violence than female peers \u2014 even when both claim to reject it",
       "journal": "Violence Against Women",
       "pubdate": "2026 Oct 9",
       "doi": "10.1177/10778012261495052",
-      "groundbreaking": "First-in-class human study",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a novel gamified digital platform \u2014 described as a field first \u2014 to measure dating violence attitudes and relationship self-efficacy among 381 university students in Turkey. Male gender, younger age, shorter or medium relationship duration, and lower relationship self-efficacy were independent predictors of more violence-tolerant attitudes. Notably, sexual violence was rated the most acceptable form of dating violence, and male students scored significantly higher on tolerance across all five subscales.",
-      "why_it_matters": "Understanding that low relationship self-efficacy \u2014 not just gender \u2014 predicts tolerance for dating violence could inform how campus prevention programs are designed and targeted.",
-      "caveats": "observational design, single-center, self-reported outcomes, cross-sectional design, study population limited to Turkey (may not generalize to other cultural contexts)",
+      "summary": "A cross-sectional study of 381 Turkish university students used a novel gamified assessment platform to measure dating violence attitudes and relationship self-efficacy, aiming to reduce social desirability bias. Overall, students rejected violence-tolerant attitudes, but sexual violence was rated the most acceptable form across the sample. Male gender, younger age, shorter relationship self-efficacy, and a 1\u20133 year relationship duration were independent predictors of more violence-tolerant attitudes, with male students scoring significantly higher than females on all five subscales.",
+      "why_it_matters": "Understanding which young men are most likely to tolerate dating violence \u2014 and what protective factors like relationship self-efficacy might buffer against it \u2014 could help shape campus prevention programs that reach women before harm occurs.",
+      "caveats": "observational design, single-center, self-reported outcomes, Turkey-specific university sample, cross-sectional design limits causal inference, gamification validity not yet established",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant social health topic but observational, single-center, non-US population, limited women's health angle.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Sex-disaggregated data, relevant to young women's safety, cross-sectional and single-country limits generalizability.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "A Gamified Quiz Is Revealing Who's Most Likely to Tolerate Dating Violence \u2014 and It's Not Just About Gender",
-          "hook": "Low confidence in your relationship skills may predict how much dating violence you're willing to excuse, according to a new study using a game-style assessment.",
-          "pitch_angle": "Researchers found that relationship self-efficacy \u2014 essentially, how capable you feel in a romantic relationship \u2014 was one of the strongest predictors of violence-tolerant attitudes among college students. The finding suggests campus prevention efforts may need to go beyond gender-focused messaging and address relationship confidence directly."
+          "headline": "Even Men Who Say They're Against Dating Violence Are More Tolerant of It Than Women \u2014 New Research Shows Why",
+          "hook": "A study using a gamified survey found that male college students scored significantly higher on acceptance of dating violence than their female peers \u2014 and low confidence in relationships was a key warning sign.",
+          "pitch_angle": "Turkish researchers found that relationship self-efficacy \u2014 how confident someone feels managing a healthy relationship \u2014 was one of the strongest predictors of violence-tolerant attitudes among university men, suggesting that building relationship skills, not just awareness, may be key to campus safety programs."
+        },
+        {
+          "publication_type": "Shape",
+          "headline": "Why Campus Dating Violence Prevention Needs to Start With Relationship Confidence, Not Just Rules",
+          "hook": "A new study of college students found that young men with lower confidence in their relationship skills were significantly more likely to tolerate dating violence \u2014 even sexual violence.",
+          "pitch_angle": "Among 381 university students, researchers found that relationship self-efficacy was one of the strongest predictors of violence-accepting attitudes in men, pointing to a potentially underused lever for prevention programs on college campuses where young women are disproportionately at risk."
         }
       ],
-      "run_date": "2026-10-13",
+      "run_date": "2026-10-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42848192",
+      "headline": "The first 1,000 days of life may hold the key to preventing autism \u2014 but only if we act on modifiable risk factors now",
+      "journal": "Neuropsychiatrie",
+      "pubdate": "2026 Oct 8",
+      "doi": "10.1007/s40211-026-00597-z",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This brief narrative review synthesizes current evidence on how genetic susceptibility, environmental exposures, epigenetic changes, neuroinflammation, and gut microbiome shifts during the first 1,000 days of life \u2014 from conception through age two \u2014 may converge to shape neurodevelopmental trajectories including autism spectrum disorder. The authors argue that shared biological mechanisms across neurodevelopmental conditions point toward a precision-prevention framework targeting modifiable prenatal and early postnatal risk factors. No new primary data were collected; this is a synthesis of existing literature.",
+      "why_it_matters": "For women who are pregnant or planning pregnancy, this review highlights that the prenatal and early postnatal environment \u2014 factors like inflammation, microbiome health, and environmental exposures \u2014 may be among the most actionable windows for supporting healthy neurodevelopment.",
+      "caveats": "narrative review (not systematic), no primary data, no sex-disaggregated data, no animal or human study participants",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Prenatal relevance for women; narrative review limits rigor and novelty.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "The Window Before Your Baby's Second Birthday May Be the Most Important for Brain Health",
+          "hook": "A new review suggests that the first 1,000 days of life \u2014 from conception through toddlerhood \u2014 are the highest-leverage window for reducing neurodevelopmental risk.",
+          "pitch_angle": "Researchers synthesized evidence showing that gut microbiome shifts, inflammation, and environmental exposures during pregnancy and early infancy may interact with genetic risk to shape autism and related conditions. For pregnant women and new mothers, it underscores why factors like diet, stress, and toxin exposure in the earliest years may matter more than previously appreciated."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42839303",
+      "headline": "A hidden gene variant deep in non-coding DNA caused two siblings to be born with XY chromosomes but female anatomy",
+      "journal": "The Journal of Clinical Endocrinology and Metabolism",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1210/clinem/dgag395",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed whole genome sequencing on two siblings from a Vietnamese family who were born with 46,XY chromosomes but presented with female phenotype due to a disorder of sex development (DSD). They identified two novel variants in the CYB5A gene \u2014 one missense mutation and one deep intronic deletion \u2014 that together disrupted a hormone-producing enzyme, resulting in very low testosterone and estradiol. Functional lab assays confirmed the intronic variant created aberrant splicing that effectively silenced the gene.",
+      "why_it_matters": "This case expands our understanding of how hidden, non-coding DNA variants can determine sex development, which matters for intersex individuals and families navigating DSD diagnoses.",
+      "caveats": "small sample (N<100), single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Rare DSD case report; niche clinical topic, limited lifestyle hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Two Siblings Were Born With XY Chromosomes and Female Bodies \u2014 a 'Hidden' Gene Variant Explains Why",
+          "hook": "A deep intronic DNA deletion \u2014 invisible to standard genetic tests \u2014 silenced a key hormone gene, causing two XY siblings to develop female anatomy.",
+          "pitch_angle": "The case highlights how disorders of sex development can result from genetic variants buried in the non-coding regions of DNA that routine testing misses, underscoring why whole genome sequencing matters for intersex diagnoses. For readers interested in sex, gender, and biology, this is a vivid example of how identity and anatomy can diverge from chromosomes."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42843337",
+      "headline": "A new triple-hormone weight-loss drug produced nearly 20% body weight loss in 24 weeks \u2014 rivaling the best results seen with existing obesity drugs",
+      "journal": "Cell Metabolism",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1016/j.cmet.2026.09.021",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a multicenter, randomized, double-blind, placebo-controlled phase 2 trial, 205 adults with overweight or obesity (59% women, ages 18\u201361, without type 2 diabetes) received once-weekly injections of UBT251 \u2014 a novel triple agonist targeting GLP-1, GIP, and glucagon receptors \u2014 or placebo for 24 weeks. The highest-dose groups lost up to 19.7% of body weight, compared with 2.0% in the placebo group, with all dose groups significantly outperforming placebo. UBT251 also improved waist circumference, blood pressure, lipid profiles, and blood sugar, with mostly mild-to-moderate gastrointestinal side effects.",
+      "why_it_matters": "With a majority-female trial population and weight losses that rival or exceed current leading obesity medications, this drug candidate is directly relevant to women navigating obesity treatment options.",
+      "caveats": "industry funding [United Bio-Technology (Hengqin) Co., Ltd.; Novo Nordisk employees co-authored], single-region population (China), phase 2 only, short follow-up, no sex-disaggregated efficacy data reported",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Majority-female RCT, dramatic weight-loss finding, strong women's wellness hook; industry funding caveat.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "A New Weight-Loss Drug Just Produced Nearly 20% Body Weight Loss in 6 Months \u2014 Here's What We Know",
+          "hook": "A once-weekly injection targeting three metabolic hormones at once produced up to 19.7% weight loss in 24 weeks, with more than half the trial participants being women.",
+          "pitch_angle": "UBT251, which combines the mechanisms of GLP-1, GIP, and glucagon receptor activation, outperformed placebo across all doses and improved heart health markers like blood pressure and cholesterol in this phase 2 trial. While it's still early-stage and conducted in China, the results are comparable to or exceed existing blockbuster obesity drugs \u2014 and it's now heading to phase 3 trials."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Move Over Ozempic? A Triple-Action Hormone Drug Just Showed Striking Weight Loss in a Clinical Trial",
+          "hook": "By hitting three metabolic hormone receptors simultaneously, a new injectable drug helped participants lose nearly a fifth of their body weight in just six months.",
+          "pitch_angle": "The phase 2 trial \u2014 with a majority-female enrollment \u2014 found UBT251 produced up to 19.7% weight loss versus 2% for placebo, while also improving blood sugar, blood pressure, and cholesterol. The wellness hook: this isn't just about the scale \u2014 participants saw broad cardiometabolic improvements, which matter long-term for women's heart health."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42844698",
+      "headline": "COVID hospital restrictions hit mothers of extremely preterm babies hardest \u2014 breastfeeding drop-off surged 47%",
+      "journal": "Breastfeeding Medicine",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1177/15568253261494524",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed population-weighted data from 1.7 million first-time U.S. mothers across 19 jurisdictions using the Pregnancy Risk and Assessment Monitoring System (2016\u20132021) to compare breastfeeding cessation rates by gestational age before and during the early COVID-19 pandemic. Before COVID, mothers of extremely preterm (EP) infants actually had 31% lower cessation rates than term mothers \u2014 but during the pandemic, EP mothers saw a 47% increase in cessation rates, suggesting in-hospital lactation support was especially critical for this group. Mothers of very or moderately preterm and late preterm infants faced elevated cessation rates both before and during the pandemic, with household burden cited as a key reason.",
+      "why_it_matters": "For mothers of premature babies especially, losing access to in-hospital breastfeeding support can derail lactation at a time when breast milk is most critical for infant outcomes.",
+      "caveats": "observational design, self-reported outcomes, cross-sectional data",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large U.S. female-only sample, postpartum/lactation focus, counterintuitive EP finding, strong lifestyle hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Moms Hit Hardest by COVID's Hospital Restrictions Weren't Who You'd Expect",
+          "hook": "Before the pandemic, mothers of the tiniest premature babies were actually more likely to keep breastfeeding \u2014 until COVID stripped away the in-hospital support they depended on most.",
+          "pitch_angle": "A study of 1.7 million first-time U.S. mothers found that pandemic-era hospital contact restrictions drove a near-50% surge in breastfeeding cessation among mothers of extremely preterm infants \u2014 a group that had previously outperformed term mothers on breastfeeding persistence. The finding reframes the conversation around postpartum support as a structural, not personal, issue."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Premature Baby Moms Struggled Most to Breastfeed During COVID",
+          "hook": "New data from 1.7 million mothers reveals that the pandemic's restrictions on in-hospital lactation support hit the most vulnerable newborns' families the hardest.",
+          "pitch_angle": "An analysis of U.S. breastfeeding data found that while late preterm and moderately preterm mothers already faced higher stop rates, it was extremely preterm mothers who saw the steepest pandemic-era decline \u2014 pointing to how much they rely on specialized NICU lactation care that COVID restrictions disrupted."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42841447",
+      "headline": "A new eating disorder scale built specifically for trans and nonbinary adults captures what standard tools miss",
+      "journal": "Eating Disorders",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1080/10640266.2026.2737198",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed and validated the Trans Disordered Eating Scale (TDES) across three studies involving a total of 908 community-based transgender, nonbinary, and gender diverse (TGD) adults, using exploratory and confirmatory factor analyses to establish a four-factor structure capturing gender-specific disordered eating drivers. The 18-item scale includes three clinical indicator items that distinguish body dissatisfaction linked to weight from that linked to gender dysphoria \u2014 a distinction existing tools cannot make. The TDES showed strong convergent, predictive, and incremental validity as well as test-retest reliability, suggesting it may better identify and measure disordered eating in TGD populations than currently used cisgender-normed instruments.",
+      "why_it_matters": "Trans and nonbinary people face disordered eating rates far above the general population, and having a validated tool designed for their specific experiences could improve both clinical screening and research accuracy.",
+      "caveats": "observational design, community (non-clinical) sample, self-reported outcomes, single-center",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "First-of-kind scale for underserved population; strong eating disorder topic fit, N\u2265100.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Standard Eating Disorder Screenings Were Never Designed for Trans People. A New Tool Is Trying to Fix That.",
+          "hook": "A first-of-its-kind scale can now distinguish whether a trans or nonbinary person's body distress is tied to weight \u2014 or to gender dysphoria \u2014 a distinction that changes everything about care.",
+          "pitch_angle": "Researchers validated an 18-item eating disorder scale built specifically for trans and gender diverse adults, finding it captured dimensions of disordered eating that existing cisgender-normed tools miss entirely. The scale could shift how clinicians screen and treat a community that experiences disordered eating at disproportionately high rates."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Eating Disorder Tests Doctors Use Were Built for Cis Bodies. This One Wasn't.",
+          "hook": "For trans and nonbinary people, body dissatisfaction can stem from gender dysphoria \u2014 not just weight \u2014 and no standard clinical tool has ever measured that difference. Until now.",
+          "pitch_angle": "A new validated scale developed with nearly 1,000 TGD adults is the first designed to capture the gender-specific psychological drivers of disordered eating in this population \u2014 raising urgent questions about how trans people have been screened and treated for decades using tools that weren't made for them."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42843653",
+      "headline": "A gene variant that boosts verbal memory in women seems to lose its protective effect when psychosis strikes",
+      "journal": "Spanish Journal of Psychiatry and Mental Health",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1016/j.sjpmh.2026.08.001",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers examined whether the gene variant rs9896243 in the NSF gene affects verbal memory differently by sex in a family-based cohort of 486 participants, including first-episode psychosis (FEP) patients, their siblings, and healthy controls. Female C-allele carriers in the control and sibling groups scored significantly higher on immediate, short-delay, and long-delay recall tasks compared to males \u2014 but this female memory advantage disappeared in FEP patients. Male FEP patients carrying the C allele showed the most pronounced recognition deficits.",
+      "why_it_matters": "This early evidence suggests that a genetic factor normally giving women a memory edge may be disrupted by the onset of psychosis, potentially pointing toward sex-informed cognitive screening approaches for young women at risk.",
+      "caveats": "observational design, exploratory functional annotation, single-center, findings require replication, short follow-up not applicable (cross-sectional)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Sex-disaggregated genetic finding in women, psychosis cohort, counterintuitive loss of female advantage.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Women Usually Have a Genetic Memory Edge \u2014 But Psychosis May Erase It",
+          "hook": "A gene variant that appears to give women better verbal memory in everyday life seems to stop working that way when a first psychotic episode occurs.",
+          "pitch_angle": "New research found that female carriers of a specific gene variant outperformed males on memory tasks \u2014 unless they had experienced a first episode of psychosis, at which point that advantage vanished entirely. For women and those who love them, this suggests that memory changes around a first psychotic episode may have a biological signature worth watching."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Brain Gene That Protects Women's Memory \u2014 Until It Doesn't",
+          "hook": "Science has long noted that women tend to outperform men on verbal memory \u2014 but new research reveals a genetic twist that complicates that story in the context of mental illness.",
+          "pitch_angle": "A study found that a gene variant linked to stronger verbal recall in women appears to lose its protective effect when women experience their first episode of psychosis \u2014 and in men with psychosis, the same gene was tied to the worst memory deficits. It's a reminder that the biological factors shaping women's cognitive strengths don't operate in a vacuum."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42841579",
+      "headline": "Surgery-first for male infertility doesn't hurt IVF success later \u2014 but it does add significant wait time",
+      "journal": "Andrology",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1111/andr.70412",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a retrospective cohort study of 397 couples where the male partner had epididymal obstructive azoospermia, researchers in China compared outcomes between a microsurgical vasoepididymostomy (MVE)-first strategy versus going directly to ICSI (intracytoplasmic sperm injection). Among couples who ultimately needed ICSI after failed or bypassed surgery, cumulative live-birth rates were statistically non-inferior between the two groups (45.9% vs. 43.8%), but time to live birth was significantly longer in the MVE-first group. Female partner age \u226428 and AMH >2.91 ng/mL were associated with higher odds of natural conception after surgery.",
+      "why_it_matters": "For women with younger age and good ovarian reserve, trying surgery first may allow natural conception without sacrificing IVF success rates \u2014 but for women where time is a factor, skipping straight to IVF may be the wiser path.",
+      "caveats": "observational design, retrospective cohort, single-center, China-specific population",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong fertility relevance for women; female-specific biomarkers (AMH, age) drive key finding; retrospective design limits causal inference.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "When Your Partner Has a Sperm Blockage, the Order of Fertility Treatments Actually Matters for You",
+          "hook": "A new study finds that trying microsurgery before IVF doesn't hurt the odds of eventually having a baby \u2014 but it does add serious time to the journey, and the right call depends partly on the woman's age and egg reserve.",
+          "pitch_angle": "For couples dealing with male-factor infertility from a blocked epididymis, researchers found that surgery-first and IVF-first led to similar live-birth rates \u2014 but surgery added significant time, and female age and AMH levels predicted who would actually conceive naturally afterward. The study reframes what's often framed as a 'male infertility' decision as a couple-level \u2014 and woman-specific \u2014 calculation."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Your AMH Level Could Help Decide Whether Your Partner Needs Surgery or IVF First",
+          "hook": "A large real-world study suggests that a woman's egg-reserve hormone level is one of the best predictors of whether trying male infertility surgery before IVF is worth the wait.",
+          "pitch_angle": "Researchers tracked 397 couples through infertility treatment and found that women under 28 with higher AMH were most likely to conceive naturally after their partner's surgery \u2014 meaning a woman's biology plays a central role in what's often treated as the man's treatment decision. For readers navigating fertility planning, this study offers a concrete, testable biomarker to discuss with their doctor."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42854266",
+      "headline": "A history of psychotic symptoms \u2014 not a formal diagnosis \u2014 may better predict cognitive and biological impairment across bipolar disorder and schizophrenia",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1016/j.jpsychires.2026.10.007",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers compared neurocognitive performance and biological markers \u2014 including BDNF, FGF-2, and CRP \u2014 in 90 clinically remitted patients with schizophrenia, bipolar disorder with psychotic features, or bipolar disorder without psychotic features, plus 30 healthy controls. Patients grouped by lifetime history of Schneiderian first-rank symptoms (regardless of formal diagnosis) showed similar patterns of cognitive and inflammatory impairment. Inflammation marker CRP was highest in schizophrenia and correlated with duration of untreated psychosis and BMI.",
+      "why_it_matters": "For women with bipolar disorder who have experienced psychotic episodes, this suggests their cognitive and inflammatory profiles may resemble schizophrenia more than non-psychotic bipolar disorder \u2014 a distinction that could matter for tailored care.",
+      "caveats": "small sample (N<100), single-center, observational design, no sex-disaggregated data, cross-sectional",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "No sex-disaggregated data, small sample, observational; moderate psychiatric relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Your Diagnosis May Matter Less Than Whether You've Ever Had a Psychotic Episode, New Research Suggests",
+          "hook": "Whether someone has schizophrenia or bipolar disorder may be less predictive of their brain health than simply whether they've ever experienced psychosis.",
+          "pitch_angle": "A study of remitted psychiatric patients found that a history of psychotic symptoms \u2014 not the diagnostic label \u2014 was more closely tied to cognitive deficits and inflammatory markers. For women navigating bipolar disorder treatment, this raises questions about whether current diagnostic categories fully capture their neurobiological needs."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42858673",
+      "headline": "A rare skin disorder that causes blistering in sunlight is leaving patients in chronic pain \u2014 and medicine is barely paying attention",
+      "journal": "Molecular Genetics and Metabolism",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1016/j.ymgme.2026.110290",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a mixed-methods study with 19 individuals affected by congenital erythropoietic porphyria (CEP) \u2014 a rare inherited disorder that causes extreme sun sensitivity \u2014 including 15 adults with CEP and four parents of children with CEP, recruited globally through advocacy groups. Most participants were non-Hispanic White women with disease onset in infancy. Findings revealed that chronic pain, unpredictable blistering, social isolation, and financial strain were pervasive, with all participants reporting significant daily-life modifications despite diligent sun protection.",
+      "why_it_matters": "For a condition that disproportionately affects women in this sample, the study highlights severe unmet needs in pain management, mental health support, and social participation that clinicians and advocates have largely overlooked.",
+      "caveats": "small sample (N<100), observational design, self-reported outcomes, qualitative study, global convenience sample via advocacy groups",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Majority-female rare disease sample; qualitative design limits generalizability; niche topic.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Allure",
+          "headline": "This Ultra-Rare Skin Condition Makes Sunlight Dangerous \u2014 and Patients Say the Emotional Toll Is Just as Devastating as the Physical Symptoms",
+          "hook": "People with congenital erythropoietic porphyria can't go outside without risking blistering, scarring, and infection \u2014 and a new study found the isolation and chronic pain are almost entirely invisible to the medical system.",
+          "pitch_angle": "A qualitative study of 19 patients and caregivers found that chronic pain and social withdrawal were universal experiences for people with this rare sun-sensitivity disorder, yet these impacts are largely absent from clinical care guidelines. For a mostly female patient population, the findings suggest a significant gap between what patients live with daily and what medicine is measuring."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42839881",
+      "headline": "Italy launches its first public network for genetic embryo testing before IVF",
+      "journal": "Minerva Obstetrics and Gynecology",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.23736/S2724-606X.26.05956-7",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers describe the development and structure of Italy's first publicly funded preimplantation genetic testing (PGT) network, coordinating multiple centers across the country. The paper is a descriptive/policy report rather than a clinical trial, with no patient cohort or outcome data reported in the abstract. The network aims to standardize and expand access to PGT within the Italian public health system.",
+      "why_it_matters": "Publicly funded genetic embryo testing could reduce out-of-pocket costs and access inequities for women pursuing IVF, though the findings are specific to Italy's healthcare system.",
+      "caveats": "single-center, observational design, no sex-disaggregated data, narrow to Italian public health system context",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Policy/structural report, Italy-specific, no patient outcome data reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Italy Just Made Embryo Genetic Testing a Public Health Service \u2014 Could the U.S. Follow?",
+          "hook": "For the first time, Italy is offering preimplantation genetic testing through its public health network, potentially making IVF safer and more accessible without the massive price tag.",
+          "pitch_angle": "Italy's new public PGT network standardizes embryo genetic screening across multiple clinics, raising the question of whether publicly funded genetic testing before IVF could become a model elsewhere. For women navigating costly fertility treatments, the access-equity angle is compelling even if the findings don't yet include patient outcomes."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42870263",
+      "headline": "Healthcare providers say the system \u2014 not just language barriers \u2014 is failing migrant women's reproductive health",
+      "journal": "Reproductive Health",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1186/s12978-026-02471-1",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Sweden conducted semi-structured interviews with 31 sexual and reproductive health (SRH) professionals \u2014 including midwives, nurses, physicians, social workers, sexologists, and nursing assistants \u2014 from youth and women's health clinics in the Sk\u00e5ne region. The study used inductive thematic analysis to identify how providers experience and manage multicultural clinical encounters with migrant patients. Providers described four key challenge areas including structural barriers, family power dynamics, and the limits of cultural competence, and called for institutional-level support rather than relying on individual clinician adaptation.",
+      "why_it_matters": "The finding that systemic \u2014 not just interpersonal \u2014 barriers drive reproductive health disparities for migrant women suggests that training individual providers in 'cultural competence' alone is unlikely to close the gap.",
+      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, Sweden-specific context",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant women's health equity topic; qualitative, small sample, Sweden-specific limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why 'Cultural Competence' Training Isn't Enough to Fix Reproductive Health Inequities for Immigrant Women",
+          "hook": "Thirty-one reproductive health professionals say they're doing their best to bridge cultural gaps \u2014 but the real barriers are baked into the system itself.",
+          "pitch_angle": "A Swedish qualitative study found that SRH providers routinely navigated family pressure, privacy concerns, and structural constraints when caring for migrant patients, and concluded that individual provider adaptation can't substitute for institutional reform. For readers interested in health equity and reproductive rights, the finding reframes the 'cultural competence' conversation in a meaningful way."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42868952",
+      "headline": "Men in relationships almost never have high-testosterone days \u2014 daily hormone tracking reveals a pattern single men don't show",
+      "journal": "Hormones and Behavior",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1016/j.yhbeh.2026.106011",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers collected daily saliva samples from 41 young men over 31 days (N=1,143 observations) to compare testosterone and cortisol patterns between partnered and single men. Using signal detection analyses, they found that subject-mean hormone levels could accurately classify men by relationship status. Critically, the daily sampling revealed a novel pattern: partnered men almost never experienced high-testosterone or high-cortisol days, a distributional finding that single-sample studies had missed entirely.",
+      "why_it_matters": "For women curious about the biology underlying partner behavior and emotional availability, this suggests that committed relationships may be associated with day-to-day hormonal stability in men \u2014 not just lower average hormone levels.",
+      "caveats": "small sample (N<100), observational design, young men only, single demographic group, no sex-disaggregated data (men only studied), short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive daily-sampling finding; male-only sample limits direct women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Science Says Partnered Men Barely Ever Have High-Testosterone Days \u2014 What That Might Mean for Your Relationship",
+          "hook": "It's not just that men in relationships have lower testosterone on average \u2014 a new daily-tracking study found they almost never spike high at all.",
+          "pitch_angle": "By collecting hormone samples from men every single day for a month, researchers discovered that being in a committed relationship was associated with a near-absence of peak testosterone and cortisol days \u2014 a pattern invisible to the one-sample studies that came before. While the study only tracked men, the finding raises intriguing questions for women about the hormonal rhythms of their partners and what they might signal about relationship investment."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42867598",
+      "headline": "Breastfeeding in a heat wave is harder than anyone talks about \u2014 mothers describe a hidden struggle",
+      "journal": "Maternal and Child Health Journal",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1007/s10995-026-04337-1",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in T\u00fcrkiye conducted in-depth qualitative interviews with 18 breastfeeding mothers who visited an obstetrics and gynecology hospital breastfeeding clinic between August and October 2024. Using thematic analysis, they identified five major themes including physical discomfort, social and privacy barriers, psychological challenges, environmental/climatic barriers, and coping strategies. Mothers reported that hot weather was associated with physical discomfort, emotional strain, social isolation, sleep disruption, and reduced ability to breastfeed in public.",
+      "why_it_matters": "As climate change increases the frequency and intensity of heat events, understanding how extreme heat compounds breastfeeding challenges for postpartum women becomes a growing public health concern.",
+      "caveats": "small sample (N<100), qualitative design, self-reported outcomes, single-center, T\u00fcrkiye-specific context",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Timely climate-health hook for postpartum women; very small qualitative sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents / General health",
+          "headline": "Heat Waves Are Making Breastfeeding Even Harder \u2014 And Nobody's Talking About It",
+          "hook": "New mothers say extreme heat adds physical discomfort, emotional stress, and social isolation on top of already difficult breastfeeding demands.",
+          "pitch_angle": "A qualitative study from T\u00fcrkiye found that hot weather created layered barriers to breastfeeding \u2014 from overheating and dehydration to reduced privacy in public spaces \u2014 that pushed some mothers toward early weaning. As summers grow hotter globally, the findings suggest postpartum support systems need to account for climate as a real breastfeeding barrier."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42862935",
+      "headline": "Adding two angiogenic markers to routine first-trimester blood tests sharply improves prediction of serious complications in gestational diabetes",
+      "journal": "Endocrine Connections",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1530/EC-26-0478",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective cohort study of 1,000 pregnant women with gestational diabetes mellitus (GDM) in China, developing and internally validating a prediction tool (nomogram) using six first-trimester markers. Adding two angiogenic markers \u2014 placental growth factor (PlGF) and sFlt-1 \u2014 to standard metabolic measures including BMI, fasting glucose, triglycerides, and insulin resistance significantly improved prediction of adverse pregnancy outcomes (AUC 0.87 vs. 0.82 for metabolic markers alone). The tool showed consistent performance across subgroups defined by age, BMI, treatment type, and parity.",
+      "why_it_matters": "For pregnant women with gestational diabetes, identifying which individuals are at greatest risk of serious complications as early as the first trimester could help prioritize closer monitoring during a critical window.",
+      "caveats": "observational design, single-center, retrospective cohort, internal validation only (no external validation), single-region population (China)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Reproductive health, large N, clean prediction tool; single-center limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A First-Trimester Blood Test Combination Could Flag the Riskiest Gestational Diabetes Cases Months Earlier",
+          "hook": "Adding just two angiogenic proteins to standard first-trimester bloodwork predicted serious pregnancy complications in women with gestational diabetes far better than metabolic markers alone.",
+          "pitch_angle": "A study of 1,000 pregnant women with GDM found that measuring PlGF and sFlt-1 \u2014 proteins linked to placental blood vessel development \u2014 alongside routine metabolic markers boosted prediction accuracy significantly, potentially giving clinicians an earlier warning system. Though still awaiting external validation, the finding echoes this journalist's interest in first-trimester biomarker prediction tools."
+        },
+        {
+          "publication_type": "Health.com",
+          "headline": "Gestational Diabetes Is Risky \u2014 These Two Blood Markers Could Help Doctors Know How Risky, Starting in the First Trimester",
+          "hook": "Researchers found that two placental proteins measured early in pregnancy can distinguish which women with gestational diabetes face the highest risk of complications.",
+          "pitch_angle": "The study, which built and validated a prediction model in 1,000 GDM patients, found the six-marker tool outperformed standard metabolic screening alone, with an accuracy score of 0.87. For the roughly 7\u201310% of pregnancies affected by GDM, earlier risk stratification could mean more targeted prenatal care."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42863706",
+      "headline": "How long \u2014 and how exclusively \u2014 you breastfeed may determine which postpartum weight trajectory you follow over the first year",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1016/j.ajcnut.2026.101581",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed 714 Chinese mothers enrolled in the multicentre Phoenix Study, tracking postpartum weight retention (PPWR) at 1, 4, 6, and 12 months using trajectory modeling. Breastfeeding was measured both by mode (exclusive, mixed, or none) and a cumulative breastfeeding index (CBI) that integrates intensity and duration. Each one-point increase in cumulative breastfeeding exposure was associated with meaningfully lower odds of landing in the high or moderate weight-retention trajectory versus the low-retention group, with exclusive early breastfeeding tied to the most favorable weight outcomes.",
+      "why_it_matters": "For postpartum women concerned about long-term weight and cardiometabolic health, this study suggests that the cumulative duration and intensity of breastfeeding \u2014 not just whether you breastfeed at all \u2014 may shape how quickly weight returns to pre-pregnancy levels over the first year.",
+      "caveats": "observational design, single-country cohort (China \u2014 generalizability to other populations uncertain), industry funding [Danone Nutricia], self-reported breastfeeding mode possible",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Postpartum health, large female cohort, clear wellness hook; docked for industry funding and single-country sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "Science Has a New Way to Think About Breastfeeding and Postpartum Weight \u2014 and It's Not Just About 'Yes or No'",
+          "hook": "It's not just whether you breastfeed that shapes postpartum weight recovery \u2014 it's how long and how intensively you do it over the first year.",
+          "pitch_angle": "A new trajectory study found that a cumulative breastfeeding score \u2014 factoring in both duration and intensity \u2014 was linked to women ending up in a lower postpartum weight-retention group by 12 months. The finding reframes the breastfeeding-weight conversation from a binary choice to an ongoing, cumulative practice with measurable maternal health implications."
+        },
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "New Research Identifies Three Distinct Postpartum Weight Paths \u2014 and Breastfeeding May Predict Which One You're On",
+          "hook": "A year-long study mapped three distinct postpartum weight trajectories in new mothers, and exclusive, longer-duration breastfeeding was consistently linked to the most favorable path.",
+          "pitch_angle": "Researchers found that nearly 14% of new mothers followed a high-retention trajectory \u2014 retaining significantly more weight at 12 months \u2014 while early breastfeeding behavior at just one month postpartum predicted risk for substantial weight retention by six months. The study suggests there may be an early intervention window for mothers struggling with postpartum weight, though the finding is observational and comes from a Chinese cohort with industry co-funding."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42863800",
+      "headline": "Teen brains with depression process social interactions differently \u2014 and EEG can detect it",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1016/j.jad.2026.122620",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used EEG to measure brain activity in 22 adolescents with first-episode major depressive disorder and 23 healthy peers as they watched animated social interactions. The study found that teens with depression showed weaker 'sensorimotor resonance' \u2014 a brain signal linked to understanding others' actions \u2014 and reduced attention engagement when viewing social scenes, compared to healthy controls. Severity of depressive symptoms was associated with the degree of this neural dampening.",
+      "why_it_matters": "These findings suggest EEG-based neural markers could one day help identify social processing difficulties in depressed teens before symptoms worsen.",
+      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, study population in China (may not generalize)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Adolescent mental health is relevant, but tiny mixed-sex sample with no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Depressed Teens' Brains Struggle to 'Read' Social Situations \u2014 New Research Shows Why",
+          "hook": "EEG scans reveal that teenagers with depression show measurably dampened brain responses when watching others interact \u2014 a neural gap healthy teens don't have.",
+          "pitch_angle": "A small but carefully designed study found that first-episode depressed adolescents have reduced brain signaling tied to social understanding, which may explain the isolation and social withdrawal so common in teen depression. For parents and clinicians, it raises the possibility that targeted social-skills interventions \u2014 not just talk therapy \u2014 could be part of early treatment."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42862435",
+      "headline": "Autistic adults struggle more with a speaker's own voice variations than with switching between different speakers entirely",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1007/s10803-026-07531-w",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested how 25 autistic adults and 25 neurotypical adults handled variability in tone-language speech perception using a speeded word identification task in Cantonese. Both groups struggled equally when switching between different speakers, but only autistic adults showed reduced efficiency when a single speaker varied their own speech sounds. The finding suggests autistic adults may be particularly sensitive to subtle within-talker acoustic changes, which could affect everyday listening in social settings.",
+      "why_it_matters": "For autistic women navigating workplaces and social environments, this suggests that a familiar voice's natural variation \u2014 not just meeting new speakers \u2014 may be an underrecognized source of listening difficulty.",
+      "caveats": "small sample (N<100), single-center, narrow linguistic population (Cantonese tone-language speakers), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Neurodevelopmental finding, no sex-disaggregated data, small sample, limited women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Autistic People May Find a Familiar Voice Just as Disorienting as a Stranger's",
+          "hook": "It's not just new people that are hard to follow \u2014 even a friend's natural voice shifts can be a hidden listening challenge for autistic adults.",
+          "pitch_angle": "A small study found that autistic adults struggled more with a single speaker's natural voice variation than with switching between speakers entirely, flipping assumptions about what makes listening hard. For autistic women, this could reframe how they understand their own social fatigue and communication challenges."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42864817",
+      "headline": "Hospitals are letting kids with diabetes use their own CGM devices \u2014 and nurses actually prefer it",
+      "journal": "Diabetes Technology & Therapeutics",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1177/15209156261489912",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Stanford developed and evaluated a hospital-wide policy allowing pediatric patients with diabetes to use their personal continuous glucose monitors (CGMs) for insulin dosing during hospital stays. The program included 60 children and adolescents with diabetes across 93 hospital encounters between September 2024 and October 2025. CGM accuracy validation succeeded in 81.5% of attempts, serious hypoglycemia was rare (0.8% time below 54 mg/dL), and nurses significantly preferred CGM over traditional finger-stick blood glucose testing.",
+      "why_it_matters": "For parents of children with type 1 diabetes, this suggests hospital stays may become less disruptive to the glucose-monitoring routines families already rely on at home.",
+      "caveats": "small sample (N<100), single-center, observational design, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Pediatric diabetes care; no female-specific analysis; single-center pilot.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Your Kid Can Finally Keep Their CGM On During a Hospital Stay \u2014 Here's What One Major Children's Hospital Found",
+          "hook": "For years, hospitals made kids with diabetes ditch their at-home glucose monitors \u2014 a new Stanford policy suggests that doesn't have to be the case.",
+          "pitch_angle": "A Stanford pilot found that children with diabetes could safely use their personal CGMs for insulin dosing during hospital stays, with nurses preferring the technology over finger-sticks. For parents who have built their child's diabetes management around devices like Dexcom G7, this early evidence suggests hospital protocols may finally be catching up."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42862109",
+      "headline": "Getting men to help stop gender violence is harder than it sounds \u2014 Turkish NGOs explain why",
+      "journal": "Violence Against Women",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1177/10778012261497317",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers interviewed 26 facilitators from NGOs and municipalities in Turkey about the challenges of engaging men in gender-based violence prevention programs. The qualitative study identified three major barrier categories: intersectional dynamics, political context, and organizational structures. Findings suggest that broader political landscapes and organizational cultures significantly shape whether and how men become effective allies in anti-violence efforts.",
+      "why_it_matters": "Understanding what stalls men's allyship programs could help advocates design more effective gender-based violence prevention efforts for women globally.",
+      "caveats": "small sample (N<100), observational design, single-center, qualitative/self-reported outcomes, narrow to Turkey context",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Social science framing, tiny qualitative sample, Turkey-specific organizational context.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Programs That Ask Men to Help End Domestic Violence Often Fail \u2014 and What Actually Works",
+          "hook": "Enlisting men as allies against gender-based violence sounds simple, but Turkish NGO workers say the political and organizational barriers are enormous.",
+          "pitch_angle": "A new qualitative study from Turkey reveals that government politics and organizational culture \u2014 not just individual attitudes \u2014 determine whether men's allyship programs succeed or stall, raising questions about how prevention efforts worldwide are designed."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42864937",
+      "headline": "Rape survivors who appear 'too resilient' in court may be disbelieved \u2014 and trauma science is why",
+      "journal": "Violence Against Women",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1177/10778012261497242",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Swedish researchers analyzed 10 rape cases using courtroom recordings of complainant testimony and cross-examinations, plus follow-up interviews with complainants. The study found that while invoking 'frozen fright' (tonic immobility) can support a victim's credibility, it is often challenged as exaggerated. The researchers introduce the concept of 'paradoxical resilience' to describe rational survival behaviors that can appear inconsistent with victimhood but may actually reflect sound trauma responses.",
+      "why_it_matters": "For women navigating the legal system after sexual assault, how trauma responses are interpreted in court can determine whether they are believed \u2014 and whether perpetrators are held accountable.",
+      "caveats": "small sample (N<100), observational design, single-center, qualitative outcomes, Sweden-specific legal context",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive legal-trauma framing, directly relevant to women survivors, very small qualitative sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Why Rape Survivors Who Seem 'Too Okay' Are Less Likely to Be Believed in Court",
+          "hook": "A new study finds that sexual assault survivors whose coping looks too composed \u2014 or too contradictory \u2014 are routinely challenged as not credible, even when their behavior is a textbook trauma response.",
+          "pitch_angle": "Swedish researchers studying real rape trials found that legal credibility is shaped by narrow scripts of how victims 'should' act, and that rational survival strategies can paradoxically undermine a woman's case \u2014 a finding with implications for how courts handle sexual assault globally."
+        },
+        {
+          "publication_type": "Health.com",
+          "headline": "The Trauma Response That Can Actually Hurt Rape Survivors' Court Cases",
+          "hook": "When sexual assault survivors seem resilient or composed after an attack, courts sometimes interpret that as a reason not to believe them \u2014 even though trauma science says otherwise.",
+          "pitch_angle": "A qualitative analysis of Swedish rape trials found that trauma responses outside the expected 'frozen fright' pattern are routinely used to undermine victims' credibility, suggesting the legal system has not caught up with what we know about how people survive sexual violence."
+        }
+      ],
+      "run_date": "2026-10-14",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42858275",
+      "headline": "Two types of fetal spina bifida surgery have equivalent long-term outcomes \u2014 but one is technically much harder",
+      "journal": "Fetal Diagnosis and Therapy",
+      "pubdate": "2026 Oct 10",
+      "doi": "10.1159/fdt/acuag020",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a retrospective cohort study of 187 pregnant patients who underwent open fetal spina bifida repair between 2010 and 2023 at a single high-volume center, researchers compared outcomes for two subtypes: myelomeningocele (MMC, n=130) and myeloschisis (MS, n=57). Myeloschisis posed significantly greater surgical challenges \u2014 primary skin closure was achieved in only 47% of MS cases versus 92% of MMC cases \u2014 and required more postnatal surgical intervention. Despite these technical differences, motor outcomes at three years were comparable, with over 75% of children in both groups achieving community walking status.",
+      "why_it_matters": "For pregnant women whose fetus is diagnosed with spina bifida, this early evidence suggests that the harder-to-repair form of the condition may not lead to worse long-term outcomes for the child after fetal surgery.",
+      "caveats": "observational design, single-center, retrospective, short follow-up (3-year motor outcomes only)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant to pregnant women facing fetal diagnosis; clean cohort of 187; single-center retrospective limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Fetal Surgery for Two Types of Spina Bifida Leads to Similar Walking Outcomes by Age 3",
+          "hook": "One form of spina bifida is dramatically harder to repair in the womb \u2014 yet children born after both surgeries walk at similar rates by age three, early data from 187 cases suggests.",
+          "pitch_angle": "A 13-year retrospective study found that despite myeloschisis requiring far more complex fetal surgery than myelomeningocele, long-term motor outcomes were equivalent, offering reassurance to pregnant women navigating a difficult prenatal diagnosis."
+        }
+      ],
+      "run_date": "2026-10-14",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
@@ -58,33 +679,6 @@
       "status": "new"
     },
     {
-      "pmid": "42848192",
-      "headline": "The first 1,000 days of life may hold the key to preventing autism and other neurodevelopmental disorders",
-      "journal": "Neuropsychiatrie",
-      "pubdate": "2026 Oct 8",
-      "doi": "10.1007/s40211-026-00597-z",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Italian researchers conducted a brief narrative review synthesizing evidence on genetic, epigenetic, environmental, neuroinflammatory, and gut microbiome pathways that converge during the first 1,000 days of life \u2014 from conception through age two \u2014 to shape neurodevelopmental trajectories. The review did not involve human or animal study participants. The authors argue that targeting modifiable risk factors during this window, when neuroplasticity is highest, offers the best opportunity for precision prevention of autism spectrum disorder and related conditions.",
-      "why_it_matters": "For women who are pregnant or planning pregnancy, this review highlights that the prenatal and early postnatal period is likely the most impactful window for reducing their child's neurodevelopmental risk through modifiable lifestyle and environmental factors.",
-      "caveats": "narrative review (no original data), no sex-disaggregated data, no human or animal participants",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Pregnancy-relevant topic with wellness hook, but narrative review with no original data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "The Window to Reduce Autism Risk May Open Before Your Baby Is Even Born",
-          "hook": "A new review finds that the 1,000 days from conception to age two may be the most critical \u2014 and most actionable \u2014 period for shaping a child's brain development.",
-          "pitch_angle": "Researchers synthesized evidence showing that genetics, gut microbiome, inflammation, and environmental exposures during early pregnancy and infancy converge to influence autism and developmental disorder risk. The review points to this window as the prime target for preventive strategies \u2014 a finding with direct relevance for women planning or navigating pregnancy."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42850058",
       "headline": "GLP-1 drugs like Ozempic may help when steroids spike blood sugar \u2014 but the evidence is still thin",
       "journal": "Diabetes, obesity & metabolism",
@@ -109,219 +703,6 @@
       "run_date": "2026-10-13",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42839303",
-      "headline": "A hidden DNA typo in a non-coding gene region caused a rare sex-development condition in two siblings",
-      "journal": "The Journal of Clinical Endocrinology and Metabolism",
-      "pubdate": "2026 Oct 7",
-      "doi": "10.1210/clinem/dgag395",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used whole genome sequencing to identify two novel CYB5A gene variants in two siblings with 46,XY differences of sex development (DSD) who presented with female phenotype; one variant was a deep intronic deletion \u2014 a type hidden from standard genetic tests. Lab assays confirmed the intronic variant disrupted RNA splicing, inserting a false genetic sequence that triggered the destruction of the resulting protein. The findings expand the known genetic causes of CYB5A-related DSD and highlight the diagnostic power of whole genome sequencing over standard panels.",
-      "why_it_matters": "For individuals with unexplained differences of sex development, this case suggests that standard genetic testing may miss disease-causing variants buried in non-coding DNA regions.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Clinically important DSD finding but N=2; very niche audience fit.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "Standard Genetic Tests Missed What Whole Genome Sequencing Found in Two Siblings With a Rare Sex-Development Condition",
-          "hook": "A DNA error hidden in a part of the genome most tests ignore turned out to be the cause of a rare hormonal condition affecting two siblings \u2014 a reminder that 'negative' genetic results aren't always the whole story.",
-          "pitch_angle": "Whole genome sequencing caught a non-coding variant that conventional panels would have missed, leading to a diagnosis for two people with a rare difference of sex development. The finding underscores the diagnostic gap that still exists for people seeking answers about intersex conditions."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42843337",
-      "headline": "A next-generation weight-loss drug cut body weight by nearly 20% in 24 weeks \u2014 outpacing anything currently approved",
-      "journal": "Cell Metabolism",
-      "pubdate": "2026 Oct 7",
-      "doi": "10.1016/j.cmet.2026.09.021",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a multicenter, randomized, double-blind, placebo-controlled phase 2 trial, 205 adults with overweight or obesity (59% women, ages 18\u201361, without type 2 diabetes) received once-weekly injections of UBT251 \u2014 a triple receptor agonist targeting GLP-1, GIP, and glucagon \u2014 or placebo for 24 weeks. Participants on the highest dose lost up to 19.7% of their body weight compared to 2.0% on placebo, with improvements in waist circumference, blood pressure, lipid levels, and blood sugar. Side effects were mostly mild-to-moderate gastrointestinal symptoms, consistent with other drugs in this class.",
-      "why_it_matters": "These early results suggest UBT251 may produce greater weight loss than currently approved GLP-1 medications, which could be significant for women managing obesity-related metabolic conditions \u2014 though phase 3 trials are still needed.",
-      "caveats": "industry funding [United Bio-Technology (Hengqin) Co., Ltd; Novo Nordisk employees among authors], single-region (China), short follow-up, no sex-disaggregated efficacy data reported",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Majority-female RCT; counterintuitive magnitude of weight loss; industry funding caveat.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "A New Weight-Loss Drug Just Beat Ozempic's Numbers in a Clinical Trial",
-          "hook": "A once-weekly injection helped people lose nearly 20% of their body weight in just six months \u2014 a figure that surpasses what current GLP-1 drugs typically achieve.",
-          "pitch_angle": "UBT251 hits three metabolic targets at once instead of one or two, and in a trial where more than half the participants were women, the results were striking. It's still in early trials, but the numbers are turning heads in the obesity medicine world."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Beyond Ozempic: A Triple-Action Weight Drug Shows Unprecedented Results in New Trial",
-          "hook": "Researchers are reporting weight loss numbers from a new injectable drug that no approved medication has matched \u2014 and the majority of trial participants were women.",
-          "pitch_angle": "UBT251 activates GLP-1, GIP, and glucagon receptors simultaneously, a combination that appears to accelerate fat loss and improve heart-health markers well beyond current standards. Experts say the results justify a larger phase 3 trial, though questions about long-term safety and access remain."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42844698",
-      "headline": "COVID hospital restrictions hit mothers of extremely preterm babies hardest when it came to breastfeeding",
-      "journal": "Breastfeeding Medicine",
-      "pubdate": "2026 Oct 7",
-      "doi": "10.1177/15568253261494524",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used serial cross-sectional data from the Pregnancy Risk Assessment Monitoring System (2016\u20132021) to compare breastfeeding cessation rates across gestational age groups among first-time U.S. mothers before and during the early COVID-19 pandemic, representing a weighted sample of approximately 1.7 million women. Counterintuitively, mothers of extremely preterm (EP) infants had lower cessation rates than term mothers before COVID \u2014 but during the pandemic their cessation rate increased by 47%, the largest shift of any gestational age group. Late preterm infant mothers had consistently higher cessation rates than term mothers during COVID, and mothers of very/moderately preterm infants most often cited household duties as a reason for stopping.",
-      "why_it_matters": "The findings suggest that in-hospital lactation support is uniquely critical for mothers of extremely preterm babies and that removing it \u2014 as pandemic contact restrictions did \u2014 may have a disproportionate impact on the most vulnerable newborns.",
-      "caveats": "observational design, self-reported outcomes, serial cross-sectional (not longitudinal), cessation reasons limited to subset (N=689,756 weighted), limited to 19 U.S. jurisdictions",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large US cohort; postpartum/breastfeeding topic fit; counterintuitive preterm finding.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Moms of Premature Babies Were Actually More Likely to Breastfeed \u2014 Until COVID Changed Everything",
-          "hook": "Before the pandemic, mothers of extremely premature infants were breastfeeding longer than term mothers \u2014 a finding that flipped almost entirely once COVID restrictions removed hospital support.",
-          "pitch_angle": "A large study of nearly 1.7 million U.S. first-time mothers found that pandemic-era hospital contact restrictions hit mothers of extremely preterm babies hardest, driving a 47% increase in breastfeeding cessation among this group. The finding highlights how critical in-hospital lactation support is for the most fragile newborns \u2014 and what's lost when it's taken away."
-        },
-        {
-          "publication_type": "Good Housekeeping",
-          "headline": "The Moms Who Struggled Most to Keep Breastfeeding During COVID May Surprise You",
-          "hook": "It wasn't new moms with full-term babies who found it hardest to keep breastfeeding during the pandemic \u2014 it was mothers of the tiniest, earliest-born babies.",
-          "pitch_angle": "New research analyzing breastfeeding data from nearly 1.7 million U.S. first-time mothers found that pandemic hospital restrictions were most disruptive for mothers of extremely preterm infants, who had previously breastfed longer than term mothers but saw cessation rates jump 47% during COVID. The study suggests that hands-on, in-hospital breastfeeding support isn't a luxury \u2014 it may be essential for mothers of premature babies."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42841447",
-      "headline": "A new eating disorder scale built specifically for trans and nonbinary adults captures something older tools have always missed",
-      "journal": "Eating Disorders",
-      "pubdate": "2026 Oct 7",
-      "doi": "10.1080/10640266.2026.2737198",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed and validated the Trans Disordered Eating Scale (TDES), a new 18-item instrument designed to measure disordered eating specifically in transgender, nonbinary, and gender diverse (TGD) adults. Three sequential studies enrolled a total of 908 community-based TGD adults to test, refine, and validate the scale's factor structure, reliability, and validity. The scale identified four distinct factors loading onto a general 'Gender Related Disordered Eating' construct and included clinical indicator items that distinguish body dissatisfaction tied to weight from that tied to gender dysphoria \u2014 a nuance existing tools miss.",
-      "why_it_matters": "TGD individuals face disordered eating risks distinct from cisgender people, and this first validated community-specific tool may improve both clinical screening and research accuracy for this underserved population.",
-      "caveats": "observational design, self-reported outcomes, community sample (not clinical), single-country (US), further validation needed per authors",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "First-in-class tool for underserved population; eating disorders topic fit; large N.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Trans and Nonbinary People Have Long Been Misread by Eating Disorder Screenings. A New Scale Is Finally Changing That.",
-          "hook": "Standard eating disorder tools were never designed with gender dysphoria in mind \u2014 meaning trans and nonbinary adults have often been screened with instruments that can't accurately capture what they're actually experiencing.",
-          "pitch_angle": "Researchers have developed the first validated eating disorder scale built specifically for trans and gender diverse adults, distinguishing weight-related body dissatisfaction from gender dysphoria. The tool could transform how clinicians screen and treat disordered eating in a community that's historically been missed or misclassified."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "The Eating Disorder Questionnaire You Took Was Probably Not Built for You \u2014 If You're Trans or Nonbinary",
-          "hook": "For decades, eating disorder screening tools were validated almost exclusively on cisgender populations \u2014 and a new study suggests that gap has real consequences for trans and nonbinary adults.",
-          "pitch_angle": "A team at Oklahoma State University developed and validated a first-of-its-kind 18-item scale that captures the unique stressors driving disordered eating among transgender, nonbinary, and gender diverse adults, including items that separate gender dysphoria from weight-based body dissatisfaction. The research highlights how measurement tools shape who gets diagnosed and who gets missed."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42843653",
-      "headline": "A single gene variant erases women's usual memory advantage in first-episode psychosis \u2014 but boosts it outside of illness",
-      "journal": "Spanish Journal of Psychiatry and Mental Health",
-      "pubdate": "2026 Oct 7",
-      "doi": "10.1016/j.sjpmh.2026.08.001",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a family-based design with 486 participants \u2014 patients with first-episode psychosis, their unaffected siblings, and healthy controls \u2014 to examine how a variant (rs9896243) in the NSF gene interacts with sex to affect verbal memory. In healthy female C-allele carriers, the variant was associated with significantly better immediate and delayed recall compared to males, but this female memory advantage disappeared entirely in female first-episode psychosis patients. Male psychosis patients carrying the C allele showed the most pronounced recognition deficits of any group.",
-      "why_it_matters": "These findings suggest that the well-known female cognitive advantage in early psychosis may be genetically conditional, which could eventually inform sex-specific screening and cognitive monitoring strategies for women at risk.",
-      "caveats": "observational design, single-center, exploratory functional annotations",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Sex-disaggregated genetic finding in psychosis; counterintuitive, female-specific cognitive result, N\u2265100.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Women Usually Have a Memory Edge in Early Psychosis \u2014 One Gene Variant Takes It Away",
-          "hook": "Women with first-episode psychosis who carry a specific gene variant lose the verbal memory advantage that typically protects women in early illness stages \u2014 a finding that could change how we think about cognitive screening.",
-          "pitch_angle": "A study of nearly 500 participants found that a variant in the NSF gene boosted verbal memory in healthy women but had no such effect \u2014 and even worsened recognition \u2014 in women with first-episode psychosis. The finding challenges the assumption that women are uniformly cognitively protected in early psychosis and raises the possibility of genetically-informed, sex-specific risk assessment."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "The 'Women Are Better at Memory' Rule Has a Major Exception \u2014 and It Involves Psychosis",
-          "hook": "Science has long noted that women outperform men on verbal memory in early psychosis \u2014 but a new genetic study shows that advantage can vanish depending on which version of one gene you carry.",
-          "pitch_angle": "Researchers found that a single gene variant flips the usual female cognitive edge in first-episode psychosis patients, erasing the memory benefit that healthy women with the same variant enjoy. The study is a reminder that 'female advantage' findings in psychiatric research are rarely universal \u2014 and that sex-informed genetic screening could one day matter for how early psychosis is identified and monitored in women."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42841579",
-      "headline": "Surgery-first for male infertility lets one in three couples conceive naturally \u2014 without sacrificing IVF success later",
-      "journal": "Andrology",
-      "pubdate": "2026 Oct 7",
-      "doi": "10.1111/andr.70412",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective cohort study of 397 couples in which the male partner had epididymal obstructive azoospermia, comparing a microsurgical repair (vasoepididymostomy) first approach versus going straight to ICSI. Among couples who had the surgery, 35.6% achieved natural conception; among those who eventually needed ICSI anyway, cumulative live-birth rates were statistically non-inferior to primary ICSI (45.9% vs. 43.8%). The study found that women aged \u226428 with higher AMH levels were most likely to benefit from the surgical-first path, while the primary tradeoff was a longer time to live birth.",
-      "why_it_matters": "Women partnered with men who have obstructive azoospermia may have more options than going straight to costly IVF \u2014 but the female partner's age and ovarian reserve are key factors in deciding which path makes sense.",
-      "caveats": "observational design, retrospective, single-center, China (Fujian Medical University), female age and AMH are female-partner factors analyzed in a study framed around male infertility treatment",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Fertility/reproductive health hook for women; female-partner factors central; retrospective single-center limits quality.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "If Your Partner Has a Specific Type of Male Infertility, Surgery May Let You Skip IVF Entirely",
-          "hook": "A new study suggests that a microsurgical fix for a common form of male infertility allowed more than a third of couples to conceive naturally \u2014 and didn't hurt their IVF odds if surgery didn't work.",
-          "pitch_angle": "For couples navigating the costly, emotionally draining world of IVF, findings suggest a surgical-first approach to obstructive azoospermia may offer a real shot at natural conception \u2014 especially if the female partner is under 28 with good ovarian reserve, making her biological clock a central variable in the decision."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42854266",
-      "headline": "Your diagnosis may matter less than your psychosis history for brain health outcomes",
-      "journal": "Journal of Psychiatric Research",
-      "pubdate": "2026 Oct 7",
-      "doi": "10.1016/j.jpsychires.2026.10.007",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers compared neurocognitive performance and biological markers (BDNF, FGF-2, CRP) in 90 clinically remitted patients \u2014 30 with schizophrenia, 30 with psychotic bipolar disorder, and 30 with non-psychotic bipolar disorder \u2014 plus 30 healthy controls in Turkey. They found that patients with bipolar disorder who had experienced psychotic symptoms performed more similarly to schizophrenia patients than to non-psychotic bipolar patients on executive function, processing speed, and verbal memory tasks. The findings suggest that a history of psychosis, rather than a formal diagnostic label, may better predict cognitive and biological outcomes.",
-      "why_it_matters": "For women, who are disproportionately diagnosed with bipolar disorder, this suggests that psychosis history \u2014 not diagnosis alone \u2014 may be critical information for understanding cognitive risk.",
-      "caveats": "small sample (N<100), observational design, single-center, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting psychiatric finding but no sex-disaggregated data and small Turkish sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Your Bipolar Diagnosis May Be the Wrong Frame for Predicting Brain Health \u2014 Psychosis History May Matter More",
-          "hook": "A new study found that bipolar patients who've experienced psychosis look more like schizophrenia patients than like other bipolar patients when it comes to memory and brain chemistry.",
-          "pitch_angle": "Researchers found that psychosis history \u2014 not diagnostic category \u2014 predicted cognitive performance and inflammation markers, suggesting mental health care may need to look beyond labels. The finding could reshape how clinicians assess cognitive risk in mood disorder patients."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Psychiatry",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -403,147 +784,6 @@
       "run_date": "2026-10-13",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42862935",
-      "headline": "Adding two blood vessel markers to a first-trimester risk model dramatically sharpens prediction of pregnancy complications in women with gestational diabetes",
-      "journal": "Endocrine Connections",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1530/EC-26-0478",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a retrospective cohort study of 1,000 pregnant women with gestational diabetes (GDM) at a Chinese hospital, researchers built a prediction tool \u2014 a nomogram \u2014 combining six first-trimester markers: pre-pregnancy BMI, fasting blood glucose, triglycerides, insulin resistance (HOMA-IR), and two angiogenic markers (PlGF and sFlt-1). The model achieved an AUC of 0.87 in the training set and 0.84 in the validation set, significantly outperforming a metabolic-only model that did not include the blood vessel markers (AUC 0.82). The tool maintained performance across subgroups defined by age, BMI, treatment type, and parity.",
-      "why_it_matters": "For pregnant women diagnosed with gestational diabetes, this early-pregnancy risk score could help clinicians flag those most likely to experience serious complications \u2014 allowing closer monitoring from the first trimester.",
-      "caveats": "observational design, single-center, retrospective cohort, internal validation only (no external validation), study population in China (generalizability to other populations unclear",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Strong women's reproductive health fit; large N; single-center internal validation limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Two Blood Tests in Your First Trimester Could Predict Serious Pregnancy Complications Months in Advance",
-          "hook": "A new risk model found that adding two angiogenic blood markers to standard metabolic tests in early pregnancy dramatically improved prediction of serious complications in women with gestational diabetes.",
-          "pitch_angle": "The nomogram \u2014 combining factors like insulin resistance, triglycerides, and blood vessel growth proteins measurable as early as the first trimester \u2014 outperformed standard metabolic screening alone. For the millions of women diagnosed with GDM each year, earlier, more precise risk stratification could mean more targeted prenatal care."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Doctors May Soon Know in Your First Trimester Which Gestational Diabetes Pregnancies Need Extra Monitoring",
-          "hook": "A predictive tool combining standard blood sugar markers with lesser-known angiogenic proteins could flag high-risk GDM pregnancies months before complications typically emerge.",
-          "pitch_angle": "The model's edge came from adding PlGF and sFlt-1 \u2014 proteins tied to blood vessel development \u2014 to the usual metabolic data, pointing to a more holistic picture of pregnancy risk. While external validation is still needed, the approach aligns with growing interest in earlier, more personalized prenatal screening."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42863706",
-      "headline": "Breastfeeding longer \u2014 not just exclusively \u2014 may protect new moms from keeping pregnancy weight for a full year",
-      "journal": "The American Journal of Clinical Nutrition",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1016/j.ajcnut.2026.101581",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 714 Chinese mothers at 1, 4, 6, and 12 months postpartum and used trajectory modeling to identify three distinct patterns of postpartum weight retention. Exclusive breastfeeding and a higher cumulative breastfeeding index \u2014 which accounts for both intensity and duration \u2014 were associated with more favorable weight recovery over the first year. Women with low early breastfeeding predisposition had significantly higher odds of retaining 5 kg or more by 6 months postpartum.",
-      "why_it_matters": "For new moms already navigating breastfeeding decisions, this suggests cumulative breastfeeding exposure \u2014 not just the early weeks \u2014 may matter for longer-term weight recovery.",
-      "caveats": "single-center (multicenter within one country), observational design, industry funding [Danone Open Science Research Center], China-based cohort (generalizability to non-Chinese populations uncertain), self-reported breastfeeding mode possible",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Postpartum health topic, large-ish female cohort, but industry funding and China-specific cohort limit pitch.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "How Long You Breastfeed \u2014 Not Just Whether You Do \u2014 May Shape Your Postpartum Weight for a Full Year",
-          "hook": "It's not just about breastfeeding in those first weeks \u2014 a new study suggests the cumulative months of nursing may be what actually moves the needle on postpartum weight.",
-          "pitch_angle": "A prospective study of 714 new mothers found that women with higher cumulative breastfeeding exposure had significantly better weight trajectory outcomes over 12 months postpartum \u2014 and those who showed low breastfeeding engagement early on were flagged as higher-risk for substantial weight retention by 6 months, suggesting a window for early support."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42863800",
-      "headline": "Teens with depression process social interactions differently in the brain \u2014 and it shows up on EEG",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1016/j.jad.2026.122620",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used EEG to measure brain activity in 22 adolescents with first-episode major depressive disorder and 23 healthy peers (total N=45) while they watched animated social interactions. Teens with depression showed blunted sensorimotor resonance \u2014 a brain response linked to understanding others' actions \u2014 and heightened visual disengagement when viewing social scenes. The degree of blunted response was significantly associated with greater depression severity, suggesting a neural signature of social processing difficulty in early-onset depression.",
-      "why_it_matters": "Given that depression disproportionately emerges in adolescent girls, understanding how it disrupts social brain development could eventually inform earlier screening and intervention strategies.",
-      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, observational design, study population in China (may limit generalizability)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Adolescent mental health angle relevant, but tiny mixed-sex sample with no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Teen Depression Changes How the Brain Reads Social Situations \u2014 New Research Shows Why",
-          "hook": "A new EEG study found that teens with depression don't process social interactions the same way their peers do \u2014 and the difference is measurable in the brain.",
-          "pitch_angle": "Researchers found a distinct neural pattern in depressed adolescents watching others interact, with blunted 'social resonance' signals tied to symptom severity. For a generation already navigating social anxiety and isolation, this adds a neurological layer to why depression can make social life feel so hard."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42862435",
-      "headline": "Autistic adults struggle more with a speaker's own voice variations than with switching between different speakers",
-      "journal": "Journal of Autism and Developmental Disorders",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1007/s10803-026-07531-w",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tested 25 Cantonese-speaking autistic adults and 25 neurotypical adults on a word identification task that manipulated both between-speaker and within-speaker acoustic variability. Both groups struggled equally when switching between different speakers, but only the autistic group showed reduced processing efficiency when the same speaker's voice varied. The findings suggest autistic adults have particular difficulty with subtle within-speaker sound variation, consistent with a detail-focused processing style.",
-      "why_it_matters": "Understanding this specific speech-processing challenge could help explain why autistic women and girls \u2014 who are often underdiagnosed \u2014 struggle in complex social listening environments.",
-      "caveats": "small sample (N<100), single-center, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting autism finding but no sex-disaggregated data, small Hong Kong sample, limited women's health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why Autistic People Can Struggle to Follow Even Familiar Voices \u2014 Science Has a New Explanation",
-          "hook": "It's not just switching between speakers that's hard for autistic adults \u2014 it's when the same voice changes slightly, and a new study pinpoints exactly why.",
-          "pitch_angle": "A study of Cantonese-speaking adults found autistic people had unique difficulty adapting to subtle variations within a single speaker's voice, which could explain real-world listening fatigue in social settings. This kind of sensory nuance is rarely discussed but may be highly relevant for autistic women navigating social and workplace environments."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42858275",
-      "headline": "Over 75% of children who had fetal spina bifida surgery are walking independently by age 3 \u2014 regardless of defect type",
-      "journal": "Fetal Diagnosis and Therapy",
-      "pubdate": "2026 Oct 10",
-      "doi": "10.1159/fdt/acuag020",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers retrospectively analyzed 187 patients who underwent open fetal spina bifida repair at a single high-volume center between 2010 and 2023, comparing outcomes between myelomeningocele (MMC, n=130) and myeloschisis (MS, n=57). MS posed greater surgical challenges \u2014 primary skin closure was achieved in only 47% of MS cases versus 92% for MMC \u2014 and required more postnatal surgical interventions. Despite these differences, more than 75% of children in both groups achieved community walking status by age 3, suggesting equivalent long-term motor outcomes across subtypes.",
-      "why_it_matters": "For pregnant women facing a fetal spina bifida diagnosis, this suggests that early fetal surgery may support meaningful motor function regardless of which defect subtype their baby has.",
-      "caveats": "retrospective design, single-center, short follow-up (3-year motor outcomes only), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Prenatal decision-making angle for pregnant women; single-center retrospective limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "Fetal Surgery for Spina Bifida Gives Most Kids a Real Shot at Walking \u2014 No Matter Which Type They Have",
-          "hook": "More than three-quarters of children who had spina bifida repaired in the womb were walking on their own by age 3, regardless of which type of defect they were born with.",
-          "pitch_angle": "A study of nearly 200 fetal surgeries found comparable walking outcomes across two distinct forms of open spina bifida, offering reassurance to pregnant women navigating a devastating prenatal diagnosis \u2014 and raising the profile of fetal intervention as a standard-of-care option."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
       "status": "new"
     },
     {
