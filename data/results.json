@@ -1,64 +1,856 @@
 {
-  "last_updated": "2026-10-14T15:05:36.751282+00:00",
-  "total_studies": 1058,
-  "new_this_run": 8,
+  "last_updated": "2026-10-15T14:52:53.008192+00:00",
+  "total_studies": 1077,
+  "new_this_run": 19,
   "studies": [
     {
       "pmid": "42852879",
-      "headline": "Male college students are more accepting of sexual violence than female peers \u2014 even when both claim to reject it",
+      "headline": "A gamified quiz reveals male college students are significantly more tolerant of dating violence \u2014 including sexual violence",
       "journal": "Violence Against Women",
       "pubdate": "2026 Oct 9",
       "doi": "10.1177/10778012261495052",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A cross-sectional study of 381 Turkish university students used a novel gamified assessment platform to measure dating violence attitudes and relationship self-efficacy, aiming to reduce social desirability bias. Overall, students rejected violence-tolerant attitudes, but sexual violence was rated the most acceptable form across the sample. Male gender, younger age, shorter relationship self-efficacy, and a 1\u20133 year relationship duration were independent predictors of more violence-tolerant attitudes, with male students scoring significantly higher than females on all five subscales.",
-      "why_it_matters": "Understanding which young men are most likely to tolerate dating violence \u2014 and what protective factors like relationship self-efficacy might buffer against it \u2014 could help shape campus prevention programs that reach women before harm occurs.",
-      "caveats": "observational design, single-center, self-reported outcomes, Turkey-specific university sample, cross-sectional design limits causal inference, gamification validity not yet established",
+      "summary": "Researchers used a novel gamified platform to measure dating violence attitudes and relationship self-efficacy in 381 university students in Turkey, aiming to reduce social desirability bias in self-reporting. Male students scored significantly higher on tolerance of dating violence across all five subscales, with sexual violence rated the most acceptable form of violence overall. Lower relationship self-efficacy was the strongest independent predictor of violence-tolerant attitudes (\u03b2 = \u2212.334), alongside being male, younger age, and having a relationship of 1\u20133 years duration.",
+      "why_it_matters": "Understanding which attitudes and confidence gaps predict tolerance of dating violence could help universities design more targeted prevention programs for young women.",
+      "caveats": "observational design, cross-sectional, single-center, self-reported outcomes, small sample (N=381 but above 100 threshold \u2014 note Turkey-specific population context), gamification engagement benefit unverified by comparative testing",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Sex-disaggregated data, relevant to young women's safety, cross-sectional and single-country limits generalizability.",
+      "relevance_score_reason": "Women's safety topic, clean cross-sectional design, but Turkey-specific student sample limits generalizability.",
       "pitch_angles": [
         {
           "publication_type": "Well+Good",
-          "headline": "Even Men Who Say They're Against Dating Violence Are More Tolerant of It Than Women \u2014 New Research Shows Why",
-          "hook": "A study using a gamified survey found that male college students scored significantly higher on acceptance of dating violence than their female peers \u2014 and low confidence in relationships was a key warning sign.",
-          "pitch_angle": "Turkish researchers found that relationship self-efficacy \u2014 how confident someone feels managing a healthy relationship \u2014 was one of the strongest predictors of violence-tolerant attitudes among university men, suggesting that building relationship skills, not just awareness, may be key to campus safety programs."
+          "headline": "A Gamified Quiz Exposed a Troubling Truth About How College Men View Dating Violence",
+          "hook": "When researchers replaced a standard survey with a game-style platform designed to lower defensiveness, male students still revealed significantly higher tolerance for dating violence \u2014 including sexual violence.",
+          "pitch_angle": "A novel gamified assessment of 381 university students found male gender and low relationship confidence were the top predictors of accepting dating violence, suggesting that how we measure attitudes matters as much as what we find \u2014 and that relationship skill-building could be a prevention tool."
         },
         {
-          "publication_type": "Shape",
-          "headline": "Why Campus Dating Violence Prevention Needs to Start With Relationship Confidence, Not Just Rules",
-          "hook": "A new study of college students found that young men with lower confidence in their relationship skills were significantly more likely to tolerate dating violence \u2014 even sexual violence.",
-          "pitch_angle": "Among 381 university students, researchers found that relationship self-efficacy was one of the strongest predictors of violence-accepting attitudes in men, pointing to a potentially underused lever for prevention programs on college campuses where young women are disproportionately at risk."
+          "publication_type": "The Cut",
+          "headline": "Even When the Survey Is Designed to Feel Like a Game, Men Still Admit More Tolerance for Dating Violence",
+          "hook": "Researchers built a gamified platform specifically to strip away social desirability bias \u2014 and male students still scored significantly higher on acceptance of violence in relationships, especially sexual violence.",
+          "pitch_angle": "The finding that lower relationship self-efficacy \u2014 not just gender \u2014 strongly predicts tolerant attitudes opens a new conversation about what college dating violence prevention programs may be missing."
         }
       ],
-      "run_date": "2026-10-14",
+      "run_date": "2026-10-15",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42860369",
+      "headline": "A New Hospital Protocol Is Keeping Dangerous Drug-Withdrawal Patients Out of the ICU",
+      "journal": "Journal of Addiction Medicine",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1097/ADM.0000000000001789",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective analysis of 449 protocol-concordant hospital encounters at two urban Philadelphia medical centers (April 2024\u2013February 2026) to evaluate an intermediate-care-unit (IMCU) dexmedetomidine protocol for managing withdrawal from medetomidine, a veterinary sedative increasingly adulterating the illicit opioid supply. The cohort was predominantly male (58.1%), with a mean age of 41.8 years. The protocol kept over half of patients out of the ICU entirely, with a median hospital stay of 6 days, suggesting it is a feasible and potentially scalable approach to a growing public-health crisis.",
+      "why_it_matters": "As medetomidine-adulterated opioids spread beyond Philadelphia, women who use drugs\u2014already less likely to seek hospital care\u2014could benefit from lower-acuity treatment settings that may feel less intimidating and more accessible.",
+      "caveats": "observational design, single-center (two urban Philadelphia hospitals), no sex-disaggregated data, retrospective analysis, high patient-directed discharge rate (41.4%) limits outcome interpretation, industry funding [Gilead Sciences \u2014 salary support for two authors, unrelated work]",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Addiction/opioid public health angle; no sex-disaggregated data, majority-male sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Veterinary Sedative Is Turning Up in Street Drugs \u2014 Here's How Hospitals Are Responding",
+          "hook": "A drug meant for animals is now causing a severe, hard-to-treat withdrawal syndrome in people \u2014 and a new hospital protocol may be keeping patients safer without overwhelming ICUs.",
+          "pitch_angle": "Medetomidine, a veterinary alpha-2 agonist, has flooded Philadelphia's illicit opioid supply and created a withdrawal crisis hospitals weren't built to handle; a new intermediate-care protocol suggests treatment can happen outside the ICU, which matters for women who often delay or avoid high-intensity hospital settings."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42852842",
+      "headline": "A simple combo of cholesterol, HDL, and blood sugar numbers may flag heart-liver-diabetes risk years early",
+      "journal": "Journal of Diabetes Investigation",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1111/jdi.70462",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed 6,534 Chinese adults aged 45 and older from the China Health and Retirement Longitudinal Study to test whether a combined cholesterol-HDL-glucose (CHG) index could predict simultaneous development of cardiovascular disease, type 2 diabetes, and metabolic liver disease. About 6% of participants developed this multimorbidity cluster by follow-up. The CHG index combined with BMI (CHG-BMI) was the strongest predictor, with those in the highest quartile having more than three times the odds of developing the condition cluster compared to the lowest quartile.",
+      "why_it_matters": "Routine lab numbers women already get checked \u2014 cholesterol, HDL, and fasting glucose \u2014 may one day be combined into a single index to identify those at highest risk for developing multiple metabolic diseases simultaneously, before symptoms appear.",
+      "caveats": "observational design, single-center, China-specific cohort (generalizability to Western populations uncertain), no sex-disaggregated data, modest AUC (0.643), external validation needed",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Metabolic health topic fits but no sex-disaggregated data and China-specific cohort limit applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Your Routine Bloodwork Might Predict Multiple Serious Diseases at Once \u2014 Here's the Number Combo to Know",
+          "hook": "A study suggests that three numbers already on your standard blood panel \u2014 cholesterol, HDL, and blood sugar \u2014 combined with your BMI, may signal whether you're heading toward heart disease, diabetes, and liver disease simultaneously.",
+          "pitch_angle": "Researchers found that a simple index built from common lab values predicted 'metabolic multimorbidity' years in advance. While the study is preliminary and was conducted in China, it points toward a future where routine checkups do more predictive heavy lifting \u2014 a wellness angle for midlife women juggling multiple health concerns."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42855028",
+      "headline": "Women who took a common osteoporosis drug for 18 months or more may get weaker results when switching to the newer bone-building drug romosozumab",
+      "journal": "Bone",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1016/j.bone.2026.118130",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers studied 167 postmenopausal Japanese women with primary osteoporosis who received 12 months of the bone-building drug romosozumab \u2014 87 who had previously been on denosumab and 80 who were treatment-na\u00efve. Women who had never taken denosumab gained significantly more bone density (lumbar spine +12.6%, total hip +4.7%) than those coming off denosumab (+3.9% and +0.5%). Longer prior denosumab use (18 months or more) was specifically associated with a blunted hip bone density response to romosozumab.",
+      "why_it_matters": "Postmenopausal women and their doctors sequencing osteoporosis medications should be aware that prior long-term denosumab use may meaningfully reduce how well romosozumab builds hip bone density \u2014 though the finding needs validation in larger studies.",
+      "caveats": "small sample (N<100 per group), single-center, observational design, Japan-specific population, short follow-up (12 months), no randomization",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Postmenopausal women's bone health, counterintuitive drug-sequencing finding, but small single-center sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "If You've Been on a Popular Bone Drug for Over a Year, Switching to the Newest Osteoporosis Treatment May Not Work as Well",
+          "hook": "A new study found that postmenopausal women who had taken denosumab for 18 months or more gained significantly less hip bone density when they switched to romosozumab compared to women who had never been on the older drug.",
+          "pitch_angle": "Researchers compared bone density gains in two groups of women on romosozumab \u2014 those coming off denosumab and those starting fresh \u2014 and found a striking gap in hip response, with longer prior denosumab use linked to the weakest results. While the study is small and preliminary, it raises an important question for the millions of women managing osteoporosis: does the order and duration of bone drugs matter more than we thought?"
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42854300",
+      "headline": "After a first psychotic episode, socioeconomic status \u2014 not symptoms or demographics \u2014 best predicts lingering illness burden",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1016/j.schres.2026.09.044",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed cross-sectional data from 368 adults (70% male, 30% female) in the HAMLETT multicentre RCT who had achieved symptomatic remission after a first episode of psychosis, examining which clinical and demographic factors were associated with residual symptom severity and functioning. Of all variables tested, only socioeconomic status (SES) was significantly associated with total symptom burden, negative symptoms, and global functioning \u2014 higher SES consistently linked to lower residual symptoms. No other clinical or demographic characteristics reached significance.",
+      "why_it_matters": "For women in lower-SES circumstances recovering from a first psychotic episode, these findings suggest that addressing economic and social needs \u2014 not just medication \u2014 may be critical to sustained recovery.",
+      "caveats": "observational design, cross-sectional, majority-male sample (70% male), no sex-disaggregated data reported, industry funding [Janssen, Lundbeck, Otsuka \u2014 one co-author], Netherlands sample",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive SES finding; majority-male sample with no sex-disaggregated data limits women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "The Biggest Predictor of Recovery After Psychosis Isn't Your Diagnosis \u2014 It's Your Zip Code",
+          "hook": "Among people who achieved remission after a first psychotic episode, the only factor that consistently predicted lingering symptoms and poor functioning was socioeconomic status.",
+          "pitch_angle": "A Dutch multicentre study found that after accounting for clinical history, mental health diagnoses, and demographics, lower socioeconomic status was the sole significant predictor of residual symptoms and worse daily functioning in remitted first-episode psychosis patients. The finding challenges a purely medical model of psychiatric recovery and points to the underaddressed role of financial and social support in mental health outcomes."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42853269",
+      "headline": "Adults over 35 hospitalized for a first psychotic episode recover more slowly \u2014 and attend fewer therapy sessions that could help",
+      "journal": "European Archives of Psychiatry and Clinical Neuroscience",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1007/s00406-026-02336-5",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A retrospective study followed 447 adults aged 18\u201354 (65% male, 35% female) admitted to an Italian early psychosis program for first-episode psychosis, comparing outcomes at baseline, 1 year, and 2 years by age group (\u226435 vs. 36+) and sex. Those 36 and older had more severe symptoms and functional impairment at baseline and across both follow-up points, and they attended significantly fewer CBT sessions \u2014 despite CBT attendance being a positive predictor of clinical recovery. At the 2-year mark, being in the older group was an independent negative predictor of clinical recovery (OR 0.44).",
+      "why_it_matters": "Women experiencing a first psychotic episode in midlife \u2014 a period already marked by hormonal and social transitions \u2014 may face compounded recovery challenges that current early intervention programs, typically designed for younger adults, are not built to address.",
+      "caveats": "observational design, retrospective, single-center (Italy), majority-male sample, limited sex-disaggregated analysis despite sex comparisons noted, short follow-up (2 years)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant sex and age comparison in psychosis recovery; retrospective single-center design limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "If You Have a First Psychotic Episode After 35, Recovery Looks Very Different \u2014 and the System May Not Be Ready for You",
+          "hook": "Adults over 35 hospitalized for a first psychotic episode were significantly less likely to recover fully after two years \u2014 and attended fewer of the therapy sessions shown to help most.",
+          "pitch_angle": "An Italian two-year follow-up study found that older first-episode psychosis patients had more severe symptoms, greater functional disability, and lower CBT attendance than younger patients \u2014 even within a program designed for early intervention. For women hitting this milestone during perimenopause or major life transitions, the findings suggest current psychiatric care pathways may need significant redesign to meet their needs."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42855328",
+      "headline": "An immunotherapy drug alone \u2014 no chemo \u2014 kept advanced endometrial cancer at bay nearly three times longer than standard treatment in real-world patients",
+      "journal": "Gynecologic Oncology",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1016/j.ygyno.2026.08.009",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This retrospective cohort study used the Flatiron Health Research Database to analyze real-world outcomes in 228 U.S. patients with dMMR/MSI-H advanced or recurrent endometrial cancer (median age 65\u201370 years), comparing those who received first-line pembrolizumab monotherapy (n=80) versus carboplatin-paclitaxel chemotherapy (n=148). Patients on pembrolizumab stayed on treatment a median of 9.1 months versus 3.5 months for chemotherapy, and median time to next treatment or death was 16.6 months versus 5.8 months. The findings suggest pembrolizumab monotherapy may be a viable chemotherapy-free first-line option for this biomarker-selected population, pending confirmation from an ongoing clinical trial.",
+      "why_it_matters": "For women with a specific subtype of advanced endometrial cancer, these real-world findings suggest an immunotherapy-only approach may keep the disease controlled significantly longer than chemotherapy \u2014 potentially sparing them from chemo's side effects.",
+      "caveats": "observational design, retrospective, industry funding [Merck & Co., Inc.], small sample (N<100 for pembrolizumab arm), single database source",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women-specific cancer; real-world data relevant but heavy industry funding and retrospective design are significant limitations.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Some Women With Advanced Uterine Cancer May Be Able to Skip Chemo \u2014 A New Study Explains Why",
+          "hook": "Real-world data suggest that for women with a specific genetic marker in their endometrial cancer, an immunotherapy drug alone kept the disease controlled nearly three times longer than standard chemotherapy.",
+          "pitch_angle": "A retrospective analysis of U.S. patient records found that women with dMMR/MSI-H endometrial cancer who received pembrolizumab as their first treatment went significantly longer before needing their next treatment compared to those on chemo. The study was funded by Merck, which makes pembrolizumab, and a clinical trial is underway to confirm the findings \u2014 but for a cancer with limited options, the data are notable."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42855323",
+      "headline": "Women veterans' reproductive health has been overlooked for decades \u2014 researchers are finally mapping the gaps",
+      "journal": "Women's Health Issues",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1016/j.whi.2026.09.001",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This perspective or review article from VA-affiliated researchers examines the state of reproductive health research specifically for women veterans, assessing current progress, existing gaps, and structural challenges in conducting and implementing this research within the VA system. No participant sample or original data are described in the available abstract. Authors affiliated with VA health systems in Los Angeles, Palo Alto, and Durham identify opportunities to advance this underserved research area.",
+      "why_it_matters": "Women are the fastest-growing segment of the veteran population, and gaps in reproductive health research for this group may have direct consequences for the quality of care they receive at VA facilities.",
+      "caveats": "no original research data, abstract-only available, policy/perspective piece",
+      "fact_check_note": "Abstract does not include participant data, study design details, or findings \u2014 this appears to be a policy or perspective article. Summary reflects available information only.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant women's health and reproductive focus; no original data, perspective piece limits scoring.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Women Veterans Have Unique Reproductive Health Needs \u2014 and Research Is Only Starting to Catch Up",
+          "hook": "Women are the fastest-growing group in the U.S. military \u2014 but reproductive health research designed specifically for them is still in its infancy.",
+          "pitch_angle": "A new analysis from VA researchers lays out how little is known about reproductive health outcomes for women veterans and what structural barriers have kept this population underrepresented in research. With the veteran demographic rapidly shifting, advocates say closing this gap is both a women's health and a health equity priority."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42848192",
-      "headline": "The first 1,000 days of life may hold the key to preventing autism \u2014 but only if we act on modifiable risk factors now",
+      "headline": "The first 1,000 days of life may hold the key to preventing autism and neurodevelopmental disorders \u2014 here's what the science says so far",
       "journal": "Neuropsychiatrie",
       "pubdate": "2026 Oct 8",
       "doi": "10.1007/s40211-026-00597-z",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This brief narrative review synthesizes current evidence on how genetic susceptibility, environmental exposures, epigenetic changes, neuroinflammation, and gut microbiome shifts during the first 1,000 days of life \u2014 from conception through age two \u2014 may converge to shape neurodevelopmental trajectories including autism spectrum disorder. The authors argue that shared biological mechanisms across neurodevelopmental conditions point toward a precision-prevention framework targeting modifiable prenatal and early postnatal risk factors. No new primary data were collected; this is a synthesis of existing literature.",
-      "why_it_matters": "For women who are pregnant or planning pregnancy, this review highlights that the prenatal and early postnatal environment \u2014 factors like inflammation, microbiome health, and environmental exposures \u2014 may be among the most actionable windows for supporting healthy neurodevelopment.",
-      "caveats": "narrative review (not systematic), no primary data, no sex-disaggregated data, no animal or human study participants",
+      "summary": "This brief narrative review synthesizes current evidence on the genetic, epigenetic, environmental, neuroinflammatory, and gut microbiome factors that converge during the first 1,000 days of life \u2014 from conception through age two \u2014 to shape neurodevelopmental trajectories including autism spectrum disorder. The authors argue that this window of heightened neuroplasticity may offer the best opportunity for precision prevention targeting modifiable risk factors. No original data were generated; the review draws on existing literature without a formal systematic methodology.",
+      "why_it_matters": "For pregnant women and new parents, understanding which modifiable exposures during pregnancy and early infancy may influence neurodevelopmental risk could inform prenatal and postpartum care decisions.",
+      "caveats": "narrative review (not systematic), no original data, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Prenatal relevance for women but narrative review only; no new data generated.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Scientists Say the Window to Reduce Autism Risk May Start Before Birth",
+          "hook": "A new review suggests that the first 1,000 days \u2014 from conception to age two \u2014 may be the most critical and modifiable period for shaping a child's neurodevelopmental health.",
+          "pitch_angle": "Researchers synthesized evidence showing that factors like gut microbiome, inflammation, and environmental exposures during pregnancy and infancy collectively influence whether a child develops autism or related conditions. While this is a narrative review without new data, it offers a useful framework for expectant and new mothers thinking about modifiable factors during a critical developmental window."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42847930",
+      "headline": "The UK's top endocrinology society just issued new guidance to help everyday doctors manage transgender patients' hormones long-term",
+      "journal": "Endocrine Connections",
+      "pubdate": "2026 Oct 8",
+      "doi": "10.1530/EC-26-0163",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "The Society for Endocrinology (UK) published a multidisciplinary position statement to help non-specialist endocrinologists manage the ongoing hormonal, medical, and psychosocial care of adults with gender incongruence after discharge from specialist gender identity clinics. The statement \u2014 developed by endocrinologists, gender clinicians, reproductive medicine specialists, and GPs \u2014 covers documentation standards, monitoring schedules, risk stratification, contraception, fertility considerations, and lifestyle factors like cardiovascular health. It emphasizes minimal effective hormone dosing, patient education, and coordinated primary care, including guidance on when to re-refer to specialists.",
+      "why_it_matters": "As more trans and nonbinary adults receive gender-affirming hormone therapy through primary care, clear guidance on long-term hormonal monitoring \u2014 including fertility and cardiovascular risk \u2014 directly affects the health of trans women and trans men of all ages.",
+      "caveats": "position statement (not primary research), UK healthcare context may not generalize to US systems, no new clinical trial data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant transgender health and hormonal care topic; position statement not primary data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Trans Adults Navigating Long-Term Hormone Therapy Finally Have New Guidance \u2014 Here's What Doctors Are Being Told",
+          "hook": "The UK's leading endocrinology society just told non-specialist doctors exactly how to manage gender-affirming hormone therapy for the long haul \u2014 including fertility, cardiovascular risk, and when to refer back to specialists.",
+          "pitch_angle": "The new position statement fills a critical gap: what happens to trans adults' hormonal care after they leave specialist gender clinics, a transition that often falls through the cracks. For readers navigating gender-affirming care or supporting someone who is, this offers a window into how medical guidance is evolving \u2014 and what to ask their own doctors."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42870263",
+      "headline": "Clinicians say the system \u2014 not cultural differences \u2014 is the real barrier to reproductive care for migrant women",
+      "journal": "Reproductive Health",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1186/s12978-026-02471-1",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Sweden interviewed 31 sexual and reproductive health professionals \u2014 including midwives, nurses, physicians, and social workers \u2014 from youth and women's clinics in the Sk\u00e5ne region about their experiences caring for patients from diverse cultural backgrounds. Thematic analysis revealed four major challenge areas, with providers consistently emphasizing structural failures such as inadequate interpretation services and privacy-compromising digital systems, rather than cultural incompatibility alone. Clinicians reported using individualized, flexible strategies to protect patient autonomy and confidentiality in the absence of institutional support.",
+      "why_it_matters": "For the growing number of migrant women navigating reproductive healthcare, this study suggests the biggest obstacles may be fixable systemic gaps \u2014 not individual cultural divides \u2014 a reframing that could shift how clinics design equitable care.",
+      "caveats": "qualitative design, single-center, self-reported outcomes, narrow to single region (Sk\u00e5ne, Sweden), provider perspectives only (no patient data)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive systems framing, reproductive health focus, qualitative only, provider-side data limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Reason Migrant Women Struggle to Get Reproductive Care Has Nothing to Do With Culture",
+          "hook": "Clinicians who work with migrant patients say the problem isn't cultural gaps \u2014 it's broken systems.",
+          "pitch_angle": "A Swedish study of 31 reproductive health providers found that inadequate interpreters, non-private digital systems, and institutional inaction were the real barriers to equitable care \u2014 not the cultural backgrounds of patients. The finding flips the typical narrative and points to structural fixes that could improve access for millions of migrant women worldwide."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Reproductive Health System Is Failing Migrant Women \u2014 and Doctors Know It",
+          "hook": "When clinicians are left to improvise confidentiality and informed consent for migrant patients, something has gone very wrong at the institutional level.",
+          "pitch_angle": "Interviews with Swedish reproductive health providers reveal that they're routinely working around systemic failures \u2014 from family members pressuring patients to digital systems that undermine privacy \u2014 using personal ingenuity rather than institutional backing. Experts say equitable care requires structural reform, not just culturally competent individuals."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42873315",
+      "headline": "GLP-1 drugs cause hair loss in far more women than clinical trials suggest \u2014 and female sex is the top risk factor",
+      "journal": "Acta Diabetologica",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1007/s00592-026-02812-3",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a narrative review synthesizing clinical trial data, real-world observational studies, and pharmacovigilance databases on hair loss associated with semaglutide, tirzepatide, and retatrutide. Hair loss prevalence ranged from 3\u20137% in controlled trials to over 70% in real-world cohorts, with the dominant pattern being telogen effluvium driven primarily by the speed and magnitude of weight loss rather than direct drug toxicity. Female sex and weight loss greater than 10% were the strongest predictors of hair loss, while paradoxical improvements in androgenetic alopecia were also reported in some users.",
+      "why_it_matters": "Women taking GLP-1 medications for weight loss or diabetes face a substantially higher real-world risk of hair shedding than trial data indicate, and understanding this may help them make more informed treatment decisions.",
+      "caveats": "narrative review, heterogeneous data sources, pharmacovigilance data subject to reporting bias, no randomized hair-loss data, no sex-disaggregated analysis of paradoxical improvement cases",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive real-world gap; female sex explicitly flagged as top risk; high lifestyle relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "The GLP-1 Hair Loss Problem Is Way Worse Than the Clinical Trials Let On",
+          "hook": "While Ozempic and Zepbound trials reported hair loss in just 3\u20137% of users, real-world data puts that number above 70% \u2014 and women are at the highest risk.",
+          "pitch_angle": "The discrepancy between trial rates and real-world rates of hair loss on GLP-1 drugs is striking, and this review confirms female sex is the single strongest predictor. A pitch could explore why this gap exists, what telogen effluvium actually is, and what women should know before starting these medications."
+        },
+        {
+          "publication_type": "Well+Good / Allure",
+          "headline": "Your GLP-1 Drug Might Be Making Your Hair Fall Out \u2014 Here's What Dermatologists Want You to Know",
+          "hook": "New research finds that over 70% of real-world GLP-1 users may experience hair shedding \u2014 and the drug itself may not be fully to blame.",
+          "pitch_angle": "The review finds that rapid weight loss, not the drug's direct chemistry, is the likely driver of hair shedding, which means the phenomenon may be partly manageable. This creates a compelling wellness angle around nutrition, rate of weight loss, and proactive hair care for women on these medications."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42872379",
+      "headline": "A new insulin pump algorithm keeps blood sugar in range even when users forget to announce their meals",
+      "journal": "Diabetes Technology & Therapeutics",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1177/15209156261496632",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This first-in-human feasibility trial enrolled 24 adults with type 1 diabetes across three consecutive 3-week phases testing the MiniMed Vivera algorithm under full meal announcement, no meal announcement, and announcement-at-will conditions. Time in range (70\u2013180 mg/dL) averaged 82.3% with full announcement, 73.8% with no announcement, and 76.7% with announcement-at-will \u2014 all meeting international glycemic targets. No device-related serious adverse events were reported, supporting advancement to a larger pivotal trial.",
+      "why_it_matters": "For women with type 1 diabetes \u2014 who face unique glycemic challenges across the menstrual cycle, pregnancy, and menopause \u2014 a system that maintains control even without meal announcements could meaningfully reduce daily management burden.",
+      "caveats": "small sample (N=24), single-center, short follow-up, no sex-disaggregated data reported, industry funding [MiniMed/Medtronic], feasibility trial only",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Prenatal relevance for women; narrative review limits rigor and novelty.",
+      "relevance_score_reason": "Relevant diabetes tech but small N, no female-specific data, early-phase only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Forgot to Tell Your Insulin Pump You're Eating? A New Algorithm Has You Covered",
+          "hook": "A first-in-human trial found that a new smart insulin pump algorithm kept blood sugar in a healthy range even when users gave it no information about their meals.",
+          "pitch_angle": "The MiniMed Vivera algorithm is designed to remove one of the most burdensome requirements of automated insulin delivery \u2014 the meal announcement \u2014 without sacrificing glycemic control. For the estimated 1.6 million Americans with type 1 diabetes, many of them women managing hormonal variability on top of everything else, this kind of flexibility could be a real quality-of-life shift."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42875600",
+      "headline": "A pill version of a GLP-1 drug significantly lowered blood sugar in type 2 diabetes patients who weren't responding to two other medications",
+      "journal": "Diabetologia",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1007/s00125-026-06892-2",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A multicentre, randomised, double-blind, placebo-controlled Phase II trial in China enrolled 155 adults with type 2 diabetes (mean HbA1c 8.5%) whose blood sugar was inadequately controlled on metformin and an SGLT2 inhibitor, assigning them to oral HRS-7535 at 30 mg, 60 mg, or placebo once daily for 16 weeks. The 60 mg dose reduced HbA1c by 1.8 percentage points versus 0.4% for placebo, with 66% of patients reaching the HbA1c target of below 7.0% compared to 9.8% on placebo. Body weight fell 2.4% in the highest-dose group versus 0.7% with placebo, and no severe hypoglycemia was reported.",
+      "why_it_matters": "An oral GLP-1 option that works on top of two existing medications could eventually expand treatment access for women with type 2 diabetes who cannot or prefer not to use injectable therapies.",
+      "caveats": "single-center region (China only), no sex-disaggregated data reported, short follow-up (16 weeks), industry funding [Jiangsu Hengrui Pharmaceuticals], Phase II only, results may not generalize to non-Chinese populations",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Promising drug data but China-only sample, no female-specific findings, Phase II only.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Health.com",
+          "headline": "A GLP-1 Drug in Pill Form Dramatically Cut Blood Sugar When Two Other Diabetes Drugs Weren't Enough",
+          "hook": "A new oral GLP-1 medication reduced blood sugar by nearly 1.8 percentage points in people whose type 2 diabetes wasn't controlled on two existing drugs \u2014 without severe side effects.",
+          "pitch_angle": "As GLP-1 therapies expand beyond injectables, an effective oral option for people already on metformin and SGLT2 inhibitors could change how difficult-to-control type 2 diabetes is managed. This early-phase trial offers a first look at the pill's potential, though the China-only sample means larger, more diverse studies are needed before drawing broader conclusions."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42876043",
+      "headline": "Freezing ovarian tissue is no longer experimental \u2014 and it may be the only fertility option for girls with cancer",
+      "journal": "Reproduction",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1093/reprod/xaag123",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review, published in Reproduction, summarizes current and emerging fertility preservation strategies for girls and women facing gonadotoxic cancer treatments. Authors from Spain and the UK outline established approaches \u2014 embryo and mature oocyte freezing \u2014 and highlight ovarian tissue cryopreservation with autotransplantation as now clinically established (no longer experimental), the only option for pre-pubertal patients or those requiring immediate chemotherapy. The review also covers novel therapies under development for cases where transplanted tissue is unsuitable, such as when it risks reintroducing cancer cells.",
+      "why_it_matters": "As cancer survival rates rise among young women and girls, fertility preservation has become a critical quality-of-life issue \u2014 and knowing ovarian tissue freezing is now a recognized standard option could change conversations at the time of diagnosis.",
+      "caveats": "review article (not original research), no sex-disaggregated data (female-only population by design), no clinical trial data presented",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Reproductive health, female-specific, meaningful clinical update; review design limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Ovarian Tissue Freezing Is Now an Established Option for Girls and Women With Cancer \u2014 Here's What That Means",
+          "hook": "What was once considered experimental is now a recognized fertility preservation technique \u2014 and for pre-teen cancer patients, it may be the only option.",
+          "pitch_angle": "A new review in Reproduction confirms that ovarian tissue cryopreservation \u2014 once labeled experimental \u2014 is now a clinically established fertility preservation strategy for females facing cancer treatment, including young girls who can't yet freeze eggs. As cancer survival rates improve, experts say fertility conversations need to start at diagnosis, not after treatment ends."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42867598",
+      "headline": "Hot weather is making breastfeeding harder \u2014 and moms say they're suffering in silence",
+      "journal": "Maternal and Child Health Journal",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1007/s10995-026-04337-1",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in T\u00fcrkiye conducted in-depth interviews with 18 breastfeeding mothers who sought care at a hospital outpatient clinic between August and October 2024. Using thematic analysis, they identified five key barrier categories including physical discomfort, social isolation, sleep disruption, and psychological strain tied specifically to hot weather conditions. Mothers described needing cool spaces, increased fluids, and emotional support \u2014 resources many said were lacking.",
+      "why_it_matters": "As climate change drives more extreme heat, understanding how high temperatures uniquely undermine breastfeeding could inform public health infrastructure and support policies for nursing mothers.",
+      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, narrow to single region (Western Black Sea, T\u00fcrkiye)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant postpartum topic, qualitative only, very small sample, regional context limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Hot Summers Are Making Breastfeeding Even Harder \u2014 Here's What Moms Say They Actually Need",
+          "hook": "As temperatures climb, a new study finds heat is quietly adding physical, emotional, and social strain to an already demanding experience.",
+          "pitch_angle": "Interviews with breastfeeding mothers reveal that hot weather triggers a cascade of barriers \u2014 from overheating and dehydration to social isolation and sleep loss \u2014 that go largely unaddressed. With climate change extending heat seasons, the finding points to a gap in public support for nursing mothers that wellness advocates and policymakers are just beginning to reckon with."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42867277",
+      "headline": "Patients hospitalized for first psychosis episode report improvements that clinical scales miss \u2014 but research tools aren't keeping up",
+      "journal": "International Review of Psychiatry",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1080/09540261.2026.2743873",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic review of 12 studies (N=1,272 adults hospitalized for first-episode psychosis) to map which patient-reported outcome domains and measures are used during inpatient psychiatric care. Five domain groups emerged \u2014 recovery, treatment, suicidality, cognition, and interpersonal outcomes \u2014 with quality of life and stigma most commonly assessed. Notably, some patient-reported dimensions improved during hospitalization while others stayed flat despite measurable clinical or functional gains, and no single standardized measure was used consistently across studies.",
+      "why_it_matters": "For women experiencing first-episode psychosis \u2014 who may face distinct stigma and recovery trajectories \u2014 this gap in standardized self-report tools means their subjective experience of recovery may be systematically undercaptured in clinical settings.",
+      "caveats": "small sample (N<100 in some included studies), observational design, no sex-disaggregated data, heterogeneous longitudinal findings preclude meta-analysis, single-region authorship (Italy)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Psychiatric topic but no sex-disaggregated data; systematic review with heterogeneous findings.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "When You're Hospitalized for Psychosis, Your Own Account of Recovery May Not Be Getting Recorded",
+          "hook": "Patients hospitalized for a first psychotic episode report real shifts in well-being that standard clinical ratings can miss \u2014 but the field has no consistent way to capture them.",
+          "pitch_angle": "A new systematic review found that patient-reported measures of stigma, self-esteem, and quality of life during inpatient psychiatric care often don't align with clinician-rated improvement, and no standard tool is used across hospitals. For women \u2014 who may experience psychosis differently and face distinct social stigma \u2014 the absence of validated self-report protocols could leave crucial recovery information on the table."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42866937",
+      "headline": "People who first used cannabis after 1980 are up to 70% more likely to develop cannabis use disorder than earlier users",
+      "journal": "Addiction",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1111/add.70608",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using survival analysis on data from two large Australian national mental health surveys (combined N=24,734; ages 16\u201385), researchers examined the transition from first cannabis use to cannabis use disorder (CUD) among 4,731 ever-users, grouped by decade of first use. Those who first used cannabis in the 1990s, 2000s, or 2010s showed significantly elevated hazard ratios for developing CUD (HR 1.47\u20131.70) compared to those who initiated before 1980, after adjusting for demographics, other substance use disorders, and mental health conditions. The risk and speed of CUD onset were consistently lowest among pre-1980 initiators.",
+      "why_it_matters": "As cannabis legalization expands and potency increases, women who use cannabis \u2014 particularly those who began in recent decades \u2014 may face substantially higher risk of developing a use disorder than older data would suggest.",
+      "caveats": "observational design, cross-sectional surveys, self-reported outcomes, Australian sample, no sex-disaggregated data reported",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large sample, counterintuitive historical comparison, but no sex-disaggregated data limits women's health specificity.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Modern Cannabis Is Far More Likely to Lead to Addiction Than the Weed People Used Decades Ago",
+          "hook": "Australians who first tried cannabis after 1980 are up to 70% more likely to develop cannabis use disorder than those who used it before that era \u2014 even after accounting for mental health and other substance use.",
+          "pitch_angle": "A large national study found that the risk of spiraling from casual cannabis use into a diagnosable use disorder has risen sharply across successive decades of initiators, likely tied to increasingly potent products and easier access. With cannabis now widely legal or decriminalized, the findings raise important questions for women about what recreational use today actually looks like risk-wise compared to previous generations."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42869439",
+      "headline": "A simpler, faster type of prenatal DNA screening detected every Down syndrome case in a nearly 3,000-woman study",
+      "journal": "Prenatal Diagnosis",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1002/pd.70260",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers prospectively enrolled 3,025 women undergoing routine first-trimester screening (2,689 with valid results) to evaluate a new cell-free DNA screening method \u2014 rolling circle replication \u2014 that requires no PCR or DNA sequencing. The technology detected all 14 confirmed cases of trisomy 21 (Down syndrome) with 100% sensitivity and 99.7% specificity, and correctly identified fetal sex in 98.8% of cases. Performance for trisomies 18 and 13 could not be fully assessed due to the small number of cases, and testing below 10 weeks and in IVF pregnancies showed preliminary feasibility.",
+      "why_it_matters": "For pregnant women in their first trimester, this technology suggests a simpler, no-sequencing approach to prenatal screening for Down syndrome may be just as accurate as current methods \u2014 potentially expanding access to reliable screening.",
+      "caveats": "single-center, industry funding [Vanadis Diagnostics AB, a Revvity Inc Company], limited trisomy 18/13 case numbers, small IVF and early-gestational-age subgroups",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong reproductive health relevance; large prospective cohort; partial industry funding; limited by rare-case numbers.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "A New Kind of Prenatal DNA Test Found Every Down Syndrome Case \u2014 Without Sequencing a Single Gene",
+          "hook": "A study of nearly 3,000 pregnancies found that a simpler, faster prenatal screening method caught 100% of Down syndrome cases without the complex DNA sequencing current tests require.",
+          "pitch_angle": "Rolling circle replication \u2014 a low-tech alternative to standard cell-free DNA sequencing \u2014 matched the accuracy of existing prenatal screens for Down syndrome in a large prospective study, raising the possibility that reliable first-trimester screening could eventually become faster and more accessible. The technology also correctly identified fetal sex in nearly 99% of cases, adding a practical bonus for expectant parents."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "First-Trimester DNA Screening Just Got a Potential Upgrade \u2014 And It Doesn't Need a Sequencer",
+          "hook": "Researchers tested a prenatal screening approach that skips DNA sequencing entirely and still found every Down syndrome case in a nearly 3,000-woman study.",
+          "pitch_angle": "The new rolling circle replication method works by amplifying and detecting chromosomal differences without the expensive equipment standard cell-free DNA tests require, which could eventually make high-accuracy prenatal screening more widely available. One caveat: the study was partly funded by the company that makes the technology, and findings for rarer chromosomal conditions were limited by small case numbers."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42862935",
+      "headline": "Adding two blood vessel markers in the first trimester dramatically sharpens prediction of dangerous pregnancy complications in women with gestational diabetes",
+      "journal": "Endocrine Connections",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1530/EC-26-0478",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed and internally validated a prediction tool (nomogram) in 1,000 pregnant women with gestational diabetes mellitus (GDM) at a single Chinese hospital, combining first-trimester metabolic markers (pre-pregnancy BMI, fasting glucose, triglycerides, insulin resistance) with two angiogenic markers (PlGF and sFlt-1). The model achieved an AUC of 0.87 in the training set and 0.84 in the validation set, significantly outperforming a metabolic-only model. Adding the two angiogenic markers \u2014 typically used in preeclampsia screening \u2014 measurably improved prediction of composite adverse pregnancy outcomes in GDM.",
+      "why_it_matters": "For pregnant women diagnosed with gestational diabetes, a more accurate first-trimester risk tool could help clinicians identify earlier who needs closer monitoring before serious complications develop.",
+      "caveats": "single-center, internal validation only (no external validation), retrospective cohort, China-specific population, no sex-disaggregated data (all-female by definition but outcomes not stratified by relevant subgroups beyond age/BMI/parity)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong reproductive health fit, female-only sample N=1000, but single-center and internal validation only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Two Blood Markers Doctors Use for Preeclampsia Could Also Predict Dangerous Gestational Diabetes Complications \u2014 in the First Trimester",
+          "hook": "A study found that adding two angiogenic blood markers \u2014 already used to screen for preeclampsia \u2014 to a standard gestational diabetes risk model significantly improved the ability to predict serious pregnancy complications as early as the first trimester.",
+          "pitch_angle": "Researchers built and tested a prediction tool in 1,000 women with GDM that combined routine metabolic data with two lesser-known vessel-health markers, boosting accuracy from good to excellent. The finding suggests that repurposing existing blood tests could give women with gestational diabetes a more precise early warning \u2014 a meaningful development given how common GDM has become."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Gestational Diabetes Risk Prediction Just Got a Major Upgrade \u2014 Using Tests Already in Your OB's Toolkit",
+          "hook": "Women with gestational diabetes may soon get a sharper picture of their pregnancy risk from markers their doctor may already be testing for.",
+          "pitch_angle": "A new prediction model found that combining standard metabolic numbers with two angiogenic markers in the first trimester predicted adverse outcomes in GDM with significantly greater accuracy than metabolic data alone. For pregnant women navigating a GDM diagnosis, this research points toward smarter, earlier conversations with their care team about personalized risk."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42863800",
+      "headline": "Teen brains with depression process social interactions differently at a neural level \u2014 even when watching strangers interact",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1016/j.jad.2026.122620",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using EEG, researchers compared neural responses to observed social interactions in 22 adolescents with first-episode major depressive disorder and 23 healthy controls in China. Healthy adolescents showed stronger sensorimotor mu suppression \u2014 a marker of social resonance \u2014 when watching giving (social) versus disposing (non-social) actions, while depressed adolescents showed no such difference. Depressed teens also showed significantly higher occipital alpha power when viewing social versus non-social targets, and attenuated sensorimotor resonance correlated with greater depressive symptom severity.",
+      "why_it_matters": "Given that depression disproportionately affects adolescent girls, these neural findings suggest that difficulties implicitly reading social interactions may be an early, measurable feature of teen depression that could inform targeted interventions.",
+      "caveats": "small sample (N<100), single-center, China sample, no sex-disaggregated data reported",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant adolescent mental health finding; very small sample and no sex-disaggregated data limit women's health applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Depressed Teenagers' Brains Are Literally Less Attuned to Social Moments \u2014 New EEG Data Shows Why",
+          "hook": "When adolescents with depression watched two people interact, their brains failed to fire the neural signals that healthy teens use to implicitly 'resonate' with social situations.",
+          "pitch_angle": "A small but striking EEG study found that teens with first-episode depression showed measurably blunted brain responses when observing everyday social exchanges \u2014 not just in self-reported social discomfort, but at the level of neural oscillations tied to social understanding. With depression hitting adolescent girls especially hard, understanding these early neurological signatures could open new doors for earlier identification and intervention."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42862435",
+      "headline": "Autistic adults struggle more with subtle voice variations \u2014 even from the same speaker \u2014 and it may explain everyday communication challenges",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1007/s10803-026-07531-w",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested 25 Cantonese-speaking autistic adults and 25 neurotypical controls on a word-identification task designed to separate the effects of hearing multiple different speakers versus multiple renditions from the same speaker. Both groups showed equal difficulty adapting across different speakers, but only the autistic group struggled significantly when the same speaker varied their own voice, suggesting distinct processing challenges. The findings point to a detail-focused auditory processing style in autistic adults that may compound communication difficulties in real-world, socially diverse environments.",
+      "why_it_matters": "Late-diagnosed autistic women often go unrecognized partly because communication difficulties are masked or misattributed, and understanding specific auditory processing differences could inform more accurate assessments and support strategies.",
+      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, observational design, Hong Kong Cantonese-speaking population (tone-language specific context)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting autism communication finding but no sex-disaggregated data and highly language-specific sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Why Autistic People May Struggle Even When Talking to Someone They Know Well",
+          "hook": "New research suggests autistic adults find it harder to track subtle shifts in a familiar voice \u2014 not just unfamiliar ones \u2014 which could quietly erode everyday conversations.",
+          "pitch_angle": "A study found that autistic adults, unlike neurotypical peers, had measurably more difficulty processing natural within-speaker variation in a single voice, suggesting their auditory system works differently in ways that go beyond social cues. For the growing number of women receiving late autism diagnoses, this kind of granular finding helps explain why communication can feel exhausting even in comfortable relationships."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42862109",
+      "headline": "Getting men to fight gender violence is harder than it sounds \u2014 here's what Turkey's programs reveal",
+      "journal": "Violence Against Women",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1177/10778012261497317",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers interviewed 26 facilitators from NGOs and municipalities in Turkey to explore barriers to engaging men in gender-based violence prevention programs. The qualitative study identified three major challenge areas: intersectional dynamics, political context, and organizational structures. Findings suggest that broader political climates and internal organizational cultures significantly shape how anti-violence programs are implemented and received.",
+      "why_it_matters": "Understanding what limits men's engagement in violence prevention programs can help advocates and policymakers design more effective interventions to protect women from gender-based violence.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, narrow to single country context (Turkey)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Policy/social science framing; small qualitative sample; limited lifestyle hook for women's health readers.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Programs That Ask Men to Step Up Against Domestic Violence Keep Hitting Walls",
+          "hook": "Even when organizations want men to be allies against gender-based violence, political pressure and internal culture can quietly undermine those efforts.",
+          "pitch_angle": "A new qualitative study from Turkey found that getting men genuinely involved in anti-violence work is blocked by forces far beyond individual attitudes \u2014 from institutional politics to organizational norms. For readers invested in gender equity and women's safety, this surfaces why well-intentioned programs often fall short."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42864937",
+      "headline": "Courts are finally hearing why rape survivors freeze \u2014 but the science is still being weaponized against them",
+      "journal": "Violence Against Women",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1177/10778012261497242",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Swedish researchers conducted a qualitative thematic analysis of 10 rape trial cases, examining courtroom testimony, cross-examinations, and follow-up interviews with complainants to understand how trauma explanations affect credibility assessments. The study found that references to 'frozen fright' (tonic immobility) can support a survivor's credibility by explaining passivity during assault, but are frequently challenged as exaggerated or inconsistent in complex cases. Researchers propose the concept of 'paradoxical resilience' to describe rational survival behaviors that appear contradictory but are misread by courts as signs of dishonesty.",
+      "why_it_matters": "For women who have experienced sexual assault, this research highlights how trauma responses that contradict courtroom expectations of victimhood can undermine their legal credibility \u2014 and points toward more scientifically informed standards for rape trials.",
+      "caveats": "small sample (N<100), observational design, single-center, qualitative only, limited to Sweden's legal system",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Strong women's safety relevance; qualitative design and very small sample limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Why Rape Survivors Who Seem 'Too Calm' Are Still Losing in Court",
+          "hook": "A new study finds that when survivors of sexual assault act rationally \u2014 texting a friend, returning to a normal routine \u2014 courts often read that as proof they weren't really assaulted.",
+          "pitch_angle": "Swedish researchers analyzed rape trial transcripts and found that trauma science is being used both to support and undermine survivors in court, with 'calm' or 'contradictory' behavior frequently weaponized by defense attorneys. The proposed concept of 'paradoxical resilience' could reshape how judges and juries interpret assault survivors' behavior."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42864829",
+      "headline": "Lifestyle changes after gestational diabetes cut a woman's type 2 diabetes risk by nearly a third",
+      "journal": "Diabetic Medicine",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1111/dme.70486",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers updated a living systematic review and meta-analysis examining interventions to prevent type 2 diabetes in women within five years of a gestational diabetes (GDM)-affected pregnancy, incorporating 26 publications from 25 studies totaling 7,379 women. The analysis found a 15% reduction in risk ratio and a 32% reduction in hazard ratio for type 2 diabetes with predominantly lifestyle interventions, with high posterior probabilities of effectiveness (95\u201396%). Secondary metabolic outcomes including fasting glucose, BMI, insulin resistance, and cholesterol also improved, though evidence on pharmacotherapy safety and efficacy remains limited.",
+      "why_it_matters": "For the millions of women who have had gestational diabetes, this updated review offers stronger evidence than ever that acting quickly with lifestyle changes in the years right after pregnancy may meaningfully reduce their long-term diabetes risk.",
+      "caveats": "secondary analysis, heterogeneous interventions across included studies, predominantly lifestyle interventions with limited pharmacotherapy data, multinational study populations with varying baseline risk",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Women-only population; strong reproductive health angle; large N; updated living review adds confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Had Gestational Diabetes? Acting in the Next 5 Years Could Cut Your Type 2 Diabetes Risk by Nearly a Third",
+          "hook": "A major updated review of more than 7,000 women found that lifestyle interventions in the five years after a GDM pregnancy reduced type 2 diabetes risk by up to 32%.",
+          "pitch_angle": "Gestational diabetes is one of the strongest known risk factors for later type 2 diabetes, but many women don't receive structured follow-up care after delivery. This review gives new weight to early post-pregnancy intervention and could anchor a piece on what women with GDM histories can realistically do \u2014 and why the postpartum window matters so much."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42864189",
+      "headline": "Nearly three-quarters of people say something unhelpful when a woman shares she's struggling with infertility",
+      "journal": "Women's Health Issues",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1016/j.whi.2026.09.002",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 419 adults from the general public in Canada, presenting each with a vignette about a woman experiencing one of four types of infertility \u2014 female-factor, male-factor, age-related, or same-sex relationship \u2014 and measuring their likelihood of responding with helpful or unhelpful communication. Overall, 72.4% of participants endorsed at least one unhelpful response, and \u2014 surprisingly \u2014 factual knowledge about infertility was not associated with giving more supportive responses. More sympathetic and blame-oriented attitudes toward the woman in the scenario predicted higher endorsement of both helpful and unhelpful statements.",
+      "why_it_matters": "For women navigating infertility, the social support they receive \u2014 or don't \u2014 can meaningfully affect their mental health, and this study suggests that education campaigns alone may not be enough to shift how people respond.",
+      "caveats": "observational design, self-reported outcomes, online survey, vignette-based (hypothetical responses, not real interactions), single country (Canada)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive finding, infertility focus, majority-female-relevant topic, clean survey design, N=419.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Most People Say the Wrong Thing When a Friend Opens Up About Infertility \u2014 and Knowing the Facts Doesn't Help",
+          "hook": "Nearly three in four people in a new study endorsed at least one unhelpful response to infertility \u2014 even when they had accurate information about it.",
+          "pitch_angle": "A Canadian survey found that factual knowledge about infertility had no effect on whether someone responded supportively \u2014 instead, attitudes like sympathy and blame-orientation predicted both helpful and unhelpful replies in equal measure. The counterintuitive finding suggests that the support gap for women experiencing fertility challenges isn't a knowledge problem, it's a communication and stigma problem."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Knowing the Facts About Infertility Won't Make You Better at Supporting a Friend Through It",
+          "hook": "A new study found that being well-informed about infertility doesn't actually make people more likely to say the right thing \u2014 and it raises uncomfortable questions about how we talk about reproductive struggles.",
+          "pitch_angle": "Researchers asked over 400 people how they'd respond to a woman experiencing infertility and found that 72% endorsed at least one harmful or dismissive statement \u2014 regardless of their factual knowledge. What did predict more supportive responses was attitude, not information, pointing to a deeper cultural problem with how infertility is discussed and stigmatized."
+        },
+        {
+          "publication_type": "Good Housekeeping",
+          "headline": "Here's Why Your Well-Meaning Infertility Comments May Be Landing Wrong \u2014 and What to Say Instead",
+          "hook": "Even people who know a lot about infertility tend to say something unhelpful when a friend brings it up, a new study finds.",
+          "pitch_angle": "A survey of over 400 adults found that nearly three-quarters endorsed at least one unhelpful response after reading about a woman's fertility struggle \u2014 and those with more accurate knowledge fared no better. Experts say shifting the conversation requires addressing stigma and empathy, not just getting the facts straight."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42874351",
+      "headline": "Breastfeeding is possible for most babies with rare metabolic disorders \u2014 even the serious ones",
+      "journal": "Molecular Genetics and Metabolism",
+      "pubdate": "2026 Oct 11",
+      "doi": "10.1016/j.ymgme.2026.110294",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a comprehensive qualitative review of 51 publications describing 1,470 infants with inherited metabolic disorders (IMDs) \u2014 including amino acid metabolism disorders, organic acidaemias, urea cycle disorders, and fatty acid oxidation disorders \u2014 to assess the feasibility of human milk feeding. In asymptomatic infants, breastfeeding on demand was broadly feasible when combined with medical formula; even symptomatic infants could often resume breastfeeding after acute management. The review found that with individualized, multidisciplinary support and close metabolic monitoring, human milk feeding was achievable across a wide range of IMDs.",
+      "why_it_matters": "For mothers of babies newly diagnosed with rare metabolic conditions, this review suggests breastfeeding need not be automatically abandoned \u2014 but requires specialized, structured support.",
+      "caveats": "observational design, qualitative synthesis only, no randomized data, industry funding [Danone Research & Innovation], heterogeneous study populations",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postpartum/lactation focus; maternal angle strong; qualitative review limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Moms of Babies With Rare Metabolic Disorders May Be Able to Breastfeed After All",
+          "hook": "A new review of 1,470 infants found that breastfeeding is feasible for most babies with inherited metabolic disorders \u2014 with the right support team.",
+          "pitch_angle": "Families who receive a rare metabolic diagnosis after newborn screening are often told breastfeeding isn't possible, but this review suggests that with close monitoring and multidisciplinary care, most can breastfeed successfully. The piece would explore what that support looks like and why early lactation help for these mothers matters."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42858275",
+      "headline": "Two types of spina bifida look different in the womb but lead to similar walking outcomes after fetal surgery",
+      "journal": "Fetal Diagnosis and Therapy",
+      "pubdate": "2026 Oct 10",
+      "doi": "10.1159/fdt/acuag020",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at a single high-volume center conducted a retrospective cohort study of 187 patients who underwent open fetal spina bifida repair between 2010 and 2023, comparing outcomes between myelomeningocele (MMC, n=130) and myeloschisis (MS, n=57). Myeloschisis posed significantly greater surgical challenges for skin closure (primary closure achieved in 47.4% of MS vs. 91.5% of MMC cases) and required more postnatal surgical interventions. Despite these differences, motor outcomes at age 3 were comparable, with over 75% of children in both groups achieving community walking status.",
+      "why_it_matters": "For pregnant women whose fetus is diagnosed with spina bifida, these findings suggest that even the more surgically complex form of the condition can result in comparable long-term walking ability when treated with fetal surgery.",
+      "caveats": "observational design, single-center, retrospective",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant for pregnant women facing fetal diagnosis; clean single-center cohort but retrospective design.",
       "pitch_angles": [
         {
           "publication_type": "Prevention",
-          "headline": "The Window Before Your Baby's Second Birthday May Be the Most Important for Brain Health",
-          "hook": "A new review suggests that the first 1,000 days of life \u2014 from conception through toddlerhood \u2014 are the highest-leverage window for reducing neurodevelopmental risk.",
-          "pitch_angle": "Researchers synthesized evidence showing that gut microbiome shifts, inflammation, and environmental exposures during pregnancy and early infancy may interact with genetic risk to shape autism and related conditions. For pregnant women and new mothers, it underscores why factors like diet, stress, and toxin exposure in the earliest years may matter more than previously appreciated."
+          "headline": "Fetal Surgery for Spina Bifida Works \u2014 Even for the Harder-to-Fix Form",
+          "hook": "A new study of nearly 200 cases found that the more surgically challenging type of spina bifida leads to the same walking outcomes at age 3 as the more common form, when surgery happens before birth.",
+          "pitch_angle": "Researchers compared two types of open spina bifida repaired in the womb and found that despite major differences in how difficult the surgery is, most children in both groups were walking independently by age three. For expectant parents navigating a fetal spina bifida diagnosis, this offers meaningful reassurance about the reach of prenatal intervention."
         }
       ],
-      "run_date": "2026-10-14",
+      "run_date": "2026-10-15",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42874278",
+      "headline": "A blood test taken before starting antipsychotics may predict whether treatment will work within a month",
+      "journal": "Psychiatry Research",
+      "pubdate": "2026 Oct 10",
+      "doi": "10.1016/j.psychres.2026.117491",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed peripheral blood RNA profiles in 65 first-episode, drug-na\u00efve schizophrenia patients (discovery cohort n=15, validation cohort n=50) starting second-generation antipsychotics, classifying them as responders or non-responders after 4 weeks. Baseline levels of miR-15b-5p, miR-584-3p, and ABCC6 in blood showed strong preliminary discrimination between responders and non-responders, with AUCs of 0.862, 0.935, and 0.856 respectively. The study suggests a simple blood draw before treatment begins could help identify which patients are unlikely to respond early, potentially guiding faster treatment adjustments.",
+      "why_it_matters": "Because schizophrenia onset often occurs during reproductive years and women's symptom profiles differ from men's, early biomarkers that flag treatment non-response could reduce the weeks of ineffective treatment women endure before a medication change.",
+      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, short follow-up, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Psychiatry finding with no sex-disaggregated data; very small sample limits applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "A Simple Blood Test Before Starting Antipsychotics May Predict If They'll Work",
+          "hook": "Knowing within days whether a psychiatric medication will fail could spare patients weeks of ineffective treatment.",
+          "pitch_angle": "Researchers found that specific molecules in a blood sample drawn before starting antipsychotics were strongly linked to whether patients responded within four weeks. Though early and small-scale, the finding raises hope for faster, more personalized psychiatric care \u2014 particularly relevant for women, who are often diagnosed with schizophrenia later and may face distinct treatment trajectories."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42858136",
+      "headline": "More than half of doctors in four Spanish-speaking countries faced violence at work last year \u2014 and young women were hit hardest",
+      "journal": "Vertex (Buenos Aires, Argentina)",
+      "pubdate": "2026 Oct 10",
+      "doi": "10.53680/vertex.v37i173.1060",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A cross-sectional survey of 1,920 physicians across Argentina, Uruguay, Paraguay, and Spain found that 53% experienced workplace violence in 2024, with young women reporting nearly 10% higher rates of violent episodes than their peers. Verbal violence accounted for 68% of incidents and physical violence for 7%, yet only 7% pursued legal action, and 37% changed their patient interaction style \u2014 often by reducing contact. The non-probabilistic, self-administered survey design limits generalizability but provides a baseline picture across four countries.",
+      "why_it_matters": "Young women entering medicine face disproportionately higher rates of workplace violence, with documented downstream effects on their clinical practice and patient care quality.",
+      "caveats": "observational design, self-reported outcomes, non-probabilistic sample, limited to four Spanish-speaking countries",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Women's workplace health finding with large N but regional scope and self-reported design.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut / General health",
+          "headline": "Young Women Doctors Are the Most Likely to Face Violence at Work \u2014 and Most Don't Report It",
+          "hook": "A survey of nearly 2,000 physicians found that more than half experienced workplace violence in a single year, with young women doctors bearing a disproportionate share.",
+          "pitch_angle": "Across four countries, researchers found that young women physicians were nearly 10% more likely to report violent incidents than other doctors \u2014 yet only 7% took legal action, and more than a third quietly pulled back from patients afterward. The findings spotlight how workplace violence in medicine is a women's health equity issue, shaping both who stays in the profession and how care is delivered."
+        }
+      ],
+      "run_date": "2026-10-15",
       "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
@@ -337,33 +1129,6 @@
       "status": "new"
     },
     {
-      "pmid": "42870263",
-      "headline": "Healthcare providers say the system \u2014 not just language barriers \u2014 is failing migrant women's reproductive health",
-      "journal": "Reproductive Health",
-      "pubdate": "2026 Oct 14",
-      "doi": "10.1186/s12978-026-02471-1",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Sweden conducted semi-structured interviews with 31 sexual and reproductive health (SRH) professionals \u2014 including midwives, nurses, physicians, social workers, sexologists, and nursing assistants \u2014 from youth and women's health clinics in the Sk\u00e5ne region. The study used inductive thematic analysis to identify how providers experience and manage multicultural clinical encounters with migrant patients. Providers described four key challenge areas including structural barriers, family power dynamics, and the limits of cultural competence, and called for institutional-level support rather than relying on individual clinician adaptation.",
-      "why_it_matters": "The finding that systemic \u2014 not just interpersonal \u2014 barriers drive reproductive health disparities for migrant women suggests that training individual providers in 'cultural competence' alone is unlikely to close the gap.",
-      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, Sweden-specific context",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant women's health equity topic; qualitative, small sample, Sweden-specific limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why 'Cultural Competence' Training Isn't Enough to Fix Reproductive Health Inequities for Immigrant Women",
-          "hook": "Thirty-one reproductive health professionals say they're doing their best to bridge cultural gaps \u2014 but the real barriers are baked into the system itself.",
-          "pitch_angle": "A Swedish qualitative study found that SRH providers routinely navigated family pressure, privacy concerns, and structural constraints when caring for migrant patients, and concluded that individual provider adaptation can't substitute for institutional reform. For readers interested in health equity and reproductive rights, the finding reframes the 'cultural competence' conversation in a meaningful way."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42868952",
       "headline": "Men in relationships almost never have high-testosterone days \u2014 daily hormone tracking reveals a pattern single men don't show",
       "journal": "Hormones and Behavior",
@@ -388,66 +1153,6 @@
       "run_date": "2026-10-14",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42867598",
-      "headline": "Breastfeeding in a heat wave is harder than anyone talks about \u2014 mothers describe a hidden struggle",
-      "journal": "Maternal and Child Health Journal",
-      "pubdate": "2026 Oct 13",
-      "doi": "10.1007/s10995-026-04337-1",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in T\u00fcrkiye conducted in-depth qualitative interviews with 18 breastfeeding mothers who visited an obstetrics and gynecology hospital breastfeeding clinic between August and October 2024. Using thematic analysis, they identified five major themes including physical discomfort, social and privacy barriers, psychological challenges, environmental/climatic barriers, and coping strategies. Mothers reported that hot weather was associated with physical discomfort, emotional strain, social isolation, sleep disruption, and reduced ability to breastfeed in public.",
-      "why_it_matters": "As climate change increases the frequency and intensity of heat events, understanding how extreme heat compounds breastfeeding challenges for postpartum women becomes a growing public health concern.",
-      "caveats": "small sample (N<100), qualitative design, self-reported outcomes, single-center, T\u00fcrkiye-specific context",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Timely climate-health hook for postpartum women; very small qualitative sample limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Parents / General health",
-          "headline": "Heat Waves Are Making Breastfeeding Even Harder \u2014 And Nobody's Talking About It",
-          "hook": "New mothers say extreme heat adds physical discomfort, emotional stress, and social isolation on top of already difficult breastfeeding demands.",
-          "pitch_angle": "A qualitative study from T\u00fcrkiye found that hot weather created layered barriers to breastfeeding \u2014 from overheating and dehydration to reduced privacy in public spaces \u2014 that pushed some mothers toward early weaning. As summers grow hotter globally, the findings suggest postpartum support systems need to account for climate as a real breastfeeding barrier."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42862935",
-      "headline": "Adding two angiogenic markers to routine first-trimester blood tests sharply improves prediction of serious complications in gestational diabetes",
-      "journal": "Endocrine Connections",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1530/EC-26-0478",
-      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective cohort study of 1,000 pregnant women with gestational diabetes mellitus (GDM) in China, developing and internally validating a prediction tool (nomogram) using six first-trimester markers. Adding two angiogenic markers \u2014 placental growth factor (PlGF) and sFlt-1 \u2014 to standard metabolic measures including BMI, fasting glucose, triglycerides, and insulin resistance significantly improved prediction of adverse pregnancy outcomes (AUC 0.87 vs. 0.82 for metabolic markers alone). The tool showed consistent performance across subgroups defined by age, BMI, treatment type, and parity.",
-      "why_it_matters": "For pregnant women with gestational diabetes, identifying which individuals are at greatest risk of serious complications as early as the first trimester could help prioritize closer monitoring during a critical window.",
-      "caveats": "observational design, single-center, retrospective cohort, internal validation only (no external validation), single-region population (China)",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Reproductive health, large N, clean prediction tool; single-center limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "A First-Trimester Blood Test Combination Could Flag the Riskiest Gestational Diabetes Cases Months Earlier",
-          "hook": "Adding just two angiogenic proteins to standard first-trimester bloodwork predicted serious pregnancy complications in women with gestational diabetes far better than metabolic markers alone.",
-          "pitch_angle": "A study of 1,000 pregnant women with GDM found that measuring PlGF and sFlt-1 \u2014 proteins linked to placental blood vessel development \u2014 alongside routine metabolic markers boosted prediction accuracy significantly, potentially giving clinicians an earlier warning system. Though still awaiting external validation, the finding echoes this journalist's interest in first-trimester biomarker prediction tools."
-        },
-        {
-          "publication_type": "Health.com",
-          "headline": "Gestational Diabetes Is Risky \u2014 These Two Blood Markers Could Help Doctors Know How Risky, Starting in the First Trimester",
-          "hook": "Researchers found that two placental proteins measured early in pregnancy can distinguish which women with gestational diabetes face the highest risk of complications.",
-          "pitch_angle": "The study, which built and validated a prediction model in 1,000 GDM patients, found the six-marker tool outperformed standard metabolic screening alone, with an accuracy score of 0.87. For the roughly 7\u201310% of pregnancies affected by GDM, earlier risk stratification could mean more targeted prenatal care."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -484,60 +1189,6 @@
       "status": "new"
     },
     {
-      "pmid": "42863800",
-      "headline": "Teen brains with depression process social interactions differently \u2014 and EEG can detect it",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1016/j.jad.2026.122620",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used EEG to measure brain activity in 22 adolescents with first-episode major depressive disorder and 23 healthy peers as they watched animated social interactions. The study found that teens with depression showed weaker 'sensorimotor resonance' \u2014 a brain signal linked to understanding others' actions \u2014 and reduced attention engagement when viewing social scenes, compared to healthy controls. Severity of depressive symptoms was associated with the degree of this neural dampening.",
-      "why_it_matters": "These findings suggest EEG-based neural markers could one day help identify social processing difficulties in depressed teens before symptoms worsen.",
-      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, study population in China (may not generalize)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Adolescent mental health is relevant, but tiny mixed-sex sample with no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "Depressed Teens' Brains Struggle to 'Read' Social Situations \u2014 New Research Shows Why",
-          "hook": "EEG scans reveal that teenagers with depression show measurably dampened brain responses when watching others interact \u2014 a neural gap healthy teens don't have.",
-          "pitch_angle": "A small but carefully designed study found that first-episode depressed adolescents have reduced brain signaling tied to social understanding, which may explain the isolation and social withdrawal so common in teen depression. For parents and clinicians, it raises the possibility that targeted social-skills interventions \u2014 not just talk therapy \u2014 could be part of early treatment."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42862435",
-      "headline": "Autistic adults struggle more with a speaker's own voice variations than with switching between different speakers entirely",
-      "journal": "Journal of Autism and Developmental Disorders",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1007/s10803-026-07531-w",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tested how 25 autistic adults and 25 neurotypical adults handled variability in tone-language speech perception using a speeded word identification task in Cantonese. Both groups struggled equally when switching between different speakers, but only autistic adults showed reduced efficiency when a single speaker varied their own speech sounds. The finding suggests autistic adults may be particularly sensitive to subtle within-talker acoustic changes, which could affect everyday listening in social settings.",
-      "why_it_matters": "For autistic women navigating workplaces and social environments, this suggests that a familiar voice's natural variation \u2014 not just meeting new speakers \u2014 may be an underrecognized source of listening difficulty.",
-      "caveats": "small sample (N<100), single-center, narrow linguistic population (Cantonese tone-language speakers), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Neurodevelopmental finding, no sex-disaggregated data, small sample, limited women's health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why Autistic People May Find a Familiar Voice Just as Disorienting as a Stranger's",
-          "hook": "It's not just new people that are hard to follow \u2014 even a friend's natural voice shifts can be a hidden listening challenge for autistic adults.",
-          "pitch_angle": "A small study found that autistic adults struggled more with a single speaker's natural voice variation than with switching between speakers entirely, flipping assumptions about what makes listening hard. For autistic women, this could reframe how they understand their own social fatigue and communication challenges."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42864817",
       "headline": "Hospitals are letting kids with diabetes use their own CGM devices \u2014 and nurses actually prefer it",
       "journal": "Diabetes Technology & Therapeutics",
@@ -562,120 +1213,6 @@
       "run_date": "2026-10-14",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42862109",
-      "headline": "Getting men to help stop gender violence is harder than it sounds \u2014 Turkish NGOs explain why",
-      "journal": "Violence Against Women",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1177/10778012261497317",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers interviewed 26 facilitators from NGOs and municipalities in Turkey about the challenges of engaging men in gender-based violence prevention programs. The qualitative study identified three major barrier categories: intersectional dynamics, political context, and organizational structures. Findings suggest that broader political landscapes and organizational cultures significantly shape whether and how men become effective allies in anti-violence efforts.",
-      "why_it_matters": "Understanding what stalls men's allyship programs could help advocates design more effective gender-based violence prevention efforts for women globally.",
-      "caveats": "small sample (N<100), observational design, single-center, qualitative/self-reported outcomes, narrow to Turkey context",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Social science framing, tiny qualitative sample, Turkey-specific organizational context.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why Programs That Ask Men to Help End Domestic Violence Often Fail \u2014 and What Actually Works",
-          "hook": "Enlisting men as allies against gender-based violence sounds simple, but Turkish NGO workers say the political and organizational barriers are enormous.",
-          "pitch_angle": "A new qualitative study from Turkey reveals that government politics and organizational culture \u2014 not just individual attitudes \u2014 determine whether men's allyship programs succeed or stall, raising questions about how prevention efforts worldwide are designed."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42864937",
-      "headline": "Rape survivors who appear 'too resilient' in court may be disbelieved \u2014 and trauma science is why",
-      "journal": "Violence Against Women",
-      "pubdate": "2026 Oct 12",
-      "doi": "10.1177/10778012261497242",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Swedish researchers analyzed 10 rape cases using courtroom recordings of complainant testimony and cross-examinations, plus follow-up interviews with complainants. The study found that while invoking 'frozen fright' (tonic immobility) can support a victim's credibility, it is often challenged as exaggerated. The researchers introduce the concept of 'paradoxical resilience' to describe rational survival behaviors that can appear inconsistent with victimhood but may actually reflect sound trauma responses.",
-      "why_it_matters": "For women navigating the legal system after sexual assault, how trauma responses are interpreted in court can determine whether they are believed \u2014 and whether perpetrators are held accountable.",
-      "caveats": "small sample (N<100), observational design, single-center, qualitative outcomes, Sweden-specific legal context",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive legal-trauma framing, directly relevant to women survivors, very small qualitative sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "Why Rape Survivors Who Seem 'Too Okay' Are Less Likely to Be Believed in Court",
-          "hook": "A new study finds that sexual assault survivors whose coping looks too composed \u2014 or too contradictory \u2014 are routinely challenged as not credible, even when their behavior is a textbook trauma response.",
-          "pitch_angle": "Swedish researchers studying real rape trials found that legal credibility is shaped by narrow scripts of how victims 'should' act, and that rational survival strategies can paradoxically undermine a woman's case \u2014 a finding with implications for how courts handle sexual assault globally."
-        },
-        {
-          "publication_type": "Health.com",
-          "headline": "The Trauma Response That Can Actually Hurt Rape Survivors' Court Cases",
-          "hook": "When sexual assault survivors seem resilient or composed after an attack, courts sometimes interpret that as a reason not to believe them \u2014 even though trauma science says otherwise.",
-          "pitch_angle": "A qualitative analysis of Swedish rape trials found that trauma responses outside the expected 'frozen fright' pattern are routinely used to undermine victims' credibility, suggesting the legal system has not caught up with what we know about how people survive sexual violence."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42858275",
-      "headline": "Two types of fetal spina bifida surgery have equivalent long-term outcomes \u2014 but one is technically much harder",
-      "journal": "Fetal Diagnosis and Therapy",
-      "pubdate": "2026 Oct 10",
-      "doi": "10.1159/fdt/acuag020",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a retrospective cohort study of 187 pregnant patients who underwent open fetal spina bifida repair between 2010 and 2023 at a single high-volume center, researchers compared outcomes for two subtypes: myelomeningocele (MMC, n=130) and myeloschisis (MS, n=57). Myeloschisis posed significantly greater surgical challenges \u2014 primary skin closure was achieved in only 47% of MS cases versus 92% of MMC cases \u2014 and required more postnatal surgical intervention. Despite these technical differences, motor outcomes at three years were comparable, with over 75% of children in both groups achieving community walking status.",
-      "why_it_matters": "For pregnant women whose fetus is diagnosed with spina bifida, this early evidence suggests that the harder-to-repair form of the condition may not lead to worse long-term outcomes for the child after fetal surgery.",
-      "caveats": "observational design, single-center, retrospective, short follow-up (3-year motor outcomes only)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant to pregnant women facing fetal diagnosis; clean cohort of 187; single-center retrospective limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Fetal Surgery for Two Types of Spina Bifida Leads to Similar Walking Outcomes by Age 3",
-          "hook": "One form of spina bifida is dramatically harder to repair in the womb \u2014 yet children born after both surgeries walk at similar rates by age three, early data from 187 cases suggests.",
-          "pitch_angle": "A 13-year retrospective study found that despite myeloschisis requiring far more complex fetal surgery than myelomeningocele, long-term motor outcomes were equivalent, offering reassurance to pregnant women navigating a difficult prenatal diagnosis."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42860369",
-      "headline": "A new hospital protocol is safely managing a severe opioid adulterant withdrawal outside the ICU",
-      "journal": "Journal of Addiction Medicine",
-      "pubdate": "2026 Oct 9",
-      "doi": "10.1097/ADM.0000000000001789",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers retrospectively analyzed 449 protocol-concordant encounters at two Philadelphia hospitals where patients undergoing medetomidine (a veterinary sedative now adulterating street opioids) withdrawal were treated with intravenous dexmedetomidine in intermediate care units rather than the ICU. The cohort was predominantly male (58.1%), with a mean age of 41.8 years, and half of patients avoided ICU admission entirely. The findings suggest the intermediate-care protocol is a feasible and potentially scalable approach to managing this emerging withdrawal crisis.",
-      "why_it_matters": "As medetomidine spreads through illicit drug supplies, women who use opioids \u2014 a fast-growing population \u2014 face this severe withdrawal risk, and accessible non-ICU treatment options are critical.",
-      "caveats": "observational design, retrospective, single-center, no sex-disaggregated data, industry funding [Gilead Sciences \u2014 salary support for two authors, unrelated work]",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Important public health topic but male-majority sample, no sex-disaggregated data, limited women's wellness hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Veterinary Drug Is Now in Street Opioids \u2014 And Hospitals Are Racing to Treat the Dangerous Withdrawal",
-          "hook": "Medetomidine, a sedative used in animals, has infiltrated Philadelphia's opioid supply and is causing a withdrawal syndrome so severe it was filling ICUs \u2014 until now.",
-          "pitch_angle": "A new protocol allowing hospitals to treat medetomidine withdrawal in intermediate care units \u2014 rather than the ICU \u2014 successfully kept half of patients out of intensive care, offering a replicable framework for a growing national crisis. As more women enter addiction treatment, understanding emerging drug adulterants and treatment options is increasingly relevant to women's health coverage."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Psychiatry",
-      "chunk": "2/2",
       "status": "new"
     },
     {
