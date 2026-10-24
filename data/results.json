@@ -1,8 +1,557 @@
 {
-  "last_updated": "2026-10-23T14:47:10.068569+00:00",
-  "total_studies": 1088,
-  "new_this_run": 11,
+  "last_updated": "2026-10-24T14:01:42.007007+00:00",
+  "total_studies": 1105,
+  "new_this_run": 17,
   "studies": [
+    {
+      "pmid": "42920325",
+      "headline": "A rare gene variant wipes out nearly all normal sperm \u2014 and scientists now know exactly why",
+      "journal": "Andrology",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1111/andr.70395",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used whole-exome sequencing, electron microscopy, and proteomic profiling to characterize sperm from a single man born to consanguineous parents who carried a novel homozygous frameshift variant in the ZPBP gene (N=1 proband). The man had normal sperm count but 99.3% abnormal sperm heads, severely reduced motility, and a DNA fragmentation index of 52.25%, consistent with severe asthenoteratozoospermia. The variant was associated with complete absence of ZPBP protein and widespread acrosomal structural collapse, expanding understanding of this gene's role in human male fertility.",
+      "why_it_matters": "For women navigating unexplained IVF failure with a male partner, findings like this suggest that genetic screening of sperm-structural genes may one day help explain \u2014 and guide treatment for \u2014 severe male-factor infertility.",
+      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, variant classified as uncertain significance, parental samples unavailable",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Male-factor infertility finding; single case report limits generalizability; indirect women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Scientists Pinpointed the Exact Gene Defect That Can Make Nearly Every Sperm Abnormal",
+          "hook": "A single missing protein was enough to structurally destroy over 99% of one man's sperm \u2014 and researchers now have the molecular receipts.",
+          "pitch_angle": "New research mapped the precise genetic and structural cascade that leads to catastrophic sperm abnormality, offering a potential diagnostic path for couples facing unexplained male-factor infertility. For women who have experienced repeated IVF failure with no clear answer, this kind of genetic detective work could eventually point toward more targeted solutions."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42920235",
+      "headline": "A gene linked to vitamin A metabolism may help explain why some Indigenous Americans are at higher risk for obesity",
+      "journal": "Obesity (Silver Spring)",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1002/oby.70320",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a genome-wide association study in 6,789 Indigenous American participants from Arizona, then functionally analyzed the top BMI-associated genetic variants in cell models. The variants mapped to CYP26B1, a gene encoding an enzyme that metabolizes retinoic acid (a form of vitamin A), and carried a 23% reduction in promoter activity for a specific isoform. In vitro knockdown of that isoform in mouse adipocytes altered retinoic acid signaling, suggesting a mechanistic link between these genetic variants and fat cell metabolism.",
+      "why_it_matters": "Identifying a specific genetic pathway linked to obesity risk in Indigenous American populations could inform more targeted and culturally relevant health interventions for women in this community.",
+      "caveats": "observational design, single ethnic/regional population (Indigenous Americans, Arizona), animal or cell study (mechanistic component), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting genetic mechanism but cell/animal mechanistic component and population-specific with no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Found a Vitamin A\u2013Related Gene That May Drive Obesity Risk in Some Indigenous Communities",
+          "hook": "A large genetic study found that variants in a gene controlling vitamin A breakdown are associated with higher BMI in Indigenous Americans \u2014 pointing to a biological, not behavioral, root of obesity risk.",
+          "pitch_angle": "Researchers identified a specific genetic variant in CYP26B1 \u2014 linked to how the body processes retinoic acid \u2014 that is associated with roughly 2.7% higher BMI per risk allele in a large Indigenous American cohort. The finding suggests that obesity disparities in some communities may have a heritable metabolic basis, which could shift how clinicians and public health researchers approach prevention."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42919680",
+      "headline": "Low-dose aspirin may slash recurrent preterm birth risk by 90% \u2014 but only in women whose previous premature delivery involved a specific placental problem",
+      "journal": "BJOG: An International Journal of Obstetrics and Gynaecology",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1111/1471-0528.70350",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a secondary analysis of the Dutch APRIL randomized trial \u2014 which tested low-dose aspirin versus placebo in 387 women with a history of spontaneous preterm birth \u2014 researchers examined whether placental pathology from the prior delivery predicted aspirin's benefit. Among the 44 women whose previous placentas showed maternal vascular malperfusion (MVM), recurrent preterm birth occurred in just 4.2% of the aspirin group versus 45% in the placebo group (RR 0.09). Women without MVM showed no significant benefit \u2014 and a non-significant trend toward harm \u2014 from aspirin.",
+      "why_it_matters": "This finding suggests that placental pathology reports from a previous preterm birth could be a key tool for identifying which pregnant women are most likely to benefit from low-dose aspirin in a future pregnancy.",
+      "caveats": "secondary analysis, small sample (N<100 in MVM subgroup; 44 total), observational design for subgroup, single-country (Netherlands)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive subgroup finding; reproductive health; RCT-derived; strong effect size; meaningful caveat for sample size.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Could a $5 Aspirin Prevent a Premature Birth From Happening Again? It Depends on Your Placenta",
+          "hook": "A new analysis found that low-dose aspirin cut the risk of a second preterm birth by roughly 90% \u2014 but only for women whose first premature delivery was linked to a specific type of placental blood-flow problem.",
+          "pitch_angle": "Dutch researchers reanalyzed data from a large randomized trial and found that aspirin's protective effect against recurrent preterm birth is essentially limited to women with placental signs of maternal vascular malperfusion \u2014 a finding that could transform how ob-gyns counsel women after a premature delivery. For the millions of women who've had a preterm birth and are planning another pregnancy, the question 'what did my placenta show?' may soon become one of the most important they can ask."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Placenta From Your Last Pregnancy Could Be the Key to Preventing Another Premature Birth",
+          "hook": "Researchers found that a cheap, over-the-counter medication dramatically reduced the chance of having a second preterm baby \u2014 but only if your previous placenta showed a specific kind of damage.",
+          "pitch_angle": "A secondary analysis of a randomized trial suggests that placental pathology reports, which are often filed away after delivery, may hold a critical clue about whether low-dose aspirin will help prevent a repeat preterm birth in a future pregnancy. The finding reframes what many women think of as routine post-delivery paperwork into potentially life-changing information."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42908199",
+      "headline": "Social media 'action challenges' might work better than 'eat less junk food' messaging to cut unhealthy eating",
+      "journal": "Public Health Nutrition",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1017/S1368980026103656",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Australian researchers examined whether socially driven action challenges \u2014 think viral social-media-style group commitments \u2014 could be more effective than standard 'moderation' public health messaging for reducing discretionary (junk) food intake. This appears to be a commentary or qualitative analysis rather than an interventional trial with a defined participant sample. The piece argues that behavioral and social levers, rather than information-based nudges, may better shift eating patterns at a population level.",
+      "why_it_matters": "For women, who are disproportionately targeted by both diet culture messaging and public health nutrition campaigns, understanding which behavior-change frameworks actually work could meaningfully shift how wellness programs are designed.",
+      "caveats": "no empirical data presented, commentary/opinion piece, no sex-disaggregated data, single-country context (Australia), no defined participant sample",
+      "fact_check_note": "Abstract provides no sample size or empirical results \u2014 this appears to be a conceptual/commentary piece; summary reflects that accurately.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Commentary only, no trial data, no female-specific analysis, Australia-specific context.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why 'Everything in Moderation' Is Terrible Diet Advice \u2014 and What Public Health Should Try Instead",
+          "hook": "Telling people to 'just moderate' their junk food intake has never really worked \u2014 and researchers now have ideas for what might.",
+          "pitch_angle": "Australian nutrition researchers argue that social-challenge-based approaches \u2014 think community accountability rather than individual willpower messaging \u2014 could outperform generic moderation advice. For wellness-minded readers already skeptical of diet culture, this reframe offers a compelling alternative lens on behavior change."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42910454",
+      "headline": "A new class of street benzodiazepines is sending people into comas \u2014 and blood levels can't predict who's at risk",
+      "journal": "Addiction (Abingdon, England)",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1111/add.70673",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A prospective surveillance study in New South Wales, Australia tracked laboratory-confirmed detections of novel benzodiazepines in police drug seizures and clinical settings from January 2019 to December 2024, alongside a case series of 48 hospitalized patients with confirmed bromazolam exposure. Bromazolam was the most frequently detected novel benzodiazepine in both physical drug samples and clinical cases, and severe outcomes were common: 75% of bromazolam patients experienced coma, 71% had respiratory failure, and 52% required intubation. Notably, bromazolam blood concentrations were poorly predictive of clinical severity, complicating treatment decisions.",
+      "why_it_matters": "As novel benzodiazepines increasingly circulate in illicit drug supplies, women who use substances \u2014 or who may unknowingly encounter them \u2014 face serious risks that emergency providers cannot easily anticipate from standard toxicology results.",
+      "caveats": "observational design, single-center, small sample (N<100) for case series, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Timely harm-reduction finding; no sex-disaggregated data; Australia-based limits US generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "A Dangerous New 'Designer Benzo' Is Showing Up in the Drug Supply \u2014 and It's Putting People in Comas",
+          "hook": "Bromazolam, a novel benzodiazepine circulating in illicit drug markets, sent three-quarters of hospitalized patients into a coma in a new Australian surveillance study \u2014 and doctors couldn't predict who would crash based on blood levels alone.",
+          "pitch_angle": "The finding, from a four-year tracking study, highlights how novel benzodiazepines are quietly replacing older illicit drugs in the supply chain while posing unpredictable overdose risks. For anyone who uses substances or cares about someone who does, the research is a stark reminder of how quickly the landscape of drug-related danger is shifting."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42907139",
+      "headline": "A 21-day continuous glucose monitor works well for kids with type 1 diabetes in real-world use \u2014 but this is a single-center pediatric study",
+      "journal": "BMJ Open Diabetes Research & Care",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1136/bmjdrc-2026-006467",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers evaluated a novel 21-day continuous glucose monitoring (CGM) system in children with type 1 diabetes in a real-world clinical setting at a single center in T\u00fcrkiye. The study assessed accuracy, extended-wear performance, and user satisfaction over the device's full wear period. Results suggested the 21-day wear system performed accurately and was well-received by pediatric users and their families.",
+      "why_it_matters": "Longer-wear CGM devices could ease the daily management burden for girls and adolescents living with type 1 diabetes.",
+      "caveats": "small sample (N<100), single-center, observational design, self-reported outcomes, pediatric population only, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric diabetes device study; limited female-specific data and narrow clinical focus.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Glucose Monitor That Lasts 21 Days Could Change Daily Life for Kids With Type 1 Diabetes",
+          "hook": "A CGM sensor that doesn't need replacing for three weeks performed accurately and got high marks from kids and parents in real-world testing.",
+          "pitch_angle": "Researchers found a 21-day wear continuous glucose monitor worked well for children with type 1 diabetes outside of a controlled trial. For families \u2014 especially mothers managing a child's diabetes \u2014 fewer sensor changes could meaningfully reduce daily mental load."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42904521",
+      "headline": "There may be a whole category of eating disorder that doesn't have an official diagnosis yet",
+      "journal": "European Eating Disorders Review",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1002/erv.70173",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In this commentary, researchers at the University of Kansas examined whether 'compensatory eating disorder' (CED) \u2014 defined by recurrent non-purging compensatory behaviors (such as excessive exercise or restrictive eating), overvaluation of weight and shape, and the absence of binge eating or low weight \u2014 should be classified as a distinct eating disorder diagnosis. CED has been documented in research for years but falls outside current formal diagnostic categories, leaving many people without an official diagnosis. The authors outline five research directions needed to determine whether CED is a genuinely missing diagnosis or a misclassified variant of existing disorders.",
+      "why_it_matters": "Eating disorders disproportionately affect women, and a missing diagnostic category means many women engaging in compulsive compensatory behaviors may not qualify for treatment coverage or receive an accurate clinical label.",
+      "caveats": "commentary/opinion piece, no primary data, no defined participant sample, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong topic fit for women's eating disorders; commentary limits score \u2014 no empirical data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "You Over-Exercise and Under-Eat to 'Compensate' \u2014 Researchers Say That Might Be an Eating Disorder Without a Name",
+          "hook": "Compensatory behaviors like punishing workouts after meals or strict restriction cycles are well-documented \u2014 but there's still no official diagnosis for people who struggle with them.",
+          "pitch_angle": "Researchers are calling for a new eating disorder category that could finally give a clinical name to patterns millions of women recognize in themselves, potentially opening doors to treatment that current diagnostic criteria shut out."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Eating Disorder That Might Be Hiding in Plain Sight",
+          "hook": "For years, researchers have documented a pattern of compulsive compensatory behaviors that looks like an eating disorder \u2014 but officially isn't one yet.",
+          "pitch_angle": "With no formal diagnosis, people who over-exercise, restrict, or otherwise 'make up for' eating without bingeing or being underweight can fall through the cracks of both the DSM and insurance coverage \u2014 and a growing group of clinical researchers wants that to change."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42904673",
+      "headline": "A creatine-based supplement boosted brain oxygen levels after an all-nighter \u2014 but didn't actually sharpen attention",
+      "journal": "Nutrition and Health",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1177/02601060261499900",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a randomized controlled trial, 22 healthy young adults underwent 24-hour sleep deprivation and were assigned to receive creatine-guanidinoacetate (GAA), molecular hydrogen inhalation, caffeine, or placebo; brain oxygenation was measured via functional near-infrared spectroscopy. Creatine-GAA significantly increased frontal and temporal cortex oxygen saturation compared to baseline, with large effect sizes (Cohen's d > 1.8). Despite the physiological signal, no significant between-group differences were found in attention, executive function, reaction time, or accuracy.",
+      "why_it_matters": "For women juggling chronic sleep deficits, this early-stage RCT suggests creatine-based supplements may affect brain physiology during sleep loss \u2014 but the real-world cognitive payoff remains unclear.",
+      "caveats": "small sample (N<100), single-center, short follow-up, no sex-disaggregated data, preliminary findings \u2014 authors call for larger trials",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Sleep and brain health resonate with women's wellness; tiny N and no cognitive benefit limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Shape",
+          "headline": "Creatine Boosted Brain Oxygen After an All-Nighter \u2014 But Didn't Actually Help You Think Clearer",
+          "hook": "A small RCT found that a creatine supplement measurably improved brain oxygenation after 24 hours without sleep \u2014 yet attention and reaction time didn't budge.",
+          "pitch_angle": "The counterintuitive split between a physiological benefit and no cognitive payoff makes this an interesting early data point for the supplement-curious wellness audience, while honestly flagging that creatine isn't a proven sleep-loss fix."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42918710",
+      "headline": "Lipase beats amylase for catching pancreatitis in real-world UK emergency settings \u2014 and the gap is bigger than textbooks suggested",
+      "journal": "Pancreatology",
+      "pubdate": "2026 Oct 20",
+      "doi": "10.1016/j.pan.2026.10.024",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "UK researchers conducted a real-world cohort study at a National Health Service hospital comparing serum lipase and total serum amylase as first-line diagnostic tests for suspected acute pancreatitis. The abstract does not report sample size, age breakdown, or sex-disaggregated results. Lipase outperformed amylase in diagnostic accuracy, supporting a shift in routine clinical practice.",
+      "why_it_matters": "Gallstone-related pancreatitis is more common in women, so a more accurate first-line blood test could speed diagnosis and reduce unnecessary procedures for women presenting to the ER with abdominal pain.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, sample size not reported in abstract",
+      "fact_check_note": "Abstract contains no N, age range, or sex breakdown \u2014 these cannot be verified and are flagged accordingly.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Observational, single-center; no sex data; limited direct women's wellness hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Doctors May Be Using the Wrong Blood Test to Diagnose Pancreatitis \u2014 A New Study Wants to Change That",
+          "hook": "A real-world UK hospital study found that a less commonly ordered blood test catches pancreatitis far more reliably than the one most labs run first.",
+          "pitch_angle": "Because gallstone-triggered pancreatitis strikes women at higher rates, getting the right test sooner could mean faster diagnosis and fewer hours in diagnostic limbo for women who arrive at the ER with severe abdominal pain."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42897102",
+      "headline": "GLP-1 drugs quiet the relentless mental chatter about food \u2014 and researchers are finally studying why",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1111/dom.71445",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "European endocrinologists authored a narrative review examining current evidence on 'food noise' \u2014 the intrusive, repetitive preoccupation with food and eating \u2014 in the context of GLP-1 and dual incretin-based obesity medications such as semaglutide and tirzepatide. The paper synthesizes patient-reported outcomes and emerging mechanistic hypotheses, outlines clinical implications, and identifies research gaps. No new trial data or participant cohort was analyzed; the abstract does not report N or sex-disaggregated findings.",
+      "why_it_matters": "Women are disproportionately affected by disordered eating cognitions and diet culture pressure, making the possibility that a medication could reduce obsessive food preoccupation \u2014 not just appetite \u2014 particularly meaningful for their mental and metabolic health.",
+      "caveats": "observational design, no sex-disaggregated data, secondary analysis, self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong women's wellness hook; review design limits score; no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "GLP-1 Drugs Don't Just Curb Hunger \u2014 They May Actually Quiet the Mental Noise Around Food",
+          "hook": "People on semaglutide and similar drugs keep reporting something unexpected: the constant mental loop about what to eat, when to eat, and how much just \u2026 stops.",
+          "pitch_angle": "A new review maps the science behind 'food noise' \u2014 the relentless preoccupation with food that many women know intimately \u2014 and finds early evidence that incretin-based medications may be dampening it at the neurological level, raising questions about whether these drugs could one day play a role in disordered eating treatment."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "What If the Thing Ozempic Is Actually Treating Is Diet Culture's Grip on Your Brain?",
+          "hook": "Patients on GLP-1 drugs aren't just eating less \u2014 many say they've stopped thinking about food constantly for the first time in their lives.",
+          "pitch_angle": "A new clinical review takes seriously what patients have been describing on social media for years: that incretin medications seem to silence the obsessive mental chatter around food, a phenomenon researchers are now calling 'food noise' \u2014 and the implications for how we understand women's complicated relationship with eating are profound."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Doctors Are Now Studying Why Weight-Loss Drugs Stop the Constant Thoughts About Food",
+          "hook": "Beyond shrinking appetite, GLP-1 medications like semaglutide appear to reduce the mental preoccupation with food that many people \u2014 especially women \u2014 struggle with daily.",
+          "pitch_angle": "A review in a leading diabetes and metabolism journal identifies 'food noise' as a clinically important but understudied effect of the new generation of obesity medications, and calls for research into whether this brain-level quieting could benefit women dealing with binge eating or chronic diet cycling."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42896674",
+      "headline": "25 years of federal drug treatment research reveals gaps in who gets studied \u2014 and what that means for women",
+      "journal": "Journal of Substance Use and Addiction Treatment",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1016/j.josat.2026.210143",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a portfolio analysis of all 200 studies approved by NIDA's Clinical Trials Network from 2000 through 2024, integrating administrative, scientific, and bibliometric data. The review found that CTN research has predominantly focused on opioid use disorder in specialized treatment settings, with the portfolio expanding over time to include primary care and implementation science. No sex-disaggregated breakdown of study populations or outcomes is reported in the abstract.",
+      "why_it_matters": "Understanding gaps in substance use disorder research design \u2014 including whether women's distinct biology and treatment needs have been systematically studied \u2014 could shape more equitable addiction care.",
+      "caveats": "no sex-disaggregated data, secondary analysis, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Portfolio meta-analysis; no female-specific data reported; limited direct women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "25 Years of Federal Drug Research \u2014 Were Women's Needs Ever Centered?",
+          "hook": "A sweeping review of 200 federally funded addiction studies reveals the field's evolution \u2014 but doesn't break down who was actually studied.",
+          "pitch_angle": "The government's flagship drug treatment research program has published nearly 1,300 papers in 25 years, but the portfolio analysis offers no sex-disaggregated data, raising questions about whether women's distinct addiction biology and treatment barriers have been adequately addressed."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42895927",
+      "headline": "In-womb surgery for a serious newborn gut defect has only been tried in 3 patients worldwide \u2014 and the evidence is still too thin to call it safe",
+      "journal": "Fetal Diagnosis and Therapy",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1159/fdt/acuag026",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a PRISMA-registered systematic review of all published human cases of prenatal fetoscopic repair of gastroschisis \u2014 a condition where a baby's intestines protrude outside the abdomen \u2014 searching six major databases through March 2026. Only three single-patient case reports met inclusion criteria, all from highly specialized fetal surgery centers, with wide variation in technique and management. All three neonates survived, but publication bias, extreme patient selection, and the absence of comparators mean no conclusions about safety or benefit over standard postnatal repair can be drawn.",
+      "why_it_matters": "For pregnant women whose babies are diagnosed with gastroschisis prenatally, this review signals that in-womb repair remains strictly experimental and should not yet be considered a viable alternative to standard care.",
+      "caveats": "small sample (N<100), observational design, secondary analysis, short follow-up, publication bias acknowledged by authors",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Niche fetal surgery topic; N=3 cases; limited lifestyle hook for general women's health readers.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Surgeons Are Attempting to Fix a Serious Birth Defect Before Babies Are Even Born \u2014 But the Evidence Is Still Paper-Thin",
+          "hook": "Only three babies worldwide have undergone in-womb repair of gastroschisis, and a new systematic review finds that's still far too few to know if it's safe.",
+          "pitch_angle": "A sweeping review of every published human attempt at prenatal fetoscopic repair of gastroschisis found just three case reports globally \u2014 making it impossible to say whether the surgery helps or harms. For expectant parents facing this diagnosis, the takeaway is clear: postnatal care remains the standard, and any in-womb option should only happen inside a formal research trial."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42896236",
+      "headline": "A rare ovarian tumor in a woman with a bone disease reveals an unexpected mutation that could reshape how scientists think about ovarian cancer biology",
+      "journal": "International Journal of Gynecological Pathology",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1097/PGP.0000000000001220",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Universit\u00e9 Libre de Bruxelles described a single case of a rare juvenile granulosa cell ovarian tumor with Sertoli cell elements in a woman with Ollier disease, a condition marked by benign bone tumors. Genetic analysis revealed a co-occurrence of IDH1 R132C and TENT5C mutations \u2014 the latter being a noncanonical poly(A) polymerase with emerging tumor-suppressor relevance not previously reported in ovarian sex cord-stromal tumors. The authors suggest TENT5C alterations may contribute to tumor development in combination with IDH1 mutations, though no causal role can be established from a single case.",
+      "why_it_matters": "Identifying novel molecular events in rare ovarian tumors could eventually help researchers develop more targeted diagnostic or therapeutic approaches for women with these uncommon cancers.",
+      "caveats": "small sample (N<100), single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Highly specialized single case report; no lifestyle hook; limited women's health audience reach.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Single Rare Ovarian Tumor Case Just Uncovered a Mutation Scientists Have Never Seen There Before",
+          "hook": "A woman with a rare bone disease developed an unusual ovarian tumor carrying a genetic mutation that researchers had never before linked to this type of cancer.",
+          "pitch_angle": "Belgian pathologists studying a one-of-a-kind ovarian tumor found a previously unrecognized mutation \u2014 TENT5C \u2014 that may act as a tumor suppressor, opening a new line of inquiry into the molecular drivers of rare ovarian sex cord-stromal cancers. While a single case report can't prove cause and effect, it flags a new molecular suspect worth watching in future ovarian cancer research."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42895300",
+      "headline": "Scientists are building miniature lab models of the entire female reproductive system \u2014 and they may finally crack how endometriosis and implantation really work",
+      "journal": "Molecular Human Reproduction",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1093/molehr/gaag060",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This review from researchers at Shanghai Jiao Tong University and Fudan University examines the emerging field of reproductive assembloids \u2014 lab-grown three-dimensional models that combine multiple tissue types (epithelial, stromal, immune, and vascular cells) to replicate the crosstalk that occurs in the female reproductive tract. The authors assess how assembloid systems compare to single-tissue organoids for modeling the menstrual cycle, embryo implantation, endometriosis, and adenomyosis, finding that multi-tissue models can capture disease microenvironments that single organoids cannot. However, they caution that added structural complexity doesn't automatically yield new insights and may risk simply replicating already-established in vivo findings.",
+      "why_it_matters": "More sophisticated lab models of the female reproductive tract could accelerate understanding of conditions like endometriosis and implantation failure that affect millions of women and remain poorly understood.",
+      "caveats": "animal or cell study, no human subjects, single-country authors (China), review article not primary research",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Endometriosis/reproductive health hook but no human subjects; lab-science review limits immediate pitch potential.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Scientists Are Growing Tiny Lab Replicas of the Female Reproductive System to Finally Understand Endometriosis",
+          "hook": "Researchers are combining multiple cell types in 3D structures called assembloids to recreate how the uterus, immune system, and blood vessels actually talk to each other \u2014 something traditional lab models have never been able to do.",
+          "pitch_angle": "A new review highlights how 'assembloid' technology \u2014 building multi-tissue mini-organs in the lab \u2014 is opening doors to understanding conditions like endometriosis and implantation failure that have long stumped researchers because they involve complex interactions between multiple tissue types. While this is still early-stage science with no human trials, it represents a meaningful shift in how women's reproductive diseases may be studied and eventually treated."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42895690",
+      "headline": "A gene on the X chromosome turns out to be a surprisingly common cause of male infertility \u2014 and ICSI may still help couples conceive",
+      "journal": "Journal of Assisted Reproduction and Genetics",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1007/s10815-026-04062-2",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed whole-exome sequencing in 133 infertile men with obstructive azoospermia to screen for variants in the X-linked ADGRG2 gene, identifying eight distinct pathogenic variants in nine unrelated patients with congenital bilateral absence of the vas deferens (CBAVD) who tested negative for the more commonly screened CFTR gene. All affected men had azoospermia or severe oligozoospermia, and 3D protein modeling and in vitro assays confirmed the variants disrupted protein structure and function. Notably, four of the patients who underwent ICSI achieved successful fertilization and pregnancy, suggesting viable reproductive options exist for couples affected by ADGRG2-related infertility.",
+      "why_it_matters": "For women partnered with men who have unexplained obstructive azoospermia and negative CFTR testing, this research suggests an additional genetic screening step could identify a treatable cause and open a path to conception via ICSI.",
+      "caveats": "small sample (N<100), single-center, observational design, China-based population, retrospective ART outcomes analysis",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Male-factor infertility with direct IVF/ICSI relevance to female partners; small sample, single-center.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Men With 'Unexplained' Infertility May Be Missing This Genetic Test \u2014 And ICSI Can Still Help",
+          "hook": "A gene that rarely gets screened in infertile men turns out to be behind a meaningful share of cases where standard testing comes back negative.",
+          "pitch_angle": "New research found that variants in an X-linked gene called ADGRG2 were responsible for infertility in men who tested negative for the more commonly checked CFTR mutation \u2014 and that ICSI gave four of those couples a successful pregnancy. For women going through fertility treatment with a partner who has obstructive azoospermia and no genetic explanation, this study suggests asking about expanded genetic screening could be a meaningful next step."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42892118",
+      "headline": "A hidden impurity shows up in two common red cosmetic dyes \u2014 and it's in products from multiple manufacturers",
+      "journal": "Food Additives & Contaminants: Part A",
+      "pubdate": "2026 Oct 17",
+      "doi": "10.1080/19440049.2026.2747039",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "FDA and NIH researchers used countercurrent chromatography and NMR spectroscopy to identify and characterize a previously misidentified chemical impurity (pHXCA) in D&C Red No. 27 and Red No. 28, two dyes widely used in cosmetics and lip products. Screening of 18 dye batches from nine manufacturers found the impurity in 12 batches, at levels ranging from 0.0009% to 0.182%. The study also corrects an earlier structural misidentification of this compound published by other researchers.",
+      "why_it_matters": "D&C Red No. 27 and 28 appear in lip balms, lipsticks, blushes, and eye products that women use daily, and this finding suggests a previously uncharacterized chemical is present across much of the supply chain.",
+      "caveats": "small sample (N<100), no toxicological or health outcome data reported, analytical chemistry study only, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Cosmetics safety angle relevant to women; no health outcome data limits pitch.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Allure",
+          "headline": "The Red Dye in Your Lipstick May Contain an Uncharacterized Chemical Impurity, FDA Researchers Find",
+          "hook": "A screening of 18 batches of common cosmetic red dyes found an unidentified impurity in two-thirds of them \u2014 from nine different manufacturers.",
+          "pitch_angle": "FDA scientists identified and corrected the structure of a chemical impurity found in D&C Red Nos. 27 and 28, dyes used in everyday lip and cheek products; the find raises questions about cosmetic ingredient purity standards that beauty-focused readers will want to understand."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42891960",
+      "headline": "Fussier babies may actually prompt depressed mothers to respond more quickly \u2014 flipping what experts expected",
+      "journal": "Psychopathology",
+      "pubdate": "2026 Oct 17",
+      "doi": "10.1159/psp/aelag013",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed N=59 pregnant and postpartum women (38 with clinical depression risk, 21 controls) across pregnancy and the postpartum period, measuring maternal depressive symptoms, infant temperament (specifically distress to novelty), and the quality of mother-infant interaction using the Face-to-Face-Still-Face Paradigm. Contrary to expectations, when infants showed high distress to novelty, mothers with greater depressive symptoms actually repaired interactions more quickly \u2014 not less \u2014 possibly because the infant's distress triggered urgency to soothe. The finding challenges the assumption that depression uniformly reduces maternal responsiveness, suggesting infant temperament is a key moderating factor.",
+      "why_it_matters": "For women navigating perinatal depression, their baby's temperament may shape how the depression expresses in daily caregiving \u2014 a nuance that early intervention programs rarely account for.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive perinatal mental health finding; female-only sample; small N limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Science Says Fussy Babies May Actually Help Depressed Moms Stay More Tuned In",
+          "hook": "A new study found that mothers experiencing depression responded faster \u2014 not slower \u2014 when their babies showed high distress, flipping what researchers predicted.",
+          "pitch_angle": "The research, following pregnant and postpartum women with and without depression, suggests that a baby's temperament can change the equation for how maternal depression shows up in caregiving. It's an unexpected finding that adds nuance to the conversation around perinatal mental health support."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Your Fussy Baby Might Be Helping You Both More Than You Think",
+          "hook": "New research found that depressed moms with highly reactive babies actually repaired emotional disconnects more quickly during interactions \u2014 a surprise that's reshaping how experts think about postpartum care.",
+          "pitch_angle": "A small but carefully designed longitudinal study tracked mothers from pregnancy through the postpartum period and found that infant distress may act as an unintentional prompt for maternal engagement, even when depression is present. Experts say it points to the need for perinatal programs that treat the mother-baby pair together, not just the mother alone."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42887865",
+      "headline": "Chemicals from grilled and smoked food weaken the gut's protective lining \u2014 even at levels relevant to dietary exposure",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Oct 17",
+      "doi": "10.1016/j.fct.2026.116463",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers exposed mouse, pig, and human intestinal epithelial cells to seven polycyclic aromatic hydrocarbons (PAHs) commonly found in grilled, smoked, and charred foods, comparing toxicity thresholds and gene expression responses across species. Across all three cell types, PAH exposure consistently downregulated genes for gut barrier integrity (MUC2, CDH1) and upregulated xenobiotic metabolism genes; human cells showed more than 32-fold upregulation of CYP1A1 and CYP1B1. Human intestinal cells tolerated higher PAH concentrations before cell death than mouse or pig cells, suggesting animal models may overestimate human risk, though barrier disruption occurred across all species.",
+      "why_it_matters": "For women concerned about gut health, this early-stage cell research suggests that dietary PAHs from commonly consumed grilled and smoked foods may compromise the gut lining through mechanisms distinct from outright cell death.",
+      "caveats": "animal or cell study, no human participants, concentrations used may not reflect typical dietary exposure levels, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Gut health angle resonates with women's wellness audience; cell-only study limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Chemicals in Grilled and Smoked Foods May Weaken Your Gut Lining, Cell Research Finds",
+          "hook": "A new lab study found that seven PAHs \u2014 carcinogens common in charred and smoked foods \u2014 consistently damaged the protective barrier of intestinal cells across three species, including human cells.",
+          "pitch_angle": "The research suggests dietary PAHs don't just raise cancer risk \u2014 they may also compromise gut integrity by suppressing key barrier proteins, a finding with potential implications for the gut-health-focused wellness audience, though the work remains at the cell-study stage."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42891780",
+      "headline": "Scientists find gene variants that halt embryo development in its earliest days \u2014 a potential clue to unexplained IVF failure in women",
+      "journal": "Journal of Assisted Reproduction and Genetics",
+      "pubdate": "2026 Oct 17",
+      "doi": "10.1007/s10815-026-04063-1",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used whole-exome sequencing and functional assays to study women from two families whose embryos consistently arrested at early developmental stages during IVF, identifying two heterozygous variants in the GMNN gene (N=2 families, small sample). Functional studies in cell lines and patient embryos found that the variants disrupt cell cycle regulation, activate a DNA-damage checkpoint (CHK1), and alter nuclear distribution of the Geminin protein. Transcriptomic analysis of the arrested embryos confirmed widespread disruption of cell cycle pathways, suggesting GMNN variants as a molecular cause of female-factor embryonic arrest.",
+      "why_it_matters": "For women who have experienced repeated embryo arrest during IVF with no explanation, this research suggests that genetic variants in a cell-cycle regulator may be a diagnosable \u2014 and potentially addressable \u2014 cause.",
+      "caveats": "small sample (N<100), single-center, functional assays partly in HEK-293 cell lines, observational design, China-based population",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Female infertility; IVF failure angle; human embryo data; small sample limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Repeated IVF Embryo Failure May Have a Genetic Explanation Scientists Just Found",
+          "hook": "For women whose embryos keep stopping developing before they even implant, a newly identified gene variant may finally offer an answer.",
+          "pitch_angle": "Researchers identified variants in a gene called GMNN that appear to derail a embryo's ability to divide normally in its very first days, triggering DNA damage and developmental arrest. The finding opens a door to genetic testing that could one day help explain \u2014 and potentially guide treatment for \u2014 one of the most frustrating and poorly understood forms of IVF failure."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Do Some Embryos Stop Developing? Scientists May Have Found a Gene-Level Answer",
+          "hook": "A tiny genetic variant can cause an embryo to essentially stall out before pregnancy even begins \u2014 and researchers are getting closer to understanding why.",
+          "pitch_angle": "New research found that women with certain variants in the GMNN gene \u2014 which helps control how cells divide \u2014 may be at risk for repeated early embryo arrest during IVF, a heartbreaking and often unexplained outcome. Early evidence suggests genetic screening for GMNN could one day become part of fertility workups for women facing this specific pattern of IVF failure."
+        }
+      ],
+      "run_date": "2026-10-24",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
     {
       "pmid": "42904914",
       "headline": "Only 15% of nurses say they eat healthily \u2014 and night shifts make it significantly worse",
@@ -154,66 +703,6 @@
       "run_date": "2026-10-23",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42892118",
-      "headline": "FDA scientists find an unknown chemical impurity in red dyes used in cosmetics and drugs \u2014 and prior researchers had the wrong structure",
-      "journal": "Food Additives & Contaminants: Part A",
-      "pubdate": "2026 Oct 17",
-      "doi": "10.1080/19440049.2026.2747039",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "FDA and NIH researchers used countercurrent chromatography and NMR spectroscopy to isolate and identify an unknown impurity in D&C Red No. 27 and No. 28 \u2014 color additives used in cosmetics, drugs, and some foods. They screened 18 dye batches from nine manufacturers and found the impurity in 12 batches at varying concentrations. Critically, they found that a previous structural identification of this compound by other researchers was incorrect, and they determined the true chemical structure for the first time.",
-      "why_it_matters": "D&C Red No. 27 and 28 are widely used in lip products, blush, and medications women use daily, and this finding raises questions about what unknown chemicals may be present in regulated color additives.",
-      "caveats": "no sex-disaggregated data, analytical/chemistry study only \u2014 no human health outcomes assessed, small batch sample (N=18 batches)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Cosmetics angle relevant to women but no health outcome data; chemistry study.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Allure",
-          "headline": "The Red Dye in Your Lipstick Contains an Unknown Impurity \u2014 and Scientists Just Corrected the Record on What It Is",
-          "hook": "FDA researchers found a previously misidentified chemical impurity lurking in popular red dyes used in cosmetics and medications.",
-          "pitch_angle": "FDA and NIH scientists discovered a novel impurity in two widely used red colorants found in lip products, blush, and pharmaceuticals \u2014 and corrected an error in the scientific literature about its chemical identity. While health effects are unknown, the finding highlights that even regulated cosmetic dyes may contain uncharacterized compounds, fueling ongoing conversations about ingredient transparency in beauty products."
-        }
-      ],
-      "run_date": "2026-10-23",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42891960",
-      "headline": "Fussy babies may actually help depressed moms engage more \u2014 a small study challenges what we thought about postpartum bonding",
-      "journal": "Psychopathology",
-      "pubdate": "2026 Oct 17",
-      "doi": "10.1159/psp/aelag013",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 59 pregnant and postpartum women \u2014 38 with clinical depression and 21 controls \u2014 measuring antepartum depression, infant temperament, and mother-infant interaction quality across pregnancy and the postpartum period. Infant temperament, specifically 'distress to novelty' (a measure of fussiness), was tested as a moderator between maternal depression and bonding quality. Contrary to expectations, when infants showed higher distress, depressed mothers actually repaired interactions more quickly \u2014 suggesting fussier babies may prompt more responsive maternal behavior even in the context of depression.",
-      "why_it_matters": "This early evidence suggests that a baby's temperament may play an unexpected protective role in mother-infant bonding when mothers are experiencing depression during pregnancy or postpartum.",
-      "caveats": "small sample (N<100), single-center, short follow-up, observational design",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Counterintuitive perinatal mental health finding with strong women's health hook; small sample limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your 'Difficult' Baby Might Actually Be Helping Your Postpartum Bond \u2014 New Research Explains How",
-          "hook": "A new study found that mothers experiencing depression during pregnancy were more responsive \u2014 not less \u2014 when their babies were fussier.",
-          "pitch_angle": "Early research suggests that infants who are easily distressed may actually elicit more frequent repair and engagement from depressed mothers, flipping the assumption that fussiness worsens bonding. For a wellness audience navigating postpartum mental health, this reframes 'difficult' infant temperament as a potential interactive asset rather than a burden."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "What New Moms With Depression Should Know About Their Baby's Fussiness and Bonding",
-          "hook": "Counterintuitive new research suggests fussy infants may prompt depressed mothers to respond more \u2014 not less \u2014 during those critical early months.",
-          "pitch_angle": "A longitudinal study of pregnant and postpartum women found that higher infant distress was linked to faster maternal repair of interactions, even among women with depression symptoms. This finding adds nuance to postpartum mental health guidance by suggesting infant temperament is an underappreciated factor in early bonding."
-        }
-      ],
-      "run_date": "2026-10-23",
-      "category": "Psychiatry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
