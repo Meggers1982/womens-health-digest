@@ -1,59 +1,401 @@
 {
-  "last_updated": "2026-10-24T14:01:42.007007+00:00",
-  "total_studies": 1105,
-  "new_this_run": 17,
+  "last_updated": "2026-10-25T14:16:07.923523+00:00",
+  "total_studies": 1112,
+  "new_this_run": 7,
   "studies": [
     {
+      "pmid": "42926142",
+      "headline": "A popular IVF marker for predicting embryo implantation success doesn't actually work, prospective study finds",
+      "journal": "Human Reproduction",
+      "pubdate": "2026 Oct 25",
+      "doi": "10.1093/humrep/deag165",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers prospectively followed 207 women aged 18\u201350 undergoing frozen embryo transfer (FET) of a single chromosomally normal blastocyst across six fertility clinics in Spain, measuring endometrial thickness at two standardized time points using transvaginal ultrasound. Endometrial compaction \u2014 a reduction in uterine lining thickness after progesterone exposure, previously proposed as a marker of uterine receptivity \u2014 of 5% or more was not associated with ongoing pregnancy (50.0% vs 53.7%, P=0.633). The null result held across multiple compaction thresholds (\u22655%, \u226510%, \u226515%) and all secondary outcomes including clinical pregnancy and miscarriage rates.",
+      "why_it_matters": "Women undergoing IVF may be reassured that a thinning uterine lining after progesterone does not appear to predict whether their embryo transfer will succeed, suggesting this measurement may not be worth clinical anxiety or treatment decisions.",
+      "caveats": "observational design, single-center, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive prospective finding directly relevant to IVF patients; overturns retrospective claims; fertility topic fit.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "If Your Uterine Lining Shrinks Before Embryo Transfer, New Research Says Don't Panic",
+          "hook": "A common IVF tracking measurement that clinics use to predict implantation success may not actually predict anything, according to one of the most rigorous studies on the topic.",
+          "pitch_angle": "A prospective study of 207 women found that endometrial compaction \u2014 a thinning of the uterine lining after progesterone, which some clinics monitor closely \u2014 had zero association with ongoing pregnancy rates after frozen embryo transfer. The finding challenges years of retrospective data and could reduce unnecessary anxiety and treatment adjustments for women in the IVF process."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "This IVF Measurement Clinics Have Been Watching May Not Matter After All",
+          "hook": "For women going through frozen embryo transfer, a new prospective study suggests one closely watched uterine measurement has no bearing on whether a pregnancy will stick.",
+          "pitch_angle": "Researchers tracked endometrial compaction \u2014 how much the uterine lining thins after progesterone \u2014 in 207 women undergoing frozen transfer of a chromosomally normal embryo, and found it made no difference to pregnancy outcomes at any threshold tested. The study, one of the first to use more accurate transvaginal ultrasound at both time points, suggests this marker should not drive clinical decisions."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42920325",
-      "headline": "A rare gene variant wipes out nearly all normal sperm \u2014 and scientists now know exactly why",
+      "headline": "A single gene variant can wipe out the entire acrosome \u2014 the sperm's key tool for fertilizing an egg",
       "journal": "Andrology",
       "pubdate": "2026 Oct 24",
       "doi": "10.1111/andr.70395",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used whole-exome sequencing, electron microscopy, and proteomic profiling to characterize sperm from a single man born to consanguineous parents who carried a novel homozygous frameshift variant in the ZPBP gene (N=1 proband). The man had normal sperm count but 99.3% abnormal sperm heads, severely reduced motility, and a DNA fragmentation index of 52.25%, consistent with severe asthenoteratozoospermia. The variant was associated with complete absence of ZPBP protein and widespread acrosomal structural collapse, expanding understanding of this gene's role in human male fertility.",
-      "why_it_matters": "For women navigating unexplained IVF failure with a male partner, findings like this suggest that genetic screening of sperm-structural genes may one day help explain \u2014 and guide treatment for \u2014 severe male-factor infertility.",
-      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, variant classified as uncertain significance, parental samples unavailable",
+      "summary": "Researchers performed whole-exome sequencing on one man born to consanguineous parents who had normal sperm count but severely impaired sperm motility and zero morphologically normal sperm (N=1 proband); they identified a novel homozygous frameshift variant in the ZPBP gene. Electron microscopy confirmed near-complete loss of the acrosome \u2014 the sperm cap critical for egg penetration \u2014 along with high DNA fragmentation (52.25%) and near-absent IZUMO1, a protein essential for sperm-egg fusion. Proteomic analysis showed coordinated loss of multiple acrosome-related proteins, painting a comprehensive molecular picture of how this single variant disrupts sperm structure.",
+      "why_it_matters": "Understanding the precise genetic and structural causes of sperm dysfunction could eventually help clinicians select more targeted assisted reproduction strategies for couples with unexplained fertilization failure.",
+      "caveats": "small sample (N<100), single case report (N=1), observational design, no sex-disaggregated data, variant classified as uncertain significance, parental samples unavailable, no fertilization outcome data for this patient",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Male-factor infertility finding; single case report limits generalizability; indirect women's health relevance.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Male-only case report; no female data; extremely small N limits pitch viability.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good",
-          "headline": "Scientists Pinpointed the Exact Gene Defect That Can Make Nearly Every Sperm Abnormal",
-          "hook": "A single missing protein was enough to structurally destroy over 99% of one man's sperm \u2014 and researchers now have the molecular receipts.",
-          "pitch_angle": "New research mapped the precise genetic and structural cascade that leads to catastrophic sperm abnormality, offering a potential diagnostic path for couples facing unexplained male-factor infertility. For women who have experienced repeated IVF failure with no clear answer, this kind of genetic detective work could eventually point toward more targeted solutions."
+          "publication_type": "Health.com / General health",
+          "headline": "Scientists Just Mapped How One Genetic Glitch Destroys Sperm's Ability to Fertilize an Egg",
+          "hook": "A single inherited gene mutation was found to eliminate the sperm's entire acrosome \u2014 the biological 'drill bit' it needs to penetrate an egg \u2014 offering new clues for couples facing unexplained fertilization failure.",
+          "pitch_angle": "This detailed case study used cutting-edge imaging and protein analysis to show exactly how one ZPBP variant dismantles sperm structure at the molecular level, potentially pointing toward more precise genetic testing in fertility workups. While it's a single case, the findings suggest ZPBP screening could become relevant for couples where standard sperm tests look normal but fertilization still fails."
         }
       ],
-      "run_date": "2026-10-24",
+      "run_date": "2026-10-25",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
-      "pmid": "42920235",
-      "headline": "A gene linked to vitamin A metabolism may help explain why some Indigenous Americans are at higher risk for obesity",
-      "journal": "Obesity (Silver Spring)",
-      "pubdate": "2026 Oct 23",
-      "doi": "10.1002/oby.70320",
-      "groundbreaking": "First-in-class human study",
+      "pmid": "42921690",
+      "headline": "A single-patient case reveals how a father's gene deletion \u2014 not a mother's \u2014 can silently reprogram a baby's thyroid",
+      "journal": "Thyroid",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1177/10507256261500920",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a genome-wide association study in 6,789 Indigenous American participants from Arizona, then functionally analyzed the top BMI-associated genetic variants in cell models. The variants mapped to CYP26B1, a gene encoding an enzyme that metabolizes retinoic acid (a form of vitamin A), and carried a 23% reduction in promoter activity for a specific isoform. In vitro knockdown of that isoform in mouse adipocytes altered retinoic acid signaling, suggesting a mechanistic link between these genetic variants and fat cell metabolism.",
-      "why_it_matters": "Identifying a specific genetic pathway linked to obesity risk in Indigenous American populations could inform more targeted and culturally relevant health interventions for women in this community.",
-      "caveats": "observational design, single ethnic/regional population (Indigenous Americans, Arizona), animal or cell study (mechanistic component), no sex-disaggregated data",
+      "summary": "Clinicians describe a single infant case in Japan in which a paternally inherited deletion of the DIO3 gene \u2014 which encodes the main thyroid hormone-inactivating enzyme \u2014 caused delayed-onset central hypothyroidism, a pattern previously seen only in mice. The baby passed newborn thyroid screening but developed progressively low free thyroxine without the expected compensatory TSH rise starting at 5 months of age. This is described as the first human evidence that paternal DIO3 loss can dysregulate the hypothalamic-pituitary-thyroid axis, consistent with genomic imprinting.",
+      "why_it_matters": "Thyroid disorders are far more common in women and are often inherited, and this case shows that paternal genetic contributions to thyroid axis programming may be underappreciated \u2014 with implications for understanding unexplained central hypothyroidism.",
+      "caveats": "small sample (N<100), single-center",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "First human evidence; thyroid topic fits; N=1 case report limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Your Baby's Thyroid Health May Depend on Dad's Genes More Than Anyone Realized",
+          "hook": "A rare case report offers the first human evidence that a gene inherited from the father \u2014 not the mother \u2014 can quietly derail an infant's thyroid function months after a normal newborn screen.",
+          "pitch_angle": "The finding challenges the assumption that maternal factors dominate thyroid-axis programming in infants; for the millions of women with thyroid disease who wonder about hereditary risk, this suggests paternal genetics may play an underexplored role in how the thyroid system is set up in early life."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42926197",
+      "headline": "What a pregnant woman's blood chemistry looks like at 26 weeks may quietly shape her child's growth for the first three years",
+      "journal": "International Journal of Obesity",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1038/s41366-026-02233-w",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed 147 metabolites in fasting blood samples from 1,423 pregnant women in the multi-ethnic Born in Bradford cohort, collected at 26\u201328 weeks of gestation, and tracked their children's weight, length/height, and BMI trajectories from birth to 36 months. Using metabolomic profiling and latent class growth mixture models, they identified three distinct growth trajectories \u2014 normative, intermediate, and non-uniform \u2014 each associated with distinct maternal metabolite patterns. Lipoprotein subclasses were the most consistently important metabolites across all three growth measures, and South Asian ethnicity and gestational diabetes were linked to lower growth z-scores.",
+      "why_it_matters": "Understanding how mid-pregnancy metabolic chemistry shapes early childhood growth could help identify pregnant women whose babies are on track for accelerated weight gain or stunted height before any symptoms appear.",
+      "caveats": "observational design, self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large cohort, pregnancy-specific, metabolomics novelty, clear maternal health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "A Blood Test at 26 Weeks Pregnant Could Reveal How Your Baby Will Grow for the Next Three Years",
+          "hook": "A study of more than 1,400 pregnant women found that the mix of fats and other molecules in a mother's blood at mid-pregnancy was strongly linked to whether her child would have accelerated weight gain, faltered height, or normal growth in the first three years.",
+          "pitch_angle": "The finding suggests that a metabolic 'fingerprint' during mid-pregnancy \u2014 particularly lipoprotein levels \u2014 may quietly set the stage for a child's growth trajectory long before any pediatric concern arises; for women trying to support a healthy pregnancy, it points to mid-pregnancy metabolic health as a meaningful, underappreciated window."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Mid-Pregnancy Bloodwork May Be Doing More Than Checking a Box \u2014 It Could Predict Your Baby's Growth Curve",
+          "hook": "New research suggests the metabolic snapshot in your blood at around 26 weeks of pregnancy carries surprisingly detailed information about how fast \u2014 or slowly \u2014 your baby will grow through age three.",
+          "pitch_angle": "The study found that lipoproteins, the same particles tied to heart health, were the strongest metabolic signals linking pregnancy chemistry to infant growth patterns; it reframes the conversation around prenatal nutrition and metabolic health as something with a longer-lasting impact than previously appreciated."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42926310",
+      "headline": "People experiencing a first psychosis episode may need more sexual health screening than current guidelines recommend",
+      "journal": "The Australian and New Zealand Journal of Psychiatry",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1177/00048674261497851",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This commentary critiques new Australian and New Zealand schizophrenia management guidelines, arguing they underestimate how often people experiencing first-episode psychosis engage in high-risk sexual behaviors and therefore may need broader sexually transmitted infection screening. The authors also flag that the guidelines give insufficient attention to affective psychosis presentations, which skew female. No new patient data were collected; this is an expert commentary on existing guidance.",
+      "why_it_matters": "Women are disproportionately affected by affective psychosis, and gaps in sexual health screening at the point of first psychiatric crisis could leave serious infections undetected during a vulnerable life window.",
+      "caveats": "observational design, no sex-disaggregated data, single-center, secondary analysis",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Interesting genetic mechanism but cell/animal mechanistic component and population-specific with no female-specific analysis.",
+      "relevance_score_reason": "Relevant women's health angle but commentary only; no new data.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Scientists Found a Vitamin A\u2013Related Gene That May Drive Obesity Risk in Some Indigenous Communities",
-          "hook": "A large genetic study found that variants in a gene controlling vitamin A breakdown are associated with higher BMI in Indigenous Americans \u2014 pointing to a biological, not behavioral, root of obesity risk.",
-          "pitch_angle": "Researchers identified a specific genetic variant in CYP26B1 \u2014 linked to how the body processes retinoic acid \u2014 that is associated with roughly 2.7% higher BMI per risk allele in a large Indigenous American cohort. The finding suggests that obesity disparities in some communities may have a heritable metabolic basis, which could shift how clinicians and public health researchers approach prevention."
+          "headline": "When Someone Has Their First Psychotic Break, Sexual Health Screening Often Gets Skipped",
+          "hook": "New guidelines for managing first-episode psychosis may be leaving a critical gap: routine sexual health screening for a population at elevated risk.",
+          "pitch_angle": "A commentary in a leading psychiatry journal argues that people experiencing first-episode psychosis \u2014 a group that skews female when affective presentations are included \u2014 are an overlooked high-risk group for STIs, and current Australian guidelines don't go far enough to address this."
         }
       ],
-      "run_date": "2026-10-24",
+      "run_date": "2026-10-25",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42925955",
+      "headline": "Blood metabolites may one day flag schizophrenia before treatment begins \u2014 but the sample size is tiny",
+      "journal": "Progress in Neuro-Psychopharmacology & Biological Psychiatry",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1016/j.pnpbp.2026.111984",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed serum metabolomic profiles in untreated first-episode schizophrenia (FES) patients (n=10), healthy controls (n=10), and the same patients after antipsychotic treatment, using six machine learning algorithms to identify candidate biomarkers. A cross-validation dataset added 30 schizophrenia patients and 30 controls. Several lipid-related metabolites \u2014 including phosphatidylglycerols and phosphatidylcholines \u2014 achieved AUC values above 0.9 for distinguishing FES from healthy controls, suggesting potential as early diagnostic or treatment-monitoring markers.",
+      "why_it_matters": "Objective blood-based markers for schizophrenia could eventually help women \u2014 who often present with later onset and different symptom profiles \u2014 receive faster, more accurate diagnoses.",
+      "caveats": "small sample (N<100), single-center, observational design, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Psychiatric finding but tiny sample, no female-specific data, limited women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Blood Test for Schizophrenia? Early Research Spots Promising Markers",
+          "hook": "A handful of molecules in your blood may one day tell doctors whether a first psychotic episode is schizophrenia \u2014 before any treatment begins.",
+          "pitch_angle": "Researchers found that a set of lipid-related blood metabolites distinguished first-episode schizophrenia from healthy controls with high accuracy in a very small study. The findings are extremely preliminary, but an objective diagnostic test could be transformative for the millions of people \u2014 including women, who are often diagnosed later \u2014 living with the condition."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42920235",
+      "headline": "A gene variant tied to higher BMI found in Indigenous Americans may quietly reshape how fat cells process vitamin A",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1002/oby.70320",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a genome-wide association study in 6,789 Indigenous Americans from Arizona and identified three genetic variants in the CYP26B1 gene \u2014 each associated with a 2.7% increase in BMI \u2014 that appear to reduce the gene's activity in fat cells. Follow-up lab work in mouse adipocytes suggests this reduced activity disrupts retinoic acid (vitamin A) signaling, which is known to influence fat storage and metabolism. The findings offer a possible biological explanation for elevated obesity risk in this population linked to altered fat-cell metabolism, not just lifestyle factors.",
+      "why_it_matters": "Understanding genetic contributors to obesity in Indigenous populations could help explain why standard weight-management approaches may not work equally well for all women.",
+      "caveats": "single-center, no sex-disaggregated data, animal or cell study (functional validation), observational design (GWAS), narrow population (Indigenous Americans from Arizona)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting mechanism but narrow population, no female-specific analysis, primarily lab-based validation.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Prevention",
+          "headline": "Your Genes May Change How Your Fat Cells Handle Vitamin A \u2014 and It Could Affect Your Weight",
+          "hook": "A gene variant common in one Indigenous American population appears to disrupt how fat cells process vitamin A \u2014 pointing to a biological, not behavioral, driver of obesity risk.",
+          "pitch_angle": "Researchers found that three variants in a single gene reduce its activity in fat cells, altering vitamin A metabolism in ways that may promote weight gain; the finding challenges the idea that obesity is purely a lifestyle issue and opens a door to more personalized approaches."
+        }
+      ],
+      "run_date": "2026-10-25",
       "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42910454",
+      "headline": "A street benzodiazepine called bromazolam is sending people into comas \u2014 and it's spreading fast",
+      "journal": "Addiction",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1111/add.70673",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a prospective surveillance study of novel benzodiazepine detections in police drug seizures and clinical samples in New South Wales, Australia from 2019 to 2024, plus a case series of 48 hospitalized patients with confirmed bromazolam exposure. Bromazolam was the most commonly detected novel benzodiazepine in both physical drug samples and clinical cases, with severe outcomes common: coma occurred in 36 of 48 patients, respiratory failure in 34, and mechanical ventilation in 25. Blood bromazolam concentrations were poorly predictive of how sick patients became, complicating clinical management.",
+      "why_it_matters": "As illicit benzodiazepine use rises among women \u2014 including those using them to manage anxiety or as part of polysubstance use \u2014 awareness of how unpredictably dangerous novel variants like bromazolam can be is critical for both patients and clinicians.",
+      "caveats": "observational design, single-center, small sample (N<100 for case series), no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Urgent public health finding; no sex-disaggregated data limits women's health specificity.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The 'Designer' Benzo Showing Up in Emergency Rooms That Doctors Barely Know How to Treat",
+          "hook": "A novel benzodiazepine called bromazolam is increasingly showing up in drug supplies \u2014 and it's putting people into comas at alarming rates.",
+          "pitch_angle": "A new Australian surveillance study found that bromazolam, a potent street benzodiazepine, caused coma in three-quarters of hospitalized patients, with blood levels that gave doctors almost no reliable warning of how severe symptoms would be \u2014 a finding with urgent implications as anxiety-driven benzodiazepine misuse rises among women."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "This Dangerous 'Benzo' Is Increasingly Lacing Other Drugs \u2014 Here's What the ER Data Shows",
+          "hook": "Nearly all hospitalized patients who were exposed to a newly common street drug called bromazolam were also using other substances \u2014 making it especially hard to recognize the danger.",
+          "pitch_angle": "A prospective study tracking drug poisonings in Australia found bromazolam detections rising sharply, with most patients experiencing life-threatening respiratory failure; because illicit benzodiazepines are often hidden in other substances, women who use any recreational drugs should know this risk exists."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42907139",
+      "headline": "A 21-day continuous glucose monitor held its accuracy for the full three weeks in kids with type 1 diabetes \u2014 and most kids were happy with it",
+      "journal": "BMJ Open Diabetes Research & Care",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1136/bmjdrc-2026-006467",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Turkey evaluated the Instara-1 CGM system \u2014 designed for 21 days of continuous wear \u2014 in children and adolescents with type 1 diabetes under real-world clinic conditions rather than controlled lab settings. The primary accuracy analysis included 2,386 paired glucose readings; overall mean absolute relative difference (MARD) was 8.4%, and 90.7% of readings fell within acceptable accuracy bands, with performance remaining stable across all 21 days. Among 52 participants assessed for satisfaction, 78.4% rated the device highly, and nearly all sensors completed the full wear period.",
+      "why_it_matters": "For girls and young women managing type 1 diabetes, a longer-wear CGM that stays accurate could meaningfully reduce the daily burden of device changes and fingerstick checks.",
+      "caveats": "small sample (N<100 for satisfaction cohort), single-center, observational design, self-reported outcomes (satisfaction), short follow-up, Turkey-specific population context",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Pediatric device study, no female-specific analysis, single-center, limited generalizability to US readership.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Could a 21-Day Glucose Monitor Cut the Hassle of Managing Type 1 Diabetes in Kids?",
+          "hook": "A glucose sensor that only needs changing once every three weeks maintained its accuracy for the full wear period in real-world use by children with type 1 diabetes.",
+          "pitch_angle": "The Instara-1 CGM stayed clinically accurate and was well-liked by pediatric users throughout its 21-day lifespan \u2014 a potential game-changer for families managing the constant device-change burden of type 1 diabetes, though the study was small and conducted at a single clinic in Turkey."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42918710",
+      "headline": "A common blood test for pancreatitis may be the wrong one \u2014 and UK hospitals are starting to switch",
+      "journal": "Pancreatology",
+      "pubdate": "2026 Oct 20",
+      "doi": "10.1016/j.pan.2026.10.024",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers compared serum lipase and total serum amylase as diagnostic tests for suspected acute pancreatitis in a real-world UK hospital cohort. The study found that serum lipase outperformed amylase as a first-line biochemical test. The finding suggests current standard practice in many settings may be using an inferior diagnostic tool.",
+      "why_it_matters": "Pancreatitis affects women at higher rates linked to gallstones and pregnancy, so a more accurate first-line test could mean faster, more reliable diagnosis for women presenting with abdominal pain.",
+      "caveats": "single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "General health finding; limited women-specific angle; single-center observational.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Standard Blood Test for Pancreatitis May Not Be the Best One \u2014 Here's What Doctors Are Switching To",
+          "hook": "A UK hospital study found that a different blood enzyme test catches pancreatitis more accurately than the one most labs run first.",
+          "pitch_angle": "Researchers found serum lipase consistently outperformed the traditionally used amylase test for diagnosing acute pancreatitis; since gallstone-related pancreatitis is more common in women, a more accurate first-line test has real stakes for women misdiagnosed or delayed."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42895927",
+      "headline": "In-womb surgery for a serious bowel defect is technically possible \u2014 but only 3 human cases exist",
+      "journal": "Fetal Diagnosis and Therapy",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1159/fdt/acuag026",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic review of all published human cases of prenatal fetoscopic surgery for gastroschisis \u2014 a condition where a baby's intestines protrude outside the abdomen. Only three single-patient case reports met inclusion criteria, all from highly specialized fetal surgery centers. While all three neonates survived, the extreme rarity of cases, lack of comparators, and publication bias mean no conclusions about safety or benefit over standard postnatal repair can be drawn.",
+      "why_it_matters": "For pregnant women whose fetuses are diagnosed with gastroschisis, this review highlights that in-womb repair remains experimental and should not yet be considered a standard option.",
+      "caveats": "small sample (N<100), observational design, single-center, short follow-up, preprint",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to prenatal health but extremely limited human evidence; very niche surgical topic.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Surgeons Can Operate on a Baby Before Birth \u2014 But Is It Ready for Prime Time?",
+          "hook": "Only three babies in the world have undergone in-womb surgery for a serious bowel defect \u2014 and researchers say it's still far too early to call it safe or effective.",
+          "pitch_angle": "A new systematic review found just three published human cases of prenatal fetoscopic repair for gastroschisis, a birth defect affecting roughly 1 in 2,000 pregnancies. While all three babies survived, the authors stress the procedure remains investigational and should not replace established postnatal care."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42895690",
+      "headline": "A hidden gene mutation on the X chromosome may explain infertility in men with no vas deferens \u2014 and ICSI still works for them",
+      "journal": "Journal of Assisted Reproduction and Genetics",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1007/s10815-026-04062-2",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed whole-exome sequencing on 133 men with obstructive azoospermia to screen for mutations in the ADGRG2 gene, a gene on the X chromosome; nine unrelated patients with congenital bilateral absence of the vas deferens (CBAVD) who tested negative for the more commonly screened CFTR gene were found to carry eight distinct pathogenic ADGRG2 variants. All nine men presented with azoospermia or severe oligozoospermia, and lab experiments confirmed the variants disrupted normal protein production. Importantly, four of the men who underwent ICSI (intracytoplasmic sperm injection) achieved successful fertilization and pregnancy, suggesting the treatment remains viable for this group.",
+      "why_it_matters": "For couples facing unexplained male-factor infertility, this finding suggests that broader genetic screening \u2014 beyond the standard CFTR test \u2014 could identify treatable causes and improve reproductive counseling.",
+      "caveats": "small sample (N<100), single-center, observational design, study population limited to China (Central South University/Changsha)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Fertility/reproductive health hook for couples; small Chinese cohort limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Your Partner's Infertility Could Have a Hidden Genetic Cause Doctors Aren't Testing For",
+          "hook": "A gene mutation on the X chromosome \u2014 not the one routinely screened \u2014 may explain why some men are born without the tube that carries sperm, and IVF can still help.",
+          "pitch_angle": "Researchers found that a gene called ADGRG2 harbors mutations causing male infertility in men who test negative for the standard CFTR gene screen, meaning couples could be missing a fixable diagnosis. The good news: ICSI treatment still led to successful pregnancies in this group, offering hope for affected couples navigating fertility workups."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42925776",
+      "headline": "A mental health app for young people with psychosis may help predict how they'll do six months later \u2014 if they actually use it",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1016/j.jpsychires.2026.10.021",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers examined whether adding smartphone app engagement data (from ThinkApp) to standard clinical information improved six-month outcome predictions in 26 young people (mean age 22.6) with first-episode psychosis. Machine learning models trained on both clinical variables and app usage metrics outperformed models using clinical data alone, with the number of psychoeducation videos watched emerging as the strongest predictor of symptom outcomes. Older participants logged in less frequently, suggesting digital tool design may need to account for age-related differences in engagement.",
+      "why_it_matters": "Young women experiencing a first psychotic episode \u2014 a period of high vulnerability \u2014 may benefit from tailored digital mental health tools that extend support between clinical visits.",
+      "caveats": "small sample (N<100), single-center, observational design, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Digital mental health angle has wellness hook but N=26, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Could a Mental Health App Actually Predict Your Recovery From Psychosis?",
+          "hook": "How much you engage with a mental health app \u2014 especially its educational videos \u2014 may say more about your six-month prognosis than your symptoms at diagnosis.",
+          "pitch_angle": "A small Spanish study found that layering smartphone usage data on top of clinical information improved predictions of how young people with first-episode psychosis would fare six months later. The research is early and the sample tiny, but it points to a future where digital tools don't just support mental health \u2014 they actively help clinicians personalize care."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42914621",
+      "headline": "The most-cited OB-GYN research papers aren't actually the most innovative \u2014 and a new scoring tool reveals what is",
+      "journal": "European Journal of Obstetrics, Gynecology, and Reproductive Biology",
+      "pubdate": "2026 Oct 18",
+      "doi": "10.1016/j.ejogrb.2026.115508",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers applied a bibliometric 'disruption score' \u2014 a citation-pattern tool that distinguishes papers that shift a field's direction from those that build incrementally \u2014 to 381,677 OB-GYN publications indexed in PubMed from 1900 to 2021. They found that the top-cited papers were predominantly gynecology-focused and observational or review studies, while the most 'disruptive' papers skewed toward obstetrics and were more likely to be case reports or case series. The finding suggests citation count alone is a poor proxy for scientific innovation in women's health research.",
+      "why_it_matters": "For journalists and editors covering women's health, this analysis suggests that the most groundbreaking OB-GYN research often flies under the radar of traditional citation metrics \u2014 meaning important discoveries in obstetrics may be systematically undervalued.",
+      "caveats": "observational design, bibliometric methodology (not clinical), no sex-disaggregated data, limited to MEDLINE/PubMed-indexed journals",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Meta-research angle; counterintuitive but no direct clinical or wellness hook for women.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "The OB-GYN Studies That Actually Changed Medicine Aren't the Ones Getting All the Attention",
+          "hook": "A new analysis of nearly 400,000 women's health papers found that the most-cited research isn't the most innovative \u2014 and the truly field-shifting discoveries in obstetrics are being overlooked.",
+          "pitch_angle": "Scientists used a 'disruption score' to rank OB-GYN research and found a striking mismatch: the studies racking up the most citations tend to be incremental reviews, while genuinely groundbreaking obstetrics work \u2014 often case reports \u2014 gets far less attention. It raises real questions about how women's health research is valued, amplified, and ultimately translated into care."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
@@ -118,60 +460,6 @@
       "status": "new"
     },
     {
-      "pmid": "42910454",
-      "headline": "A new class of street benzodiazepines is sending people into comas \u2014 and blood levels can't predict who's at risk",
-      "journal": "Addiction (Abingdon, England)",
-      "pubdate": "2026 Oct 22",
-      "doi": "10.1111/add.70673",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A prospective surveillance study in New South Wales, Australia tracked laboratory-confirmed detections of novel benzodiazepines in police drug seizures and clinical settings from January 2019 to December 2024, alongside a case series of 48 hospitalized patients with confirmed bromazolam exposure. Bromazolam was the most frequently detected novel benzodiazepine in both physical drug samples and clinical cases, and severe outcomes were common: 75% of bromazolam patients experienced coma, 71% had respiratory failure, and 52% required intubation. Notably, bromazolam blood concentrations were poorly predictive of clinical severity, complicating treatment decisions.",
-      "why_it_matters": "As novel benzodiazepines increasingly circulate in illicit drug supplies, women who use substances \u2014 or who may unknowingly encounter them \u2014 face serious risks that emergency providers cannot easily anticipate from standard toxicology results.",
-      "caveats": "observational design, single-center, small sample (N<100) for case series, no sex-disaggregated data, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Timely harm-reduction finding; no sex-disaggregated data; Australia-based limits US generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "A Dangerous New 'Designer Benzo' Is Showing Up in the Drug Supply \u2014 and It's Putting People in Comas",
-          "hook": "Bromazolam, a novel benzodiazepine circulating in illicit drug markets, sent three-quarters of hospitalized patients into a coma in a new Australian surveillance study \u2014 and doctors couldn't predict who would crash based on blood levels alone.",
-          "pitch_angle": "The finding, from a four-year tracking study, highlights how novel benzodiazepines are quietly replacing older illicit drugs in the supply chain while posing unpredictable overdose risks. For anyone who uses substances or cares about someone who does, the research is a stark reminder of how quickly the landscape of drug-related danger is shifting."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42907139",
-      "headline": "A 21-day continuous glucose monitor works well for kids with type 1 diabetes in real-world use \u2014 but this is a single-center pediatric study",
-      "journal": "BMJ Open Diabetes Research & Care",
-      "pubdate": "2026 Oct 21",
-      "doi": "10.1136/bmjdrc-2026-006467",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers evaluated a novel 21-day continuous glucose monitoring (CGM) system in children with type 1 diabetes in a real-world clinical setting at a single center in T\u00fcrkiye. The study assessed accuracy, extended-wear performance, and user satisfaction over the device's full wear period. Results suggested the 21-day wear system performed accurately and was well-received by pediatric users and their families.",
-      "why_it_matters": "Longer-wear CGM devices could ease the daily management burden for girls and adolescents living with type 1 diabetes.",
-      "caveats": "small sample (N<100), single-center, observational design, self-reported outcomes, pediatric population only, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Pediatric diabetes device study; limited female-specific data and narrow clinical focus.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Glucose Monitor That Lasts 21 Days Could Change Daily Life for Kids With Type 1 Diabetes",
-          "hook": "A CGM sensor that doesn't need replacing for three weeks performed accurately and got high marks from kids and parents in real-world testing.",
-          "pitch_angle": "Researchers found a 21-day wear continuous glucose monitor worked well for children with type 1 diabetes outside of a controlled trial. For families \u2014 especially mothers managing a child's diabetes \u2014 fewer sensor changes could meaningfully reduce daily mental load."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42904521",
       "headline": "There may be a whole category of eating disorder that doesn't have an official diagnosis yet",
       "journal": "European Eating Disorders Review",
@@ -229,33 +517,6 @@
       "run_date": "2026-10-24",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42918710",
-      "headline": "Lipase beats amylase for catching pancreatitis in real-world UK emergency settings \u2014 and the gap is bigger than textbooks suggested",
-      "journal": "Pancreatology",
-      "pubdate": "2026 Oct 20",
-      "doi": "10.1016/j.pan.2026.10.024",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "UK researchers conducted a real-world cohort study at a National Health Service hospital comparing serum lipase and total serum amylase as first-line diagnostic tests for suspected acute pancreatitis. The abstract does not report sample size, age breakdown, or sex-disaggregated results. Lipase outperformed amylase in diagnostic accuracy, supporting a shift in routine clinical practice.",
-      "why_it_matters": "Gallstone-related pancreatitis is more common in women, so a more accurate first-line blood test could speed diagnosis and reduce unnecessary procedures for women presenting to the ER with abdominal pain.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, sample size not reported in abstract",
-      "fact_check_note": "Abstract contains no N, age range, or sex breakdown \u2014 these cannot be verified and are flagged accordingly.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Observational, single-center; no sex data; limited direct women's wellness hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Doctors May Be Using the Wrong Blood Test to Diagnose Pancreatitis \u2014 A New Study Wants to Change That",
-          "hook": "A real-world UK hospital study found that a less commonly ordered blood test catches pancreatitis far more reliably than the one most labs run first.",
-          "pitch_angle": "Because gallstone-triggered pancreatitis strikes women at higher rates, getting the right test sooner could mean faster diagnosis and fewer hours in diagnostic limbo for women who arrive at the ER with severe abdominal pain."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -325,33 +586,6 @@
       "status": "new"
     },
     {
-      "pmid": "42895927",
-      "headline": "In-womb surgery for a serious newborn gut defect has only been tried in 3 patients worldwide \u2014 and the evidence is still too thin to call it safe",
-      "journal": "Fetal Diagnosis and Therapy",
-      "pubdate": "2026 Oct 19",
-      "doi": "10.1159/fdt/acuag026",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a PRISMA-registered systematic review of all published human cases of prenatal fetoscopic repair of gastroschisis \u2014 a condition where a baby's intestines protrude outside the abdomen \u2014 searching six major databases through March 2026. Only three single-patient case reports met inclusion criteria, all from highly specialized fetal surgery centers, with wide variation in technique and management. All three neonates survived, but publication bias, extreme patient selection, and the absence of comparators mean no conclusions about safety or benefit over standard postnatal repair can be drawn.",
-      "why_it_matters": "For pregnant women whose babies are diagnosed with gastroschisis prenatally, this review signals that in-womb repair remains strictly experimental and should not yet be considered a viable alternative to standard care.",
-      "caveats": "small sample (N<100), observational design, secondary analysis, short follow-up, publication bias acknowledged by authors",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Niche fetal surgery topic; N=3 cases; limited lifestyle hook for general women's health readers.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Surgeons Are Attempting to Fix a Serious Birth Defect Before Babies Are Even Born \u2014 But the Evidence Is Still Paper-Thin",
-          "hook": "Only three babies worldwide have undergone in-womb repair of gastroschisis, and a new systematic review finds that's still far too few to know if it's safe.",
-          "pitch_angle": "A sweeping review of every published human attempt at prenatal fetoscopic repair of gastroschisis found just three case reports globally \u2014 making it impossible to say whether the surgery helps or harms. For expectant parents facing this diagnosis, the takeaway is clear: postnatal care remains the standard, and any in-womb option should only happen inside a formal research trial."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42896236",
       "headline": "A rare ovarian tumor in a woman with a bone disease reveals an unexpected mutation that could reshape how scientists think about ovarian cancer biology",
       "journal": "International Journal of Gynecological Pathology",
@@ -403,33 +637,6 @@
       "run_date": "2026-10-24",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42895690",
-      "headline": "A gene on the X chromosome turns out to be a surprisingly common cause of male infertility \u2014 and ICSI may still help couples conceive",
-      "journal": "Journal of Assisted Reproduction and Genetics",
-      "pubdate": "2026 Oct 19",
-      "doi": "10.1007/s10815-026-04062-2",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers performed whole-exome sequencing in 133 infertile men with obstructive azoospermia to screen for variants in the X-linked ADGRG2 gene, identifying eight distinct pathogenic variants in nine unrelated patients with congenital bilateral absence of the vas deferens (CBAVD) who tested negative for the more commonly screened CFTR gene. All affected men had azoospermia or severe oligozoospermia, and 3D protein modeling and in vitro assays confirmed the variants disrupted protein structure and function. Notably, four of the patients who underwent ICSI achieved successful fertilization and pregnancy, suggesting viable reproductive options exist for couples affected by ADGRG2-related infertility.",
-      "why_it_matters": "For women partnered with men who have unexplained obstructive azoospermia and negative CFTR testing, this research suggests an additional genetic screening step could identify a treatable cause and open a path to conception via ICSI.",
-      "caveats": "small sample (N<100), single-center, observational design, China-based population, retrospective ART outcomes analysis",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Male-factor infertility with direct IVF/ICSI relevance to female partners; small sample, single-center.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Men With 'Unexplained' Infertility May Be Missing This Genetic Test \u2014 And ICSI Can Still Help",
-          "hook": "A gene that rarely gets screened in infertile men turns out to be behind a meaningful share of cases where standard testing comes back negative.",
-          "pitch_angle": "New research found that variants in an X-linked gene called ADGRG2 were responsible for infertility in men who tested negative for the more commonly checked CFTR mutation \u2014 and that ICSI gave four of those couples a successful pregnancy. For women going through fertility treatment with a partner who has obstructive azoospermia and no genetic explanation, this study suggests asking about expanded genetic screening could be a meaningful next step."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
       "status": "new"
     },
     {
