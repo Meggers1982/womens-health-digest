@@ -1,126 +1,588 @@
 {
-  "last_updated": "2026-10-28T16:40:28.026374+00:00",
-  "total_studies": 1135,
+  "last_updated": "2026-10-29T16:48:22.127410+00:00",
+  "total_studies": 1144,
   "new_this_run": 9,
   "studies": [
     {
+      "pmid": "42951019",
+      "headline": "Scheduling recess before lunch nudges kids to eat more fruit and waste less \u2014 but doesn't move the needle on overall diet quality",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "pubdate": "2026 Oct 28",
+      "doi": "10.1016/j.jand.2026.156922",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a cross-sectional plate waste assessment of 2,524 lunch trays across 10 sociodemographically diverse Virginia elementary schools during the 2019\u20132020 school year, comparing students who had recess before lunch ('reverse recess') with those who had recess after. Students with reverse recess ate slightly more fruit and wasted slightly less of it, but overall lunch diet quality scores and total caloric intake did not differ significantly between groups. The findings suggest the policy has a narrow, fruit-specific effect rather than the broader nutritional benefit often assumed.",
+      "why_it_matters": "Parents and school health advocates \u2014 many of them women navigating school nutrition policy \u2014 may want to temper expectations about reverse recess as a broad dietary fix, while still recognizing its modest fruit-consumption benefit.",
+      "caveats": "observational design, cross-sectional, secondary analysis, single-day assessment, Virginia-only schools, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Large sample and counterintuitive null finding on overall diet quality, but not women's health-specific.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping / First for Women",
+          "headline": "Schools Are Flipping the Order of Recess and Lunch \u2014 Does It Actually Help Kids Eat Better?",
+          "hook": "The 'reverse recess' trend gets kids to eat a little more fruit, but a new study finds it doesn't improve their overall lunch quality.",
+          "pitch_angle": "A plate waste analysis of 2,500+ school lunch trays found that playing before eating nudged kids toward more fruit, but didn't change their diet quality overall \u2014 suggesting parents and administrators shouldn't expect this one scheduling tweak to transform school nutrition on its own."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42950944",
+      "headline": "A standard preeclampsia screening test doesn't work the same way for IVF pregnancies \u2014 and the difference could matter for thousands of women",
+      "journal": "Fertility and Sterility",
+      "pubdate": "2026 Oct 28",
+      "doi": "10.1016/j.fertnstert.2026.10.017",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a single-center retrospective cohort study of 3,651 singleton pregnancies in Brussels to examine whether the uterine artery pulsatility index \u2014 a standard first-trimester marker used to screen for preeclampsia risk \u2014 performs differently depending on how the pregnancy was conceived. In naturally conceived pregnancies, a higher pulsatility index was strongly associated with preeclampsia risk (OR 5.31), but this association was absent in pregnancies conceived via programmed-cycle frozen embryo transfer (OR 1.75, not significant). Counterintuitively, programmed-cycle frozen embryo transfer pregnancies had lower pulsatility index values yet higher actual preeclampsia incidence, suggesting the standard screening tool may systematically underestimate risk in this growing population.",
+      "why_it_matters": "As frozen embryo transfer cycles \u2014 particularly hormone-primed programmed cycles \u2014 become increasingly common in IVF, this study suggests current preeclampsia screening algorithms may need to be recalibrated for women who conceived without ovulation.",
+      "caveats": "observational design, single-center, retrospective cohort, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive, large N, IVF/reproductive health, strong clinical relevance for women.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "The Preeclampsia Screening Test That Works Differently If You Did IVF",
+          "hook": "A large new study found that a standard blood-pressure-risk test used in the first trimester may actually miss preeclampsia in women who conceived via hormone-primed IVF cycles.",
+          "pitch_angle": "Researchers found that a key ultrasound marker used to predict preeclampsia risk simply didn't predict it in women who conceived through programmed frozen embryo transfer \u2014 meaning the IVF process itself may fundamentally alter how the uterus remodels blood vessels in early pregnancy, with real consequences for prenatal screening."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "IVF and Preeclampsia Risk: Why How You Conceived Matters More Than Doctors Realized",
+          "hook": "If you got pregnant through a frozen embryo transfer cycle, the standard first-trimester test for preeclampsia risk may not apply to you the same way.",
+          "pitch_angle": "New research suggests that pregnancies conceived via hormone-primed IVF cycles undergo a different kind of early vascular remodeling than natural pregnancies \u2014 and that difference means the current screening tools weren't built with this growing group of women in mind."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42935169",
-      "headline": "Screening kids for type 1 diabetes before symptoms appear finds nearly all cases at the earliest \u2014 and most treatable \u2014 stage",
-      "journal": "Diabetes, Obesity and Metabolism",
+      "headline": "A nationwide blood-spot screen caught early-stage Type 1 diabetes in kids before symptoms appeared \u2014 93% were in the earliest stage",
+      "journal": "Diabetes, Obesity & Metabolism",
       "pubdate": "2026 Oct 27",
       "doi": "10.1111/dom.71463",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a nationwide population-based screening program in Czechia (Betty project, part of the European EDENT1FI initiative), testing 19,044 children aged 2\u201317.9 years for islet autoantibodies using a two-step capillary blood test. Of 102 children confirmed with early-stage type 1 diabetes, 93% were found at Stage 1 \u2014 before any clinical symptoms appeared. The program reached families with no family history of T1D, who made up nearly 90% of participants.",
-      "why_it_matters": "For mothers and families, this suggests population-wide pre-symptomatic screening for childhood T1D is feasible and could give children \u2014 including daughters \u2014 critical lead time before diabetic crisis.",
-      "caveats": "single-center, observational design, findings specific to Czech/European healthcare context",
+      "summary": "The Betty project, a nationwide population-based Type 1 diabetes screening program in Czechia (part of the European EDENT1FI initiative), collected 19,044 capillary blood samples from children aged 2\u201317 years at 270 sites between April 2024 and February 2026, representing approximately 1% of the Czech pediatric population. Among children with confirmed multiple autoantibodies, 93% were identified at Stage 1 T1D \u2014 before any symptoms appear \u2014 compared to only 2.4% at the clinical Stage 3. The program demonstrated that population-wide autoantibody screening is feasible without relying on family history, as nearly 90% of participants had no first-degree relative with T1D.",
+      "why_it_matters": "For parents and pediatric health advocates, this suggests that routine population-wide screening could identify children at risk for Type 1 diabetes years before crisis \u2014 potentially reshaping how families and clinicians prepare and monitor.",
+      "caveats": "single-center, observational design, short follow-up",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Pediatric/family health angle; no female-specific analysis; limited women's health fit.",
+      "relevance_score_reason": "Pediatric public health focus; limited direct women's health hook; no sex-disaggregated data reported.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "A Simple Finger-Prick Test Could Catch Type 1 Diabetes in Kids Years Before Symptoms Start",
-          "hook": "More than 9 in 10 children identified through a new national screening program had type 1 diabetes caught at its earliest, most manageable stage \u2014 before any symptoms appeared.",
-          "pitch_angle": "A large European pilot found that a two-step capillary blood test can identify children at risk for type 1 diabetes long before crisis strikes, even with no family history. For parents, especially mothers managing family health, this raises the question of whether routine pre-symptomatic screening could soon become standard care."
+          "publication_type": "General health",
+          "headline": "A Simple Finger-Prick Test Is Catching Type 1 Diabetes in Kids Years Before Symptoms Hit",
+          "hook": "A nationwide Czech screening program found that 93% of children identified with early Type 1 diabetes had zero symptoms \u2014 caught only because of a routine blood-spot test.",
+          "pitch_angle": "By screening nearly 20,000 children using a capillary blood sample, researchers identified dozens of kids in the earliest, most manageable stage of T1D \u2014 most of whom had no family history and would never have been flagged otherwise. The results raise serious questions about whether countries like the US should be doing the same."
         }
       ],
-      "run_date": "2026-10-28",
+      "run_date": "2026-10-29",
       "category": "Endocrinology & Metabolism",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42944636",
-      "headline": "A genetic test may one day predict who will have a dangerous reaction to common thyroid drugs",
+      "headline": "Genetic markers in the immune system may predict who will develop a dangerous white-blood-cell crash from thyroid medication",
       "journal": "The Journal of Clinical Endocrinology and Metabolism",
       "pubdate": "2026 Oct 27",
       "doi": "10.1210/clinem/dgag359",
       "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used high-resolution MHC sequencing to identify genetic variants associated with antithyroid drug-induced agranulocytosis (TIA), a rare but life-threatening drop in white blood cells that can occur in Graves' disease patients on methimazole or propylthiouracil. The two-stage study included 60 TIA cases and 142 Graves' disease controls (plus 1,200 healthy controls), conducted in Chinese populations in Xi'an and Hong Kong. Researchers identified 133 risk SNPs and four HLA alleles linked to TIA susceptibility and severity, and built a preliminary risk-prediction tool (C-index = 0.792).",
-      "why_it_matters": "Since Graves' disease disproportionately affects women, a genetic screening tool could help flag which patients face serious drug risks before they start treatment.",
-      "caveats": "small sample (N<100 cases), single-center, observational design, Chinese population only (findings may not generalize to other ethnicities), secondary analysis, prospective validation pending",
+      "summary": "Researchers performed high-resolution sequencing of the major histocompatibility complex region in 60 patients with antithyroid drug-induced agranulocytosis (a rare, life-threatening white-blood-cell drop) and 142 Graves' disease controls, plus 1,200 healthy references, across two stages. They identified 133 risk-associated genetic variants, with the strongest signal at the HLA-DRB1 gene (odds ratio ~10), and found that a variant in complement gene C4A was linked to milder disease and lower C4 blood levels. A preliminary risk-prediction tool achieved a C-index of 0.79, though it requires prospective validation.",
+      "why_it_matters": "Because Graves' disease affects women roughly seven to ten times more often than men, a genetic screen that flags patients at high risk of this life-threatening drug reaction before they start antithyroid therapy could be especially meaningful for women managing hyperthyroidism.",
+      "caveats": "small sample (N<100 cases across both stages), single-center, China-based population (HLA allele frequencies differ by ethnicity \u2014 findings may not generalize globally), observational design, nomogram requires prospective validation",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Women's thyroid condition relevance, but very small sample and limited generalizability.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Highly relevant to women (Graves' disease skews female); limited by small case numbers and single-ethnicity sample.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / General health",
-          "headline": "Your Genes Could Predict Whether Your Thyroid Medication Turns Dangerous",
-          "hook": "A rare but serious side effect of common Graves' disease drugs may be predictable with a genetic test, new research suggests.",
-          "pitch_angle": "Scientists identified specific genetic markers that appear to signal who is at risk for agranulocytosis \u2014 a dangerous immune reaction \u2014 from antithyroid medications. Because Graves' disease is far more common in women, this early-stage finding could eventually change how doctors personalize thyroid treatment."
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Could a DNA Test One Day Warn Thyroid Patients About a Dangerous Drug Reaction?",
+          "hook": "A rare but life-threatening side effect of common thyroid medications \u2014 a crash in infection-fighting white blood cells \u2014 may be predictable from your genes before you ever take the first pill.",
+          "pitch_angle": "Scientists identified a cluster of immune-system gene variants that dramatically raise the odds of agranulocytosis in people taking antithyroid drugs for Graves' disease, a condition that overwhelmingly affects women. Though the research is early and was conducted in a Chinese population, it lays groundwork for a pre-treatment genetic screen that could one day keep women safer on thyroid therapy."
         }
       ],
-      "run_date": "2026-10-28",
+      "run_date": "2026-10-29",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42945420",
-      "headline": "We can now see the fetal brain at 11 weeks \u2014 but seeing it doesn't mean we can read it",
+      "headline": "Doctors can now see fetal brain structures in the first trimester \u2014 but seeing them doesn't yet mean understanding them",
       "journal": "Fetal Diagnosis and Therapy",
       "pubdate": "2026 Oct 27",
       "doi": "10.1159/fdt/acuag028",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This review article examines advances in first-trimester fetal neurosonography, describing how ultrasound technology can now visualize fetal brain structures between 11\u201314 weeks' gestation that were previously inaccessible. The authors argue that imaging capability has outpaced biological interpretability \u2014 many structures can be seen before they are developmentally mature enough to yield reliable diagnoses. Using three illustrative examples (ventriculomegaly, cavum septi pellucidi, and posterior fossa cysts), the authors propose a developmental biology framework for knowing when early findings are clinically actionable.",
-      "why_it_matters": "For pregnant women undergoing first-trimester ultrasounds, this suggests that early abnormal-looking brain findings may not be diagnostically meaningful \u2014 a nuance that matters enormously for prenatal counseling and parental anxiety.",
-      "caveats": "review article (not primary research), no original study population, no sex-disaggregated data",
+      "summary": "This review article examines how rapid advances in first-trimester ultrasound technology now allow visualization of fetal brain structures between 11 and 14 weeks' gestation that were previously inaccessible. The authors argue that imaging capability has outpaced biological interpretability \u2014 many structures can now be seen before they have matured enough to distinguish normal development from abnormality. Using three clinical examples (early ventriculomegaly, the developing cavum septi pellucidi, and posterior fossa cysts), they propose a developmental framework for when early findings are clinically actionable.",
+      "why_it_matters": "For pregnant women undergoing first-trimester anatomy scans, this review suggests that some ambiguous brain findings may reflect normal fetal development rather than pathology, with important implications for reducing unnecessary anxiety and invasive follow-up.",
+      "caveats": "review article (no original data), no primary study population, no sex-disaggregated data",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong prenatal health hook; counterintuitive; review limits score.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant prenatal health topic; review design with no new data limits score.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / Health.com",
-          "headline": "Your First-Trimester Ultrasound Might Flag Something That Isn't Actually a Problem",
-          "hook": "A new review warns that fetal brain ultrasounds are now so advanced they can detect structures too immature to be meaningfully interpreted \u2014 potentially alarming parents unnecessarily.",
-          "pitch_angle": "As prenatal imaging technology races ahead, experts say the fetal brain at 11\u201314 weeks often can't yet be reliably 'read' \u2014 meaning an unusual finding might simply be a developmental snapshot, not a diagnosis. The review calls for a developmental biology framework to guide when early scans are actually informative."
-        },
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "First-Trimester Brain Scans Are Getting Too Good \u2014 And That's Creating a New Problem for Pregnant Women",
-          "hook": "Seeing something unusual on an early fetal brain scan sounds alarming \u2014 but a new expert review says the technology has moved faster than our ability to interpret what we're seeing.",
-          "pitch_angle": "The gap between what ultrasound can visualize and what it can meaningfully diagnose is growing, and pregnant women are caught in the middle \u2014 facing potential anxiety over findings that may not be clinically significant at all."
+          "publication_type": "Prevention",
+          "headline": "First-Trimester Brain Scans Can Now See More Than Doctors Can Interpret \u2014 Here's What That Means for Pregnant Women",
+          "hook": "Ultrasound technology has gotten so good that doctors can spot fetal brain structures at 11 weeks that may look alarming but are actually normal for that stage of development.",
+          "pitch_angle": "A new review warns that first-trimester neurosonography has advanced faster than our ability to tell normal from abnormal at early gestational ages, meaning some findings that trigger anxiety or further testing may simply reflect an immature \u2014 but healthy \u2014 developing brain."
         }
       ],
-      "run_date": "2026-10-28",
+      "run_date": "2026-10-29",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42935175",
+      "headline": "Two cholesterol numbers tell opposite stories about diabetes risk \u2014 and doctors have been reading only one",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Oct 27",
+      "doi": "10.1111/dom.71454",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using data from 402,144 UK Biobank participants followed for up to 16 years, researchers examined whether apolipoprotein B (apoB) and LDL cholesterol \u2014 two measures so correlated (r=0.958) they are often treated as interchangeable \u2014 diverge in their associations with incident Type 2 diabetes. When modeled together, higher apoB at a given LDL-C level was associated with a 50% higher hazard of developing T2D, while higher LDL-C at a given apoB level was associated with a 24% lower hazard. The findings suggest these two markers carry distinct and partially opposing biological signals for diabetes risk, not captured by either measure alone.",
+      "why_it_matters": "For women, who are often told their LDL is 'fine,' this finding suggests that apoB \u2014 a measure not yet routinely ordered in standard panels \u2014 may be a more important signal of metabolic risk hiding in plain sight.",
+      "caveats": "observational design, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive finding in large cohort; strong wellness hook; no sex-disaggregated data is a notable gap.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Your LDL Looks Fine \u2014 But This Other Cholesterol Number May Be Warning You About Diabetes",
+          "hook": "A massive study of 400,000 people found that a cholesterol measure most doctors don't routinely order \u2014 apoB \u2014 predicts Type 2 diabetes risk in ways that LDL simply doesn't.",
+          "pitch_angle": "When researchers examined both markers together, high apoB was linked to 50% higher diabetes risk while high LDL at the same apoB level was actually associated with lower risk \u2014 a finding that turns conventional cholesterol wisdom on its head. It suggests that getting only an LDL reading may give women a false sense of metabolic security."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Cholesterol Test You've Never Heard of May Matter More Than Your LDL for Diabetes Risk",
+          "hook": "New research on nearly half a million people suggests that apoB \u2014 not the LDL number on your standard bloodwork \u2014 may be the sharper signal for Type 2 diabetes risk.",
+          "pitch_angle": "The study found that two cholesterol markers most people assume say the same thing actually tell completely different stories when examined together, with apoB pointing toward higher diabetes risk even when LDL looks reassuring. As women increasingly advocate for more personalized healthcare, knowing which labs to ask for matters more than ever."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42946160",
+      "headline": "Giving kids longer lunches, longer recess, and recess before eating significantly boosted how much of their school meal they actually consumed",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "pubdate": "2026 Oct 27",
+      "doi": "10.1016/j.jand.2026.156918",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A cross-sectional study analyzed 2,963 school lunch trays across elementary schools in Anchorage, Alaska during the 2022\u201323 school year, comparing schools that implemented a multi-component Wellness Initiative (30-minute lunches, 30-minute recess, movement breaks) and recess-before-lunch against schools that did not. Schools with the Wellness Initiative showed significantly greater consumption of entr\u00e9es, milk, and fruit (up to 16 percentage points more), and recess before lunch independently associated with greater consumption of entr\u00e9es, milk, fruit, and vegetables. The study is cross-sectional and cannot establish causation, but suggests that combining scheduling and movement policies may yield stronger nutritional gains than any single change.",
+      "why_it_matters": "For parents, school health advocates, and policymakers \u2014 many of whom are women \u2014 this study suggests that lobbying for a package of school schedule changes, not just one tweak, may be the more effective strategy for improving children's nutrition.",
+      "caveats": "observational design, cross-sectional, single-region (Anchorage, Alaska), post-test only, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Large sample and policy-relevant finding, but cross-sectional, single-region, not women's health-specific.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping / Prevention",
+          "headline": "The Three-Part School Lunch Overhaul That Got Kids to Actually Eat Their Vegetables",
+          "hook": "When schools combined longer lunch periods, longer recess, and recess before eating, kids consumed dramatically more of every part of their meal \u2014 including vegetables.",
+          "pitch_angle": "A new plate waste study across Anchorage schools found that no single scheduling change was as powerful as combining longer lunches, more physical activity time, and recess before eating \u2014 a finding that gives parents a concrete, evidence-nudged case to bring to their school boards."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42950513",
+      "headline": "Bedsharing that starts after infancy \u2014 not in the newborn months \u2014 is linked to higher anxiety risk in kids",
+      "journal": "Early Human Development",
+      "pubdate": "2026 Oct 27",
+      "doi": "10.1016/j.earlhumdev.2026.106704",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed data from 7,077 children in the UK's ALSPAC longitudinal cohort, with mothers reporting sleep location at 6 months, 18 months, and 3.5 years, and anxiety and depression diagnoses assessed at ages 8 and 13. Later-onset bedsharing \u2014 beginning at 18 months or 3.5 years but not in early infancy \u2014 was associated with significantly higher odds of anxiety disorder at age 8 (adjusted OR 2.83) and a trend toward anxiety at age 13, though the latter did not survive correction for multiple comparisons. Bedsharing occurring only in infancy (at 6 months) was not significantly associated with anxiety or depression at either age.",
+      "why_it_matters": "For mothers navigating sleep decisions, this large longitudinal study suggests it may matter not just whether children bedhsare, but when it starts \u2014 with later-onset bedsharing potentially serving as an early marker of anxiety risk worth discussing with a pediatrician.",
+      "caveats": "observational design, self-reported outcomes, association does not imply causation, anxiety at age 13 finding did not survive multiple-comparisons correction",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large longitudinal cohort, counterintuitive timing finding, strong parenting/maternal wellness hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "It's Not Bedsharing Itself That Raises Anxiety Risk in Kids \u2014 It's When It Starts, a Large Study Finds",
+          "hook": "Bringing your baby into bed during the newborn months looks fine \u2014 but starting bedsharing at toddler age may be a different story.",
+          "pitch_angle": "A study of more than 7,000 UK children found that bedsharing beginning at 18 months or age 3.5 \u2014 but not in early infancy \u2014 was linked to nearly three times the odds of anxiety disorder by age 8. Researchers suggest later-onset bedsharing may reflect underlying stress or family factors rather than the sleep practice itself causing harm."
+        },
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "The Timing of When Kids Start Sleeping in Your Bed May Matter More Than You Think",
+          "hook": "New data suggests the anxiety risk tied to bedsharing isn't about the practice itself \u2014 it's about whether it starts in toddlerhood rather than infancy.",
+          "pitch_angle": "A large longitudinal UK study found that children who began bedsharing after age 1 were nearly three times as likely to be diagnosed with anxiety by age 8, while those who bedshared only as infants showed no elevated risk. Experts say this pattern may signal that later-onset bedsharing is a symptom of something else going on in the child or family \u2014 not necessarily a cause of anxiety."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42933400",
-      "headline": "A new once-weekly injection beat semaglutide on weight loss in a head-to-head trial \u2014 and it targets three hormones at once",
+      "headline": "A new triple-hormone weight-loss drug outperformed Ozempic on both blood sugar and body weight in a head-to-head trial",
       "journal": "Cell Metabolism",
       "pubdate": "2026 Oct 26",
       "doi": "10.1016/j.cmet.2026.10.010",
       "groundbreaking": "First-in-class human study / Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A multicenter randomized phase 2 trial tested UBT251 \u2014 a novel weekly injection that activates GLP-1, GIP, and glucagon receptors simultaneously \u2014 in 211 Chinese adults with type 2 diabetes (mean age 48.4; 80 participants were female). After 24 weeks, all UBT251 doses reduced HbA1c by approximately 2%, significantly more than placebo and modestly more than 1 mg semaglutide, and produced greater weight and waist circumference reductions than both comparators. Gastrointestinal side effects were most common; the drug's manufacturer sponsored the trial and four authors are company employees.",
-      "why_it_matters": "For women with type 2 diabetes managing both blood sugar and weight, a triple-hormone approach that outperforms semaglutide on weight loss \u2014 if confirmed in phase 3 \u2014 could expand treatment options.",
-      "caveats": "industry funding [Zhuhai United Laboratories / United Bio-Technology (Hengqin)], phase 2 only, Chinese population (generalizability uncertain), majority-male sample (62% male), no sex-disaggregated data, short follow-up (24 weeks)",
+      "summary": "This 24-week multicenter, randomized phase 2 trial enrolled 211 Chinese adults with type 2 diabetes (mean age 48.4; 80 participants were female) to compare once-weekly injections of UBT251 \u2014 a novel agent targeting GLP-1, GIP, and glucagon receptors simultaneously \u2014 against 1 mg semaglutide (Ozempic) and placebo. All UBT251 doses produced significantly greater HbA1c reductions than placebo (placebo-adjusted differences of \u22121.32% to \u22121.50%) and numerically greater reductions than semaglutide, as well as significantly greater weight loss than both comparators. Gastrointestinal side effects were the most common adverse events, consistent with other GLP-1 class drugs.",
+      "why_it_matters": "Women with type 2 diabetes carry distinct cardiovascular and metabolic risk profiles, and a drug that surpasses semaglutide on weight reduction \u2014 a key driver of those risks \u2014 could eventually expand treatment options for women who haven't achieved their goals on existing GLP-1 drugs.",
+      "caveats": "small sample (N<100 female participants), single-country (China \u2014 results may not generalize to other populations), industry funding [United Bio-Technology (Hengqin) Co., Ltd.; Novo Nordisk employees co-authored], phase 2 trial (not yet definitive), no sex-disaggregated efficacy data reported",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "High-profile GLP-1 space, RCT design, but majority-male, industry-funded, phase 2 only.",
+      "relevance_score_reason": "High-profile drug class with broad women's health interest; docked for industry funding, China-only sample, and no female-specific analysis.",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine / Shape",
-          "headline": "A New Weight-Loss Drug Just Beat Ozempic in a Clinical Trial",
-          "hook": "A once-weekly injection targeting three metabolic hormones at once produced greater weight loss than semaglutide in a head-to-head trial \u2014 and it's moving toward phase 3 testing.",
-          "pitch_angle": "UBT251 works by activating GLP-1, GIP, and glucagon receptors simultaneously, a triple-action approach that outpaced semaglutide on both weight and waist reduction after six months. The trial was industry-funded and conducted in China, so results need phase 3 confirmation before drawing broad conclusions for women \u2014 but the findings add to a fast-moving wave of next-generation metabolic drugs."
+          "publication_type": "Well+Good / Health.com",
+          "headline": "A New Triple-Action Drug Just Beat Ozempic at Weight Loss \u2014 Here's What to Know",
+          "hook": "In a head-to-head trial, a next-generation injectable that targets three metabolic hormones at once produced significantly more weight loss than semaglutide, the active ingredient in Ozempic.",
+          "pitch_angle": "UBT251 hits GLP-1, GIP, and glucagon receptors simultaneously \u2014 a broader metabolic approach than existing drugs \u2014 and early phase 2 data suggest it may outperform today's blockbusters on both blood sugar control and pounds lost. The trial was small, conducted only in China, and funded by the drug's maker, so larger global studies are needed before drawing firm conclusions."
         },
         {
-          "publication_type": "Prevention / Health.com",
-          "headline": "Beyond Ozempic: A Triple-Hormone Drug Shows Early Promise for Blood Sugar and Weight",
-          "hook": "A new injectable drug that targets three hormones simultaneously cut blood sugar levels by about 2% and outperformed semaglutide on weight loss in a six-month trial.",
-          "pitch_angle": "Unlike current GLP-1 drugs, UBT251 also activates glucagon receptors, which may explain its stronger effect on weight \u2014 though the trial was funded by the drug's maker and hasn't yet been tested in a phase 3 study. For women managing type 2 diabetes, it signals that the next generation of metabolic medications may offer more options than today's blockbusters."
+          "publication_type": "Shape / Women's Health Magazine",
+          "headline": "Beyond Ozempic: A New Weight-Loss Drug Is Showing Stronger Results in Early Trials",
+          "hook": "Researchers say a once-weekly injectable targeting three hormones \u2014 not just one \u2014 cut body weight more than semaglutide in a randomized trial, hinting that the next generation of metabolic drugs may be even more powerful.",
+          "pitch_angle": "While GLP-1 drugs have dominated headlines, scientists are now testing combinations that also activate GIP and glucagon receptors, potentially amplifying both fat-burning and blood sugar benefits. Phase 2 results are promising, but the trial enrolled mostly men in China, so data specifically for women and in diverse populations are still needed."
         }
       ],
-      "run_date": "2026-10-28",
+      "run_date": "2026-10-29",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42920325",
+      "headline": "A single genetic glitch can wipe out almost every normal sperm a man produces",
+      "journal": "Andrology",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1111/andr.70395",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used whole-exome sequencing and advanced microscopy to characterize a novel homozygous frameshift variant in the ZPBP gene in a single male patient from a consanguineous family in China. The proband had normal sperm count but 99.3% morphologically abnormal sperm, absent ZPBP protein, severely disrupted acrosomal structures, and a DNA fragmentation index of 52.25%. Proteomic profiling confirmed coordinated loss of multiple acrosome-related proteins, suggesting the ZPBP variant drives broad sperm-head molecular disruption.",
+      "why_it_matters": "For women whose partners face unexplained male-factor infertility, this study suggests that genetic variants in a single gene can cause near-total sperm abnormality \u2014 findings that may eventually inform genetic counseling before assisted reproduction.",
+      "caveats": "small sample (N<100), single-center, observational design, variant of uncertain significance, no segregation data (parental samples unavailable)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Male infertility genetics; indirect fertility relevance for women; N=1 case report.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "One Genetic Mutation Can Destroy Nearly All of a Man's Sperm \u2014 Here's What Researchers Found",
+          "hook": "A single inherited gene variant left a man with virtually zero morphologically normal sperm, offering new clues about mysterious male infertility.",
+          "pitch_angle": "Scientists identified a novel mutation in the ZPBP gene that wiped out normal sperm structure in one patient, with 99% of sperm affected. For couples navigating unexplained infertility, the finding hints that genetic testing of sperm-related genes could eventually guide treatment decisions."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42921690",
+      "headline": "A father's deleted gene may quietly rewire a baby's thyroid system from birth",
+      "journal": "Thyroid: official journal of the American Thyroid Association",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1177/10507256261500920",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers report the first human case linking a paternally inherited deletion of the DIO3 gene \u2014 which inactivates thyroid hormone \u2014 to delayed-onset central hypothyroidism in an infant. The patient (N=1) had normal newborn thyroid screening but showed progressively declining thyroid hormone levels without the expected TSH compensatory rise starting at 5 months. The case provides human evidence for a novel imprinting-based mechanism affecting the hypothalamic-pituitary-thyroid axis, consistent with earlier mouse models.",
+      "why_it_matters": "For women of reproductive age, this finding suggests that a father's genetic makeup \u2014 not just a mother's \u2014 may shape an infant's thyroid development in ways standard newborn screening can miss.",
+      "caveats": "small sample (N<100), single-center, single case report",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Rare pediatric genetics case; limited direct women's health hook beyond parental genetics.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Dad's Missing Gene Can Quietly Derail a Baby's Thyroid \u2014 and Standard Screening Won't Catch It",
+          "hook": "For the first time in humans, scientists have linked a gene inherited from fathers \u2014 not mothers \u2014 to a hidden form of thyroid failure in infants that newborn screening misses.",
+          "pitch_angle": "A Japanese case report found that a baby's delayed thyroid collapse traced back to a deletion in the father's copy of a thyroid-hormone-regulating gene, challenging the assumption that thyroid problems in newborns are primarily maternal. The finding suggests that paternal genetics deserve more scrutiny in unexplained infant thyroid dysfunction."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42926197",
+      "headline": "A pregnant woman's blood lipid profile at 26 weeks may shape how fast her baby grows for the next three years",
+      "journal": "International Journal of Obesity",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1038/s41366-026-02233-w",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed NMR-quantified metabolomic profiles from fasting blood samples of 1,423 pregnant women at 26\u201328 weeks gestation in the UK-based Born in Bradford multi-ethnic birth cohort, then modeled their children's weight, length, and BMI growth trajectories from birth to 36 months. Fourteen lipoprotein subclasses were among the key metabolites distinguishing three distinct growth trajectory groups for each anthropometric measure. South Asian ethnicity and gestational diabetes were independently associated with lower growth z-scores across measures.",
+      "why_it_matters": "This suggests that a pregnant woman's mid-pregnancy metabolic profile \u2014 particularly her lipoprotein levels \u2014 may offer an early window into her child's growth patterns well before any postnatal risks are apparent.",
+      "caveats": "observational design, self-reported outcomes, short follow-up (36 months only), secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large cohort, pregnant population, clear prenatal wellness hook; observational limits apply.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Your Blood Fats at 6 Months Pregnant May Predict Your Baby's Growth Curve for Years",
+          "hook": "A study of more than 1,400 pregnant women found that mid-pregnancy lipoprotein levels \u2014 the same fats checked at your annual physical \u2014 may predict whether a baby grows fast, slow, or off-track through age 3.",
+          "pitch_angle": "Researchers tracked maternal blood metabolites at 26\u201328 weeks and found that lipoprotein profiles consistently distinguished babies who followed accelerated, faltered, or typical growth trajectories over their first three years. The finding adds to growing evidence that what's happening metabolically during pregnancy leaves a lasting biological imprint on a child's development."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Mid-Pregnancy Blood Work May Hold Clues to How Your Baby Will Grow",
+          "hook": "Emerging research suggests the metabolic snapshot taken from a pregnant woman's blood at around six months could map out her baby's entire first three years of growth.",
+          "pitch_angle": "A large UK birth cohort study found that lipoproteins \u2014 the particles that carry cholesterol through the bloodstream \u2014 were among the strongest signals separating babies who grew on track from those who gained weight rapidly or fell behind in height. It's an early clue that routine prenatal bloodwork could eventually tell us more than we currently ask of it."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42926310",
+      "headline": "First-episode psychosis guidelines may be missing a key sexual health risk factor",
+      "journal": "The Australian and New Zealand Journal of Psychiatry",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1177/00048674261497851",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This commentary critiques new Australian and New Zealand schizophrenia guidelines for narrowly framing STI screening during first-episode psychosis, arguing that people experiencing psychosis represent a broadly at-risk group requiring more comprehensive sexual health assessment. The authors also flag that affective psychosis \u2014 which disproportionately affects women \u2014 receives insufficient attention in the guidance. No new empirical data are presented; this is an expert analysis of existing guidelines.",
+      "why_it_matters": "Women are more likely than men to experience affective psychosis, meaning gaps in these guidelines may have an outsized impact on their physical and sexual health during a vulnerable clinical window.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, commentary only (no original data), regional guidelines (Australia/New Zealand)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Commentary, no original data; women's health angle is indirect and regional.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "When Someone Has Their First Psychotic Episode, Doctors May Be Overlooking a Critical Health Check",
+          "hook": "New guidelines for managing first-episode psychosis may be leaving sexual health \u2014 and a whole category of patients \u2014 behind.",
+          "pitch_angle": "Experts argue that current screening protocols during first-episode psychosis are too narrow, particularly for affective psychosis that skews female; the piece would explore what comprehensive care should look like for a population that often falls through gaps in both psychiatric and preventive care."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42926059",
+      "headline": "Stroke patients who fall behind on calories in the first week leave the hospital less functional \u2014 even after accounting for stroke severity",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1016/j.clnesp.2026.105210",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 304 acute stroke patients (median age 77; 53.3% female) admitted to a Japanese university hospital, calculating the 'energy gap' \u2014 the difference between actual caloric intake and estimated requirements \u2014 over the first 7 days of hospitalization. A larger energy deficit during that window was associated with lower functional independence scores at discharge and higher rates of in-hospital complications, independent of other factors. The findings suggest that closing early caloric deficits after stroke may matter for recovery outcomes, though the study cannot establish causation.",
+      "why_it_matters": "Because women survive stroke in greater numbers and often at older ages with worse functional outcomes, understanding how early nutrition affects recovery is directly relevant to women's post-stroke health.",
+      "caveats": "observational design, retrospective, single-center, Japan-only population, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant population (majority women), but observational, single-center, no sex-disaggregated analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "What You Eat in the Hospital After a Stroke May Shape How Well You Recover",
+          "hook": "A new study finds that stroke patients who didn't get enough calories in their first week left the hospital significantly less able to care for themselves.",
+          "pitch_angle": "Researchers tracked early caloric deficits in 304 stroke patients and found that the bigger the energy gap, the worse the functional outcomes at discharge \u2014 suggesting that hospital nutrition in those critical first days isn't just a comfort issue, but potentially a recovery one."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42920235",
+      "headline": "A gene variant tied to obesity in Indigenous Americans may work by disrupting vitamin A metabolism in fat cells",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1002/oby.70320",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a genome-wide association study in 6,789 Indigenous Americans from Arizona and then performed in vitro functional analyses to investigate why three tightly linked genetic variants were associated with higher BMI. They found the risk variants map to the CYP26B1 gene, which encodes an enzyme that metabolizes retinoic acid (a form of vitamin A), and that the risk haplotype reduces expression of a specific CYP26B1 isoform by 23% in adipocyte models. Knockdown of that isoform in mouse fat cells altered key downstream signaling, suggesting reduced CYP26B1 activity may disrupt retinoic acid balance in fat tissue and promote obesity.",
+      "why_it_matters": "Identifying a population-specific genetic pathway linking vitamin A metabolism to fat-cell biology could one day inform more targeted obesity prevention strategies for Indigenous women, who face disproportionately high obesity rates.",
+      "caveats": "observational design, single-center, animal or cell study (mechanistic arm in mouse/in vitro models), narrow population (Indigenous Americans from Arizona \u2014 findings may not generalize), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting mechanistic finding but largely cell/animal work; no sex-disaggregated data; narrow population limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Why Vitamin A Metabolism May Hold a Hidden Key to Obesity Risk",
+          "hook": "A genetic variant that quietly dials down a vitamin-A-processing enzyme in fat cells may be driving higher obesity rates in a specific population \u2014 and it points to a cellular pathway scientists haven't focused on before.",
+          "pitch_angle": "Researchers traced three linked gene variants common in Indigenous Americans to a disruption in how fat cells handle retinoic acid, a bioactive form of vitamin A. The finding opens a new line of inquiry into whether vitamin A metabolism plays a broader, underappreciated role in obesity biology across populations."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42924617",
+      "headline": "Digital breast-milk monitors could backfire \u2014 experts warn the tech may fuel maternal anxiety rather than support breastfeeding",
+      "journal": "Breastfeeding Medicine",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1177/15568253261500939",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Italian nursing and neonatology experts published a critical perspective on continuous digital milk-volume monitoring technology during breastfeeding, using a recently described compact wireless system as a case example. No experimental participant sample was enrolled; this is a clinical commentary. The authors warn that while volume monitoring may be appropriate in NICU or medically fragile newborn contexts, routine use in healthy dyads risks 'medicalizing' a relational process, shifting mothers' focus from infant feeding cues and confidence to numerical targets \u2014 potentially reinforcing anxiety.",
+      "why_it_matters": "As wearable lactation tech enters the consumer market, breastfeeding women and their clinicians need clear guidance on when monitoring aids care versus when it may undermine maternal confidence and the natural feeding relationship.",
+      "caveats": "no experimental data, small sample (N<100), single-center, commentary/perspective only, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong postpartum/lactation hook; commentary only limits score; counterintuitive tech-skepticism angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "That High-Tech Breast Milk Monitor Might Actually Be Stressing You Out More Than Helping",
+          "hook": "Clinical experts are raising an uncomfortable question: could digital milk-tracking devices do more harm than good for breastfeeding mothers?",
+          "pitch_angle": "A new perspective from Italian neonatology and nursing specialists suggests continuous milk-volume monitoring risks medicalizing breastfeeding by replacing attention to baby's hunger cues with anxiety over numbers. For the wellness-savvy new mom already navigating a flood of tracking apps, this is a case where less data might mean more confidence."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Before You Buy a Breast Milk Monitor, Read This",
+          "hook": "Experts say digital milk-tracking devices are valuable in the NICU \u2014 but routine home use could increase anxiety for healthy breastfeeding moms.",
+          "pitch_angle": "A clinical commentary in Breastfeeding Medicine warns that while milk-volume technology has a real role for medically fragile infants, applying it to typical breastfeeding may shift mothers' focus away from their baby's natural feeding cues toward stressful numerical targets. Lactation experts say the relational side of nursing matters just as much as the volume."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42924871",
+      "headline": "A juice blend of Indian gooseberry, ginger, and curry leaves lowered fasting blood sugar in people with type 2 diabetes \u2014 but the effect shrank after adjusting for baseline differences",
+      "journal": "Nutrition and Health",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1177/02601060261496364",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A one-month open-label randomized controlled trial enrolled 120 adults with type 2 diabetes at a clinic in Puducherry, India, randomizing them to receive either a polynutraceutical juice (Indian gooseberry, ginger, curry leaves) plus standard antidiabetic drugs or drugs alone, with 112 completing the study. The juice group showed a mean fasting blood glucose reduction of 20.3 mg/dL versus 4.7 mg/dL in controls, a difference that was statistically significant in unadjusted analysis but did not reach conventional significance after adjusting for baseline glucose, age, and gender (ANCOVA p=0.060). Researchers note the clinically meaningful raw reductions but call for larger, placebo-controlled, longer-duration trials to confirm.",
+      "why_it_matters": "Women with type 2 diabetes face distinct hormonal and cardiovascular complications, and accessible, low-cost adjunct strategies like dietary supplements warrant rigorous study \u2014 but this evidence is still preliminary.",
+      "caveats": "short follow-up, open-label (no placebo control), single-center, India-only population, treatment effect attenuated after adjustment, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "RCT design is a plus, but open-label, short follow-up, and attenuated adjusted effect limit confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Could a Three-Ingredient Juice Help Manage Blood Sugar? Here's What a New Study Found",
+          "hook": "A blend of Indian gooseberry, ginger, and curry leaves cut fasting blood sugar by 20 points in one month \u2014 but the results get more complicated on closer look.",
+          "pitch_angle": "A small randomized trial found promising short-term blood sugar reductions from a traditional herbal juice taken alongside diabetes medication, though after statistical adjustment the effect didn't quite clear the bar for significance \u2014 a reminder that even exciting early nutrition findings need larger, placebo-controlled follow-up before women should change their routines."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42922369",
+      "headline": "Adding MRI to ultrasound catches more hidden endometriosis lesions \u2014 but also flags more false alarms",
+      "journal": "Acta Obstetricia et Gynecologica Scandinavica",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1111/aogs.70372",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Swedish researchers prospectively followed 221 women with suspected deep endometriosis, of whom 189 underwent surgery; 112 had both expert transvaginal ultrasound (TVS) and second-line MRI for comparison. Adding MRI to expert TVS improved sensitivity for rectosigmoid lesions (+10.3%) and uterosacral ligament involvement (+29.2%), but reduced specificity for several sites, meaning more false positives. Women with prior abdominal surgery benefited most from the combined imaging approach for detecting rectosigmoid disease.",
+      "why_it_matters": "For women with complex or previously operated endometriosis, this study suggests that adding MRI after expert ultrasound may catch more hidden lesions \u2014 particularly in the bowel \u2014 though it also raises the risk of overdiagnosis at other sites.",
+      "caveats": "single-center, observational design, selective MRI use (not all patients), subgroup findings exploratory",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Endometriosis-specific, prospective human cohort, clear clinical relevance for women.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Your Endometriosis Ultrasound Might Be Missing Bowel Lesions \u2014 A New Study Shows When to Ask for an MRI",
+          "hook": "Expert ultrasound alone may leave hard-to-reach endometriosis lesions undetected \u2014 especially in women who've already had surgery.",
+          "pitch_angle": "A prospective Swedish study found that adding MRI after a specialist ultrasound caught significantly more rectosigmoid and ligament lesions in women with complex endometriosis, though it also produced more false positives. The takeaway for patients: if you've had prior abdominal surgery and still have symptoms, asking about second-line MRI could change your surgical plan."
+        },
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "If Your Endometriosis Keeps Coming Back After Surgery, There's a Case for Getting Both Tests",
+          "hook": "New research found that pairing MRI with ultrasound detected bowel-area endometriosis that ultrasound alone missed \u2014 especially in women with surgical history.",
+          "pitch_angle": "Swedish researchers found that combining expert ultrasound with MRI improved detection of deep endometriosis in the bowel and ligaments, with the biggest benefit for women who had previous abdominal surgery. While it also increased false positives in some areas, the study suggests a selective \u2014 not routine \u2014 role for MRI in the most complex cases."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42910454",
+      "headline": "A 'designer' benzodiazepine is sending people to the ICU at alarming rates \u2014 and it's harder to predict than fentanyl",
+      "journal": "Addiction",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1111/add.70673",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a six-year prospective surveillance study of novel benzodiazepine detections in New South Wales, Australia, using police drug seizure data and a clinical surveillance program, and described 48 hospitalized patients with confirmed bromazolam exposure. Among those hospitalized with bromazolam, severe outcomes were frequent: 75% fell into coma, 71% experienced respiratory failure, and more than half required intubation. Blood concentration of bromazolam was a poor predictor of how sick patients became, complicating clinical management.",
+      "why_it_matters": "Women who use benzodiazepines \u2014 prescribed or illicit \u2014 are at elevated risk for dependence and overdose, and emerging designer variants like bromazolam may be especially dangerous because standard dosing assumptions don't apply.",
+      "caveats": "small sample (N<100 for case series), observational design, single-center, regional (New South Wales, Australia), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "No sex-disaggregated data; regional; limited women's health specificity.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The New Benzo Sending People Into Comas \u2014 And Why Doctors Can't Predict Who's at Risk",
+          "hook": "A novel benzodiazepine called bromazolam is increasingly showing up in emergency rooms, and unlike most drugs, blood levels don't tell doctors how sick a patient will get.",
+          "pitch_angle": "Surveillance data from Australia found that three-quarters of hospitalized bromazolam patients slipped into comas \u2014 a severity rate that has alarmed toxicologists \u2014 and the drug's unpredictability makes harm reduction messaging especially urgent for anyone who may encounter it in illicit drug supplies."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42908199",
+      "headline": "Social media-style 'action challenges' may work better than 'everything in moderation' messaging to cut junk food intake",
+      "journal": "Public Health Nutrition",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1017/S1368980026103656",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Australian researchers from CSIRO explored whether socially driven action challenges \u2014 group-based, time-limited behavioral prompts \u2014 could outperform traditional 'moderation' messaging in reducing discretionary (junk) food consumption. This was a perspective or commentary-style analysis rather than an interventional trial with a participant sample. The authors argue that moderation messaging has limited effectiveness and that socially motivated challenges could offer a more actionable, community-driven alternative.",
+      "why_it_matters": "For women, who are disproportionately targeted by both diet culture and public health messaging, a shift away from vague 'moderation' advice toward socially engaging behavioral nudges could be more effective and less shame-driven.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, Australian context may limit generalizability",
+      "fact_check_note": "Abstract does not describe a trial with human participants \u2014 this is a perspective/commentary piece; summary reflects that accurately.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Commentary piece, no trial data, no female-specific analysis, Australian focus.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "'Everything in Moderation' Is Bad Advice \u2014 Here's What Actually Works",
+          "hook": "A new analysis suggests that viral-style group challenges may do more to cut junk food intake than decades of 'moderation' messaging.",
+          "pitch_angle": "Researchers argue that time-limited, socially driven action challenges harness community motivation in ways that abstract moderation advice never could. For wellness-minded women already familiar with 30-day challenges and accountability groups, the science may finally be catching up to the culture."
+        }
+      ],
+      "run_date": "2026-10-29",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -184,120 +646,6 @@
       "status": "new"
     },
     {
-      "pmid": "42920325",
-      "headline": "A rare gene mutation leaves sperm with almost no normal cells \u2014 offering clues to unexplained male infertility",
-      "journal": "Andrology",
-      "pubdate": "2026 Oct 24",
-      "doi": "10.1111/andr.70395",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers performed whole-exome sequencing and detailed sperm analysis on a single man from a consanguineous family in China, finding a novel homozygous frameshift variant in the ZPBP gene. The proband had near-total sperm head abnormalities (99.3%), absent ZPBP protein, severely disrupted acrosomal structure, and a high DNA fragmentation index of 52.25%. The findings suggest ZPBP is essential for normal acrosomal development in human sperm, though what this means for fertility treatment options remains unclear.",
-      "why_it_matters": "Identifying the genetic root of severe sperm abnormalities could eventually help couples facing unexplained infertility get faster, more targeted diagnoses.",
-      "caveats": "small sample (N<100), single-center, single case report (N=1), variant classified as uncertain significance, no parental samples for segregation analysis, no fertilization or ART outcome data, China-based single family",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Male infertility genetics; single case, no female subjects, limited pitch utility.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Scientists Find a Single Gene Mutation That Leaves Sperm Nearly Incapable of Normal Development",
-          "hook": "A newly identified genetic variant wiped out virtually all normal sperm in one man \u2014 offering a rare window into the molecular causes of male infertility.",
-          "pitch_angle": "Researchers traced severe sperm abnormalities to a single faulty gene, ZPBP, raising hope that genetic screening could eventually explain infertility cases that stump doctors today. For couples on a fertility journey, this kind of research points toward a future where 'unexplained' becomes less common."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42921690",
-      "headline": "A single case reveals a new way the thyroid axis can fail \u2014 and it depends on which parent passed down the faulty gene",
-      "journal": "Thyroid",
-      "pubdate": "2026 Oct 24",
-      "doi": "10.1177/10507256261500920",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers describe the first reported human case linking loss of the paternally inherited DIO3 gene \u2014 which encodes the main thyroid hormone-inactivating enzyme \u2014 to delayed-onset central hypothyroidism in an infant, based on newborn screening and chromosomal microarray findings. The infant developed progressively declining free thyroxine without the expected compensatory TSH rise starting at 5 months, consistent with central rather than primary hypothyroidism. Prior evidence for this mechanism came only from mouse models.",
-      "why_it_matters": "This finding suggests that some cases of unexplained central hypothyroidism in infants may involve parent-of-origin genetic imprinting, potentially informing how clinicians think about thyroid disorders that don't follow the usual pattern.",
-      "caveats": "small sample (N<100), single-center, single case report",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Thyroid condition relevant but N=1 case report; no female-specific analysis; limited pitch utility.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "A Baby's Thyroid Problem Stumped Doctors \u2014 Until They Looked at the Father's Genes",
-          "hook": "For the first time in humans, researchers found that a thyroid hormone disorder in an infant was tied to a gene inherited from the father \u2014 not the mother \u2014 upending assumptions about how thyroid conditions are passed down.",
-          "pitch_angle": "A case report published in Thyroid describes an infant whose hypothyroidism didn't fit the standard pattern, ultimately traced to a paternally inherited gene deletion affecting how the body inactivates thyroid hormone. The finding is the first human evidence for a mechanism previously seen only in mice, and suggests some thyroid disorders may depend on which parent's copy of a gene is expressed."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42926197",
-      "headline": "A pregnant woman's blood chemistry at 26 weeks may already be shaping how fast \u2014 or slowly \u2014 her baby grows in the first three years of life",
-      "journal": "International Journal of Obesity",
-      "pubdate": "2026 Oct 24",
-      "doi": "10.1038/s41366-026-02233-w",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed NMR-measured metabolomic profiles from fasting blood samples of 1,423 pregnant women at 26\u201328 weeks gestation, drawn from the multi-ethnic UK Born in Bradford cohort, and linked them to their children's weight, height, and BMI growth trajectories from birth to 36 months. Three distinct growth patterns \u2014 normative, intermediate, and non-uniform (accelerated or faltered) \u2014 were identified for each measure, and 30\u201341 maternal metabolites, especially lipoprotein subclasses, differentiated between trajectories. South Asian ethnicity and gestational diabetes were independently associated with lower growth z-scores.",
-      "why_it_matters": "This suggests that a pregnant woman's metabolic fingerprint in mid-pregnancy \u2014 particularly her lipoprotein profile \u2014 may have measurable downstream effects on her child's growth in the critical first three years, pointing to a potential window for monitoring.",
-      "caveats": "observational design, self-reported outcomes, short follow-up (36 months only), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Pregnancy/maternal metabolomics with N=1,423 multi-ethnic cohort; clear prenatal health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "Your Blood Chemistry at 6 Months Pregnant May Already Be Influencing Your Baby's Growth",
-          "hook": "A study of over 1,400 pregnancies found that a mother's metabolic profile at 26\u201328 weeks \u2014 especially her lipoprotein levels \u2014 was already linked to how her child would grow over the next three years.",
-          "pitch_angle": "New research suggests the metabolic environment a woman creates during mid-pregnancy may shape her child's growth trajectory from birth through toddlerhood, with lipoprotein subclasses playing a surprisingly central role. For pregnant women thinking about nutrition and metabolic health, this adds nuance to the conversation about what 'eating for two' actually means biologically."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "What a Mid-Pregnancy Blood Test Might Reveal About Your Baby's First Three Years",
-          "hook": "Researchers found that dozens of metabolites \u2014 especially fat-carrying lipoproteins \u2014 in a mother's blood at six months pregnant were associated with whether her baby would gain weight rapidly, slowly, or fall off the growth curve in early childhood.",
-          "pitch_angle": "The study, which followed over 1,400 mother-child pairs in the UK, found that metabolic signals present before birth may already be differentiating which babies end up in accelerated versus faltered growth trajectories. For mothers and clinicians, this raises the possibility that mid-pregnancy metabolomics could one day inform early nutritional interventions."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42926310",
-      "headline": "First-episode psychosis guidelines may be missing the mark on sexual health screening, experts warn",
-      "journal": "The Australian and New Zealand Journal of Psychiatry",
-      "pubdate": "2026 Oct 24",
-      "doi": "10.1177/00048674261497851",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This commentary critiques the recently published ANZJP GRADE schizophrenia management guidelines, specifically their limited approach to sexual health screening and affective psychosis at the time of a first psychotic episode. The authors argue that people experiencing first-episode psychosis represent an elevated-risk group for sexually transmitted infections, and that current guidance underestimates this risk. No new primary data were collected; the piece draws on existing evidence and guideline text.",
-      "why_it_matters": "Women experiencing a first episode of psychosis may be especially vulnerable to undetected STIs and reproductive health risks if clinical guidelines don't mandate broader sexual health screening at this critical juncture.",
-      "caveats": "observational design, single-center, no primary data collected, commentary only, narrow to Australian/New Zealand clinical context",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Commentary with no new data; regional guidelines context limits pitch utility.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "When Someone Has Their First Psychotic Break, Sexual Health Screening Is Often Skipped \u2014 Experts Say That's a Problem",
-          "hook": "People experiencing their first episode of psychosis are at elevated risk for STIs, but clinical screening guidelines may be leaving that risk unaddressed.",
-          "pitch_angle": "A new commentary argues that psychiatric guidelines focus too narrowly on drug interactions and miss a window to screen for sexual health issues in a vulnerable population. For women, who face compounded risks around reproductive health during psychiatric crises, this gap could have long-term consequences."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42925274",
       "headline": "Weekly mega-dose vitamin D didn't beat daily low-dose for lung function in COPD patients \u2014 but higher vitamin D levels still tracked with better breathing",
       "journal": "Nutrition and Health",
@@ -349,87 +697,6 @@
       "run_date": "2026-10-28",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42920235",
-      "headline": "A gene variant tied to obesity in Indigenous Americans may work by disrupting vitamin A metabolism in fat cells",
-      "journal": "Obesity (Silver Spring, Md.)",
-      "pubdate": "2026 Oct 23",
-      "doi": "10.1002/oby.70320",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "NIH researchers identified genetic variants near the CYP26B1 gene \u2014 which helps metabolize retinoic acid (a form of vitamin A) \u2014 associated with higher BMI in a genome-wide study of 6,789 Indigenous Americans from Arizona. Functional follow-up showed that the risk haplotype reduced CYP26B1 promoter activity by 23% in vitro, and knockdown experiments in mouse fat cells suggested this disrupts retinoic acid signaling in adipocytes. The findings propose a mechanistic link between CYP26B1 variation and adipocyte metabolism, though most functional work was done in cells and mice.",
-      "why_it_matters": "Understanding how vitamin A metabolism in fat cells may drive obesity risk in specific populations could open new avenues for targeted obesity research, particularly in underrepresented communities.",
-      "caveats": "animal or cell study (functional data), observational design for human GWAS component, single population (Indigenous Americans from Arizona \u2014 generalizability limited), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting mechanism but mostly cell/animal data, no sex-disaggregated findings, narrow population.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Could a Vitamin A Gene Be Behind Obesity Risk in Some Communities?",
-          "hook": "A gene involved in processing vitamin A in fat cells may help explain why some Indigenous Americans carry higher obesity risk, early NIH research suggests.",
-          "pitch_angle": "Scientists found that specific variants near a retinoic acid\u2013metabolizing gene reduced its activity in fat cells, potentially disrupting how the body manages fat storage. The finding is preliminary but points to metabolism-level genetic differences that standard obesity research has largely overlooked."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42910454",
-      "headline": "A new designer benzodiazepine is landing people in ICUs at alarming rates \u2014 and blood tests can't predict who's in danger",
-      "journal": "Addiction",
-      "pubdate": "2026 Oct 22",
-      "doi": "10.1111/add.70673",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a prospective observational surveillance study in New South Wales, Australia (2019\u20132024) tracking novel benzodiazepine detections in police drug seizures and clinical samples, plus a case series of 48 hospitalized patients with confirmed bromazolam exposure. Bromazolam was the most common novel benzodiazepine found in both drug seizures and hospital cases, with severe outcomes frequent: coma occurred in 36 of 48 patients, respiratory failure in 34, and mechanical ventilation in 25. Blood bromazolam concentrations were poorly predictive of clinical severity, and polysubstance use (mainly with opioids) was nearly universal.",
-      "why_it_matters": "As novel benzodiazepines increasingly appear in the illicit drug supply, women who use substances \u2014 or whose partners or family members do \u2014 face serious risk from drugs whose danger level can't be gauged from standard toxicology screens.",
-      "caveats": "observational design, single-center, small sample (N=48 for case series), no sex-disaggregated data, narrow to New South Wales Australia (findings may not generalize to US drug supply)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Public health relevance but no sex-disaggregated data, regional drug supply context.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "There's a New Designer Benzo Circulating in Party Drugs \u2014 and It's Sending People to the ICU",
-          "hook": "A novel benzodiazepine called bromazolam is showing up in the drug supply and causing comas \u2014 and there's no reliable way to predict who will crash.",
-          "pitch_angle": "Surveillance data from Australian hospitals found that bromazolam, a designer benzo now appearing in the illicit supply, caused coma in three-quarters of hospitalized cases and can't be risk-stratified by blood test alone. Harm-reduction experts say this highlights why knowing what's actually in any substance is more critical than ever."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42908199",
-      "headline": "Social challenge apps may do what 'everything in moderation' messaging never could for junk food intake",
-      "journal": "Public Health Nutrition",
-      "pubdate": "2026 Oct 22",
-      "doi": "10.1017/S1368980026103656",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Australian researchers at CSIRO examined whether socially driven action challenges \u2014 group-based behavioral nudges \u2014 could outperform standard 'moderation' messaging in reducing discretionary (junk) food consumption. The study appears to be a conceptual or commentary-style analysis rather than a primary trial with a defined participant sample; no N or demographic breakdown is available from the abstract. The authors argue that social challenge frameworks may offer a more effective lever for dietary behavior change than passive moderation advice.",
-      "why_it_matters": "For women \u2014 who are disproportionately targeted by both diet culture and 'everything in moderation' public health messaging \u2014 understanding what actually shifts eating behavior could inform more effective wellness strategies.",
-      "caveats": "no sex-disaggregated data, observational design, single-center, small sample (N<100) \u2014 sample size unspecified from abstract, Australia-specific policy context",
-      "fact_check_note": "Abstract does not report a participant N or trial design; summary reflects that limitation. Do not report as a clinical trial.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Nutrition behavior topic; no female-specific data; commentary-style; limited generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why 'Everything in Moderation' May Be the Worst Nutrition Advice \u2014 and What Social Challenges Do Instead",
-          "hook": "Telling people to eat junk food 'in moderation' may actually be one of the least effective public health strategies out there.",
-          "pitch_angle": "Australian researchers suggest that social accountability challenges \u2014 think group step-count contests but for food \u2014 may be far more effective than vague moderation messaging at changing what people actually eat. For wellness-curious readers already engaging with food-tracking apps and community challenges, this reframes the moderation conversation entirely."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
       "status": "new"
     },
     {
