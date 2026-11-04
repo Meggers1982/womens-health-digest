@@ -1,218 +1,1058 @@
 {
-  "last_updated": "2026-11-03T17:52:32.022938+00:00",
-  "total_studies": 1178,
-  "new_this_run": 1,
+  "last_updated": "2026-11-04T18:05:31.397226+00:00",
+  "total_studies": 1183,
+  "new_this_run": 5,
   "studies": [
     {
       "pmid": "42965625",
-      "headline": "Men have half the osteoporosis rate of women \u2014 but nearly the same number of broken bones",
+      "headline": "Men have half the rate of osteoporosis that women do \u2014 but their fracture risk is nearly identical, a new study finds",
       "journal": "Archives of Osteoporosis",
       "pubdate": "2026 Oct 31",
       "doi": "10.1007/s11657-026-01782-x",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers compared osteoporosis prevalence and fragility fracture rates in 2,031 older Taiwanese men and 2,031 age-matched women using DXA scans and imaging records from 2021\u20132023. Men had roughly half the osteoporosis prevalence of women (32.4% vs. 51.4%), yet vertebral fracture rates were nearly identical between sexes (22.7% vs. 22.8%), and hip fracture rates did not differ significantly. Men with fractures also tended to have more severe vertebral fractures, suggesting that bone density alone does not capture full fracture risk.",
-      "why_it_matters": "For women specifically, this finding reframes osteoporosis screening: a 'clean' bone density scan may be more reassuring for women than the numbers suggest \u2014 and highlights that fracture risk assessment needs to go beyond T-scores for all older adults.",
-      "caveats": "single-center, observational design, single region (Taiwan) \u2014 may not generalize to Western or non-Asian populations, retrospective cohort, clinical DXA sample (not population-based)",
+      "summary": "Researchers retrospectively compared 2,031 older Taiwanese men who underwent DXA scans with 2,031 age-matched women, examining rates of osteoporosis, vertebral fractures, and hip fractures. Men had roughly half the osteoporosis prevalence of women (32.4% vs. 51.4%), yet vertebral fracture rates were nearly identical (22.7% vs. 22.8%), and hip fracture rates did not differ significantly. Men's fractures also tended to be more severe, and male sex remained independently associated with both fracture types even after adjusting for bone density and other factors.",
+      "why_it_matters": "This finding reinforces that standard osteoporosis screening \u2014 which typically prioritizes postmenopausal women \u2014 may miss a significant fracture burden in men, potentially shifting how clinicians and patients think about bone health across sexes.",
+      "caveats": "observational design, single-center, Taiwanese study population (may not generalize to other ethnicities), retrospective design, clinical DXA sample (not population-based)",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Counterintuitive bone health finding; female-comparative data, but male-focused study from single Asian region.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive sex-comparison finding on bone health; large N; not female-specific topic.",
       "pitch_angles": [
         {
           "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Your Bone Density Scan Might Not Tell the Whole Story About Fracture Risk",
-          "hook": "Women have far more osteoporosis than men \u2014 yet they don't have significantly more broken bones, a new study found.",
-          "pitch_angle": "A large Taiwanese study found that men fracture just as often as women despite having half the osteoporosis rate, suggesting bone density tests alone may underestimate risk. For older women reassured by a borderline DXA result, this research signals that other risk factors \u2014 falls, muscle strength, bone quality \u2014 deserve equal attention."
+          "headline": "Men Break Just as Many Bones as Women \u2014 Even Though They're Half as Likely to Have Osteoporosis",
+          "hook": "A large study upends the assumption that lower osteoporosis rates in men mean fewer fractures \u2014 the two don't track the way doctors expected.",
+          "pitch_angle": "Despite having osteoporosis at half the rate of age-matched women, older men in this study experienced nearly identical rates of spine and hip fractures \u2014 and their fractures were more severe. The findings suggest bone density alone doesn't tell the full story of fracture risk, a message that matters for women too as they advocate for comprehensive bone health assessments beyond a T-score."
         }
       ],
-      "run_date": "2026-11-03",
+      "run_date": "2026-11-04",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42958972",
-      "headline": "Low selenium in early pregnancy may signal higher seizure risk for women with epilepsy \u2014 even when they've been seizure-free for years",
+      "headline": "Low selenium in early pregnancy may flag higher seizure risk for women with epilepsy",
       "journal": "International Journal of Gynaecology and Obstetrics",
       "pubdate": "2026 Oct 30",
       "doi": "10.1002/ijgo.71472",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study / Counterintuitive finding",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This prospective controlled study measured first-trimester serum zinc, copper, and selenium in 48 pregnant women with pre-existing epilepsy (all seizure-free for at least 2 years before conception) and 59 healthy controls at 6\u201312 gestational weeks. Women with epilepsy had significantly lower selenium levels than controls, and among those women, each standard-deviation increase in selenium was associated with 89% lower odds of subsequent seizure recurrence during pregnancy. Zinc, copper, and zinc-to-copper ratios were not associated with recurrence.",
-      "why_it_matters": "For pregnant women managing epilepsy, early-pregnancy selenium levels may one day serve as a simple, measurable signal of seizure risk \u2014 though this exploratory finding needs replication before any clinical use.",
-      "caveats": "small sample (N<100), single-center, observational design, exploratory study (authors' own caveat), Turkish hospital population, short follow-up",
+      "summary": "In a prospective controlled study from Turkey, researchers measured first-trimester serum zinc, copper, and selenium levels in 48 pregnant women with pre-existing epilepsy (all seizure-free for at least 2 years before conception) and 59 healthy controls at 6\u201312 gestational weeks. Women with epilepsy had significantly lower selenium levels than controls, and among the epilepsy group, those who experienced seizure recurrence during pregnancy had notably lower selenium than those who remained seizure-free. Each one-standard-deviation increase in selenium was associated with 89% lower adjusted odds of subsequent seizure recurrence, though the authors caution this is an exploratory finding requiring external validation.",
+      "why_it_matters": "For the roughly 1 in 200 pregnant women who have epilepsy, early selenium levels may eventually help identify those at greater risk of seizures during pregnancy \u2014 a period when seizures carry serious risks for both mother and baby.",
+      "caveats": "small sample (N<100), single-center, exploratory analysis, study population based in Turkey (generalizability uncertain), short follow-up",
       "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Women-specific reproductive health finding, prospective design, counterintuitive trace-element link; small N limits score.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Clinically meaningful pregnancy-specific finding; small exploratory study limits confidence.",
       "pitch_angles": [
         {
           "publication_type": "Prevention",
-          "headline": "A Simple Blood Mineral Measured Early in Pregnancy Could Flag Seizure Risk in Women With Epilepsy",
-          "hook": "Among pregnant women with epilepsy who had been seizure-free for years, those with lower selenium in the first trimester were far more likely to have a seizure later in pregnancy.",
-          "pitch_angle": "A prospective Turkish study found that first-trimester selenium levels were significantly lower in pregnant epilepsy patients who later experienced seizure recurrence, suggesting this trace element could become a useful early marker \u2014 though the finding is exploratory and the sample small, making it a promising story to watch for replication."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Selenium During Pregnancy May Play a Surprising Role in Brain Health for Women With Epilepsy",
-          "hook": "A mineral most women don't think much about \u2014 selenium \u2014 showed up as a potential early warning signal for seizure risk in pregnant women with epilepsy.",
-          "pitch_angle": "Researchers found that pregnant women with epilepsy had lower first-trimester selenium than healthy controls, and those with the lowest levels were significantly more likely to experience a seizure \u2014 adding to growing evidence that trace minerals during pregnancy affect neurological as well as nutritional outcomes."
+          "headline": "A Simple Blood Mineral Measured Early in Pregnancy May Predict Seizure Risk in Women With Epilepsy",
+          "hook": "Women with epilepsy who had lower selenium levels in their first trimester were far more likely to experience seizures later in pregnancy, an early study suggests.",
+          "pitch_angle": "New research found that first-trimester selenium levels were significantly lower in pregnant women with epilepsy who went on to have seizures compared to those who stayed seizure-free. While experts say the finding is preliminary and needs replication, it raises intriguing questions about the role of nutrition monitoring in pregnancy care for women with neurological conditions."
         }
       ],
-      "run_date": "2026-11-03",
+      "run_date": "2026-11-04",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42962759",
-      "headline": "A simple fix cut unnecessary oxytocin use during first-trimester abortion procedures in half \u2014 with no increase in bleeding",
+      "headline": "Hospitals were routinely giving a hormone drug during abortion procedures that patients didn't need \u2014 and a simple fix cut that by half",
       "journal": "Journal of Obstetrics and Gynaecology Canada",
       "pubdate": "2026 Oct 30",
       "doi": "10.1016/j.jogc.2026.103560",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at an urban academic hospital in Toronto conducted a quality improvement study to reduce routine oxytocin use during elective first-trimester uterine aspiration procedures. Two interventions \u2014 removing oxytocin from a pre-populated electronic anesthesia pathway and an educational session for providers \u2014 were tested across 283 procedures. Oxytocin use dropped from 20% at baseline to about 9\u201310% after each intervention, with no increase in surgical bleeding or use of other antihemorrhagic agents.",
-      "why_it_matters": "This suggests that a commonly administered drug during first-trimester abortion procedures may often be unnecessary, and that simple system-level changes can reduce its use without compromising patient safety.",
-      "caveats": "small sample (N<100 per intervention period), single-center, observational design, short follow-up",
+      "summary": "In a quality improvement study at an urban Canadian academic hospital, researchers tracked oxytocin use during first-trimester uterine aspiration procedures (N=283 total procedures across study periods) and implemented two interventions: removing oxytocin from pre-populated electronic anesthesia order sets, and an educational session for providers. Baseline oxytocin use was 20%; after the interventions, use dropped to approximately 9\u201310%, achieving the 50% reduction target. Crucially, reduced oxytocin use was not associated with increased surgical bleeding or greater use of antihemorrhagic agents.",
+      "why_it_matters": "The study suggests that a commonly administered drug during first-trimester abortion procedures may be unnecessary in many cases, and that simple system-level changes can reduce medication overuse without compromising patient safety.",
+      "caveats": "small sample (N<100 per period), single-center, quality improvement design (not RCT), short follow-up",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Relevant reproductive health finding; small single-center QI study limits generalizability.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Reproductive health procedural safety angle; QI design and single-center limit strength.",
       "pitch_angles": [
         {
-          "publication_type": "Health.com / General health",
-          "headline": "Doctors Were Routinely Giving This Drug During Abortion Procedures \u2014 Turns Out Most Patients Didn't Need It",
-          "hook": "A hospital changed one line in an electronic record system and cut unnecessary oxytocin use during first-trimester procedures by half.",
-          "pitch_angle": "Researchers found that simply removing oxytocin from a default anesthesia checklist \u2014 not a new drug or complex protocol \u2014 slashed its unnecessary use with no rise in bleeding complications, raising questions about how many routine medical practices persist more out of habit than evidence."
+          "publication_type": "Health.com",
+          "headline": "Many Women Getting First-Trimester Abortions Were Receiving a Drug They Didn't Need. Doctors Just Found an Easy Fix.",
+          "hook": "A hospital found that 1 in 5 patients undergoing uterine aspiration were receiving oxytocin unnecessarily \u2014 and two simple interventions cut that rate in half.",
+          "pitch_angle": "A new Canadian quality improvement study found that oxytocin was routinely given during first-trimester abortion procedures based on automated order sets rather than clinical need, and that removing it from default protocols dramatically reduced unnecessary use. Patients who didn't receive it had no increase in bleeding, suggesting the drug was being given out of habit rather than evidence."
         }
       ],
-      "run_date": "2026-11-03",
+      "run_date": "2026-11-04",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42962415",
-      "headline": "First Nations women in Australia describe rare 'pockets of compassion' amid widespread harm in maternity care \u2014 and say those moments changed everything",
+      "headline": "Brief moments of genuine compassion from healthcare providers can be transformative for First Nations women in pregnancy \u2014 but they're far too rare",
       "journal": "Women and Birth",
       "pubdate": "2026 Oct 30",
       "doi": "10.1016/j.wombi.2026.102429",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using an Indigenous relational storytelling method called Kapati Time Yarning, researchers gathered maternity care experiences from 14 First Nations women, partners, and family members in the Australian Capital Territory between October 2024 and March 2025. Participants described pervasive systemic racism, cultural unsafety, and institutional harm, but also recalled isolated moments \u2014 'pockets of compassion' \u2014 where providers listened, believed them, and acknowledged grief. These moments were described as transformative, turning fear and trauma into healing, yet they were inconsistent and often came only after harm had already occurred.",
-      "why_it_matters": "For First Nations women in Australia, compassionate relational care is not a nice-to-have but a potentially transformative force \u2014 and its rarity within current maternity systems underscores an urgent need for structural, not just individual, change.",
-      "caveats": "small sample (N<100), qualitative design, single-center, Australia-specific context (ACT), self-reported outcomes",
+      "summary": "Using an Indigenous research method called Kapati Time Yarning, researchers in Australia gathered maternity care stories from 14 First Nations women, partners, and family members in the Australian Capital Territory between October 2024 and March 2025. Amid widespread experiences of systemic racism, cultural unsafety, and institutional harm, participants recalled isolated 'pockets of compassion' \u2014 moments when providers listened, believed them, and acknowledged grief \u2014 that they described as transformative. The study found these moments were inconsistent and often came only after prior harm, underscoring the need for compassionate, culturally safe care to be structurally embedded rather than left to individual providers.",
+      "why_it_matters": "The finding highlights that for First Nations women, feeling genuinely heard and believed by a provider during pregnancy can shift a traumatic healthcare experience \u2014 but the rarity of such moments signals a systemic failure that individual goodwill cannot fix.",
+      "caveats": "small sample (N<100), qualitative design, single-region (Australian Capital Territory, Australia), self-reported outcomes",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Powerful qualitative finding; very small sample and Australia-specific context limit pitch breadth.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Compelling equity-in-maternity angle; very small qualitative sample and Australia-specific context limit U.S. pitch utility.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "What Happens When a Doctor Actually Listens to a First Nations Woman During Childbirth",
-          "hook": "Fourteen First Nations women in Australia described how a single moment of genuine compassion from a provider \u2014 amid widespread institutional harm \u2014 could transform their entire birth experience.",
-          "pitch_angle": "A new qualitative study found that even in a healthcare system shaped by racism and cultural harm, brief acts of relational care had an outsized healing effect \u2014 suggesting that how care is delivered may matter as much as what care is delivered, especially for historically marginalized women."
+          "publication_type": "Well+Good",
+          "headline": "What First Nations Women Say Actually Makes a Difference in Maternity Care \u2014 and Why It's Still So Rare",
+          "hook": "Being believed and listened to by a provider during pregnancy was described as life-changing by First Nations women \u2014 but those moments were exceptions, not the norm.",
+          "pitch_angle": "A new qualitative study from Australia found that amid pervasive racism and trauma in maternity settings, brief acts of genuine compassion \u2014 when providers listened without judgment and acknowledged loss \u2014 were recalled by First Nations women as deeply healing. The research argues these moments should be a structural standard, not a lucky accident."
         }
       ],
-      "run_date": "2026-11-03",
+      "run_date": "2026-11-04",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42960688",
-      "headline": "A hidden hormonal cause of hard-to-treat high blood pressure has finally gotten an official definition \u2014 and a diagnostic roadmap",
+      "headline": "An underdiagnosed hormonal cause of hard-to-treat high blood pressure finally gets a formal definition \u2014 and it may affect far more women than realized",
       "journal": "Endocrine Reviews",
       "pubdate": "2026 Oct 30",
       "doi": "10.1210/endrev/bnag040",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding / Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "An expert panel published a formal scientific statement defining non-classical apparent mineralocorticoid excess (NC-AME) \u2014 a syndrome in which a partially deficient enzyme (11\u03b2-HSD2) allows the stress hormone cortisol to inappropriately activate salt-retaining receptors, raising blood pressure \u2014 for the first time, along with standardized diagnostic criteria and treatment guidance. The statement consolidates evidence on genetic, epigenetic, drug-related, and patient-specific triggers (including age and sex) and proposes a structured diagnostic algorithm using a specialized urine or blood test measuring the cortisol-to-cortisone ratio. Mineralocorticoid receptor antagonists (such as spironolactone) are recommended as mechanism-targeted first-line therapy.",
-      "why_it_matters": "Because sex influences 11\u03b2-HSD2 activity and cortisol metabolism, NC-AME may present differently in women, and its recognition offers a potential explanation \u2014 and treatable target \u2014 for some cases of low-renin, treatment-resistant hypertension that disproportionately goes undiagnosed in women.",
-      "caveats": "review/consensus statement (not primary data), diagnostic thresholds not yet standardized across labs, multicenter validation pending",
+      "summary": "An international panel of endocrinologists published a Scientific Statement formally defining non-classical apparent mineralocorticoid excess (NC-AME), a syndrome caused by partial insufficiency of the enzyme 11\u03b2-HSD2, which allows cortisol to overstimulate mineralocorticoid receptors and drive up blood pressure. The statement synthesizes evidence on genetic, epigenetic, and environmental causes \u2014 including licorice and other enzyme inhibitors \u2014 and proposes a standardized diagnostic algorithm and first-line treatment with mineralocorticoid receptor antagonists. The authors note that sex is among the patient-specific factors affecting enzyme activity, suggesting this underrecognized condition may contribute meaningfully to the large proportion of hypertension cases currently without an identified cause.",
+      "why_it_matters": "Women with treatment-resistant or low-renin hypertension may have an underlying hormonal driver that is currently missed because no formal diagnostic framework existed until now.",
+      "caveats": "review/Scientific Statement (not original data), no sex-disaggregated data reported for primary findings, diagnostic thresholds not yet validated in multicenter trials",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Underrecognized hormonal hypertension cause with sex-specific factors; review not primary data.",
+      "relevance_score_reason": "Hormonal hypertension; clinically relevant for women; review design limits score.",
       "pitch_angles": [
         {
           "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Could Cortisol Be Behind Your Hard-to-Treat High Blood Pressure?",
-          "hook": "For people whose blood pressure stays stubbornly high despite medication, a little-known hormonal syndrome involving cortisol \u2014 not just salt \u2014 may finally have a name, a test, and a treatment.",
-          "pitch_angle": "A new expert consensus formally defines NC-AME, a condition where partial failure of a blood-pressure-regulating enzyme lets cortisol quietly act like a mineralocorticoid and push blood pressure up \u2014 and the statement notes that sex affects how this enzyme functions. For women with low-renin hypertension that hasn't responded to standard drugs, this framework could eventually open the door to a more targeted diagnosis."
-        },
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Your Stress Hormone Might Be Secretly Raising Your Blood Pressure \u2014 Here's What Experts Just Figured Out",
-          "hook": "A newly defined syndrome shows that cortisol \u2014 yes, the stress hormone \u2014 can hijack receptors in the kidney and drive blood pressure up, and for years there was no official name for it.",
-          "pitch_angle": "Scientists have formally codified a syndrome called NC-AME, where a partially faulty enzyme allows cortisol to masquerade as a blood-pressure-raising hormone, and they've laid out for the first time how to diagnose and treat it. Because sex influences this enzyme's activity, the condition may look different in women \u2014 making this consensus statement a meaningful step toward catching more cases that have historically been written off as 'essential' hypertension."
+          "headline": "Your Blood Pressure Medication Isn't Working \u2014 Could a Cortisol Problem Be Why?",
+          "hook": "A newly defined hormonal syndrome \u2014 where cortisol hijacks receptors meant for aldosterone \u2014 may be quietly driving blood pressure up in millions of people whose hypertension has no clear cause.",
+          "pitch_angle": "Endocrinologists have formally named and defined NC-AME, a condition where a partially faulty enzyme lets cortisol behave like a blood-pressure-raising hormone, and they've laid out a diagnostic roadmap for the first time. Because sex affects how the enzyme works, women with stubborn hypertension and low renin levels may warrant a closer look at this overlooked mechanism."
         }
       ],
-      "run_date": "2026-11-03",
+      "run_date": "2026-11-04",
       "category": "Endocrinology & Metabolism",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42950944",
-      "headline": "A standard IVF embryo-transfer method is associated with higher preeclampsia risk \u2014 and the usual early-warning scan may miss it",
+      "headline": "Standard preeclampsia screening may miss risk in IVF pregnancies conceived without ovulation",
       "journal": "Fertility and Sterility",
       "pubdate": "2026 Oct 28",
       "doi": "10.1016/j.fertnstert.2026.10.017",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 3,651 singleton pregnancies at a Belgian university hospital to examine whether the standard first-trimester uterine artery Doppler screen for preeclampsia risk works equally well across different conception methods. They found that the uterine artery pulsatility index \u2014 a key screening marker \u2014 was not associated with preeclampsia in pregnancies conceived via programmed-cycle frozen embryo transfer (the most common IVF method), unlike in naturally conceived pregnancies. Despite showing a lower pulsatility index (typically a reassuring sign), women who conceived via programmed-cycle frozen embryo transfer actually had higher preeclampsia rates, suggesting the standard screening tool may give false reassurance in this group.",
-      "why_it_matters": "As frozen embryo transfer becomes increasingly common, this finding suggests the standard preeclampsia screening approach used in the first trimester may not adequately identify risk in women who conceived this way \u2014 a critical gap for IVF patients and their care teams.",
-      "caveats": "single-center, observational design, retrospective cohort, short follow-up",
+      "summary": "Researchers conducted a single-center retrospective cohort study of 3,651 singleton pregnancies at University Hospital Brussels, comparing first-trimester uterine artery Doppler measurements across five conception modes (natural, ovulation induction/IUI, fresh embryo transfer, programmed-cycle frozen embryo transfer, and natural-cycle frozen embryo transfer). The key first-trimester screening marker \u2014 uterine artery pulsatility index \u2014 predicted preeclampsia risk in naturally conceived pregnancies but failed to do so in pregnancies conceived via programmed-cycle frozen embryo transfer (which suppresses ovulation). Despite showing lower pulsatility index values, programmed-cycle frozen embryo transfer pregnancies had significantly higher preeclampsia incidence, suggesting the standard screening tool gives a falsely reassuring reading in this group.",
+      "why_it_matters": "Women who conceive via programmed frozen embryo transfer \u2014 a common IVF protocol \u2014 may be at higher preeclampsia risk than standard first-trimester screening suggests, pointing to a potential gap in prenatal care for this growing population.",
+      "caveats": "observational design, single-center, retrospective cohort",
       "fact_check_note": "",
-      "relevance_score": 9,
-      "relevance_score_reason": "Counterintuitive finding, large female cohort, reproductive health, strong clinical implications for IVF patients.",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive IVF/preeclampsia finding; large N, reproductive health, strong pitch hook.",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine",
-          "headline": "If You Got Pregnant Through IVF, Your Preeclampsia Screening May Not Be Telling the Full Story",
-          "hook": "A routine first-trimester scan used to predict preeclampsia risk may not work properly for pregnancies conceived through the most common type of frozen embryo transfer \u2014 and a new study suggests those women may actually be at higher risk.",
-          "pitch_angle": "Researchers found that women who conceived via programmed-cycle frozen embryo transfer had lower scores on the standard preeclampsia screening marker \u2014 which usually signals lower risk \u2014 yet went on to develop preeclampsia at higher rates. The finding raises urgent questions about whether current prenatal screening protocols are adequate for the growing number of women who conceive through IVF."
+          "publication_type": "Prevention / Health.com",
+          "headline": "If You Got Pregnant Through Frozen Embryo Transfer, Your Preeclampsia Screening May Not Be Telling the Full Story",
+          "hook": "A key blood-flow measurement used to screen for preeclampsia in the first trimester appears to miss elevated risk in women who conceived via a common IVF protocol.",
+          "pitch_angle": "A large Belgian study found that the standard first-trimester Doppler screening marker failed to flag preeclampsia risk in pregnancies conceived through programmed frozen embryo transfer, even though those pregnancies had significantly higher rates of the dangerous condition \u2014 raising questions about whether IVF patients need a different screening approach."
         },
         {
           "publication_type": "Well+Good",
-          "headline": "This Common IVF Technique May Come With a Hidden Pregnancy Risk Doctors Aren't Catching",
-          "hook": "Programmed-cycle frozen embryo transfer is the go-to method for many IVF clinics \u2014 but a new study suggests it may be associated with a higher risk of preeclampsia that standard early pregnancy screening fails to detect.",
-          "pitch_angle": "The research found that the uterine artery scan used to flag preeclampsia risk in the first trimester gave misleadingly low-risk readings in women who conceived through this IVF method, even as they developed preeclampsia at higher rates. For the millions of women undergoing frozen embryo transfers each year, the finding highlights the importance of talking to your OB about whether standard screening is enough."
+          "headline": "Your IVF Protocol Could Affect Your Preeclampsia Risk \u2014 and Your Doctor's Screening Tool May Not Catch It",
+          "hook": "The type of IVF cycle used to conceive may quietly shape vascular changes in early pregnancy in ways that standard prenatal screening wasn't designed to detect.",
+          "pitch_angle": "New research suggests that suppressing ovulation during frozen embryo transfer cycles alters early uterine blood flow in ways that look low-risk on standard scans but are associated with higher rates of preeclampsia \u2014 an early clue that how you conceived may matter as much as whether you're pregnant."
         }
       ],
-      "run_date": "2026-11-03",
+      "run_date": "2026-11-04",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42955080",
-      "headline": "A fracture follow-up program cut repeat broken bones nearly in half \u2014 but only after the first year, not before",
+      "headline": "Fracture prevention program cuts re-break risk by 70% \u2014 but only after the two-year mark",
       "journal": "Osteoporosis International",
       "pubdate": "2026 Oct 28",
       "doi": "10.1007/s00198-026-08276-z",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers evaluated a hospital-based Fracture Liaison Service (FLS) at Westmead Hospital in Western Sydney, Australia, comparing three-year refracture rates in 279 patients who completed the program versus 127 controls who did not engage. At three years, refracture rates were 10.4% in FLS patients versus 23.6% in controls \u2014 a roughly 70% reduction in risk between years one and three. No benefit was seen at one year, suggesting anti-fracture protection from the program requires time to establish.",
-      "why_it_matters": "Because osteoporosis and fragility fractures disproportionately affect postmenopausal women, this finding suggests that staying enrolled in structured fracture prevention programs \u2014 even when results aren't immediate \u2014 may meaningfully lower the risk of a second, potentially more debilitating break.",
-      "caveats": "observational design, single-center, self-reported outcomes, no sex-disaggregated data reported, control group comprised non-attenders rather than randomized controls",
+      "summary": "Researchers evaluated a hospital-based Fracture Liaison Service (FLS) at Westmead Hospital in Western Sydney over three years, comparing 279 patients who engaged with the service against 127 who did not (N=406, mixed sex, socioeconomically disadvantaged population). The FLS used an automated ICD-10/SNOMED fracture-detection tool to identify and manage patients after a minimal-trauma fracture. At three years, patients in the FLS had significantly lower refracture rates (10.4% vs 23.6%), representing roughly a 70% reduction in risk \u2014 yet no benefit was seen at one year, suggesting the program's protective effect takes time to materialize.",
+      "why_it_matters": "Because women bear a disproportionate burden of osteoporotic fractures, findings suggesting that structured follow-up care dramatically reduces repeat fractures \u2014 if sustained beyond two years \u2014 could inform how women advocate for post-fracture care.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, non-randomized control group (lost to follow-up / non-attenders), Australia-specific health system context",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Strong osteoporosis/women's health relevance; observational design and no sex-disaggregated data limit score.",
+      "relevance_score_reason": "Bone health relevant to women but no sex-disaggregated data and observational design.",
       "pitch_angles": [
         {
           "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Breaking a Bone Once Doubles Your Risk of Breaking Another \u2014 This Hospital Program Cut That Risk by 70%",
-          "hook": "A structured fracture follow-up program slashed the odds of a second broken bone nearly in half \u2014 but only if patients stayed enrolled past the one-year mark.",
-          "pitch_angle": "Australian researchers found that patients who completed a hospital-run osteoporosis program after a fragility fracture had a 70% lower risk of re-fracture between years one and three, compared to those who dropped out or declined. The catch: there was zero benefit in the first year, meaning patience and persistence with these programs \u2014 not just showing up once \u2014 may be what actually protects bone health long-term."
-        },
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "Why Bone-Health Programs Take More Than a Year to Actually Work \u2014 and Why That Shouldn't Stop You",
-          "hook": "A new study found that a specialized fracture prevention clinic had no measurable effect on re-injury for a full year \u2014 then dramatically cut the risk of another broken bone in the years that followed.",
-          "pitch_angle": "For postmenopausal women who've already suffered one fracture, a structured Fracture Liaison Service was associated with dramatically fewer subsequent breaks \u2014 but the benefits only kicked in after the first 12 months. The finding reframes what 'working' looks like for osteoporosis care, and may help explain why women abandon programs before they see results."
+          "headline": "Breaking a Bone Once Shouldn't Mean Breaking Another \u2014 This Program Cuts Re-Fracture Risk Almost in Half",
+          "hook": "A hospital follow-up program slashed the odds of a second fracture by roughly 70% \u2014 but only if patients stayed engaged for more than a year.",
+          "pitch_angle": "Researchers found that a structured fracture liaison service dramatically reduced repeat fractures in older adults, but the benefit didn't appear until after the first year \u2014 a counterintuitive finding that challenges the assumption that bone-protection interventions work quickly. For the many women who fracture a wrist or hip after menopause, this research suggests that long-term, sustained care coordination may be what actually prevents the next break."
         }
       ],
-      "run_date": "2026-11-03",
+      "run_date": "2026-11-04",
       "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42370714",
+      "headline": "No Major Birth Defects Found in Babies Born to Women Who Took a Popular Antidepressant in Early Pregnancy \u2014 But the Sample Is Small",
+      "journal": "Journal of Clinical Psychopharmacology",
+      "pubdate": "2026 Nov-Dec",
+      "doi": "10.1097/JCP.0000000000002221",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Massachusetts General Hospital prospectively tracked 56 pregnant women who took vortioxetine during the first trimester through the MGH National Pregnancy Registry for Psychiatric Medications, assessing for major congenital malformations confirmed by postpartum interview, medical records, and a blinded dysmorphologist. Among all 56 evaluable pregnancies, no major malformations were observed. These are the first prospectively collected, rigorously ascertained human data on vortioxetine's fetal safety during early pregnancy.",
+      "why_it_matters": "Because depression is common among women of reproductive age and vortioxetine is widely prescribed, these early reassuring data are directly relevant to the millions of women who may face a treatment decision during pregnancy.",
+      "caveats": "small sample (N<100), single-center, short follow-up, observational design",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "First prospective human fetal safety data on vortioxetine; directly relevant reproductive-age women's health finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Taking This Antidepressant in Early Pregnancy? Early Data Show No Major Birth Defects \u2014 Here's What to Know",
+          "hook": "For the first time, researchers have prospectively tracked pregnancies in women taking vortioxetine in the first trimester \u2014 and found no major birth defects among 56 babies.",
+          "pitch_angle": "Depression affects roughly one in five women of reproductive age, and vortioxetine is an increasingly common prescription \u2014 yet until now, virtually no rigorous human safety data existed for pregnancy. This first-of-its-kind prospective case series from MGH's national registry is reassuring, though the small sample means women and their doctors should still approach the decision carefully."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "If You Take This Antidepressant and Want to Get Pregnant, Here's What New Research Says",
+          "hook": "A new study offers the first real-world pregnancy safety data on vortioxetine \u2014 an antidepressant many women of reproductive age take \u2014 and the early findings are cautiously reassuring.",
+          "pitch_angle": "Researchers prospectively followed 56 women who took vortioxetine during the first trimester of pregnancy and found no major birth defects \u2014 a meaningful first step given that prior reproductive safety data were nearly nonexistent. Experts caution the sample is small, but the findings give women and their doctors a starting point for an informed conversation about managing depression during pregnancy."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42975960",
+      "headline": "Having Both Alzheimer's and Parkinson's Proteins in the Brain Doesn't Necessarily Speed Up Memory Loss \u2014 At Least Not Yet",
+      "journal": "Alzheimer Disease and Associated Disorders",
+      "pubdate": "2026 Nov 4",
+      "doi": "10.1097/WAD.0000000000000762",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tracked 246 dementia-free Parkinson's disease patients from the Parkinson Precision Medicine Initiative over nearly 13 years, measuring both Alzheimer's biomarkers (CSF pTau181/A\u03b242 ratio) and alpha-synuclein status across seven cognitive domains. While a cross-sectional interaction between the two pathologies was confirmed, no longitudinal interaction survived statistical correction, meaning having both biomarkers did not clearly accelerate cognitive decline over time. The study also found that detecting such interactions would require 400\u20131,000+ participants in future trials.",
+      "why_it_matters": "For women, who face higher lifetime risk of both Alzheimer's and Parkinson's, this finding suggests current biomarker combinations may not reliably predict who will decline faster \u2014 which matters for future clinical trial design.",
+      "caveats": "observational design, no sex-disaggregated data, secondary analysis, short follow-up relative to disease course",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive finding but no sex-disaggregated data; limited women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Having Both Alzheimer's and Parkinson's Brain Proteins Doesn't Automatically Mean Faster Memory Loss, Study Finds",
+          "hook": "Scientists assumed having hallmarks of both Alzheimer's and Parkinson's in the brain would fast-track memory decline \u2014 a new 13-year study suggests it's not that simple.",
+          "pitch_angle": "A large longitudinal study found that carrying both Alzheimer's and Parkinson's biomarkers didn't significantly accelerate cognitive decline in Parkinson's patients, overturning a reasonable assumption. For readers concerned about brain aging, this underscores that biomarker combinations are far more complex than a simple 'double hit' model."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42977158",
+      "headline": "A four-factor nutrition score predicts whether GI surgery patients go home or to a facility \u2014 and surgeons could use it before the first incision",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Nov 3",
+      "doi": "10.1016/j.clnesp.2026.105233",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed and validated a risk index \u2014 combining BMI, weight loss, albumin level, and age \u2014 to predict whether patients would be discharged home or to a care facility after elective gastrointestinal surgery. The study analyzed over 255,000 adult patients in the NSQIP national database (2015\u20132020), split into training and validation cohorts. The mGLIM Risk Index showed strong predictive accuracy (AUC ~0.81), suggesting preoperative nutrition status meaningfully shapes where patients end up after surgery.",
+      "why_it_matters": "Women undergoing GI surgery \u2014 who are often older and at higher malnutrition risk \u2014 could benefit from nutrition-focused preoperative planning that this tool is designed to support.",
+      "caveats": "observational design, no sex-disaggregated data, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Surgical outcomes tool; no female-specific analysis; limited women's wellness hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Your Nutrition Status Before Surgery May Determine Where You Wake Up Afterward",
+          "hook": "A simple four-factor score assessed before GI surgery can predict whether a patient goes home or to a rehab facility \u2014 and malnutrition is at the center of it.",
+          "pitch_angle": "Researchers found that low BMI, recent weight loss, low albumin, and age together powerfully predict post-surgical discharge destination. For the many women who undergo GI procedures, the finding underscores that going into surgery well-nourished may matter as much as the procedure itself."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42978115",
+      "headline": "Black women navigating infertility often look beyond medicine \u2014 and their reasons why reveal gaps in standard care",
+      "journal": "Journal of Women's Health",
+      "pubdate": "2026 Nov 3",
+      "doi": "10.1177/15409996261503831",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted in-depth surveys and semi-structured interviews with 40 Black women aged 25\u201345 who had a history of fertility challenges, as part of the Fertility Equity Study (2021\u20132023). Participants identified five main perceived causes of their fertility challenges, with clinically diagnosed conditions (e.g., fibroids) most common, followed by age, unknown causes, structural barriers like limited access to Black donor sperm, and stress. About one-third combined medically assisted reproduction with holistic approaches such as herbal teas, and none who relied solely on holistic methods attributed their challenges to diagnosed reproductive conditions.",
+      "why_it_matters": "These findings suggest that fertility care failing to integrate holistic and culturally resonant approaches may leave Black women feeling unseen and underserved during an already difficult process.",
+      "caveats": "small sample (N<100), qualitative design, single geographic focus (U.S.), self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong reproductive health topic fit; qualitative design and small N limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Black Women Are Combining IVF With Herbal Remedies \u2014 and Fertility Doctors Need to Pay Attention",
+          "hook": "One-third of Black women in a fertility study used both medical and holistic treatments \u2014 and their care often didn't acknowledge both.",
+          "pitch_angle": "A new qualitative study found that many Black women navigating infertility blend medically assisted reproduction with herbal and spiritual practices, yet fertility clinics rarely account for this. The finding points to a meaningful gap between what patients actually need and what standard infertility care offers."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Hidden Ways Black Women Are Being Failed by Fertility Medicine",
+          "hook": "From fibroids to limited access to Black donor sperm, Black women describe fertility barriers that go far beyond biology.",
+          "pitch_angle": "A new study reveals that Black women perceive their fertility challenges through a lens that includes structural racism \u2014 such as the scarcity of Black sperm donors \u2014 alongside clinical diagnoses. It's a sharp reminder that fertility care was not designed with Black women's full reality in mind."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42709505",
+      "headline": "Tracking blood proteins over time \u2014 not just once \u2014 reveals four times more diabetes warning signs",
+      "journal": "Diabetes",
+      "pubdate": "2026 Nov 1",
+      "doi": "10.2337/db26-0148",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed blood protein levels at three time points over roughly 16 years in 5,322 adults (mean baseline age 61.7 years) from the Multi-Ethnic Study of Atherosclerosis (MESA), a diverse US cohort. Using repeated proteomic measurements rather than a single snapshot, they identified up to four times more protein biomarkers associated with incident type 2 diabetes. The longitudinal approach also uncovered distinct biological pathways \u2014 such as protein processing and cellular structure regulation \u2014 that single time-point analyses missed entirely.",
+      "why_it_matters": "For women, who face unique diabetes risk trajectories tied to hormonal shifts across the lifespan, findings like these could eventually lead to earlier, more personalized risk detection.",
+      "caveats": "observational design, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large diverse human cohort, clean longitudinal design; no female-specific analysis reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "A Single Blood Test for Diabetes Risk Misses Most of the Picture, New Study Finds",
+          "hook": "Tracking proteins in the blood over years \u2014 instead of just once \u2014 uncovers four times more early warning signs of type 2 diabetes.",
+          "pitch_angle": "A large, long-running study of 5,000-plus adults found that repeated protein measurements over time reveal biological clues to diabetes risk that a one-time test simply cannot see, suggesting that the future of diabetes prevention may depend on watching how our biology changes \u2014 not just where it stands on a single day."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42411950",
+      "headline": "Men's quality of life during fertility workup shifts dramatically depending on where they are in the process \u2014 and their partner's status matters too",
+      "journal": "Asian Journal of Andrology",
+      "pubdate": "2026 Nov 1",
+      "doi": "10.4103/aja2025112",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a panel study from Poland, 185 men aged 22\u201350 (mean 30.4 years) undergoing their first fertility workup at an andrology clinic completed the Fertility Quality of Life (FertiQoL) questionnaire at four time points across their diagnostic and early treatment journey. Researchers found that fertility-related quality of life was shaped by a combination of demographic factors (age, finances) and fertility-specific variables \u2014 notably the female partner's age and the gap between when the female versus male partner began their own fertility evaluation. These factors shifted in importance depending on where the man was in the process.",
+      "why_it_matters": "For women navigating infertility with a male partner, this study suggests that the timing and sequencing of each partner's workup may affect the male partner's emotional wellbeing \u2014 a dynamic that could inform more couple-centered fertility care.",
+      "caveats": "small sample (N=185), single-center, Poland only, convenience sample, self-reported outcomes, no sex-disaggregated data (male-only sample with female partner variables as predictors only)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Fertility topic with couples relevance; male-only sample and single-center limit women's health pitch.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Going Through Fertility Treatments? Your Partner's Emotional Wellbeing Is Tied to Your Timeline Too",
+          "hook": "A new study found that how a man feels about his quality of life during fertility workup is significantly shaped by his female partner's age and when she started her own fertility evaluation.",
+          "pitch_angle": "Research tracking men through four stages of fertility diagnosis found that couple dynamics \u2014 not just individual factors \u2014 drive emotional wellbeing during infertility treatment, suggesting that fertility care should address both partners' experiences simultaneously."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786378",
+      "headline": "A two-injection fertility preservation protocol matches conventional IVF stimulation in egg yield \u2014 but falls just short of proving equivalence",
+      "journal": "Human Reproduction",
+      "pubdate": "2026 Nov 1",
+      "doi": "10.1093/humrep/deag142",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This Phase III randomized controlled trial enrolled 194 women aged \u226440 undergoing elective egg freezing at a Barcelona fertility center, comparing a novel two-shot ovarian stimulation protocol (two sequential injections of corifollitropin alfa) against a conventional daily-injection protocol. The mean number of mature (MII) oocytes retrieved was statistically similar between groups (6.14 vs 7.19), but the study did not meet its pre-specified non-inferiority threshold, meaning the two-shot protocol cannot be formally declared equivalent. No meaningful differences were found in stimulation duration, follicle counts, or most hormonal markers.",
+      "why_it_matters": "For women pursuing elective egg freezing, a protocol requiring only two injections instead of multiple daily shots could substantially reduce treatment burden \u2014 but this trial's results suggest it needs further study before it can confidently replace standard protocols.",
+      "caveats": "single-center, limited to elective fertility preservation population, non-inferiority not met",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "RCT, women-only sample, fertility health hook; non-inferiority not met limits clinical takeaway.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Shape",
+          "headline": "Could Egg Freezing Get a Lot Less Painful? A New Two-Shot Protocol Looks Promising \u2014 With a Catch",
+          "hook": "Researchers tested whether women could get through an entire egg-freezing cycle with just two injections instead of daily shots \u2014 and the results are intriguing, even if not yet definitive.",
+          "pitch_angle": "A Spanish RCT found that a two-injection ovarian stimulation protocol produced a comparable number of mature eggs to the standard daily-injection approach, though it fell just short of formally proving equivalence \u2014 meaning the simpler protocol shows real promise for reducing the daily needle burden of egg freezing, but isn't ready to replace standard care yet."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42757824",
+      "headline": "Scientists find two hidden reservoirs in the male reproductive tract that may explain why Zika lingers in semen for months",
+      "journal": "Human Reproduction",
+      "pubdate": "2026 Nov 1",
+      "doi": "10.1093/humrep/deag141",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using novel organotypic cultures of human efferent duct and epididymis tissue from 11 post-mortem male donors, French researchers mapped exactly where Zika virus replicates and persists in the male genital tract. They found that Zika infects the efferent duct epithelium and sustains replication there for the full 9-day culture period, while also infecting stromal macrophages in the epididymis corpus. Both tissue segments showed weak antiviral immune responses and no overt cell death, suggesting Zika uses a stealth, non-cytopathic infection strategy to persist.",
+      "why_it_matters": "Identifying these specific tissue reservoirs offers a mechanistic explanation for why Zika can be sexually transmitted by men long after symptoms resolve \u2014 a risk directly relevant to women of reproductive age and pregnancy planning.",
+      "caveats": "small sample (N<100), ex vivo/tissue study (not in vivo), cannot replicate systemic viral entry or immune infiltration",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Reproductive health relevance for women; ex vivo tissue study limits clinical translation.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "New Research Explains Why Zika Can Still Be Sexually Transmitted Months After a Man Recovers",
+          "hook": "Scientists have pinpointed two specific sites in the male reproductive tract where Zika virus hides out \u2014 and the virus appears to do so without triggering an immune alarm.",
+          "pitch_angle": "A human tissue study found that Zika sustains silent replication in the efferent ducts and epididymis long after acute infection, providing the first cellular explanation for prolonged semen shedding \u2014 a finding with direct implications for women planning pregnancy in regions where Zika circulates."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42815105",
+      "headline": "991 personal addiction stories reveal an eight-stage path from childhood trauma to recovery \u2014 and structural barriers matter as much as motivation",
+      "journal": "International Journal of Drug Policy",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.drugpo.2026.105521",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed 991 first-person interview transcripts from the publicly available Soft White Underbelly YouTube series using grounded theory coding and large language model-assisted text processing across approximately 3.9 million words. The analysis identified eight sequential stages of substance use disorder, from early developmental vulnerability through relapse or stabilization. A key finding was that structural barriers \u2014 including stigma, lack of identification documents, and limited care access \u2014 systematically blocked treatment regardless of an individual's motivation to recover.",
+      "why_it_matters": "Women with substance use disorder face compounding structural barriers \u2014 including childcare, domestic violence, and stigma \u2014 that this model identifies as independently preventing recovery even when motivation is present.",
+      "caveats": "observational design, self-reported outcomes, no sex-disaggregated data, qualitative design, convenience sample (YouTube series participants), potential selection bias toward severe cases",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large narrative sample; structural barriers angle relevant to women; no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Nearly 1,000 Addiction Stories Reveal the Real Reason People Can't Get Help \u2014 and It's Not Willpower",
+          "hook": "Analysis of nearly 1,000 first-person addiction narratives found that structural obstacles \u2014 not lack of motivation \u2014 are what most reliably keep people from getting treatment.",
+          "pitch_angle": "A sweeping qualitative study mapped addiction from first exposure to recovery across eight stages and found that missing ID documents, stigma, and inaccessible care create 'exclusion loops' that shut people out of treatment regardless of how ready they are \u2014 a pattern that disproportionately affects women navigating caregiving, poverty, and abuse."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42804809",
+      "headline": "Brain's waste-clearing system shows different breakdown patterns depending on when schizophrenia first strikes",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.schres.2026.09.024",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used a brain-imaging marker (DTI-ALPS) as an indirect measure of glymphatic \u2014 the brain's waste-clearance \u2014 function in 195 first-episode schizophrenia patients (103 early-onset, 92 adult-onset) and 191 matched healthy controls at a Chinese university hospital. Adult-onset patients showed significantly lower ALPS indices than both early-onset patients and older healthy controls, particularly in the right hemisphere. Lower right-hemisphere ALPS scores in adult-onset patients were also associated with more severe hallucinations.",
+      "why_it_matters": "Women with schizophrenia often have later onset than men, so findings that adult-onset schizophrenia involves distinct brain-fluid dynamics could eventually inform sex-sensitive treatment approaches \u2014 though this study did not analyze results by sex.",
+      "caveats": "observational design, single-center, no sex-disaggregated data, China-specific sample, indirect glymphatic marker only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting neuroscience finding; no sex-disaggregated data limits women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Your Brain Has a Built-In Cleaning System \u2014 And a New Study Links Its Breakdown to When Schizophrenia Begins",
+          "hook": "The brain's waste-flushing system appears to malfunction differently depending on whether schizophrenia develops in adolescence or adulthood \u2014 a finding that could help explain why the two groups often look so different clinically.",
+          "pitch_angle": "Using a specialized MRI technique, researchers found that adults who develop schizophrenia for the first time show greater impairment in the brain's glymphatic drainage pathways than teens who develop it early \u2014 and those impairments tracked with worse hallucinations. The finding suggests schizophrenia isn't one disease but several, with different biological clocks."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42800290",
+      "headline": "An immune molecule may explain why high prolactin worsens psychosis symptoms in untreated schizophrenia",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.schres.2026.09.031",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers measured prolactin levels and inflammatory cytokines in 50 first-episode, drug-naive schizophrenia patients and 52 healthy controls at a single center in Guangzhou, China. Within the patient group (sex breakdown not specified), lower IL-17 levels were nominally associated with both higher prolactin and more severe positive symptoms. A mediation analysis found preliminary evidence that IL-17 may serve as a link between prolactin dysregulation and symptom severity, independent of antipsychotic medication effects.",
+      "why_it_matters": "Because prolactin is chronically elevated by many antipsychotic medications commonly prescribed to women, understanding how it may worsen psychosis symptoms through immune pathways could eventually inform safer treatment strategies.",
+      "caveats": "small sample (N<100), observational design, single-center, cross-sectional design, no sex-disaggregated data, exploratory/nominal associations only, non-US population (China)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Prolactin angle is women's-health adjacent, but tiny mixed-sex sample with no sex-disaggregated data limits pitch utility.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Could a Stress Hormone Be Making Schizophrenia Symptoms Worse? New Research Points to an Immune Connection",
+          "hook": "Prolactin \u2014 the same hormone that spikes during stress and breastfeeding \u2014 may be quietly fueling psychosis symptoms through an unexpected immune pathway.",
+          "pitch_angle": "Early-stage research suggests that elevated prolactin, which is also raised by many psychiatric medications widely used in women, may worsen psychotic symptoms by suppressing an inflammation-related molecule called IL-17. The finding is preliminary and needs replication, but it opens a new window into why some women on antipsychotics may experience persistent symptoms despite treatment."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42759449",
+      "headline": "A Negativity Bias Toward Faces May Partly Explain Why Ethnic Minority Groups Face Higher Psychosis Risk \u2014 But the Effect Is Small",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.schres.2026.09.011",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed data from 1,035 people with first-episode psychosis and 1,382 controls across five European countries and Brazil, examining whether negativity bias and facial affect recognition mediated the link between ethnic minority status and psychosis risk. Modest indirect effects of negativity bias were found in Black participants, and facial affect recognition effects were found in both Black and Mixed-heritage participants. However, most effects were attenuated after adjusting for processing speed, and all indirect effects were described as modest.",
+      "why_it_matters": "Because women of color face compounded social stressors, understanding the cognitive-affective pathways linking discrimination and psychosis risk is especially relevant for mental health equity discussions.",
+      "caveats": "observational design, no sex-disaggregated data, modest effect sizes, self-reported outcomes",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Multicountry, large N, relevant mental health equity angle; no sex-disaggregated data reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut",
+          "headline": "Why Racism May Rewire How We Read Faces \u2014 and Raise Psychosis Risk",
+          "hook": "A new multinational study finds that repeatedly experiencing social adversity may train the brain to interpret neutral faces as threatening \u2014 and that bias may partly explain why ethnic minority groups face higher rates of psychosis.",
+          "pitch_angle": "Drawing on data from over 2,400 people across Europe and Brazil, researchers found that negativity bias \u2014 interpreting ambiguous facial expressions as hostile \u2014 appears to partly mediate elevated psychosis risk among Black and Mixed-heritage individuals. The finding is modest and correlational, but opens a culturally relevant conversation about how chronic discrimination leaves measurable marks on mental health."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Brain Might Learn to Read Threat Into Neutral Faces After Years of Social Stress \u2014 Here's What That Means for Mental Health",
+          "hook": "Chronic exposure to discrimination may gradually shift how the brain processes other people's facial expressions, and a new study links that shift to higher psychosis risk in ethnic minority communities.",
+          "pitch_angle": "A large case-control study found that negativity bias in reading faces may serve as a cognitive pathway connecting experiences of social adversity to first-episode psychosis. While effects were small and causality can't be established, the research adds scientific weight to the idea that social environments shape mental health in deeply biological ways."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42704947",
+      "headline": "Removing ovaries in a rat model of schizophrenia risk reverses brain-signaling deficits \u2014 pointing to estrogen's complex role in psychosis",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.schres.2026.09.002",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Australian researchers used a rat model of schizophrenia risk (maternal immune activation via poly(I:C) injection during pregnancy) to study ovarian hormones' role in sensory-gating deficits in female offspring. Adult female rats exposed prenatally to immune activation showed reduced prepulse inhibition (a marker of sensory-gating impairment linked to schizophrenia) and blunted dopamine and NMDA receptor responses; removing their ovaries (ovariectomy) normalized these effects. The findings suggest that ovarian steroids \u2014 likely estrogen \u2014 interact with prenatal immune stress to shape schizophrenia-relevant brain function in females.",
+      "why_it_matters": "Because women's risk for psychosis and their response to antipsychotic treatment shifts with hormonal milestones like puberty, pregnancy, and menopause, understanding how ovarian hormones modulate schizophrenia-related brain circuits could eventually inform sex-specific treatments.",
+      "caveats": "animal or cell study",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant women's health mechanism; animal-only study significantly limits translatability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Estrogen May Be Playing a Hidden Role in Women's Risk for Psychosis, Animal Research Suggests",
+          "hook": "Removing the ovaries of female rats bred to be at risk for schizophrenia actually normalized their brain signaling \u2014 a counterintuitive result that deepens the mystery of how female hormones shape psychosis risk.",
+          "pitch_angle": "Early animal research suggests the relationship between estrogen and schizophrenia risk in women may be more complicated than 'estrogen is protective' \u2014 in a prenatal-stress rat model, ovarian hormones appeared to worsen sensory-gating deficits associated with psychosis. Though the study is in rats and cannot be applied to humans yet, it adds to a growing body of science exploring why women's psychosis risk and symptoms shift across hormonal life stages."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42686059",
+      "headline": "One in eight women still has perineal pain three months after vaginal birth \u2014 and it's limiting daily life",
+      "journal": "Journal of Gynecology Obstetrics and Human Reproduction",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.jogoh.2026.103270",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a prospective cohort study, 106 women who delivered vaginally in Spain were assessed at eight time points over 90 days postpartum using structured questionnaires measuring perineal pain intensity, location, and functional impact. At 15 days postpartum, 78% of women reported perineal pain; by 30 days, 50% still did; and at 90 days, 13.3% reported persistent pain. Approximately one-third of women reported limitations in sitting, standing, or walking, and those with persistent pain were less likely to have resumed sexual activity.",
+      "why_it_matters": "These findings suggest that postpartum perineal pain is far more persistent and functionally disruptive than commonly recognized, affecting mobility, daily activity, and sexual health for months after childbirth.",
+      "caveats": "small sample (N=106), single-center, self-reported outcomes, Spain only (may not generalize broadly)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Postpartum health, strong lifestyle relevance, underreported topic; small sample limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Postpartum Pain Down There Lasts Way Longer Than Anyone Tells You",
+          "hook": "Three months after giving birth vaginally, 1 in 8 women still reports perineal pain \u2014 and for many, it was making it hard to sit, walk, or have sex.",
+          "pitch_angle": "A new study tracking women over 90 days after vaginal delivery found that perineal pain is severely underestimated in postpartum care, with real impacts on mobility and sexual health that linger well past the standard six-week checkup."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Postpartum Recovery Problem Nobody Talks About \u2014 and Why It Matters for Your Whole Body",
+          "hook": "Half of women still had perineal pain a month after vaginal birth, and roughly a third couldn't sit or walk comfortably \u2014 yet this is rarely addressed in standard postpartum care.",
+          "pitch_angle": "New research maps exactly where postpartum perineal pain shows up, how long it lasts, and how deeply it affects daily functioning, making a case for more thorough and extended postpartum physical support beyond the typical six-week visit."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42668117",
+      "headline": "Testosterone is not reliable contraception \u2014 and transgender men face serious legal and medical barriers to managing pregnancy",
+      "journal": "Journal of Gynecology Obstetrics and Human Reproduction",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.jogoh.2026.103263",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "French clinicians analyzed three real clinical cases involving transgender men \u2014 an abortion, a medical termination of pregnancy, and a continued pregnancy \u2014 to examine the medical, legal, and ethical challenges they face in France following the 2016 legal reform allowing transgender men to retain reproductive organs. The analysis, contrasted with existing literature, found that testosterone does not reliably suppress fertility, and that transgender men encounter significant barriers including lack of awareness of reproductive risks, legal obstacles to abortion access, bodily dysphoria during pregnancy, and limited use of oocyte cryopreservation. The authors call for multidisciplinary, inclusive care that keeps pace with evolving legislation.",
+      "why_it_matters": "This case-based analysis highlights that transgender men can and do become pregnant, often without adequate contraceptive counseling, underscoring the need for inclusive reproductive healthcare that addresses their specific medical and legal vulnerabilities.",
+      "caveats": "small sample (N=3 cases), single-center, France-specific legal context limits direct generalizability to US/global readers, qualitative/case study design",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Transgender reproductive health, timely and underreported; case-study design and France-specific law limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Testosterone Isn't Birth Control \u2014 and Transgender Men Are Being Left Without Options",
+          "hook": "A new analysis of real clinical cases found that transgender men are becoming pregnant while on testosterone, often unaware of the reproductive risks and facing legal and medical systems unprepared to help them.",
+          "pitch_angle": "Despite being on hormone therapy, transgender men can still become pregnant \u2014 and this French clinical report reveals they frequently lack access to adequate contraception counseling, face dysphoria during pregnancy, and encounter legal barriers to abortion, calling for a fundamental rethinking of reproductive care for this population."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "The Healthcare System Still Isn't Ready for Pregnant Trans Men",
+          "hook": "Real cases from a French clinic show transgender men facing unintended pregnancies, legal obstacles to abortion, and bodily dysphoria \u2014 all while healthcare and legal systems lag behind.",
+          "pitch_angle": "A new clinical analysis exposes how transgender men fall through the cracks of reproductive healthcare: undertreated for contraception, underprepared for the possibility of pregnancy on testosterone, and under-protected by laws still catching up to their needs."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42673683",
+      "headline": "Being a night owl is linked to worse depression severity \u2014 but only for sleep symptoms, not the full picture",
+      "journal": "Psychiatry Research",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.psychres.2026.117417",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This cross-sectional study examined childhood maltreatment, circadian preference (morning vs. evening type), and inflammation (hs-CRP) in 133 first-episode, drug-na\u00efve patients with major depressive disorder in Turkey. Childhood maltreatment was consistently associated with greater depression severity across both self-reported and clinician-rated scales; evening chronotype was associated with self-reported depression severity but not clinician-rated severity. hs-CRP showed no independent association with depression severity \u2014 BMI was its strongest correlate.",
+      "why_it_matters": "Women are diagnosed with major depressive disorder at nearly twice the rate of men, and understanding how childhood trauma and sleep-wake patterns independently shape symptom severity may inform more targeted treatment approaches.",
+      "caveats": "small sample (N<100 approached but N=133 after exclusions \u2014 borderline), observational design, cross-sectional design, single-center, no sex-disaggregated data, region-specific (Turkey), short follow-up",
+      "fact_check_note": "Sample size is N=133 after exclusions, which clears the N\u2265100 threshold; flagged as borderline. The abstract notes eveningness-sleep association should be interpreted cautiously due to partial content overlap between the chronotype measure and sleep items in depression scales.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Depression highly relevant to women; no sex-disaggregated data; cross-sectional single-center limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Night Owls With Depression Have It Worse \u2014 But Only in One Specific Way",
+          "hook": "A new study found that being an evening person is linked to greater depression severity, but that association narrows down almost entirely to sleep problems when you look closely.",
+          "pitch_angle": "In first-episode depression patients, researchers found childhood trauma was the most consistent driver of overall severity, while evening chronotype only specifically amplified sleep-related symptoms \u2014 suggesting that targeting sleep timing in depression treatment may help, but won't address the full burden for trauma survivors."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42470151",
+      "headline": "Parents of kids with a rare genetic syndrome face more stigma than parents of children with Down syndrome",
+      "journal": "Journal of Intellectual Disability Research",
+      "pubdate": "2026 Nov",
+      "doi": "10.1111/jir.70147",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers surveyed 39 parents (mean age 43.1 years) of children with 1p36 deletion syndrome \u2014 a rare chromosomal condition causing developmental delay and epilepsy \u2014 via a Japanese family association. The study measured psychological distress, well-being, parental strain, self-esteem, and affiliate stigma (internalized shame associated with a family member's condition). Parents of children with 1p36 deletion syndrome reported significantly higher affiliate stigma than parents of children with Down syndrome, and path analysis suggested stigma worsens mental health partly through increased parental strain and lowered self-esteem.",
+      "why_it_matters": "Because mothers disproportionately shoulder caregiving responsibilities, understanding the specific stigma burden tied to rare, lesser-known genetic diagnoses could help target mental health support for this overlooked group.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, no sex-disaggregated data, Japan-specific sample",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Caregiver mental health angle relevant to mothers; very small N, no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping / First for Women",
+          "headline": "Raising a Child With This Rare Syndrome Carries More Stigma Than a Down Syndrome Diagnosis \u2014 And It's Taking a Toll on Parents",
+          "hook": "Parents of children with 1p36 deletion syndrome \u2014 a rare chromosomal condition most people have never heard of \u2014 experience higher levels of shame and social stigma than parents of children with Down syndrome.",
+          "pitch_angle": "A new study found that the obscurity of a child's rare diagnosis may actually amplify a parent's sense of stigma, compounding stress and lowering self-esteem. For the many mothers navigating rare-disease caregiving with little specialist support, the finding underscores how urgently tailored mental health resources are needed."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41801701",
+      "headline": "College students rewrite their reasons for drinking overnight \u2014 and that memory shift may be masking real risk",
+      "journal": "Psychology of Addictive Behaviors",
+      "pubdate": "2026 Nov",
+      "doi": "10.1037/adb0001121",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used 28-day ecological momentary assessments with 95 heavy-drinking college students to compare drinking motives reported at the first drink of the day versus retrospectively the next morning. Students were significantly more likely to report drinking 'for fun' or 'to get high' in next-morning recall than they did at the moment they started drinking. Only the 'high' motive \u2014 when reported at the moment of first drink \u2014 significantly predicted negative consequences, suggesting real-time intent is a stronger risk signal than remembered motivation.",
+      "why_it_matters": "For young women in college, understanding that remembered drinking motivations may be reshaped by the night's events could change how clinicians and campus health programs assess alcohol risk.",
+      "caveats": "small sample (N<100), single-center, observational design, no sex-disaggregated data, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive finding; small sample; no sex-disaggregated data limits women's health applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why You Think You Drank Last Night May Not Be Why You Actually Did",
+          "hook": "A new study found that college students dramatically change their stated reasons for drinking when asked the next morning versus in the moment \u2014 and that shift could be hiding who's really at risk.",
+          "pitch_angle": "Researchers tracked heavy-drinking students in real time and found that motivations reported the morning after were rosier and less predictive of harm than those reported at the first drink; the only reliable red flag was wanting to 'get high' \u2014 noted at the moment it happened, not reconstructed later."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "40377848",
+      "headline": "Autistic adults know they struggle to recognize faces \u2014 and tests confirm they're right",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Nov",
+      "doi": "10.1007/s10803-025-06879-9",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers compared face recognition performance and self-awareness between 50 non-autistic adults and 49 adults diagnosed with Level 1 ASD using the Italian Famous Face Test and the Prosopagnosia Index-20. Autistic participants scored significantly lower on recognizing famous faces and also self-reported greater face recognition difficulties on the awareness measure. Notably, autistic individuals' self-assessments accurately reflected their actual performance deficits, suggesting meaningful metacognitive insight into their own challenges.",
+      "why_it_matters": "For autistic women, who are frequently underdiagnosed, understanding that face recognition struggles are real and self-aware may help validate their social experiences and inform targeted support.",
+      "caveats": "small sample (N<100), single-center, Italy-based sample with Italian famous faces limiting generalizability, no sex-disaggregated data reported",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "No sex-disaggregated data; small Italian sample; limited direct women's health hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Autistic Adults Actually Know They're Bad at Recognizing Faces \u2014 Science Confirms It",
+          "hook": "New research finds autistic adults aren't just struggling with face recognition \u2014 they're accurately aware of that struggle, which could reshape how support is offered.",
+          "pitch_angle": "A small Italian study found autistic adults scored lower on recognizing famous faces and also accurately rated their own difficulties \u2014 meaning self-report tools may be a valid, low-barrier way to identify support needs. For the growing number of women receiving late autism diagnoses, this kind of validated self-awareness could be a meaningful step toward understanding their own social experiences."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "40381091",
+      "headline": "Autistic women struggle more with impulse control than autistic men \u2014 and it's tied to anxiety",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Nov",
+      "doi": "10.1007/s10803-025-06799-8",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed self-reported inhibitory control and anxiety symptoms in 732 autistic adults aged 18\u201383 using an online survey, examining whether assigned sex at birth and ADHD screening status moderated the relationship between impulse control and anxiety. Autistic adults overall reported significantly more inhibitory control difficulties than published norms, and those assigned female reported disproportionately greater difficulties relative to sex-adjusted expectations compared to those assigned male. Greater inhibitory control challenges were associated with greater anxiety symptoms, with ADHD screening status \u2014 but not sex \u2014 moderating that specific relationship.",
+      "why_it_matters": "Autistic women may face an underappreciated double burden of impulse control difficulties and anxiety, suggesting sex-specific support strategies could be meaningful for this underserved group.",
+      "caveats": "observational design, self-reported outcomes, online convenience sample, ADHD assessed by screening tool not clinical diagnosis",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large female-inclusive sample; sex-disaggregated finding; clear anxiety/wellness hook for women.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Autistic Women Face a Bigger Impulse Control Gap Than Autistic Men \u2014 And It's Fueling Anxiety",
+          "hook": "A large study of over 700 autistic adults found that women assigned female at birth struggle disproportionately more with inhibitory control compared to their male counterparts \u2014 and those struggles are closely linked to anxiety.",
+          "pitch_angle": "The research, drawing on 732 autistic adults, found that women's self-reported impulse control difficulties exceeded what norms would predict for their sex \u2014 a finding that could help explain why autistic women so often fly under the diagnostic radar while quietly managing compounding mental health challenges. For women who've received a late autism diagnosis or suspect they're on the spectrum, the anxiety-impulse control link offers a new lens for understanding daily emotional struggles."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Autistic Women May Have a Harder Time with Self-Control \u2014 And What That Means for Their Mental Health",
+          "hook": "New research suggests autistic women experience impulse control challenges at a greater-than-expected rate compared to autistic men, and those challenges are strongly tied to anxiety levels.",
+          "pitch_angle": "A study of 732 autistic adults found women assigned female at birth reported significantly more inhibitory control difficulties relative to sex-based norms than men did \u2014 and greater impulse control struggles correlated with higher anxiety across the board. Experts say this points to a need for sex-specific interventions in autism care, particularly as more women receive diagnoses in adulthood."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42549632",
+      "headline": "Blood microRNA patterns may distinguish a slow-developing form of type 1 diabetes from type 2 \u2014 before insulin secretion fails",
+      "journal": "Journal of Diabetes Investigation",
+      "pubdate": "2026 Nov",
+      "doi": "10.1111/jdi.70402",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed serum expression of 40 microRNAs in 169 Japanese adults with slowly progressive type 1 diabetes (SPIDDM, n=60), type 2 diabetes (n=59), or no diabetes (n=50). They found that four specific miRNAs differed significantly between the SPIDDM and other groups, with three (miR-21-5p, miR-223-3p, miR-517b-3p) independently distinguishing SPIDDM from type 2 diabetes. One miRNA (miR-150-5p) independently predicted future insulin secretion decline, suggesting potential as an early-warning biomarker.",
+      "why_it_matters": "An earlier, blood-based signal for slowly progressive type 1 diabetes could help women \u2014 who are frequently misdiagnosed with type 2 \u2014 receive appropriate treatment before insulin-producing cells are lost.",
+      "caveats": "small sample (N<100 per group), observational design, single-center, Japanese study population (may not generalize), no sex-disaggregated data, retrospective design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Diabetes biomarker study; no female-specific analysis; small sample limits pitch strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "A Simple Blood Test May One Day Catch a Sneaky Form of Diabetes Before It Steals Your Insulin",
+          "hook": "Thousands of women are living with a slow-moving type of type 1 diabetes that masquerades as type 2 \u2014 and tiny molecules in the blood may finally help tell them apart.",
+          "pitch_angle": "Researchers found specific microRNAs in blood that could distinguish slowly progressive type 1 diabetes from type 2 diabetes at the time of diagnosis \u2014 a distinction that matters enormously for treatment. Because women with this condition are often misdiagnosed, an accessible biomarker could be a game-changer for getting the right therapy before insulin production fails."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42281469",
+      "headline": "A brain-protecting enzyme looks promising for stroke \u2014 but every animal studied was male",
+      "journal": "Journal of Cerebral Blood Flow and Metabolism",
+      "pubdate": "2026 Nov",
+      "doi": "10.1177/0271678X261462771",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This PRISMA-compliant systematic review and meta-analysis pooled data from 12 preclinical studies to assess whether glutamate-oxaloacetate transaminase (GOT) \u2014 an enzyme that clears excitatory glutamate from the bloodstream \u2014 reduces brain damage in animal models of ischemic stroke. GOT interventions (both endogenous upregulation and exogenous administration) were associated with reduced infarct size (SMD=1.14) and improved functional outcomes, though effect sizes shrank by 28% after publication bias correction. Critically, not a single study included female, aged, or comorbid animals, severely limiting what these findings can say about stroke in real-world patients \u2014 including postmenopausal women, who are among the highest-risk groups.",
+      "why_it_matters": "Stroke is a leading cause of death and disability in women, yet the complete exclusion of female animals from this entire body of preclinical research means scientists still don't know whether this promising therapy would work the same way in female biology.",
+      "caveats": "animal or cell study, no sex-disaggregated data, publication bias identified, preclinical only, small number of included studies (N=12 studies)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Animal-only evidence; critically no female subjects, limiting women's health translation.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Cut / Well+Good",
+          "headline": "A Promising Stroke Treatment Was Tested Only in Male Animals \u2014 Women May Never Know If It Works for Them",
+          "hook": "Twelve studies tested a potential brain-protecting stroke therapy \u2014 and not one included a single female animal.",
+          "pitch_angle": "A new meta-analysis found early evidence that an enzyme called GOT may reduce brain damage after ischemic stroke in animal models, but the complete absence of female subjects in every study raises a pointed question about who medical research is actually designed to protect. Since women account for more stroke deaths than men and face distinct hormonal risk factors, the gap in female-specific preclinical data means this therapy could move toward human trials without anyone knowing how it performs in female biology."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42832973",
+      "headline": "Blood biomarkers \u2014 not just biopsies \u2014 may track gut healing in kids with celiac disease on a gluten-free diet",
+      "journal": "Clinical Nutrition",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.clnu.2026.106806",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed 41 children newly diagnosed with celiac disease (34 completed the study) across six hospitals in Spain's Basque Country, measuring serum inflammatory proteins, circulating microRNAs, and intestinal biomarkers at diagnosis and at 3 and 12 months on a gluten-free diet. After 12 months, levels of pro-inflammatory proteins \u2014 including IL-18, CXCL11, and MMP-10 \u2014 dropped significantly, and six circulating microRNAs were meaningfully altered. Micronutrient intake (vitamin B12, folate, iron, magnesium, iodine) also improved significantly over the year.",
+      "why_it_matters": "For the roughly 1 in 100 people with celiac disease \u2014 diagnosed more frequently in women \u2014 these findings suggest certain blood markers could one day help monitor recovery without repeated invasive intestinal biopsies.",
+      "caveats": "small sample (N<100), observational design, single-center, short follow-up, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Human pediatric study, celiac disease skews female, but small N and no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Could a Simple Blood Test Replace Gut Biopsies for Kids With Celiac Disease?",
+          "hook": "After a year on a gluten-free diet, children with celiac disease showed measurable drops in inflammatory blood proteins \u2014 suggesting these markers could track healing non-invasively.",
+          "pitch_angle": "A Spanish study of 34 children found that specific blood proteins and microRNAs changed significantly over 12 months on a gluten-free diet, raising the possibility that less invasive monitoring tools could replace repeat biopsies \u2014 a finding relevant to the many women who also live with celiac disease."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42305038",
+      "headline": "A routine blood test calculation may help flag first-episode psychosis before any drugs are prescribed",
+      "journal": "International Journal of Psychiatry in Clinical Practice",
+      "pubdate": "2026 Nov",
+      "doi": "10.1080/13651501.2026.2688109",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Turkish researchers retrospectively compared pan-immune inflammation value (PIV) \u2014 a composite calculated from standard complete blood count \u2014 in 68 drug-na\u00efve first-episode psychosis patients and 83 healthy controls. PIV was more than twice as high in psychosis patients (378 vs. 170), and outperformed other inflammation indices in distinguishing the two groups (AUC = 0.755). A PIV cut-off of 170.7 identified first-episode psychosis with 75% sensitivity and 72.3% specificity.",
+      "why_it_matters": "Since women with psychotic disorders often face delayed diagnosis, an accessible blood-based inflammatory marker could support earlier identification \u2014 though this small retrospective study is far from clinical application.",
+      "caveats": "small sample (N<100), observational design, retrospective, single-center, no sex-disaggregated data, Turkey-specific sample, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Accessible diagnostic angle; small retrospective sample and no sex-disaggregated data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Could a Standard Blood Test Help Catch Psychosis Earlier? New Research Says Maybe",
+          "hook": "A simple calculation from an ordinary blood count \u2014 called the pan-immune inflammation value \u2014 was more than twice as high in people experiencing their first psychotic episode compared to healthy controls.",
+          "pitch_angle": "Researchers found that an inflammation score derived from routine bloodwork could distinguish first-episode psychosis from healthy controls with moderate accuracy, potentially offering a low-cost early flag before psychiatric evaluation. The finding is preliminary and from a small Turkish sample with no breakdown by sex, but it adds to mounting evidence that inflammation plays a measurable role in psychosis onset."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710783",
+      "headline": "Higher blood levels of beta-carotene before a breast cancer diagnosis were linked to nearly half the risk of dying from the disease",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.ajcnut.2026.101514",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a nested case-control study drawn from a large prospective cohort, researchers examined blood levels of carotenoids and retinol collected before diagnosis in 2,583 invasive breast cancer cases and 3,516 controls, using a multistate modeling approach to assess risk of progressing to lethal breast cancer over three 10-year intervals. Females in the highest quintile of total circulating carotenoids had a 48% lower risk of lethal breast cancer (HR=0.52), and those in the highest quintile of \u03b2-carotene had a 41% lower risk (HR=0.59), compared to those with the lowest levels. The protective association for \u03b2-carotene was strongest in postmenopausal women, suggesting that the timing of life stage may matter when interpreting these findings.",
+      "why_it_matters": "This suggests that dietary patterns rich in carotenoid-containing vegetables \u2014 measurable years before a breast cancer diagnosis \u2014 may be associated with lower odds of the disease becoming fatal, particularly for postmenopausal women.",
+      "caveats": "observational design, secondary analysis, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large female-only cohort, lethal breast cancer endpoint, postmenopausal subgroup finding, strong lifestyle hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "The Veggie Pigment Linked to a Much Lower Risk of Dying From Breast Cancer",
+          "hook": "Women with the highest blood levels of beta-carotene before their breast cancer diagnosis were 41% less likely to develop lethal disease \u2014 and they hadn't even been diagnosed yet.",
+          "pitch_angle": "A large Harvard-linked study found that circulating carotenoids \u2014 the compounds that make carrots orange and sweet potatoes yellow \u2014 measured years before diagnosis were associated with dramatically lower odds of fatal breast cancer. The finding adds to growing evidence that what you eat in your 40s and 50s may shape not just whether you get breast cancer, but how deadly it is."
+        },
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Eating More Colorful Vegetables Could Be Linked to a Less Deadly Breast Cancer \u2014 Especially After Menopause",
+          "hook": "Postmenopausal women with the highest blood carotenoid levels before diagnosis had nearly half the risk of a fatal breast cancer outcome compared to those with the lowest levels.",
+          "pitch_angle": "Researchers tracked carotenoid levels in thousands of women years before any cancer diagnosis and found those with higher circulating levels were significantly less likely to die from breast cancer if they did develop it. The effect was strongest for postmenopausal women, pointing to a potential window for diet to matter most \u2014 and giving midlife women a concrete reason to load their plates with orange, yellow, and leafy green vegetables."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42570923",
+      "headline": "Smoking triples the odds of a painful pancreas attack returning \u2014 but alcohol doesn't",
+      "journal": "Pancreatology",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.pan.2026.08.005",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a multicenter retrospective cohort study from three hospitals in Fujian, China, researchers tracked 311 patients after a first episode of hypertriglyceridemia-induced acute pancreatitis (HTG-AP) to identify behavioral predictors of recurrence. Current smokers at baseline had three times the hazard of a first recurrence and nearly four times the recurrence burden compared to non-smokers, while alcohol consumption \u2014 often assumed to be the main behavioral culprit \u2014 was not independently associated with recurrence. Notably, the smoking-related risk did not emerge within the first six months but became pronounced in mid-to-long-term follow-up.",
+      "why_it_matters": "For women managing elevated triglycerides \u2014 a growing concern tied to metabolic syndrome, hormonal changes, and diet \u2014 this finding suggests that smoking status, not alcohol, may be the more critical modifiable risk factor for repeat pancreatic attacks.",
+      "caveats": "observational design, retrospective cohort, single-country (China), no sex-disaggregated data, self-reported smoking status, short median follow-up not specified",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive alcohol vs. smoking finding, but no sex-disaggregated data and limited women's health specificity.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Doctors Blamed Alcohol for Repeat Pancreas Attacks \u2014 New Research Points to Smoking Instead",
+          "hook": "Among people who'd had a triglyceride-driven pancreatic attack, smokers were three times more likely to end up back in the hospital \u2014 but drinkers were not.",
+          "pitch_angle": "A new study tracking patients after a first pancreatitis episode found that smoking, not alcohol, was the strongest behavioral predictor of recurrence \u2014 a counterintuitive result that could reshape how clinicians counsel patients on lifestyle changes after a painful and potentially dangerous flare-up. The risk linked to smoking only became apparent after six months, suggesting that early follow-up windows may miss who is truly most vulnerable long-term."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42702517",
+      "headline": "Adding a PARP inhibitor to immunotherapy for endometrial cancer significantly raises serious side-effect risk \u2014 without a proven survival benefit yet",
+      "journal": "International Journal of Gynecological Cancer",
+      "pubdate": "2026 Nov",
+      "doi": "10.1016/j.ijgc.2026.104979",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This systematic review and meta-analysis pooled six randomized Phase II/III trials involving 2,995 patients with advanced or recurrent endometrial cancer, evaluating the safety of adding immune checkpoint inhibitors \u2014 with or without PARP inhibitors \u2014 to standard platinum-based chemotherapy. Adding an immune checkpoint inhibitor alone modestly but significantly increased grade \u22653 adverse events; adding both an immune checkpoint inhibitor and a PARP inhibitor more than doubled the risk of serious adverse events (RR 2.20) and significantly raised the risk of severe anemia, without increasing treatment-related deaths or discontinuations. The authors conclude that PARP inhibitor intensification should be individualized given the absence of validated predictive biomarkers or confirmed overall survival benefit.",
+      "why_it_matters": "For women with advanced endometrial cancer navigating treatment decisions, this analysis suggests that the increasingly common triple-drug regimen carries a meaningfully higher burden of serious side effects that should be weighed carefully against uncertain survival gains.",
+      "caveats": "secondary analysis, no sex-disaggregated data (all-female cancer population but biomarker subgroups not fully validated)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Women-specific cancer, large pooled N, clean RCT base, clinically actionable safety signal.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "A Popular Triple-Drug Approach for Advanced Uterine Cancer More Than Doubles the Risk of Serious Side Effects \u2014 Without Proven Survival Gains",
+          "hook": "A major meta-analysis finds that adding a PARP inhibitor to immunotherapy for endometrial cancer significantly raises serious adverse events, prompting calls for more personalized treatment decisions.",
+          "pitch_angle": "Researchers pooling data from nearly 3,000 patients found that the growing practice of combining chemotherapy, immunotherapy, and PARP inhibitors for advanced endometrial cancer more than doubles serious side-effect risk compared to chemotherapy alone \u2014 a finding that matters because no overall survival benefit has yet been demonstrated, raising the question of whether the toxicity trade-off is always worth it."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42452901",
+      "headline": "Preeclampsia screening tools built for European women may need recalibration before they work for Chinese patients",
+      "journal": "Acta Obstetricia et Gynecologica Scandinavica",
+      "pubdate": "2026 Nov",
+      "doi": "10.1111/aogs.70319",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers prospectively assessed whether first-trimester preeclampsia screening models developed for European populations apply to Chinese pregnant women, enrolling 22,066 singleton pregnancies at 11\u201313 weeks across six tertiary hospitals in Mainland China. They measured mean arterial pressure (MAP) and placental growth factor (PlGF) and compared results to Fetal Medicine Foundation reference models. They found that PlGF \u2014 but not MAP \u2014 required recalibration (recentering) at all centers before the European-derived risk estimates became accurate for this population.",
+      "why_it_matters": "This suggests that Chinese hospitals \u2014 and potentially other non-European centers \u2014 using standard preeclampsia screening software may be generating inaccurate risk scores unless they first validate and recalibrate the tool for their local population.",
+      "caveats": "single-center generalizability limited (six centers, China only), industry funding [Roche Diagnostics, Revvity Inc., Thermo Fisher Scientific, GE HealthCare, Ningbo Aucheer \u2014 author COIs declared]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Technically important but narrow methodological/regional finding; limited US lifestyle hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Preeclampsia Screening Test Millions of Women Rely On May Not Work the Same Way for Everyone",
+          "hook": "A widely used first-trimester preeclampsia risk calculator \u2014 built on European data \u2014 required recalibration before it accurately assessed risk in over 22,000 Chinese pregnant women.",
+          "pitch_angle": "Researchers found that a standard biomarker used in preeclampsia screening needed adjustment when applied outside the population it was designed for, raising broader questions about whether one-size-fits-all prenatal screening tools are equally reliable across different ethnic groups worldwide."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42978033",
+      "headline": "Among young athletes, how much insulin your diet triggers may matter more than which foods you eat for blood sugar control",
+      "journal": "Endocrinology, Diabetes & Metabolism",
+      "pubdate": "2026 Nov",
+      "doi": "10.1002/edm2.70382",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a cross-sectional study of 221 physically active Iranian adults aged 18\u201335, researchers calculated each participant's dietary insulin index (DII) and dietary insulin load (DIL) from food frequency questionnaires and examined associations with fasting blood sugar, insulin resistance markers, C-peptide, and two novel metabolic indices. Those in the highest DIL tertile showed significantly lower scores on a composite metabolic risk index (METS-IR), and the DIL \u2014 but not the DII \u2014 showed modest associations with metabolic markers. The authors suggest regular physical activity may blunt the metabolic impact of a higher-insulinemic diet.",
+      "why_it_matters": "For active women trying to optimize metabolic health through diet, findings suggest the total insulin load of meals \u2014 not just individual food choices \u2014 may be a more meaningful target, though results need replication in larger and more diverse samples.",
+      "caveats": "small sample (N=221), observational design, single-center, cross-sectional design (no causality), self-reported dietary outcomes (FFQ), Iranian sports-club population (may not generalize), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Nutrition-metabolic angle; cross-sectional, no sex-disaggregated data, narrow population.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Shape",
+          "headline": "It's Not Just What You Eat \u2014 It's How Much Insulin Your Meal Triggers, New Research Suggests",
+          "hook": "A study of young, active adults found that the total insulin load of a diet was more closely linked to metabolic health markers than the insulinemic quality of individual foods.",
+          "pitch_angle": "Researchers found that among gym-goers, dietary insulin load \u2014 a measure of how much insulin the whole day's eating demands \u2014 tracked better with metabolic health than a food-by-food insulin index score. Early evidence suggests fitness may buffer some of the impact, but the findings hint that calorie-equivalent meals are not metabolically equivalent when it comes to insulin response."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42978336",
+      "headline": "Fermentation could add vitamin B12 to plant-based foods \u2014 but no human trial has yet confirmed it actually works",
+      "journal": "Comprehensive Reviews in Food Science and Food Safety",
+      "pubdate": "2026 Nov",
+      "doi": "10.1111/1541-4337.70692",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This is a narrative review examining whether fermenting plant-based foods with Propionibacterium freudenreichii can generate meaningful amounts of bioavailable vitamin B12 in situ, eliminating the need for synthetic fortification. The review covers biosynthesis mechanisms, factors affecting yield (cobalt availability, pH, oxygen, cofermentation strains), and applications across cereals, legumes, and food side-streams. Critically, the authors note that no controlled human trial has yet evaluated the bioavailability of in situ synthesized B12 \u2014 and that in vitro bioaccessibility is substantially lower in unprocessed fermented foods.",
+      "why_it_matters": "Women following plant-based diets \u2014 who are at elevated risk for vitamin B12 deficiency, particularly during pregnancy and reproductive years \u2014 could benefit if fermentation-based B12 fortification is eventually validated in human trials.",
+      "caveats": "no sex-disaggregated data, observational design",
+      "fact_check_note": "This is a review article, not an original human or animal study. No human trial data exist for this specific intervention, as the review itself acknowledges.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong relevance to plant-based diets and reproductive-age women's B12 needs; review only, no human data yet.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Could Fermented Foods Soon Be a Reliable Source of Vitamin B12 for Plant-Based Eaters?",
+          "hook": "A new review finds that fermenting grains and legumes with a specific bacterium can generate vitamin B12 \u2014 but whether the body actually absorbs it remains unproven in humans.",
+          "pitch_angle": "For women on plant-based diets \u2014 particularly those who are pregnant or of reproductive age \u2014 B12 deficiency is a real concern; this review outlines a promising fermentation-based solution while being clear that human bioavailability data are still missing."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Fermented Foods Might One Day Come Pre-Loaded With B12 \u2014 Here's Where the Science Stands",
+          "hook": "Scientists are exploring whether a natural bacterial fermentation process could embed vitamin B12 directly into plant-based staples like bread and legumes.",
+          "pitch_angle": "A comprehensive review maps out how fermenting plant foods with Propionibacterium freudenreichii could make B12 biofortification possible without synthetic additives \u2014 an idea with real appeal for plant-based eaters, though it's still awaiting its first human trial."
+        }
+      ],
+      "run_date": "2026-11-04",
+      "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
@@ -290,696 +1130,6 @@
           "headline": "First-Trimester Brain Scans Can Now See Too Much \u2014 And Experts Say That's Causing Harm",
           "hook": "Ultrasound technology has gotten so good that doctors can now spot fetal brain structures in the first trimester that are actually normal developmental stages \u2014 not warning signs \u2014 and a new expert review warns this is leading to unnecessary alarm.",
           "pitch_angle": "Specialists in fetal imaging are calling for a rethink of how early brain scans are interpreted, arguing that just because something is visible doesn't mean it's diagnostically meaningful at 11\u201314 weeks. For pregnant women, the takeaway is that an 'abnormal-looking' finding on an early scan may simply reflect normal fetal development \u2014 and deserves careful expert follow-up before drawing any conclusions."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42370714",
-      "headline": "A common antidepressant taken in early pregnancy showed no major birth defects in first prospective human data",
-      "journal": "Journal of Clinical Psychopharmacology",
-      "pubdate": "2026 Nov-Dec",
-      "doi": "10.1097/JCP.0000000000002221",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at MGH prospectively tracked 56 pregnant women who took vortioxetine (an antidepressant for major depressive disorder) during the first trimester, using the National Pregnancy Registry for Psychiatric Medications. Pregnancy outcomes were confirmed via postpartum maternal interview and medical record review, adjudicated by a blinded dysmorphologist. No major congenital malformations were observed, offering the first rigorously collected prospective human safety data for this drug in pregnancy.",
-      "why_it_matters": "For the many women of reproductive age managing depression with vortioxetine, these early findings suggest the drug may not raise malformation risk, though larger studies are needed before clinical guidance can change.",
-      "caveats": "small sample (N<100), single-center, observational design, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "First prospective human pregnancy safety data; women-specific reproductive health; small sample limits conclusions.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "Taking This Antidepressant in Early Pregnancy? New Data Offers Some Reassurance",
-          "hook": "For the first time, researchers have prospectively tracked what happens when pregnant women take vortioxetine in the first trimester \u2014 and found no major birth defects in 56 cases.",
-          "pitch_angle": "Women with depression often face an agonizing choice about staying on medication during pregnancy; this is the first rigorously collected human data on vortioxetine's safety in early pregnancy, giving doctors and patients a small but meaningful new data point in that conversation."
-        },
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "The Mental Health Medication Millions of Women Take \u2014 and What We're Only Just Learning About Pregnancy Safety",
-          "hook": "A new study is the first to prospectively track birth outcomes in women who took a popular antidepressant during their first trimester, and the early results are reassuring \u2014 with major caveats.",
-          "pitch_angle": "Depression is common among women of reproductive age, yet safety data on newer antidepressants in pregnancy has lagged far behind their use; this study highlights both a promising early finding and the systemic gap in pregnancy pharmacology research."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42709505",
-      "headline": "Tracking proteins in the same people over 16 years uncovered four times more diabetes warning signals than single snapshots",
-      "journal": "Diabetes",
-      "pubdate": "2026 Nov 1",
-      "doi": "10.2337/db26-0148",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers measured thousands of blood proteins at up to three time points over 16 years in 5,322 participants (mean age 61.7 years) from the multiethnic MESA cohort, then analyzed which proteins were associated with developing diabetes (mostly type 2). Longitudinal repeated protein measurements identified up to four times as many diabetes-associated proteins as a single measurement, and the proteins unique to the longitudinal analysis pointed to distinct biological pathways \u2014 like protein processing and cell-cycle regulation \u2014 that single snapshots missed entirely. The study did not report sex-disaggregated results.",
-      "why_it_matters": "For women, who face distinct diabetes risk trajectories tied to pregnancy, menopause, and PCOS, the finding that biological warning signals emerge progressively over time \u2014 rather than all at once \u2014 suggests future screening tools may need to track changes rather than rely on one-time tests.",
-      "caveats": "observational design, no sex-disaggregated data, secondary analysis of existing cohort, mean age 61.7 years (findings may not apply to younger women)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large multiethnic cohort, counterintuitive proteomics finding, but no sex-disaggregated data reported.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / Prevention",
-          "headline": "One Blood Test for Diabetes Risk Isn't Enough \u2014 Tracking Proteins Over Time Revealed Four Times More Warning Signs",
-          "hook": "Scientists tracked thousands of proteins in the same people over 16 years and found that the biological red flags for diabetes build gradually \u2014 meaning a single snapshot misses most of them.",
-          "pitch_angle": "A large study of over 5,000 multiethnic adults found that measuring blood proteins repeatedly over time uncovered four times as many diabetes risk signals as measuring them once, and exposed entirely different disease pathways. The finding suggests that future risk screening may need to be dynamic rather than one-and-done \u2014 a potentially important shift for women, whose diabetes risk is shaped by hormonal shifts across the lifespan."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42411950",
-      "headline": "Men's quality of life during infertility workup shifts dramatically depending on where their partner is in the fertility process",
-      "journal": "Asian Journal of Andrology",
-      "pubdate": "2026 Nov 1",
-      "doi": "10.4103/aja2025112",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This four-time-point panel study followed 185 involuntarily childless men (ages 22\u201350, mean 30.4) through their first fertility workup at an andrological clinic in Pozna\u0144, Poland, using the FertiQoL questionnaire at each visit. Researchers found that men's fertility-related quality of life was shaped by a shifting constellation of demographic and fertility-related factors across the stages of evaluation. Notably, the female partner's age, the timing gap between partners' workups, and the man's own age were among the key modulators \u2014 suggesting that couples' fertility experiences are deeply intertwined.",
-      "why_it_matters": "For women navigating fertility treatment, this study suggests their partner's emotional wellbeing is closely tied to where she is in the process \u2014 highlighting the need for couple-centered support during workups.",
-      "caveats": "observational design, single-center, convenience sample, self-reported outcomes, Polish clinic population (may limit generalizability)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Male-focused but directly relevant to couples' fertility experience; observational design limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Partner's Fertility Stress Is Tied to Where You Are in the Process \u2014 New Research Explains Why",
-          "hook": "Men's emotional wellbeing during infertility workups doesn't stay constant \u2014 it shifts based on their female partner's stage in fertility evaluation.",
-          "pitch_angle": "A panel study tracking men through four points of fertility evaluation found that their quality of life was modulated by their partner's age and timing of her own workup, underscoring how deeply coupled the infertility experience is \u2014 and why support programs need to treat it as a shared journey."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Infertility Is Hard on Men Too \u2014 And Their Stress Peaks at Specific Moments, Study Finds",
-          "hook": "Men's emotional quality of life during fertility testing fluctuates at predictable points \u2014 and their partner's status plays a bigger role than expected.",
-          "pitch_angle": "Polish researchers tracked 185 men across four fertility clinic visits and found that factors like the female partner's age and the lag between their respective workups significantly shaped men's wellbeing, suggesting couples may benefit from synchronized emotional support throughout the process."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786378",
-      "headline": "Two shots instead of daily injections for egg freezing yields similar oocyte counts \u2014 but falls just short of proving equivalence",
-      "journal": "Human Reproduction",
-      "pubdate": "2026 Nov 1",
-      "doi": "10.1093/humrep/deag142",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a phase III RCT at a Barcelona fertility clinic comparing a novel two-injection ovarian stimulation protocol to a conventional multi-injection approach in 194 women (\u226440 years) undergoing elective egg freezing. The two-shot protocol produced a comparable mean number of mature (MII) oocytes (6.14 vs 7.19), but the pre-specified non-inferiority margin was not statistically met, meaning equivalence could not be formally confirmed. Stimulation duration and follicle counts were similar between groups, suggesting the simpler protocol comes close but cannot yet be recommended as a direct replacement.",
-      "why_it_matters": "For women considering elective egg freezing, a protocol requiring only two injections instead of daily shots could meaningfully reduce physical and logistical burden \u2014 if future research confirms equivalence.",
-      "caveats": "single-center, non-inferiority margin not met, population limited to elective fertility preservation (results may not generalize to IVF patients), short follow-up, no embryological outcomes reported",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "RCT, female-only sample, fertility preservation hook; non-inferiority not met limits clinical impact.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Could Egg Freezing Soon Require Just Two Shots Instead of Daily Injections?",
-          "hook": "A new clinical trial tested whether women could get through ovarian stimulation with just two injections \u2014 and the results are promising, even if not yet definitive.",
-          "pitch_angle": "Researchers found the two-shot protocol produced nearly as many mature eggs as the conventional daily-injection approach, though formal equivalence wasn't proven. For women navigating the physical and emotional demands of egg freezing, this early evidence points toward a less burdensome future option."
-        },
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Egg Freezing May One Day Mean Way Fewer Injections \u2014 Here's What a New Study Found",
-          "hook": "One of the biggest complaints about egg freezing is the grueling daily injection schedule \u2014 and scientists are actively trying to change that.",
-          "pitch_angle": "A randomized controlled trial found that just two timed injections produced a similar number of mature eggs to the standard multi-injection protocol, though the study couldn't fully confirm the two are interchangeable. It's an early step toward making fertility preservation more accessible and less physically taxing for women."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42757824",
-      "headline": "Zika virus silently persists in male reproductive tissue with almost no immune alarm \u2014 explaining months-long semen shedding",
-      "journal": "Human Reproduction",
-      "pubdate": "2026 Nov 1",
-      "doi": "10.1093/humrep/deag141",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed ex vivo organotypic cultures of human efferent ducts and epididymis tissue from 11 organ donors (ages 29\u201379) to study how Zika virus behaves in the male reproductive tract. They found that Zika replicates persistently in efferent duct epithelium and infects epididymal macrophages, with both tissue types mounting only weak innate immune responses. This non-cytopathic, largely silent infection pattern offers a mechanistic explanation for why infectious Zika can persist in semen for months after acute illness resolves.",
-      "why_it_matters": "For women with male partners who have traveled to Zika-endemic regions, this early evidence suggests semen shedding may last far longer than symptom resolution alone would indicate, with implications for conception timing decisions.",
-      "caveats": "small sample (N<100), ex vivo tissue model (not in vivo), cannot replicate systemic viral entry or luminal flow from testis, no sex-disaggregated data, single-center (France)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Reproductive health relevance for women; ex vivo design and small N limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Zika Can Hide in Male Reproductive Tissue for Months \u2014 Even When There Are No Symptoms",
-          "hook": "A new study found that Zika virus quietly persists in male reproductive tissue without triggering the immune response that would normally clear it.",
-          "pitch_angle": "Researchers using human tissue models found Zika can silently replicate in the epididymis and efferent ducts, explaining why men shed infectious virus in semen long after feeling fine. For women planning pregnancy with a partner who has been in a Zika-endemic area, this finding underscores why symptom-based timelines for safe conception may be insufficient."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42815105",
-      "headline": "Nearly 1,000 addiction recovery stories reveal a hidden barrier keeping people out of treatment: missing ID",
-      "journal": "International Journal of Drug Policy",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.drugpo.2026.105521",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 991 in-depth interview transcripts from a YouTube series documenting first-person accounts of people with severe, long-term substance use disorder, using grounded theory coding and AI-assisted text processing to identify patterns. The analysis produced an eight-stage model of addiction progression \u2014 from early developmental vulnerability through recovery or relapse \u2014 and identified structural barriers, including lack of identification documents, stigma, and limited access, that blocked people from care even when they were motivated to seek it. The study found that early adversity cascaded into later risk, and that cognitive distortions sustained treatment resistance across stages.",
-      "why_it_matters": "Women with substance use disorder face unique structural and stigma-based barriers to treatment, including fear of losing custody of children, and frameworks that center lived experience and institutional obstacles may help advocates push for more accessible, women-centered care pathways.",
-      "caveats": "observational design, self-reported outcomes, no sex-disaggregated data, qualitative design only, sample drawn from a single YouTube series (may not be representative), AI-assisted coding introduces methodological uncertainty",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "No sex-disaggregated data, qualitative design, limited direct women's health angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Nearly 1,000 Addiction Stories Reveal the Invisible Wall Between Wanting Help and Getting It",
-          "hook": "An analysis of nearly 1,000 first-person addiction accounts found that lacking a government ID was one of the most consistent barriers keeping people out of treatment \u2014 even when they desperately wanted it.",
-          "pitch_angle": "A sweeping qualitative study mapped the full arc of substance use disorder from early childhood vulnerability to recovery, and found that structural obstacles \u2014 not just willpower \u2014 determine who gets help. For women, who face additional barriers like custody fears and gender-blind treatment programs, this framework may help make the case for structural reform."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42804809",
-      "headline": "Adult-onset schizophrenia shows more disrupted brain fluid drainage than early-onset \u2014 and it may explain why hallucinations are worse",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.schres.2026.09.024",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a brain imaging technique (DTI-ALPS) to estimate glymphatic \u2014 the brain's waste-clearance system \u2014 function in 195 first-episode schizophrenia patients and 191 healthy controls from China. Adults with adult-onset schizophrenia (AOS) showed significantly lower right-hemisphere and mean ALPS indices compared to both early-onset patients and older healthy controls, while early-onset patients did not differ significantly from age-matched controls. Lower right ALPS scores in adult-onset patients were associated with greater hallucination severity, suggesting glymphatic impairment may partly explain why adult-onset schizophrenia presents differently.",
-      "why_it_matters": "For women, who are disproportionately diagnosed with schizophrenia in their late 20s and 30s, this suggests that adult-onset illness may involve a distinct brain mechanism \u2014 potentially opening new avenues for targeted treatment research.",
-      "caveats": "single-center, no sex-disaggregated data, observational design, DTI-ALPS is an indirect/proxy measure of glymphatic function",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Psychiatry finding but no female-specific analysis; single-center China cohort; indirect imaging measure.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Your Brain Has a Waste-Disposal System \u2014 and in Adult-Onset Schizophrenia, It May Be Failing",
-          "hook": "A new study suggests the brain's own fluid-drainage network may work differently depending on when schizophrenia first appears \u2014 and the disruption tracks with how severe hallucinations become.",
-          "pitch_angle": "Researchers found that adults who develop schizophrenia later in life show more impaired glymphatic activity than those with early-onset illness, challenging the assumption that all schizophrenia follows the same brain pathway. The finding hints that timing of onset matters biologically, which could eventually shape how the condition is treated."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42800290",
-      "headline": "A surprise inflammatory link between prolactin and psychosis symptoms may point to new schizophrenia targets",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.schres.2026.09.031",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in China studied 50 drug-naive first-episode schizophrenia patients and 52 healthy controls, measuring prolactin and a panel of inflammatory cytokines. Within the patient group, lower levels of the immune protein IL-17 were associated with higher prolactin levels and more severe positive symptoms (hallucinations, delusions). A mediation analysis suggested IL-17 may act as a link between prolactin elevation and symptom severity, though the finding is exploratory.",
-      "why_it_matters": "Because prolactin is elevated differently in women and is altered by antipsychotic medications women commonly take, understanding its inflammatory links to symptom severity could eventually inform more targeted schizophrenia treatment for women.",
-      "caveats": "small sample (N<100), observational design, cross-sectional, single-center, no sex-disaggregated data, exploratory analysis requiring replication",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting hormonal angle but tiny mixed-sex sample, no female-specific analysis, highly exploratory.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Could a Stress Hormone Be Making Schizophrenia Symptoms Worse? Early Evidence Points to an Immune Middleman",
-          "hook": "A new study found that the hormone prolactin may worsen psychosis symptoms by suppressing a key immune protein \u2014 a chain reaction that hasn't been described before.",
-          "pitch_angle": "Researchers found that in people with untreated first-episode schizophrenia, lower levels of the immune molecule IL-17 appeared to mediate the link between elevated prolactin and more severe symptoms; because prolactin levels differ by sex and are heavily affected by antipsychotics, the finding could have implications for understanding why schizophrenia presents differently in women."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42759449",
-      "headline": "Negative reading of strangers' faces may partly explain why Black individuals face higher psychosis rates \u2014 but the effect is modest",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.schres.2026.09.011",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed data from 1,035 people with first-episode psychosis and 1,382 population-based controls across five European countries and Brazil to test whether negativity bias and impaired facial affect recognition help explain higher psychosis rates in ethnic minority groups. After adjusting for age, sex, country, and social class, small indirect effects of negativity bias and facial affect recognition were found in Black (OR ~1.07 and ~1.06) and Mixed-ethnicity groups, but these effects were attenuated after additionally controlling for processing speed. The authors conclude that chronic social adversity may shape emotional perception in ways that contribute \u2014 modestly \u2014 to psychosis risk disparities.",
-      "why_it_matters": "For women of color, who experience both racial discrimination and gender-based social stressors, understanding cognitive-emotional pathways to psychosis could eventually inform more culturally responsive mental health screening and support.",
-      "caveats": "observational design, self-reported outcomes, modest effect sizes, no sex-disaggregated data, effects attenuated after processing-speed adjustment",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large multinational sample; no sex-disaggregated data; modest effect sizes limit pitch strength.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Cut",
-          "headline": "Research Is Starting to Map How Racism Gets Under the Skin \u2014 and Into the Mind",
-          "hook": "A large multinational study found that learning to read faces negatively \u2014 a possible adaptation to repeated social adversity \u2014 may partly explain why Black individuals are at higher risk for psychosis.",
-          "pitch_angle": "The EU-GEI study followed over 2,400 people across Europe and Brazil and found that chronic exposure to discrimination may shape how people interpret emotional expressions, creating a cognitive-affective pathway toward psychosis. The effects were real but modest, and researchers stress caution \u2014 but the finding adds biological texture to what advocates have long argued: racism is a mental health crisis."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42704947",
-      "headline": "Removing ovaries reversed schizophrenia-like brain deficits in female rats \u2014 hinting that estrogen plays a surprising protective role",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.schres.2026.09.002",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Australian researchers used a rat model of schizophrenia risk (maternal immune activation via poly(I:C) injection during pregnancy) to test whether ovarian hormones affect psychosis-related brain function in female offspring. Female rats exposed to maternal immune activation showed reduced prepulse inhibition \u2014 a sensory-gating deficit linked to schizophrenia \u2014 but when their ovaries were removed, these deficits were reversed and normal dopamine and NMDA receptor responses were restored. The findings suggest ovarian hormones may paradoxically amplify certain schizophrenia-related brain vulnerabilities in females.",
-      "why_it_matters": "Understanding how female sex hormones modulate schizophrenia-related brain circuits could explain why women's psychosis symptoms often shift across the menstrual cycle and at menopause, and may guide development of hormone-based treatments.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Counterintuitive estrogen finding with clear women's health relevance, but animal study only; limited direct translatability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / General health",
-          "headline": "Wait \u2014 Could Estrogen Actually Worsen Certain Brain Vulnerabilities in Schizophrenia? Rat Study Suggests a Twist",
-          "hook": "In a rat model of schizophrenia risk, removing the ovaries \u2014 and thus estrogen \u2014 actually reversed psychosis-related brain deficits, flipping assumptions about the hormone's protective role.",
-          "pitch_angle": "Estrogen is often thought of as brain-protective, but this animal study found that ovarian hormones may amplify certain schizophrenia-related neurological vulnerabilities triggered by early-life immune stress; the counterintuitive finding could help explain why women's psychosis symptoms fluctuate with hormonal changes across life stages, and it's pushing researchers toward hormone-targeting treatments \u2014 though it's still early, animal-only research."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42686059",
-      "headline": "One in eight women still has perineal pain three months after vaginal birth \u2014 and a third couldn't sit, stand, or walk normally for weeks",
-      "journal": "Journal of Gynecology Obstetrics and Human Reproduction",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.jogoh.2026.103270",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Spain conducted a prospective cohort study of 106 women following vaginal delivery, assessing perineal pain at eight time points over 90 days using standardized questionnaires and a neuroanatomical pain map. At 15 days postpartum, 78% of women reported perineal pain; that dropped to 50% at one month and 25% at two months, but 13.3% still reported persistent pain at 90 days. Approximately one-third of women reported functional limitations in sitting, standing, or walking, and those with persistent pain were less likely to have resumed sexual activity.",
-      "why_it_matters": "Postpartum perineal pain lingers far longer and affects daily functioning more broadly than is commonly acknowledged, suggesting many women are under-supported during recovery from vaginal birth.",
-      "caveats": "small sample (N<100 at later time points), single-center, self-reported outcomes, Spain only",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Postpartum women's health; clear lifestyle impact; prospective design; small single-center sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Nearly 1 in 8 Women Still Has Pain Down There 3 Months After Giving Birth \u2014 Here's What the Research Shows",
-          "hook": "A new study tracking women for 90 days after vaginal delivery found that perineal pain was still affecting one in eight women at the three-month mark \u2014 and for many, it was interfering with basic activities like sitting and walking.",
-          "pitch_angle": "The research maps exactly where postpartum pain occurs and how long it lasts, revealing that recovery from vaginal birth can extend well beyond the standard six-week check-up \u2014 a finding that may prompt conversations about better postpartum pain support for new mothers."
-        },
-        {
-          "publication_type": "Well+Good / Shape",
-          "headline": "Your Postpartum Body May Be in Pain Way Longer Than Anyone Told You",
-          "hook": "Three months after giving birth vaginally, 13% of women in a new study still reported perineal pain \u2014 and many said it was affecting their sex life and their ability to move through the day.",
-          "pitch_angle": "The study tracked pain location, intensity, and functional impact across 90 days postpartum, finding that limitations in sitting, standing, and walking were common for weeks \u2014 suggesting the postpartum wellness conversation needs to extend well past the newborn stage."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42668117",
-      "headline": "Testosterone is not birth control \u2014 and French clinicians say too many transgender men don't know that until a crisis hits",
-      "journal": "Journal of Gynecology Obstetrics and Human Reproduction",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.jogoh.2026.103263",
-      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Clinicians at a Paris hospital analyzed three real clinical cases involving transgender men who experienced unintended pregnancies \u2014 including abortion, medical termination of pregnancy, and a continued pregnancy \u2014 contrasting their experiences with existing literature on fertility and parenthood in transgender men. The review found that testosterone does not reliably suppress fertility, yet many transgender men were unaware of their reproductive risks, and legal and institutional barriers complicated access to abortion, oocyte preservation, and recognition of parenthood. The authors call for multidisciplinary, legally responsive care frameworks to address growing needs in this population.",
-      "why_it_matters": "This clinical case review highlights that transgender men who retain reproductive organs face significant gaps in reproductive counseling and legal protection \u2014 gaps that can result in unintended pregnancies and limited care options.",
-      "caveats": "small sample (N<100), observational design, single-center, France-specific legal context, case series not generalizable",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Reproductive health; counterintuitive finding on testosterone; France-specific law limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Testosterone Doesn't Prevent Pregnancy \u2014 and Doctors Say Transgender Men Aren't Being Told That",
-          "hook": "A French clinical review of real cases found that transgender men on testosterone were having unintended pregnancies \u2014 because no one had clearly told them that testosterone is not a reliable form of contraception.",
-          "pitch_angle": "The cases reveal critical gaps in reproductive counseling for transgender men, including limited access to abortion and oocyte preservation, and legal barriers to parenthood recognition \u2014 underscoring how health systems are failing to keep pace with the needs of trans and nonbinary patients who can become pregnant."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42673683",
-      "headline": "Being a night owl is linked to worse depression severity \u2014 but only for sleep symptoms, not overall mood",
-      "journal": "Psychiatry Research",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.psychres.2026.117417",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This cross-sectional study examined 133 first-episode, drug-na\u00efve adults with major depressive disorder in Turkey, looking at how childhood maltreatment history, circadian preference (morning vs. evening type), and inflammation (hs-CRP) related to depression severity. Childhood maltreatment was consistently associated with greater depression severity across both self-reported and clinician-rated scales, while eveningness (being a night owl) was associated with self-reported but not clinician-rated depression severity. Notably, inflammation (hs-CRP) showed no independent association with depression severity, and BMI was the strongest predictor of CRP levels.",
-      "why_it_matters": "Women are disproportionately affected by both depression and childhood trauma, and findings suggesting that night-owl tendencies may amplify sleep-specific depressive symptoms \u2014 rather than overall mood \u2014 could sharpen how clinicians and women themselves understand the sleep-depression link.",
-      "caveats": "small sample (N<100 after exclusions noted, though N=133 reported), observational design, cross-sectional, single-center, no sex-disaggregated data, single-region (Turkey)",
-      "fact_check_note": "N=133 is reported after excluding participants with hs-CRP \u226510 mg/L; the association between eveningness and MADRS (clinician-rated) did not reach significance, a nuance worth preserving in any coverage.",
-      "relevance_score": 4,
-      "relevance_score_reason": "No sex-disaggregated data, cross-sectional, single-center; moderate women's depression relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Being a Night Owl Doesn't Make Depression Worse Overall \u2014 But It Does Wreck Your Sleep Symptoms",
-          "hook": "A new study of people with first-episode depression found that night-owl tendencies were specifically tied to worse sleep problems within depression \u2014 not to overall mood severity.",
-          "pitch_angle": "Researchers found that while childhood trauma was the strongest predictor of depression severity across the board, evening chronotype was linked specifically to sleep-related depressive symptoms rather than the full picture of depression. For women managing depression, the nuance matters: fixing your sleep schedule may help your nights, but may not address the deeper emotional weight."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42470151",
-      "headline": "Parents of kids with a rare genetic syndrome report higher stigma than parents of children with Down syndrome \u2014 and it's quietly eroding their mental health",
-      "journal": "Journal of Intellectual Disability Research",
-      "pubdate": "2026 Nov",
-      "doi": "10.1111/jir.70147",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers surveyed 39 parents (mean age 43.1) of children with 1p36 deletion syndrome \u2014 a rare chromosomal disorder causing developmental delay and epilepsy \u2014 in Japan, assessing mental health, affiliate stigma, parental strain, and self-esteem. Parents reported limited access to specialist guidance, relying heavily on the internet, and faced challenges that shifted across the child's developmental stages. Exploratory path analysis found that affiliate stigma (the shame associated with a family member's stigmatized condition) was significantly higher in these parents than in parents of children with Down syndrome, and was linked to worse mental health outcomes through its effects on parental strain and self-esteem.",
-      "why_it_matters": "Because mothers disproportionately bear the caregiving burden for children with rare disabilities, findings on stigma-driven mental health decline are especially relevant to women navigating an under-resourced diagnostic landscape.",
-      "caveats": "small sample (N<100), single-center, observational design, self-reported outcomes, Japan-only sample, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant caregiving and maternal mental health angle; very small N=39; Japan-only; no sex-disaggregated data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Good Housekeeping",
-          "headline": "Raising a Child With This Rare Syndrome Carries a Hidden Mental Health Toll That Doctors Rarely Address",
-          "hook": "Parents of children with 1p36 deletion syndrome \u2014 a rare genetic disorder most have never heard of \u2014 report feeling more stigmatized than parents of children with Down syndrome, and it's quietly damaging their own well-being.",
-          "pitch_angle": "A Japanese study found that the social shame associated with having a child diagnosed with an unfamiliar rare condition hits parents harder than more widely recognized disabilities, straining mental health through increased parental burden and lower self-esteem. The findings, though preliminary, point to a gap in psychosocial support for families navigating rare disease diagnoses largely on their own."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41801701",
-      "headline": "College students remember why they drank differently the morning after \u2014 and that gap matters for risk",
-      "journal": "Psychology of Addictive Behaviors",
-      "pubdate": "2026 Nov",
-      "doi": "10.1037/adb0001121",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tracked 95 heavy-drinking college students over 28 days using ecological momentary assessment, capturing their drinking motives at the moment of their first drink and again retrospectively the next morning. Students were more likely to report 'fun' and 'wanting to get drunk' as motives when looking back than they were in the moment. The only motive that consistently predicted negative drinking consequences \u2014 assessed at the time of drinking \u2014 was the intent to get drunk, suggesting retrospective self-reports may inflate or distort true antecedent motives.",
-      "why_it_matters": "For women, who are more vulnerable to alcohol's health effects at lower consumption levels, understanding that drinking intentions are often reframed after the fact could reshape how researchers and clinicians assess alcohol risk.",
-      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting methodology; no sex-disaggregated data, small sample, limited women's health hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why the Story You Tell Yourself About Last Night's Drinks Isn't Always Accurate",
-          "hook": "A new study found that what people say motivated their drinking changes significantly by the next morning \u2014 raising questions about how well we really understand our own habits.",
-          "pitch_angle": "Researchers caught college drinkers revising their own motivations overnight, reporting more 'fun'-driven reasons after the fact than they acknowledged in the moment. For anyone trying to reflect honestly on their relationship with alcohol, this suggests our after-the-fact explanations may be more self-flattering than accurate."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "40377848",
-      "headline": "Autistic adults not only struggle to recognize famous faces \u2014 they know it, and that awareness matters",
-      "journal": "Journal of Autism and Developmental Disorders",
-      "pubdate": "2026 Nov",
-      "doi": "10.1007/s10803-025-06879-9",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers compared face recognition ability and self-awareness between 49 autistic adults (level 1 ASD) and 50 non-autistic adults using the Italian Famous Face Test and a self-report prosopagnosia index. Autistic participants scored significantly lower on famous face identification and also self-reported greater difficulty with face recognition in daily life. The finding suggests autistic adults have accurate metacognitive awareness of their own face recognition challenges, which may have implications for social support and intervention design.",
-      "why_it_matters": "For autistic women \u2014 who are often diagnosed later in life and may mask social difficulties \u2014 understanding that face recognition challenges are real and self-recognized could validate their experiences and inform more targeted support.",
-      "caveats": "small sample (N<100), single-center, Italy-specific stimulus set (famous Italian faces) may limit generalizability, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting autism finding but small Italian sample, no sex-disaggregated data, limited women's health fit.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Autistic Adults Know They Struggle With Faces \u2014 And That Self-Awareness Is Actually Significant",
-          "hook": "A new study found autistic adults not only have more trouble recognizing famous faces than non-autistic people \u2014 they're also aware of it, challenging assumptions that autistic people lack insight into their own social difficulties.",
-          "pitch_angle": "The research highlights that autistic adults, including the many women diagnosed later in life, have meaningful self-awareness about their social challenges \u2014 a finding that could shift how clinicians and loved ones talk about and support face-to-face social navigation. This awareness may be a strength worth building on rather than a deficit to correct."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "40381091",
-      "headline": "Autistic women show greater inhibitory control struggles than men \u2014 and it's tied to higher anxiety",
-      "journal": "Journal of Autism and Developmental Disorders",
-      "pubdate": "2026 Nov",
-      "doi": "10.1007/s10803-025-06799-8",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This online study examined self-reported inhibitory control difficulties in 732 autistic adults aged 18\u201383, looking at whether sex assigned at birth and co-occurring ADHD features influenced those challenges. Participants assigned female at birth reported significantly more inhibitory control difficulties relative to sex-adjusted norms than those assigned male. Greater inhibitory control challenges were associated with higher anxiety symptoms, and this relationship was stronger among those who also screened positive for ADHD.",
-      "why_it_matters": "Autistic women may face a compounding burden of inhibitory control difficulties and anxiety that goes unrecognized, pointing to a potential intervention target that could meaningfully improve mental health outcomes in this underserved group.",
-      "caveats": "observational design, self-reported outcomes, online sample (may not be representative)",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large sample, clear sex-specific finding, women's mental health relevance, strong anxiety hook.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Autistic Women Are Struggling More With Self-Control Than Autistic Men \u2014 Here's What That Means for Anxiety",
-          "hook": "A study of over 700 autistic adults found that women face significantly greater inhibitory control challenges than men, even after adjusting for sex-based norms \u2014 and those struggles track closely with anxiety.",
-          "pitch_angle": "Inhibitory control \u2014 the ability to pause, filter impulses, and shift focus \u2014 was measurably harder for autistic women than men in a large new study, and higher difficulty was linked to more anxiety symptoms. Experts say targeting these executive function challenges could be a meaningful lever for improving mental health in autistic women, who are often diagnosed later and supported less."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "Autistic Women Have It Harder in a Specific, Underexplored Way",
-          "hook": "New research suggests autistic women struggle more with inhibitory control \u2014 the mental brakes that help regulate impulse and attention \u2014 than their male counterparts, relative to what's typical for each sex.",
-          "pitch_angle": "The study of 732 autistic adults found that being assigned female and having ADHD features were both associated with greater inhibitory control difficulties, which in turn were tied to more severe anxiety. Given how frequently autistic women are misdiagnosed or overlooked, findings like these underscore how much the field still has to learn about women's experiences of autism."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42549632",
-      "headline": "Blood molecules may help tell slow-onset type 1 diabetes apart from type 2 \u2014 before symptoms diverge",
-      "journal": "Journal of Diabetes Investigation",
-      "pubdate": "2026 Nov",
-      "doi": "10.1111/jdi.70402",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed serum levels of 40 small RNA molecules (miRNAs) in 169 adults \u2014 including 60 with slowly progressive type 1 diabetes (SPIDDM), 59 with type 2 diabetes, and 50 healthy controls \u2014 at a single Japanese center. Four miRNAs differed significantly between SPIDDM and the other groups, and miR-150-5p independently predicted how much insulin-secreting capacity patients retained over time. The study suggests blood-based miRNA panels could one day help clinicians distinguish SPIDDM from type 2 diabetes at diagnosis, when the two conditions look nearly identical.",
-      "why_it_matters": "For the many women misdiagnosed with type 2 diabetes who actually have slow-onset autoimmune diabetes, earlier accurate diagnosis could mean faster access to appropriate treatment.",
-      "caveats": "small sample (N<100 per group), observational design, single-center, retrospective design, Japanese population only, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Diabetes biomarker finding, but small single-center Japanese cohort, no sex-disaggregated data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "A Simple Blood Test Could One Day Tell If Your 'Type 2' Diabetes Is Actually Something Else",
-          "hook": "Thousands of adults with autoimmune diabetes are misdiagnosed with type 2 \u2014 early research suggests RNA molecules in the blood could eventually change that.",
-          "pitch_angle": "Slowly progressive type 1 diabetes looks almost identical to type 2 at diagnosis, leading to years of wrong treatment. A small Japanese study found specific blood RNA markers that could help distinguish the two, offering a potential path to faster, more accurate diagnosis for patients \u2014 including women, who are disproportionately dismissed in chronic disease workups."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42281469",
-      "headline": "A natural enzyme shows promise for shrinking stroke damage in animals \u2014 but female and older animals were completely left out of the research",
-      "journal": "Journal of Cerebral Blood Flow and Metabolism",
-      "pubdate": "2026 Nov",
-      "doi": "10.1177/0271678X261462771",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A PRISMA-compliant systematic review and meta-analysis pooled data from 12 preclinical studies examining glutamate-oxaloacetate transaminase (GOT), an enzyme that clears the neurotoxin glutamate, in rodent models of ischemic stroke. GOT interventions significantly reduced infarct size (SMD = 1.14) and improved multiple neurological outcomes, though effect sizes dropped substantially after publication bias correction. Critically, no female, aged, or comorbid animals were included in any of the studies, limiting translation to the populations \u2014 including postmenopausal women \u2014 most affected by stroke.",
-      "why_it_matters": "Stroke is a leading killer of women, and the complete exclusion of female animals from all 12 studies means promising early findings cannot yet be applied to the patients who need them most.",
-      "caveats": "animal or cell study, no sex-disaggregated data, publication bias identified, preclinical only",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Animal study only; but female exclusion gap is a strong women's health angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Scientists May Have Found a New Way to Protect the Brain During a Stroke \u2014 But They Forgot to Test It in Female Animals",
-          "hook": "A promising enzyme that shrinks stroke damage in rodents has never been tested in a single female animal \u2014 a gap researchers themselves flagged as a major barrier to helping the women who suffer strokes most severely.",
-          "pitch_angle": "A new meta-analysis of 12 preclinical stroke studies found that a naturally occurring enzyme consistently reduced brain injury in rodents, but every animal studied was male, young, and free of other health conditions \u2014 the opposite of most stroke patients. For women, who are more likely than men to die from stroke and who often experience worse outcomes, this research gap is more than academic."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42832973",
-      "headline": "A year on a gluten-free diet shifts inflammation markers in kids with celiac disease \u2014 and blood tests may be catching what current tools miss",
-      "journal": "Clinical Nutrition",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.clnu.2026.106806",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 41 children (34 completing) newly diagnosed with celiac disease across six Spanish hospitals, measuring serum inflammatory proteins and circulating microRNAs at diagnosis, 3 months, and 12 months after starting a gluten-free diet. After one year, levels of three pro-inflammatory proteins (IL-18, CXCL11, MMP-10) dropped significantly, and six microRNAs changed measurably. Micronutrient intake \u2014 including vitamin B12, folate, iron, magnesium, and iodine \u2014 also improved significantly over the year.",
-      "why_it_matters": "Suggests that non-invasive blood biomarkers could eventually replace repeat biopsies for monitoring gut healing in children with celiac disease, which disproportionately affects girls and women.",
-      "caveats": "small sample (N<100), observational design, single-center, short follow-up, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Pediatric celiac focus; human longitudinal design; small N and no female-specific analysis limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "Could a Simple Blood Test Replace Gut Biopsies for Kids With Celiac Disease?",
-          "hook": "After one year gluten-free, specific inflammation proteins in children's blood dropped significantly \u2014 raising hopes for less invasive monitoring.",
-          "pitch_angle": "A Spanish study found that certain blood markers shifted measurably in children with celiac disease during their first year on a gluten-free diet, suggesting blood tests might one day replace invasive intestinal biopsies to track recovery. Since celiac disease is more common in women and girls, this early research could eventually change how the condition is managed across the lifespan."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42305038",
-      "headline": "A simple blood test calculation may help flag first-episode psychosis before treatment begins",
-      "journal": "International Journal of Psychiatry in Clinical Practice",
-      "pubdate": "2026 Nov",
-      "doi": "10.1080/13651501.2026.2688109",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Turkish researchers retrospectively compared a composite blood-count inflammation score \u2014 the pan-immune-inflammation value (PIV) \u2014 in 68 drug-naive first-episode psychosis patients and 83 healthy controls. PIV was more than twice as high in psychosis patients, and outperformed five other inflammation indices in distinguishing cases from controls (AUC = 0.755). A PIV cut-off of 170.7 identified first-episode psychosis with 75% sensitivity and 72.3% specificity.",
-      "why_it_matters": "Early and accessible markers for psychosis could help speed diagnosis and referral, which is especially relevant for women, who often experience longer delays to first psychiatric treatment than men.",
-      "caveats": "small sample (N<100), observational design, retrospective, single-center, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Potentially useful diagnostic angle but mixed-sex sample with no female-specific data; retrospective, single-center.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Could a Routine Blood Draw Help Catch Psychosis Earlier?",
-          "hook": "A composite score derived from standard blood-count results was more than twice as high in people experiencing their first episode of psychosis compared to healthy adults.",
-          "pitch_angle": "Researchers found that the pan-immune-inflammation value \u2014 calculated from numbers already in a standard CBC \u2014 distinguished first-episode psychosis patients from healthy controls better than five other inflammation markers; if replicated, it could offer a low-cost screening tool for earlier intervention in a condition where delays in diagnosis are common."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42710783",
-      "headline": "Higher blood levels of certain carotenoids before a breast cancer diagnosis were linked to nearly half the risk of dying from the disease",
-      "journal": "The American Journal of Clinical Nutrition",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.ajcnut.2026.101514",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a multistate modeling approach to examine whether pre-diagnosis blood levels of carotenoids were associated with lethal breast cancer risk in a nested case-control study of 3,516 controls and 2,583 invasive breast cancer cases (190 of whom developed lethal disease). Women in the highest quintile of total carotenoid levels had a 48% lower risk of lethal breast cancer (HR=0.52), while those with the highest \u03b2-carotene had 41% lower risk. The protective association for \u03b2-carotene was strongest in postmenopausal women.",
-      "why_it_matters": "For postmenopausal women especially, circulating carotenoid levels \u2014 influenced by diet \u2014 may be associated with reduced risk of the most deadly form of breast cancer.",
-      "caveats": "observational design, secondary analysis, small number of lethal cases (N=190)",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Female-specific cancer, large cohort, menopausal subgroup, clear lifestyle hook; observational design limits causality.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Eating More Orange and Red Produce Before a Breast Cancer Diagnosis May Cut the Risk of Dying From It",
-          "hook": "Women with the highest blood levels of carotenoids \u2014 the compounds in carrots, sweet potatoes, and tomatoes \u2014 had nearly half the risk of lethal breast cancer compared to those with the lowest levels.",
-          "pitch_angle": "A large Harvard-linked study found that prediagnostic carotenoid levels were strongly tied to breast cancer survival odds, especially in postmenopausal women. The finding suggests that a diet rich in colorful produce could matter not just for getting cancer but for surviving it \u2014 a meaningful distinction for readers already focused on prevention."
-        },
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "This Is What Your Blood Carotenoid Levels Have to Do With Breast Cancer Survival",
-          "hook": "A new study found that women with the highest circulating levels of \u03b2-carotene before a breast cancer diagnosis had a 41% lower risk of dying from the disease \u2014 and postmenopausal women saw the strongest benefit.",
-          "pitch_angle": "Researchers used a novel multistate modeling method to trace how carotenoid levels before diagnosis influenced whether breast cancer became lethal, finding that total carotenoids were associated with nearly half the risk of a fatal outcome. It's early evidence \u2014 not proof of causation \u2014 but it adds a compelling layer to the conversation about diet, inflammation, and breast cancer outcomes."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42570923",
-      "headline": "Smoking triples the risk of a repeat pancreatitis attack \u2014 but only after the first six months",
-      "journal": "Pancreatology",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.pan.2026.08.005",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a multicenter retrospective cohort study of 311 patients hospitalized with a first episode of hypertriglyceridemia-induced acute pancreatitis across three centers in China between 2020 and 2025. Current smokers at baseline had a threefold higher hazard of a first recurrence (HR 3.00) and nearly four times the recurrence burden compared to non-smokers. Notably, the association did not emerge within the first six months but became significant thereafter, while alcohol consumption was not independently linked to recurrence.",
-      "why_it_matters": "For women who smoke and have elevated triglycerides \u2014 a combination increasingly common in midlife and postmenopause \u2014 this suggests smoking cessation may be a critical and underappreciated lever for preventing repeat pancreatitis.",
-      "caveats": "observational design, retrospective, small sample (N<100 for some subgroups), no sex-disaggregated data, single-region (China)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "No sex-disaggregated data; observational; regional cohort limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "Why Quitting Smoking May Be the Most Important Thing You Can Do After a Pancreatitis Attack",
-          "hook": "Smokers were three times more likely to land back in the hospital with a repeat pancreatitis attack \u2014 but not for the first six months, a timing quirk that surprised researchers.",
-          "pitch_angle": "A new study found that smoking status at the time of a first pancreatitis episode predicted who would suffer a recurrence, with the risk compounding over time rather than immediately. Alcohol, long assumed to be the primary culprit, was not independently linked to repeat attacks in this study \u2014 pointing to smoking as an underappreciated risk factor worth discussing with a doctor."
-        }
-      ],
-      "run_date": "2026-11-03",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42702517",
-      "headline": "Adding a third drug to standard endometrial cancer treatment significantly raises serious side effects without a proven survival payoff",
-      "journal": "International Journal of Gynecological Cancer",
-      "pubdate": "2026 Nov",
-      "doi": "10.1016/j.ijgc.2026.104979",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a systematic review and meta-analysis of six randomized phase II/III trials involving 2,995 women with advanced or recurrent endometrial cancer, comparing standard platinum-based chemotherapy alone to doublet therapy (chemo plus an immune checkpoint inhibitor) or triplet therapy (chemo plus immune checkpoint inhibitor plus a PARP inhibitor). Doublet therapy modestly but significantly increased grade \u22653 adverse events, while triplet therapy more than doubled the risk of serious adverse events and significantly raised the risk of severe anemia. Without validated biomarkers to predict who benefits most, the analysis found no demonstrated overall survival advantage to justify routine triplet intensification.",
-      "why_it_matters": "Women with advanced endometrial cancer and their oncologists now have clearer pooled data suggesting that adding a PARP inhibitor to already-intensive immunotherapy may substantially raise serious harm risk without a proven survival benefit, supporting more individualized treatment conversations.",
-      "caveats": "secondary analysis, meta-analysis of trial-level (not patient-level) data, no validated predictive biomarkers identified, overall survival benefit not established for triplet regimen",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Women-specific cancer, large pooled N, clean RCT-based meta-analysis, clinically actionable finding.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "A Common Upgrade to Endometrial Cancer Treatment More Than Doubles Serious Side Effect Risk \u2014 With No Proven Survival Benefit",
-          "hook": "A new meta-analysis found that adding a third drug to the standard regimen for advanced endometrial cancer more than doubled the risk of serious adverse events, with no demonstrated survival advantage.",
-          "pitch_angle": "Analyzing data from nearly 3,000 women across six clinical trials, researchers found that triple-drug chemo-immunotherapy significantly raised the risk of severe side effects \u2014 including a 66% higher risk of serious anemia \u2014 compared to the two-drug standard. The finding suggests women and their oncologists should carefully weigh the added toxicity burden of treatment intensification until biomarkers can identify who is most likely to benefit."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "What Women With Advanced Endometrial Cancer Should Know About a Popular Treatment Combination",
-          "hook": "Combining chemotherapy, immunotherapy, and a newer targeted drug sounds more powerful \u2014 but a major new analysis suggests the extra drug brings significantly more serious risks without a clear survival advantage.",
-          "pitch_angle": "A pooled analysis of six clinical trials found that women receiving the triplet regimen faced more than twice the risk of serious adverse events compared to chemotherapy alone, with severe anemia occurring significantly more often. Experts say the findings highlight why treatment decisions for advanced endometrial cancer should be individualized rather than automatic \u2014 especially as new drug combinations proliferate."
         }
       ],
       "run_date": "2026-11-03",
@@ -1146,33 +1296,6 @@
       ],
       "run_date": "2026-11-01",
       "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42452901",
-      "headline": "European preeclampsia screening algorithms need recalibration to work accurately in Chinese pregnant women, large multicenter study finds",
-      "journal": "Acta Obstetricia et Gynecologica Scandinavica",
-      "pubdate": "2026 Nov",
-      "doi": "10.1111/aogs.70319",
-      "groundbreaking": "Relevant women's health finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a prospective multicenter cross-sectional study, researchers enrolled 22,066 singleton pregnancies at 11\u201314 weeks gestational age across six tertiary hospitals in Mainland China to evaluate whether European-derived biomarker models for first-trimester preeclampsia screening apply to a Chinese population. Mean arterial pressure (MAP) and placental growth factor (PlGF) were measured and converted to multiple-of-the-median (MoM) values using Fetal Medicine Foundation models. Results found that PlGF MoM distributions \u2014 but not all MAP values \u2014 required recentering, and that without local recalibration, screening accuracy would be compromised for Chinese women.",
-      "why_it_matters": "Millions of pregnant women in China undergo first-trimester preeclampsia screening using tools originally developed in European populations, and this study suggests those tools need population-specific adjustment to remain accurate \u2014 a finding relevant to global maternal health equity.",
-      "caveats": "observational design, China-specific population (results may not generalize beyond East Asian populations without further validation), industry funding [Roche Diagnostics, Revvity Inc., Thermo Fisher Scientific, Ferring Pharmaceuticals \u2014 via lead author disclosures]",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large human cohort, pregnancy-specific, maternal health equity angle; China-specific limits broad pitch.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Preeclampsia Screening Tools Built on European Data May Miss the Mark for Asian Women",
-          "hook": "A study of more than 22,000 pregnancies in China found that widely used first-trimester preeclampsia screening models need recalibration to work accurately in Chinese women \u2014 raising broader questions about racial and ethnic representation in obstetric risk tools.",
-          "pitch_angle": "Researchers found that placental growth factor readings required recalibration when European-derived algorithms were applied in Chinese hospitals, meaning women could receive inaccurate risk scores without this adjustment. The finding spotlights a systemic gap in global maternal medicine: most standardized screening tools were built on predominantly white, European populations, leaving pregnant women of other ethnicities potentially underserved."
-        }
-      ],
-      "run_date": "2026-11-01",
-      "category": "Womens Health & Reproduction",
       "chunk": "2/2",
       "status": "new"
     },
