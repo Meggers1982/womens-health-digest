@@ -1,59 +1,890 @@
 {
-  "last_updated": "2026-11-11T17:54:59.422092+00:00",
-  "total_studies": 1256,
+  "last_updated": "2026-11-12T18:06:51.586641+00:00",
+  "total_studies": 1269,
   "new_this_run": 13,
   "studies": [
     {
       "pmid": "43002839",
-      "headline": "Immune system 'fingerprints' in young adults with first-episode psychosis stay remarkably stable over a year \u2014 and link to heart risk",
+      "headline": "People with first-episode psychosis show stable immune 'profiles' \u2014 and the high-inflammation group has worse cholesterol",
       "journal": "Schizophrenia Research",
       "pubdate": "2026 Nov 9",
       "doi": "10.1016/j.schres.2026.10.019",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Finnish researchers measured 38 circulating immune markers in 131 young adults with first-episode psychosis and 130 healthy controls at baseline and one-year follow-up, finding that individuals' immune profiles were highly stable over time and grouped into low, medium, and high inflammation clusters. Psychosis status itself was not associated with immune cluster membership, but individuals in the high-inflammation cluster had elevated LDL cholesterol. Transcriptomic analysis of dendritic cells confirmed the biological relevance of these immune profiles, suggesting they reflect real physiological differences.",
-      "why_it_matters": "Early, stable immune profiles linked to higher LDL in young adults experiencing psychosis may help explain why this population faces elevated cardiovascular risk \u2014 an underrecognized concern for young women with serious mental illness.",
-      "caveats": "observational design, no sex-disaggregated data, single-center",
+      "summary": "Finnish researchers measured 38 circulating immune mediators in 131 patients with first-episode psychosis and 130 healthy controls at baseline and one-year follow-up, finding that individuals consistently fell into low, medium, or high immune-mediator clusters that remained stable over time. Immune cluster membership was not linked to psychosis diagnosis itself, but individuals in the high-mediator group showed elevated LDL cholesterol in the discovery sample. Dendritic-cell gene expression patterns also aligned with immune cluster membership, suggesting these profiles have genuine biological significance beyond psychosis status.",
+      "why_it_matters": "Since women with psychotic disorders face elevated cardiovascular risk, findings linking stable inflammation profiles to higher LDL cholesterol in young adults \u2014 regardless of diagnosis \u2014 could eventually help identify who needs early cardiovascular monitoring.",
+      "caveats": "small sample (N=131 patients), observational design, no sex-disaggregated data reported, LDL association found only in discovery sample (not confirmed in replication)",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Interesting mechanistic finding but no female-specific analysis; cardiovascular angle adds modest women's health relevance.",
+      "relevance_score_reason": "Inflammation-cardiovascular link is novel; sex-disaggregated data absent, limiting women's health specificity.",
       "pitch_angles": [
         {
-          "publication_type": "General health",
-          "headline": "Your Immune Profile May Be Quietly Raising Your Cholesterol \u2014 Even in Early Psychosis",
-          "hook": "A new study found that inflammation patterns in young adults with first-episode psychosis are surprisingly stable over a year and are linked to higher LDL cholesterol \u2014 a potential early warning for heart disease.",
-          "pitch_angle": "Researchers discovered that immune 'fingerprints' cluster into distinct groups that hold steady over time, and that people in the high-inflammation group tend to have worse cholesterol profiles. The finding raises questions about whether immune monitoring could help flag cardiovascular risk in young people with serious mental illness before it becomes a problem."
+          "publication_type": "Prevention",
+          "headline": "Your Immune System May Have a Stable 'Inflammation Fingerprint' \u2014 and It Could Predict Heart Risk",
+          "hook": "A new study finds that people's immune profiles stay remarkably consistent over a year and may predict cholesterol levels \u2014 even in young adults.",
+          "pitch_angle": "Researchers found that immune mediator levels clustered into distinct low, medium, and high groups that barely shifted over 12 months, with the high-inflammation group showing elevated LDL cholesterol. The finding, observed in young adults with and without psychosis, raises early questions about whether chronic low-grade inflammation sets cardiovascular risk trajectories from early adulthood."
         }
       ],
-      "run_date": "2026-11-11",
+      "run_date": "2026-11-12",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "43002198",
-      "headline": "Perimenopause research in lower-income countries is too inconsistent to be useful \u2014 a new review explains why",
+      "headline": "Perimenopause research is failing women in developing countries because scientists can't agree on how to define it",
       "journal": "Climacteric: the journal of the International Menopause Society",
       "pubdate": "2026 Nov 9",
       "doi": "10.1080/13697137.2026.2750101",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a scoping review of 90 studies from low- and middle-income countries (LMICs) published between 2005 and June 2026, examining how perimenopause is defined and classified across research settings. The review found that nearly half of studies (48.9%) relied solely on menstrual history without using any recognized reproductive-staging framework, and only 7.8% of studies were longitudinal. This inconsistency makes it nearly impossible to compare findings or draw reliable conclusions about perimenopause for the billions of women living in LMICs.",
-      "why_it_matters": "Because most perimenopause research uses inconsistent methods in lower-income countries, midlife women in those regions are likely receiving care based on evidence that doesn't accurately reflect their experiences.",
-      "caveats": "observational design, secondary analysis, no sex-disaggregated data",
+      "summary": "Researchers conducted a scoping review of 90 studies published between 2005 and June 2026 that examined perimenopause in low- and middle-income countries (LMICs), evaluating how consistently researchers classified reproductive stage. Only 20% of studies used the internationally recognized STRAW +10 framework, while nearly half relied solely on menstrual history without any standardized staging tool. The vast majority of studies were cross-sectional, and only 4.4% were nationally representative, leaving significant gaps in what is known about the perimenopause experience for the majority of the world's midlife women.",
+      "why_it_matters": "Without consistent methods to define and study perimenopause, healthcare systems in LMICs \u2014 where most of the world's midlife women live \u2014 lack the evidence base needed to support women through this critical transition.",
+      "caveats": "observational design, scoping review (not systematic), heterogeneous included studies, most included studies cross-sectional",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Menopause topic fit; methodological review limits actionable pitch angles.",
+      "relevance_score_reason": "Menopause/reproductive aging topic fit; global health equity angle; review design limits novelty.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Most Perimenopause Research Ignores the Majority of the World's Women",
+          "hook": "A sweeping review found that research on the menopause transition in low- and middle-income countries \u2014 where most of the world's midlife women live \u2014 is so inconsistent it's nearly impossible to draw conclusions.",
+          "pitch_angle": "Only one in five studies on perimenopause in developing countries used the globally accepted standard for defining the life stage, meaning we barely understand what this transition looks like for billions of women. Critics say the data gap has real consequences: without reliable evidence, healthcare systems can't build appropriate support for midlife women in these regions."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43003257",
+      "headline": "Many cases diagnosed as placenta-driven fetal growth restriction actually involve hidden genetic or structural abnormalities",
+      "journal": "American Journal of Obstetrics & Gynecology MFM",
+      "pubdate": "2026 Nov 9",
+      "doi": "10.1016/j.ajogmf.2026.102193",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This study examined cases of early-onset fetal growth restriction (FGR) presumed to be caused by uteroplacental insufficiency to determine how often unexpected congenital or chromosomal anomalies were actually present. The abstract does not provide participant numbers, age range, or detailed quantitative findings. Researchers from multiple centers across the Netherlands, UK, and New Zealand contributed to the analysis, suggesting a multinational sample.",
+      "why_it_matters": "If some pregnancies labeled as placenta-driven growth restriction actually involve chromosomal or structural anomalies, it could change how clinicians counsel pregnant women about recurrence risk and management decisions.",
+      "caveats": "abstract provides insufficient detail on sample size, design, or quantitative results \u2014 full text required for verification",
+      "fact_check_note": "The abstract provided is incomplete (no results section visible); summary and caveats reflect only what is verifiable from the available text. Journalists should obtain full text before pitching.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Reproductive health topic; abstract too incomplete to assess design quality or sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Doctors May Be Missing Hidden Genetic Causes Behind Babies Born Too Small",
+          "hook": "Research suggests that a significant proportion of pregnancies flagged for poor placental blood flow may actually involve undetected chromosomal or structural problems in the fetus.",
+          "pitch_angle": "Early-onset fetal growth restriction is often blamed on the placenta, but new multinational research raises the possibility that genetic anomalies are being overlooked \u2014 a finding that could reshape how high-risk pregnancies are monitored and counseled."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43003920",
+      "headline": "A little-known protein released from fat tissue is linked to breast cancer, liver disease, and heart disease all at once",
+      "journal": "Nature metabolism",
+      "pubdate": "2026 Nov 9",
+      "doi": "10.1038/s42255-026-01657-y",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This review in Nature Metabolism synthesizes preclinical and human evidence on endotrophin (ETP), a protein fragment cleaved from collagen VI in adipose tissue, as a driver of fibroinflammation and disease progression across multiple organ systems. Elevated ETP levels have been linked to obesity-related fat tissue dysfunction, steatotic liver disease, breast cancer progression, chronic kidney disease, and cardiovascular disease. The authors, who hold patents on anti-ETP antibodies and have co-founded a company developing ETP-targeted therapy, position ETP as a potential therapeutic target across this broad disease spectrum.",
+      "why_it_matters": "Because ETP is released from fat tissue and has been specifically linked to breast cancer progression, this protein may represent a mechanistic bridge between obesity and cancer risk that is especially relevant for women.",
+      "caveats": "review article (not primary study), preclinical models included alongside human data, industry funding [author is co-founder of Privebio and holds patents on anti-ETP antibodies], no sex-disaggregated data reported for many disease contexts",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Breast cancer + obesity link, Nature-tier journal, strong pitch hook; review design and COI limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Scientists Are Zeroing In on a Fat-Tissue Protein That May Link Obesity to Breast Cancer \u2014 and Heart Disease",
+          "hook": "A single protein released from fat cells appears to drive breast cancer progression, liver disease, and heart disease through the same underlying mechanism.",
+          "pitch_angle": "Endotrophin, a little-known fragment of a structural protein in fat tissue, is emerging as a potential key driver connecting excess body fat to some of the most serious health conditions women face \u2014 including breast cancer. While the science is still early and much of the evidence comes from animal models, researchers are already developing drugs to block it, making this a story worth watching."
+        },
+        {
+          "publication_type": "The Cut (health section)",
+          "headline": "Could One Protein Explain Why Obesity Raises Breast Cancer Risk?",
+          "hook": "A protein quietly released by fat cells may be doing a lot of damage \u2014 and scientists think blocking it could change treatment for breast cancer, liver disease, and more.",
+          "pitch_angle": "Endotrophin connects obesity to a cascade of inflammatory and fibrotic damage across the body \u2014 and researchers with a financial stake in its discovery are already moving toward clinical trials of an antibody to neutralize it. The breast cancer link is particularly striking for women, though the evidence is still largely preclinical and the COI landscape warrants scrutiny."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42998586",
+      "headline": "Having a family member with borderline personality disorder more than doubles your own risk of a psychiatric diagnosis",
+      "journal": "Comprehensive Psychiatry",
+      "pubdate": "2026 Nov 7",
+      "doi": "10.1016/j.comppsych.2026.152755",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Swedish researchers used national registry data to compare psychiatric outcomes in first-degree relatives and spouses of individuals diagnosed with BPD (n=24,769 next-of-kin) versus matched controls (n=77,728 next-of-kin) over five years. After adjusting for confounders, next-of-kin of people with BPD were more than twice as likely to develop a psychiatric disorder (HR 2.08) and to use psychiatric inpatient care (IRR 2.23), and 75% more likely to be prescribed psychotropic medication. The study did not report sex-disaggregated results for next-of-kin outcomes, though BPD itself is diagnosed predominantly in women.",
+      "why_it_matters": "Because BPD disproportionately affects women and its caregivers are often female family members, this finding suggests that women in these family roles may face substantially elevated mental health risks that go unrecognized and unsupported.",
+      "caveats": "observational design, no sex-disaggregated data, single-country (Sweden), registry-based diagnosis may miss undiagnosed cases, short follow-up (5 years)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large national cohort, strong effect size, women's mental health relevance; penalized for no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "If Someone You Love Has BPD, Your Own Mental Health May Be at Serious Risk",
+          "hook": "A major new study found that simply being a close relative or partner of someone with borderline personality disorder more than doubles your risk of developing a psychiatric disorder yourself.",
+          "pitch_angle": "Researchers tracked over 100,000 people across Sweden and found that next-of-kin of individuals with BPD had dramatically higher rates of psychiatric diagnoses, medication use, and hospitalizations \u2014 yet support for these family members is rarely discussed or offered."
+        },
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "The Hidden Mental Health Toll of Loving Someone With BPD",
+          "hook": "New research suggests that caring for or growing up with someone who has borderline personality disorder carries a measurable, significant cost to your own psychological wellbeing.",
+          "pitch_angle": "A nationwide Swedish study found that family members and partners of people with BPD faced more than double the psychiatric risk of the general population \u2014 raising urgent questions about why mental health support systems focus almost exclusively on the person diagnosed, not those closest to them."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43008519",
+      "headline": "A routine early-pregnancy questionnaire predicts how emotionally bonded mothers feel to their babies months later \u2014 even in low-risk pregnancies",
+      "journal": "Midwifery",
+      "pubdate": "2026 Nov 7",
+      "doi": "10.1016/j.midw.2026.105048",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed 269 low-risk pregnant women in Denmark, assessing psychosocial risk in early pregnancy using the validated 12-item Antenatal Risk Questionnaire (ANRQ) and then measuring maternal-fetal attachment at 37\u201338 weeks gestation using the Maternal Antenatal Attachment Scale (MAAS). Women who scored at or above the ANRQ threshold for increased psychosocial risk (21% of participants) reported significantly lower maternal antenatal attachment scores in late pregnancy, even after adjusting for age, parity, and education. The finding is notable because this population was already classified as low-risk, suggesting that psychosocial screening catches problems not identified by standard clinical risk criteria.",
+      "why_it_matters": "Early maternal-fetal bonding influences a child's long-term emotional and behavioral development, and this study suggests that a brief questionnaire already in use could flag at-risk pregnancies early enough to intervene \u2014 even among women considered low-risk.",
+      "caveats": "small sample (N=269), single-center, observational design, self-reported outcomes, short follow-up, Denmark-specific antenatal care context",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Perinatal mental health angle; female-only sample; small N and single-center limit strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "A Simple Pregnancy Questionnaire Could Predict Whether a Mom Will Bond With Her Baby \u2014 Months Before Birth",
+          "hook": "Even among women whose pregnancies were classified as low-risk, a brief psychosocial screening tool in the first trimester predicted how strongly they felt attached to their unborn baby late in pregnancy.",
+          "pitch_angle": "A Danish cohort study found that women flagged for psychosocial stress early in pregnancy reported significantly weaker emotional bonds with their babies by the third trimester \u2014 suggesting the standard 'low-risk' label may miss important warning signs. Experts say the finding makes a case for universal psychosocial screening at the first prenatal visit, not just for women with obvious risk factors."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42992968",
+      "headline": "New dads' sexual distress spills over to hurt their partners' confidence as parents",
+      "journal": "Journal of Sex Research",
+      "pubdate": "2026 Nov 6",
+      "doi": "10.1080/00224499.2026.2754341",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used dyadic Actor-Partner Interdependence Models to examine how sexual satisfaction and sexual distress relate to parenting sense of competence in 132 mixed-gender, first-time parent couples in Portugal assessed at three months postpartum. Greater sexual distress was associated with lower parental competence for both partners, and \u2014 notably \u2014 men's greater sexual distress was associated with women's lower sense of parental competence. After adjusting for contextual variables, only men's own sexual satisfaction and sexual distress associations remained statistically significant.",
+      "why_it_matters": "The finding suggests that postpartum sexual wellbeing \u2014 particularly a new father's \u2014 may be an overlooked factor in how confident new mothers feel in their parenting role.",
+      "caveats": "small sample (N<100 per group, though 132 couples total), observational design, single-center, self-reported outcomes, short follow-up, Portugal-specific sample (may not generalize)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Postpartum health, women-specific finding, couples design; observational and single-country.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Partner's Sex Life Stress Could Be Quietly Undermining Your Confidence as a New Mom",
+          "hook": "A new study found that when new dads are sexually distressed, their partners feel less competent as parents \u2014 even when the moms' own sex lives are fine.",
+          "pitch_angle": "Research on 132 first-time parent couples suggests the postpartum bedroom isn't just about intimacy \u2014 it's entangled with how capable and confident new mothers feel. The finding reframes postpartum sexual wellbeing as a couples' issue with ripple effects on parenting."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "The Surprising Link Between New Dads' Sex Lives and How Confident Moms Feel as Parents",
+          "hook": "New research suggests the postpartum intimacy struggles fathers experience may quietly erode mothers' sense of parenting competence.",
+          "pitch_angle": "A study of couples at three months postpartum found that men's sexual distress was associated with women feeling less capable as parents, pointing to an underappreciated dimension of postpartum support. Experts could weigh in on how couples communication around intimacy might buffer both partners during the transition to parenthood."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42994381",
+      "headline": "Brains don't appear 'older than their age' at the onset of psychosis \u2014 overturning a widely held assumption",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Nov 6",
+      "doi": "10.1016/j.schres.2026.10.020",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a randomized controlled trial, 61 antipsychotic-naive young adults with first-episode psychosis and 27 healthy controls underwent structural MRI at baseline, 3 months, and 12 months; brain age was estimated using two validated computational models. Contrary to prior research suggesting accelerated structural brain aging in schizophrenia-spectrum disorders, brain-predicted age did not differ between patients and controls at any point, and antipsychotic treatment (risperidone or paliperidone) did not alter brain-age trajectories over the first year. The study population included 28 women and 33 men among patients, though results were not broken down by sex.",
+      "why_it_matters": "If accelerated brain aging in psychotic disorders emerges later in illness \u2014 not at onset \u2014 it suggests there may be a window for intervention that is not yet fully understood, relevant to the many young women who experience first-episode psychosis.",
+      "caveats": "small sample (N=61 patients), short follow-up (12 months), industry funding [Janssen-Cilag, unrestricted grant and study drug for first 30 participants], no sex-disaggregated data reported, single-center recruitment (Australia/Spain)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive RCT finding overturns prior belief; small N and no sex-disaggregated data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Psychosis Doesn't Make the Brain Look 'Older' Right Away \u2014 New Research Challenges What Scientists Thought They Knew",
+          "hook": "Scientists assumed that psychotic disorders aged the brain prematurely from the very start \u2014 a new RCT suggests that's not the case at illness onset.",
+          "pitch_angle": "Using MRI brain-age models in antipsychotic-naive patients, researchers found no measurable 'brain age gap' at first episode, and antipsychotic treatment didn't change that trajectory over 12 months. The finding challenges a prevailing assumption and suggests the window for understanding \u2014 and potentially protecting \u2014 brain structure in psychosis may be wider than previously thought."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42995126",
+      "headline": "RhD immune globulin isn't stopping a rise in blood incompatibility disorders during pregnancy \u2014 here's what's taking its place",
+      "journal": "Seminars in Perinatology",
+      "pubdate": "2026 Nov 6",
+      "doi": "10.1016/j.semperi.2026.152327",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review summarizes evidence on the incidence, management, and research gaps for non-RhD red blood cell alloimmunization \u2014 a condition in which a pregnant person's immune system attacks fetal blood cells \u2014 which can cause hemolytic disease of the fetus and newborn (HDFN). Although the widely used RhD immune globulin (RhIG) injection has reduced RhD-related HDFN, the review highlights that disease burden from RhD incompatibility has persisted and non-RhD alloimmunization cases have increased relatively. No primary participant data are reported; this is a review of existing literature.",
+      "why_it_matters": "As the standard Rh shot protects against one blood incompatibility, more than 50 other antigens can still trigger pregnancy complications \u2014 and awareness among pregnant women and their providers remains low.",
+      "caveats": "review article (not primary research), no sex-disaggregated data applicable (condition is specific to pregnant people), no primary sample size",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Reproductive/pregnancy health; review design limits score; counterintuitive public health angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "You Got the Rh Shot During Pregnancy \u2014 But There Are 50 Other Blood Incompatibilities Doctors Are Worried About",
+          "hook": "The standard Rh injection protects against just one of more than 50 blood antigens that can cause serious complications for a fetus.",
+          "pitch_angle": "A new review finds that while RhD immune globulin has long been a pregnancy staple, non-RhD blood incompatibilities are becoming a growing concern globally \u2014 and there are no equivalent preventive shots for most of them. The story could explain what alloimmunization means in plain language and what questions pregnant women might raise with their OBs."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42993448",
+      "headline": "School-based autism screening teams are catching kids earlier \u2014 and surviving without funding",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Nov 6",
+      "doi": "10.1007/s10803-026-07589-6",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a mixed-methods case study evaluating three school-based, locally developed autism early identification models across three areas of England, gathering referral data alongside focus groups and interviews with education and health professionals. Stakeholders across all three sites reported improved collaboration, earlier access to support, and better school-staff confidence in identifying and supporting autistic children and their families. Models persisted and developed further even after funding ended, though concerns about potential over-identification were raised at one site.",
+      "why_it_matters": "Mothers and female caregivers are often the first to flag developmental differences in their children, and streamlined school-based identification pathways could shorten the agonizing wait for answers that many families currently face.",
+      "caveats": "observational design, single-center, self-reported outcomes, small sample (N<100), UK-only context may limit US generalizability",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Parenting-adjacent topic; UK-specific system; qualitative design limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping",
+          "headline": "Schools Are Catching Autism Earlier \u2014 Even Without Official Funding. Here's How They're Doing It",
+          "hook": "Three English school districts built their own autism screening teams, got kids help faster, and kept the programs running even after the money ran out.",
+          "pitch_angle": "A new study found that locally designed, school-based autism identification programs improved collaboration between teachers, health workers, and families \u2014 and proved durable even without sustained funding. For parents navigating long diagnostic waits, the finding suggests that where the system falls short, schools can step into the gap."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42998617",
+      "headline": "Scientists crack the code for measuring the 'bonding hormone' in saliva \u2014 opening a non-invasive window into the brain",
+      "journal": "Psychoneuroendocrinology",
+      "pubdate": "2026 Nov 6",
+      "doi": "10.1016/j.psyneuen.2026.108078",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Italian and Swiss researchers developed and validated a highly sensitive mass spectrometry method (UHPLC-MS/MS) to accurately measure oxytocin levels in human saliva, following international bioanalytical guidelines. The method was tested on real-world saliva samples from caregivers working with people with dementia, confirming its applicability beyond laboratory conditions. The technique is more accurate and standardized than current enzyme immunoassay methods, particularly at higher oxytocin concentrations.",
+      "why_it_matters": "Oxytocin is central to bonding, breastfeeding, and postpartum wellbeing; a reliable non-invasive way to measure it in saliva could eventually make oxytocin-related research on pregnant and postpartum women far more practical and accessible.",
+      "caveats": "small sample (N<100), single-center, methodological validation study only, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Methodological advance with potential reproductive/postpartum research applications; no clinical findings yet.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "The 'Love Hormone' Is Notoriously Hard to Measure. Scientists Just Found a Better Way \u2014 Using Spit",
+          "hook": "A new lab technique can accurately measure oxytocin from a saliva sample, potentially transforming research on bonding, postpartum mood, and social connection.",
+          "pitch_angle": "Oxytocin is everywhere in wellness culture \u2014 but actually measuring it in real people has been a methodological mess, with current tests often producing unreliable results. A newly validated saliva-based mass spectrometry method could make future studies on postpartum bonding, breastfeeding, and social wellbeing far more credible."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43011855",
+      "headline": "An MRI score combining two uterine measurements predicts which adenomyosis patients are most likely to relapse after a non-surgical treatment",
+      "journal": "International Journal of Women's Health",
+      "pubdate": "2026 Nov 6",
+      "doi": "10.2147/IJWH.S614021",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 326 women with intrinsic adenomyosis who underwent ultrasound-guided high-intensity focused ultrasound ablation (HIFU/FUAS) between 2017 and 2024 at a single Chinese center. They found that combining MRI measurements of junctional zone thickness (JZmax \u226523.1 mm) and depth of myometrial infiltration (DMI \u226551.4 mm) into a composite score (COJD) independently predicted symptom recurrence \u2014 with women scoring highest on the COJD having a median recurrence-free survival of 38.7 months compared to 53.0 months for those with the lowest score. Overall, 17.8% of patients experienced recurrence of heavy bleeding or pain after an initial period of relief.",
+      "why_it_matters": "For women with adenomyosis who want to avoid hysterectomy, knowing before treatment which patients are at highest risk of relapse after HIFU could guide more personalized follow-up care and earlier intervention.",
+      "caveats": "observational design, retrospective, single-center, China-specific clinical context, self-reported outcomes (symptom recurrence), short follow-up for some participants",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Adenomyosis is an underserved women's health topic; actionable imaging finding; retrospective design limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / Well+Good",
+          "headline": "Two MRI Measurements Could Predict Whether Adenomyosis Symptoms Will Come Back After Treatment",
+          "hook": "For women who choose a non-surgical treatment for adenomyosis, a simple two-variable MRI score may predict months in advance whether their pain and heavy bleeding will return.",
+          "pitch_angle": "A study of 326 women found that combining the thickness of the uterine junctional zone with the depth of adenomyosis tissue on MRI identified patients at the highest risk of symptom relapse after HIFU ablation \u2014 a finding that could help doctors and patients make more informed decisions about monitoring and follow-up care. The research adds to growing evidence that adenomyosis, long overshadowed by endometriosis, may be more predictable and treatable than once thought."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42988151",
+      "headline": "Scientists find the brain circuit that makes us move less as we age \u2014 and figure out how to switch it back on",
+      "journal": "Metabolism: Clinical and Experimental",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.1016/j.metabol.2026.156823",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers identified a specific brain serotonin circuit \u2014 involving neurons in the dorsal raphe and 5-HT2C receptors in the ventral tegmental area \u2014 that programs the age-related decline in physical activity. The human component compared UK adults aged 50\u201370 with those aged 17\u201330, confirming reduced activity in older participants; the mechanistic work was done in mice. Genetically blocking serotonin's action at 5-HT2C receptors in older mice restored youthful activity levels and strength, suggesting a targetable neurological pathway.",
+      "why_it_matters": "Understanding the brain biology behind age-related inactivity could eventually open new avenues for helping midlife and older women \u2014 who face disproportionate muscle loss and cardiovascular risk \u2014 stay physically active.",
+      "caveats": "no sex-disaggregated data reported, small human comparison (age groups, N not specified in abstract), mechanistic findings from animal study, preprint (online ahead of print)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Compelling aging/activity finding but no female-specific analysis and largely mouse mechanistic data.",
       "pitch_angles": [
         {
           "publication_type": "Prevention / Well+Good",
-          "headline": "Half of Perimenopause Studies in Developing Countries Are Using Outdated Methods \u2014 Here's Why That's a Problem for All Women",
-          "hook": "Nearly half of perimenopause studies in lower-income countries don't use any standardized definition of the transition \u2014 making their findings nearly impossible to trust.",
-          "pitch_angle": "A new scoping review found sweeping inconsistency in how perimenopause is classified across 90 international studies, leaving billions of midlife women without reliable, culturally relevant health evidence. The story explores what better global research would mean for understanding how perimenopause differs across populations."
+          "headline": "Your Brain Has a Hidden 'Off Switch' for Exercise \u2014 And Scientists Just Found It",
+          "hook": "A newly identified serotonin circuit in the brain may be the reason it feels so much harder to stay active after 50 \u2014 and researchers in mice have already found a way to flip it back on.",
+          "pitch_angle": "Researchers discovered that aging changes the firing of serotonin neurons in a specific brain region, essentially telling the body to move less \u2014 and blocking that signal in older mice restored youthful activity levels. The finding suggests the mid-life motivation slump isn't a willpower problem but a neuroscience one, with real implications for women navigating energy and fitness changes at menopause and beyond."
         }
       ],
-      "run_date": "2026-11-11",
+      "run_date": "2026-11-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42988689",
+      "headline": "People with diabetes may cut hospitalizations and heart events by getting a flu shot every year",
+      "journal": "Endocrinologia, diabetes y nutricion",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.1016/j.endien.2026.501845",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review summarizes evidence on influenza vaccination in people with diabetes mellitus, targeting clinical practice in Spain. The review synthesizes data showing annual flu vaccination in people with DM reduces hospitalizations, cardiovascular events, and mortality \u2014 especially in those aged 60 or older or with comorbidities. Higher-immunogenicity formulations (high-dose or adjuvanted) may offer additional benefit, and co-administration with other adult vaccines appears feasible.",
+      "why_it_matters": "Women with diabetes \u2014 a group at disproportionate cardiovascular risk \u2014 may have a straightforward, underutilized tool in annual flu vaccination to reduce serious complications.",
+      "caveats": "observational design, narrative review (not systematic), single-center context (Spain-specific clinical guidance), no sex-disaggregated data, industry funding [Pfizer, Sanofi, MSD, GSK, AstraZeneca, Moderna, Takeda \u2014 one author]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Diabetes-relevant finding but narrative review, Spain-specific, no female-specific data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "If You Have Diabetes, Getting a Flu Shot Every Year Could Protect Your Heart",
+          "hook": "Annual flu vaccination is associated with fewer hospitalizations and cardiovascular events in people with diabetes \u2014 but vaccination rates remain stubbornly low.",
+          "pitch_angle": "A new review finds flu shots offer meaningful protection for people with diabetes beyond just preventing illness, potentially reducing heart-related complications. For women managing diabetes \u2014 who already face elevated cardiovascular risk \u2014 it's a low-effort intervention worth discussing with their doctor each fall."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42986426",
+      "headline": "Second-generation migrant teens face higher repeat suicide risk than first-generation migrants \u2014 a counterintuitive finding",
+      "journal": "European Child & Adolescent Psychiatry",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.1007/s00787-026-03167-4",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a 12-month retrospective cohort study, 1,281 adolescents aged 8\u201317 presenting to a psychiatric emergency department in Madrid with suicidal ideation or behavior were followed for repeat suicidal behavior; the sample included non-migrant, first-generation, and second-generation migrant youth. Migrant adolescents \u2014 especially first-generation \u2014 were less likely to have had prior mental health follow-up and presented with more severe self-harm methods, yet in fully adjusted models, it was second-generation (not first-generation) migrant status that independently predicted repeat suicidal behavior. The finding held after accounting for sociodemographic, psychosocial, and clinical covariates including prior suicidal behavior.",
+      "why_it_matters": "Because adolescent girls account for a disproportionate share of suicidal behavior and self-harm presentations, understanding how generational migration status shapes repeat risk could help clinicians and parents better identify which young women need the most intensive follow-up after a crisis visit.",
+      "caveats": "observational design, single-center, retrospective medical record review, self-reported outcomes, Spain-specific clinical context (may not generalize directly to US migrant populations)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive large-N finding with strong adolescent girls' mental health relevance; observational design limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "It's Not First-Generation Immigrant Teens Who Face the Highest Repeat Suicide Risk \u2014 It's Their Kids",
+          "hook": "A new study found that second-generation migrant adolescents \u2014 those born in a country to immigrant parents \u2014 were more likely to attempt suicide again after an ER visit than teens who immigrated themselves.",
+          "pitch_angle": "Researchers tracked over 1,200 teens after a psychiatric emergency visit and found that while first-generation migrants faced more psychosocial hardship and less mental health support, it was second-generation youth whose repeat suicide risk remained elevated even after controlling for all those factors. The counterintuitive finding suggests that cultural identity conflict and 'in-between' belonging \u2014 not language barriers or poverty alone \u2014 may be driving crisis-level mental health risk in this group."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Why Children of Immigrants May Be at Higher Suicide Risk Than Their Parents Were as Teens",
+          "hook": "New research suggests the children of immigrants face a distinct \u2014 and underrecognized \u2014 mental health vulnerability that persists even when economic and social disadvantages are accounted for.",
+          "pitch_angle": "A study of more than 1,200 adolescents seen in a psychiatric ER found that second-generation migrant teens were more likely to repeat suicidal behavior over the following year than either non-migrant peers or teens who immigrated themselves. For families navigating questions of cultural identity across generations, the finding is a signal that belonging and identity stress may be as clinically significant as more visible risk factors."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43002920",
+      "headline": "Brain scans show first-episode psychosis shrinks a key 'alarm system' region \u2014 but not in ways that predict symptom severity",
+      "journal": "Psychiatry Research: Neuroimaging",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.1016/j.pscychresns.2026.112384",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used 3D MRI to compare volumes of salience network brain regions in 51 first-episode psychosis (FEP) patients and 48 healthy controls in Turkey. After adjusting for age, sex, and intracranial volume, FEP patients showed significantly reduced bilateral thalamic volume and reduced right anterior insula volume. Surprisingly, none of these structural differences correlated with how severe patients' psychotic symptoms were.",
+      "why_it_matters": "Understanding early brain changes in psychosis \u2014 a condition that often emerges in young women in their 20s \u2014 could inform earlier detection efforts before symptoms worsen.",
+      "caveats": "small sample (N<100), observational design, single-center, cross-sectional design, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Mixed-sex psychiatric neuroimaging; no sex-disaggregated data; small single-center sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Early Psychosis Changes the Brain in Ways That Don't Match Symptom Severity \u2014 Here's What That Means",
+          "hook": "Brain scans of people experiencing their first psychotic episode revealed shrunken 'alarm center' regions \u2014 but the size of the shrinkage didn't predict how sick patients felt.",
+          "pitch_angle": "A new MRI study found structural brain differences in first-episode psychosis that survive rigorous statistical adjustment, yet don't map neatly onto symptom severity \u2014 suggesting the biology of early psychosis is more complex than a simple brain-volume story. For health journalists, this opens a window into why psychosis is so hard to predict and treat, even when brain changes are detectable."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42987472",
+      "headline": "Scientists built a better lab model of a deadly uterine cancer \u2014 and it behaves far more like the real disease than the standard model",
+      "journal": "Gynecologic Oncology",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.1016/j.ygyno.2026.10.023",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed a new orthotopic mouse model of uterine leiomyosarcoma (uLMS) \u2014 a rare, aggressive uterine cancer \u2014 by surgically implanting tumor cells directly into the uterine wall of mice, rather than under the skin as is standard. Compared with the traditional subcutaneous model, the orthotopic model showed greater tumor growth, more realistic metastasis patterns, and stronger response to doxorubicin chemotherapy. The study used NOD/SCID mice implanted with SK-LMS-1 human cancer cells, with tumor progression tracked by MRI.",
+      "why_it_matters": "Because uterine leiomyosarcoma is notoriously hard to treat and poorly represented by existing lab models, a more realistic preclinical model could accelerate the search for effective therapies for a cancer that affects women with few options.",
+      "caveats": "animal or cell study, small sample (mouse model), single-center, results not yet tested in humans",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Women-specific cancer; animal study only significantly limits translational relevance for journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Researchers Created a More Realistic Lab Model of a Deadly Uterine Cancer \u2014 Here's Why That Matters",
+          "hook": "A new mouse model of uterine leiomyosarcoma mimics how the cancer actually spreads in women \u2014 something the decades-old standard model largely failed to do.",
+          "pitch_angle": "Scientists found that implanting uterine cancer cells directly into the uterine wall of mice produced tumors that grew faster, spread more realistically, and responded to chemotherapy in ways that better reflect patient experience \u2014 a potentially important step for a cancer that has seen little therapeutic progress. The findings are preclinical, but researchers say the model could help identify treatments that actually work before they reach clinical trials."
+        }
+      ],
+      "run_date": "2026-11-12",
       "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42985905",
+      "headline": "A new scoring formula aims to settle the debate over whether outpatient hysteroscopy is truly patient-friendly",
+      "journal": "Facts, Views & Vision in ObGyn",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.52054/FVVO.2026.454",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A UK gynecologist proposes a new quality metric called the 'Clark ratio' \u2014 patient acceptability divided by procedural failure rate \u2014 to more holistically assess how well outpatient hysteroscopy (a camera examination of the uterus performed without general anesthesia) is conducted. The proposal is conceptual rather than empirical, drawing on existing RCT and real-world data to illustrate the trade-off between success rates and patient experience. No new participant data are reported.",
+      "why_it_matters": "Outpatient hysteroscopy is a common gynecological procedure that can be painful and anxiety-provoking for women; a standardized way to measure both its success and acceptability could push providers toward more patient-centered care.",
+      "caveats": "opinion/methodology proposal (no primary data), single author, potential conflict of interest (author is Editor-in-Chief of publishing journal and founder of related professional network)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Women-specific procedure; conceptual proposal without new data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Doctors Are Calling Out a Big Gap in How Painful Uterine Procedures Get Rated",
+          "hook": "A new proposal argues that how well a no-anesthesia uterine exam goes shouldn't just be measured by whether the doctor finished it \u2014 it should also factor in how the patient experienced it.",
+          "pitch_angle": "Outpatient hysteroscopy \u2014 a procedure to examine the inside of the uterus \u2014 is often assessed only on clinical success, leaving patient pain and acceptability out of the equation. A UK gynecologist is proposing a simple ratio to change that, in a move that advocates say reflects a broader push to center women's comfort in gynecological care."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42988220",
+      "headline": "A simple arm measurement could screen for muscle weakness as reliably as a costly body-scan \u2014 and the cutoffs differ by sex",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.1016/j.clnesp.2026.105235",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using NHANES 2011\u20132014 data from 4,518 U.S. adults aged 20\u201359, researchers examined whether the ratio of handgrip strength to mid-upper arm circumference (MUAC) could serve as a practical surrogate for DXA-based muscle-specific strength in assessing sarcopenia risk. MUAC-based muscle-specific strength correlated strongly with DXA-derived measures in both men (r=0.79) and women (r=0.72), and the team proposed sex-specific cutoff values: less than 0.9 kg/cm for low and less than 0.8 kg/cm for very low muscle-specific strength in females. The authors note that individual variability remains substantial and that further validation is needed before clinical use.",
+      "why_it_matters": "Because women face a higher lifetime risk of sarcopenia and have distinct muscle mass trajectories, sex-specific cutoffs from a low-cost, no-equipment measurement could make muscle health screening far more accessible \u2014 particularly in community or primary care settings without DXA access.",
+      "caveats": "observational design, cross-sectional, ages 20\u201359 only (excludes older adults most at risk), secondary analysis, further validation needed per authors",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Sex-specific cutoffs; large population sample; strong women's aging/muscle health hook; needs validation.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Doctors Could Screen Women for Dangerous Muscle Loss With Just a Tape Measure \u2014 Here's the Number to Know",
+          "hook": "A new analysis of nearly 4,500 Americans found that a simple arm circumference measurement, combined with a grip strength test, may be nearly as good as an expensive body scan for detecting low muscle strength.",
+          "pitch_angle": "Researchers established female-specific cutoff values for a grip-to-arm-size ratio that correlated strongly with gold-standard DXA scans, suggesting a practical screening tool for sarcopenia risk that any clinician can perform without specialized equipment \u2014 potentially a game-changer for women's healthy aging care."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42987425",
+      "headline": "Weight-loss diets change tiny molecules in your blood that regulate inflammation and metabolism \u2014 and researchers are only beginning to map them",
+      "journal": "Nutrition Reviews",
+      "pubdate": "2026 Nov 5",
+      "doi": "10.1093/nutrit/nuag154",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This systematic review synthesized findings from 9 randomized clinical trials (12 articles) across 6 countries, examining how weight-loss dietary interventions lasting 2\u201318 months affect circulating microRNA (miRNA) profiles in adults with overweight or obesity. Researchers identified 32 distinct circulating miRNAs that were differentially expressed following dietary interventions, with five (miR-221-3p, miR-223, miR-99b, miR-122, and miR-128) appearing in more than one study. Changes in these miRNAs were associated with weight loss, inflammation, glycemic parameters, lipid profiles, and cardiovascular risk markers, though high heterogeneity across dietary protocols limits unified conclusions.",
+      "why_it_matters": "Because women with obesity face elevated cardiometabolic and inflammatory risks \u2014 including through menopause \u2014 understanding how diet reshapes molecular mediators of metabolism could eventually help explain why the same diet works differently in different women.",
+      "caveats": "small number of trials (N=9 RCTs), high heterogeneity across dietary protocols, no sex-disaggregated data, secondary analysis (systematic review), candidate biomarker status only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Emerging molecular nutrition angle; no female-specific data; high heterogeneity limits actionability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Your Diet Changes Tiny Molecules in Your Blood That Control Inflammation \u2014 Scientists Are Finally Mapping How",
+          "hook": "A new review of clinical trials found that weight-loss diets alter dozens of circulating microRNAs \u2014 epigenetic molecules that regulate how your body handles inflammation, blood sugar, and fat metabolism.",
+          "pitch_angle": "Researchers identified five microRNAs that consistently shifted in response to dietary weight loss across multiple studies and countries, raising the possibility that these molecules could one day help explain why diets work differently from person to person \u2014 a question with particular relevance for women, who often see distinct metabolic responses to dietary changes across reproductive life stages."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43018233",
+      "headline": "A slow-release version of the pill may mean fewer hormonal peaks \u2014 and better bleeding control",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "pubdate": "2026 Nov 12",
+      "doi": "10.1080/17425255.2026.2764080",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This structured review examined the pharmacokinetics and clinical implications of a prolonged-release combined oral contraceptive containing dienogest 2 mg and ethinylestradiol 0.02 mg, drawing on MEDLINE and regulatory sources. Compared with standard immediate-release formulations, the prolonged-release version produces lower hormone peaks and reduced intraday hormonal fluctuations while maintaining comparable overall exposure. Clinical evidence suggests contraceptive efficacy on par with other COCs, improved bleeding control, antiandrogenic effects relevant to acne and hirsutism, and a broadly similar safety profile \u2014 though thromboembolic risk remains uncertain.",
+      "why_it_matters": "For women who struggle with spotting, irregular bleeding, or androgen-related symptoms like acne on standard birth control pills, a smoother hormonal delivery system may offer a meaningful quality-of-life improvement.",
+      "caveats": "narrative/structured review (not RCT), no sex-disaggregated data reported beyond the inherently female population, thromboembolic risk uncharacterized, further post-marketing studies needed",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Contraception topic fit, female-specific, novel delivery mechanism, review-level evidence limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Allure",
+          "headline": "Could a 'Slow-Release' Birth Control Pill Fix Your Spotting and Breakouts?",
+          "hook": "A new formulation of the pill delivers hormones more gradually \u2014 and early evidence suggests it may mean better bleeding control and clearer skin.",
+          "pitch_angle": "Drug-delivery technology, not just hormone type or dose, is now shaping contraceptive options: a prolonged-release pill delivers estrogen and progestin with fewer peaks and valleys throughout the day. For women who've experienced spotting or acne on standard pills, the smoother hormonal curve and antiandrogenic properties of this formulation may be worth asking about \u2014 though long-term safety data is still catching up."
+        },
+        {
+          "publication_type": "Shape / Women's Health Magazine",
+          "headline": "The Next Generation of the Birth Control Pill Is Designed to Smooth Out Your Hormones",
+          "hook": "Instead of changing the hormones in the pill, researchers are now changing how the pill delivers them \u2014 and the results look promising for bleeding control and acne.",
+          "pitch_angle": "A prolonged-release oral contraceptive with the same hormone levels as a standard low-dose pill produces lower hormonal spikes and more stable levels throughout the day \u2014 which may explain improved bleeding patterns and antiandrogenic benefits seen in early studies. It's an emerging option in contraceptive individualization, though more comparative data is still needed."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43012499",
+      "headline": "A machine-learning model predicts blood sugar changes in diabetes emergencies with surprising accuracy",
+      "journal": "Journal of diabetes investigation",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1111/jdi.70489",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at five Japanese institutions developed and externally validated two machine-learning models \u2014 using gradient-boosted decision trees \u2014 to predict short-term blood glucose trajectories in patients experiencing hyperglycemic crises treated with continuous intravenous insulin infusion. The study analyzed 574 post-infusion glucose measurements from 191 patients, with an independent external validation cohort of 29 patients from a sixth institution. The direct glucose prediction model achieved an R\u00b2 of 0.80 in external validation, though the glucose-change model showed limited generalizability across institutions.",
+      "why_it_matters": "For women hospitalized in diabetic ketoacidosis or hyperglycemic hyperosmolar state \u2014 events that carry serious risk \u2014 an AI tool that more accurately tracks insulin response could support safer, more personalized emergency care.",
+      "caveats": "small sample (N<100 for external validation, N=191 total), single-center training with limited external validation, no sex-disaggregated data, Japan-only cohort, retrospective design, further prospective validation needed",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Diabetes emergency care; small sample, no female-specific data, Japan-only limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "An AI Tool Can Now Predict How Quickly Blood Sugar Drops During a Diabetes Emergency",
+          "hook": "A machine-learning model predicted short-term blood sugar changes in diabetic emergencies with 80% accuracy \u2014 potentially helping doctors fine-tune insulin treatment in real time.",
+          "pitch_angle": "Hyperglycemic crises like diabetic ketoacidosis are medical emergencies where insulin dosing decisions happen fast and mistakes can be dangerous; a new AI model trained on hundreds of real patient glucose measurements suggests these short-term trajectories may be more predictable than previously thought. While the study is small and Japan-based, it's an early proof-of-concept for smarter, data-driven emergency diabetes care."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43014447",
+      "headline": "It's not what you eat but who you are: personality-linked eating traits \u2014 not BMI \u2014 predict which foods feel addictive",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1016/j.jand.2026.156925",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a nationally representative cross-sectional survey of 1,664 U.S. adults (18+) in 2024, asking participants to rate the perceived addictiveness of 99 randomly selected foods from a 297-item list while also completing eating disorder and food addiction screeners. The study found that disordered eating behaviors and food addiction symptom scores \u2014 but not BMI \u2014 interacted significantly with ultra-processing level and hyperpalatability to predict how addictive a food felt. The association was strongest for NOVA Group 4 (ultra-processed) and hyperpalatable foods, suggesting that individual eating behavior phenotypes shape food addiction vulnerability more than body size alone.",
+      "why_it_matters": "For women, who are disproportionately affected by both eating disorders and food addiction symptoms, this suggests that targeting eating behavior patterns \u2014 rather than weight \u2014 may be more relevant to understanding and addressing problematic relationships with ultra-processed foods.",
+      "caveats": "observational design, self-reported outcomes, cross-sectional (no causality), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong nutrition/eating behavior hook; large sample; no female-specific analysis limits women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Some People Can't Stop Eating Chips (And It Has Nothing to Do With Willpower or Weight)",
+          "hook": "A new study found that BMI has nothing to do with how addictive ultra-processed foods feel \u2014 but your eating behavior patterns have everything to do with it.",
+          "pitch_angle": "Researchers identified that disordered eating traits, not body size, predict which people find ultra-processed and hyperpalatable foods hardest to resist. For wellness audiences focused on intuitive eating and food freedom, this reframes the conversation away from body weight toward psychological and behavioral patterns."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "New Research Says Your Relationship With Food \u2014 Not Your Weight \u2014 Predicts Junk Food Addiction",
+          "hook": "Scientists found that people with higher eating disorder and food addiction scores rated ultra-processed foods as significantly more addictive \u2014 regardless of their BMI.",
+          "pitch_angle": "The study of 1,664 U.S. adults suggests that targeting eating behavior phenotypes, rather than the number on the scale, may be a more useful lens for understanding why certain people struggle more with ultra-processed foods than others."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43014446",
+      "headline": "Kids with only 20-minute lunch periods get just 16 minutes to eat \u2014 and most leave food on the tray",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1016/j.jand.2026.156930",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed 7,027 school lunch trays across 20 elementary schools in Arizona, California, Connecticut, and Massachusetts during the 2024\u201325 school year, using direct observation for seated time and plate waste measurement for consumption. Students with 20-minute lunch periods averaged only 16 minutes of actual seated eating time, and only 16% met the federal recommendation of 20 seated minutes; in contrast, 89% of students with 30-minute periods met the standard. Longer seated time was significantly associated with greater consumption of milk, whole grain sides, and fruit.",
+      "why_it_matters": "For parents and caregivers \u2014 the majority of whom are women \u2014 this finding underscores how school scheduling policy directly shapes children's daily nutrition in ways that fall outside family control.",
+      "caveats": "observational design, cross-sectional, single school year, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong parenting/child nutrition hook; large tray sample; not directly about women's health.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping",
+          "headline": "Your Kid Has Less Than 16 Minutes to Eat Lunch at School \u2014 And It's Affecting What They Actually Eat",
+          "hook": "A new multi-state study found that most elementary students with 20-minute lunch periods are left with fewer than 16 minutes to actually sit down and eat \u2014 and it shows up in what they leave behind on the tray.",
+          "pitch_angle": "Researchers tracked over 7,000 lunch trays and found that kids with longer seated time ate significantly more fruit, whole grains, and milk; states with formal time-to-eat policies had meaningfully longer lunch windows, giving parents a concrete policy lever to push for in their school districts."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43013874",
+      "headline": "Wealthier women are far more likely to get the most accurate prenatal chromosome test \u2014 even when it's the standard recommendation",
+      "journal": "Prenatal Diagnosis",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1002/pd.70303",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed prenatal aneuploidy screening data from 80,355 women who gave birth across 11 public hospitals in Melbourne, Australia (2022\u20132024). Although NIPT was the recommended first-line screening test, uptake ranged from 75.3% in the most socioeconomically disadvantaged areas to 88.9% in the most advantaged areas. After adjusting for other factors, women in the most advantaged regions were still significantly more likely to use NIPT than those in the least advantaged regions, suggesting that out-of-pocket cost creates a meaningful access gap.",
+      "why_it_matters": "Even in a high-income country with universal healthcare, socioeconomic status shapes which pregnant women receive the most accurate prenatal screening \u2014 a disparity that could affect pregnancy decision-making and outcomes.",
+      "caveats": "observational design, single-center (Melbourne, Australia \u2014 findings may not generalize to US or other health systems where NIPT is covered differently), retrospective, self-funded NIPT context specific to Australia",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong reproductive health finding; large N; equity angle; Australia-specific funding context limits US generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "The Prenatal Test Your Doctor Recommends Is Much Less Likely to Be Used If You Can't Afford It",
+          "hook": "Even in countries with public healthcare, the most accurate chromosome screening test during pregnancy is significantly more common among wealthier women \u2014 and cost is the likely culprit.",
+          "pitch_angle": "A large Australian study found that NIPT uptake dropped sharply in lower-income neighborhoods despite being the recommended standard of care, because it isn't publicly funded. The finding raises urgent questions about whether out-of-pocket prenatal costs in the US are creating similar gaps in who gets the best information about their pregnancy."
+        },
+        {
+          "publication_type": "Good Housekeeping / First for Women",
+          "headline": "Your Zip Code May Determine Which Prenatal Tests You're Offered \u2014 Here's What to Know",
+          "hook": "A study of more than 80,000 pregnancies found that where a woman lives \u2014 and how much money she has \u2014 predicts whether she gets the most accurate prenatal screening available.",
+          "pitch_angle": "Researchers found a significant socioeconomic gap in NIPT uptake among pregnant women in Australia, where the test is recommended but costs come out of pocket. Advocates say the findings highlight why pregnant women should ask their providers about all available screening options, regardless of what's routinely offered."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43010641",
+      "headline": "New dads describe breastfeeding support as being a 'shade tree' and a 'teammate' \u2014 and it may be key to how long moms nurse",
+      "journal": "Breastfeeding Medicine",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1177/15568253261505338",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a qualitative descriptive study using metaphor analysis with 94 first-time fathers in Turkey whose infants (aged 0\u20132 months) were breastfeeding at the time of data collection. Fathers completed the sentence 'Supporting my wife with breastfeeding is like \u2026 because \u2026' and 57 distinct metaphors were identified and grouped into four themes including holistic support, bonding, and emotional engagement. Findings suggest fathers conceptualize their breastfeeding support role in deeply emotional and partnership-oriented terms, which researchers say may reinforce breastfeeding sustainability when fathers are actively engaged from the prenatal period.",
+      "why_it_matters": "Understanding how fathers emotionally frame their support role could help postnatal care providers design more effective interventions to improve breastfeeding duration for new mothers.",
+      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, single country (Turkey) \u2014 cultural context may limit generalizability to US populations",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postpartum/breastfeeding topic fits; qualitative single-country design limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Good Housekeeping",
+          "headline": "New Dads Who See Themselves as 'Shade Trees' for Nursing Moms May Be the Secret to Breastfeeding Success",
+          "hook": "When first-time fathers were asked to describe supporting breastfeeding in a metaphor, they reached for images of partnership, shelter, and shared goals \u2014 and that mindset may matter more than any lactation hack.",
+          "pitch_angle": "A new qualitative study found that fathers who conceptualize breastfeeding support as emotional partnership and teamwork are more likely to actively engage \u2014 and paternal involvement is consistently linked to longer breastfeeding duration for moms. The findings make a case for pulling dads into prenatal breastfeeding education, not just leaving it to mothers and lactation consultants."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43009067",
+      "headline": "In depressed teens, one type of impulsivity links self-harm and suicide risk more than others",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1016/j.jad.2026.122725",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used a network analysis approach to map relationships among impulsivity dimensions, self-harm, and suicidal ideation in 518 adolescents (treatment-naive, first-episode depression) seen at a single clinic in Chongqing, China. Among the three impulsivity subtypes measured, motor impulsivity showed the broadest associations across domains \u2014 connecting anxiety, nonsuicidal self-injury (NSSI), and lifetime suicide attempt history. Notably, NSSI and lifetime suicide attempts were related but statistically distinct, suggesting they should be assessed separately in clinical settings.",
+      "why_it_matters": "Because adolescent girls are disproportionately affected by both depression and NSSI, understanding which impulsivity traits most strongly link self-harm to suicide risk could eventually sharpen how clinicians screen young women.",
+      "caveats": "observational design, single-center, cross-sectional design precludes causal inference, no sex-disaggregated data reported, self-reported outcomes, study population in China (generalizability to other contexts uncertain)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Adolescent mental health topic; no sex-disaggregated data limits women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Not All Impulsivity Is the Same \u2014 And That Matters for Teen Self-Harm Risk",
+          "hook": "A new study finds that one specific type of impulsivity \u2014 the urge to act physically without thinking \u2014 may be a key link between depression, self-harm, and suicide risk in teens.",
+          "pitch_angle": "Researchers found that motor impulsivity, not emotional or planning-related impulsivity, was most broadly connected to self-harm and suicidal behavior in depressed adolescents. Since girls are more likely than boys to engage in nonsuicidal self-injury, this finding raises questions about how impulsivity should be assessed in young women seeking mental health care."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43009099",
+      "headline": "People in the earliest stages of psychosis and bipolar disorder share the same 'effort isn't worth it' brain glitch",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1016/j.bpsc.2026.10.016",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Turkey compared effort-based decision-making using a validated reward task in 44 first-episode psychosis patients, 46 first-episode bipolar disorder patients, and 41 healthy controls, all assessed while clinically stable. Both patient groups were significantly less likely than controls to choose harder tasks even when the probability and size of a reward increased. Computational modeling showed both disorders disrupted how reward information is integrated when deciding whether effort is worthwhile, with more pronounced effects in psychosis.",
+      "why_it_matters": "Because bipolar disorder is diagnosed more often in women, understanding that motivational deficits appear even in early, stable phases of the illness could reshape how clinicians assess and support women newly diagnosed with either condition.",
+      "caveats": "small sample (N<100), observational design, single-center, no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically relevant transdiagnostic finding; no sex-disaggregated data limits women's health applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Psychosis and Bipolar Disorder Share a Hidden Motivation Problem That Shows Up From the Very Start",
+          "hook": "Even when their symptoms are under control, people newly diagnosed with psychosis or bipolar disorder show the same brain-level reluctance to put in effort for a reward \u2014 suggesting this isn't just a mood issue.",
+          "pitch_angle": "A new study found that effort-based decision-making is impaired in both first-episode psychosis and first-episode bipolar disorder, hinting at a shared motivational mechanism that could be targeted before the disorders become entrenched. For readers managing or supporting someone with bipolar disorder \u2014 a condition disproportionately affecting women \u2014 this reframes 'low motivation' as a measurable brain-circuit issue, not a character flaw."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43017290",
+      "headline": "Anxious depression responds just as well to antidepressants as depression alone \u2014 contradicting a long-held clinical assumption",
+      "journal": "Depression and Anxiety",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1155/da/3138685",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a multicenter, single-blind study across five hospitals in Taiwan (2006\u20132009), 302 adult outpatients with major depressive disorder were treated with escitalopram or paroxetine for 8 weeks; 193 had anxious depression and 109 had nonanxious depression. Remission rates (40.4% vs. 43.1%) and response rates (62.2% vs. 56.9%) did not differ significantly between the two groups. Contrary to longstanding clinical belief, anxious depression was not associated with worse antidepressant outcomes in this Asian outpatient sample, though the study was not powered to confirm equivalence.",
+      "why_it_matters": "Women are diagnosed with both anxiety and depression at higher rates than men, so evidence suggesting that co-occurring anxiety does not worsen antidepressant response could meaningfully inform treatment expectations for a large share of women in psychiatric care.",
+      "caveats": "small sample (N<100 in nonanxious group), single-blind design, single-country (Taiwan) limiting generalizability, no sex-disaggregated data, older data (conducted 2006\u20132009), short follow-up (8 weeks), not powered to establish equivalence",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive finding adds value; penalized heavily for no sex-disaggregated data, older data, and limited generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "If You Have Both Anxiety and Depression, Antidepressants May Work Better Than Doctors Think",
+          "hook": "A clinical study found that people with anxious depression \u2014 a very common combination \u2014 responded to antidepressants just as well as those with depression alone, challenging a widespread assumption that anxiety makes treatment harder.",
+          "pitch_angle": "For the many women who struggle with both anxiety and depression simultaneously, this research suggests their mixed diagnosis may not be the barrier to recovery that some clinicians have assumed \u2014 though experts caution the study was small and conducted in a single country."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43007360",
+      "headline": "BPD isn't just about impulsivity \u2014 new research finds compulsivity is surprisingly common too",
+      "journal": "Journal of Behavioral Addictions",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1556/2006.2026.00194",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at the University of Chicago surveyed 289 adults online, identifying 38 participants (13.1%; mean age 33, 55.3% women) with elevated borderline personality disorder (BPD) traits using a validated screening instrument. Those with elevated BPD traits scored significantly higher on both impulsivity and compulsivity measures compared to those without elevated traits, with the compulsivity elevation driven primarily by the reward-drive subscale. Among specific impulse control disorders, only compulsive sexual behavior was significantly more common in the elevated-BPD group.",
+      "why_it_matters": "Because BPD is diagnosed in women at disproportionately high rates, findings suggesting that compulsivity \u2014 not just impulsivity \u2014 is a core feature could reshape how therapists approach treatment for women living with the condition.",
+      "caveats": "observational design, self-reported outcomes, online survey sample, small elevated-BPD subsample (N=38), no sex-disaggregated data reported for key outcomes",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive finding overturning BPD-as-purely-impulsive view; majority-female subsample; self-reported design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "BPD Has Always Been Called an Impulsivity Disorder. New Research Says That's Only Half the Story",
+          "hook": "People with borderline personality disorder traits scored high on compulsivity \u2014 not just impulsivity \u2014 in a new study, challenging a decades-old clinical assumption.",
+          "pitch_angle": "A new study found that compulsive tendencies, particularly around reward-seeking, are significantly elevated in people with BPD traits \u2014 a finding that could reshape how therapists treat a condition diagnosed disproportionately in women. If BPD involves compulsivity as much as impulsivity, standard emotion-focused therapies may be missing a key piece of the puzzle."
+        },
+        {
+          "publication_type": "The Cut",
+          "headline": "Borderline Personality Disorder Has Been Misread for Decades \u2014 Here's What Researchers Are Finding Now",
+          "hook": "The standard story about BPD is that it's about acting on impulse \u2014 but new data suggests compulsive behavior is just as central, and women are bearing the diagnostic consequences.",
+          "pitch_angle": "BPD is already a contested, heavily stigmatized diagnosis that falls disproportionately on women \u2014 and a new study suggests the clinical picture is even more complex than assumed, with compulsivity playing a larger role than previously recognized. That framing matters: how clinicians understand a disorder shapes how they treat it, and for many women, treatment has long felt inadequate."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43001460",
+      "headline": "Fancy new creatine formula works no better than the cheap standard \u2014 but women were actually included in the test",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "pubdate": "2026 Dec 31",
+      "doi": "10.1080/15502783.2026.2745618",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a randomized, double-blind crossover trial in 17 healthy recreationally active adults (9 female, 8 male; mean age 22) comparing a single 5g dose of a novel creatine monohydrate formulation (OptiCreatine) to standard creatine monohydrate. Blood was drawn at eight time points over five hours to track absorption kinetics. The novel formulation produced identical serum creatine levels and pharmacokinetic parameters to standard creatine monohydrate, with no sex-by-treatment interaction and similar gastrointestinal tolerability in both groups.",
+      "why_it_matters": "As creatine grows in popularity among women for muscle health and cognitive benefits, this study suggests the pricier 'optimized' formulations offer no absorption advantage over standard creatine monohydrate.",
+      "caveats": "small sample (N<100), short follow-up, single-center, single-dose acute design only",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women included with sex-disaggregated data; small sample and narrow acute design limit scope.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "Save Your Money: That Expensive 'Enhanced' Creatine Absorbs Exactly the Same as the Basic Version",
+          "hook": "A new study found that a novel creatine formula marketed for better absorption performed identically to plain creatine monohydrate \u2014 and women were half the test group.",
+          "pitch_angle": "As creatine surges in popularity among women for muscle recovery and brain health, supplement companies have rolled out pricier 'optimized' versions claiming superior bioavailability. This small but well-designed crossover trial suggests those premium formulas offer no measurable advantage, giving women a science-backed reason to stick with the affordable standard."
+        }
+      ],
+      "run_date": "2026-11-12",
+      "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
@@ -151,186 +982,6 @@
       "status": "new"
     },
     {
-      "pmid": "43003257",
-      "headline": "Many cases of early fetal growth restriction thought to be placental may actually have genetic causes \u2014 a finding with real diagnostic implications",
-      "journal": "American Journal of Obstetrics & Gynecology MFM",
-      "pubdate": "2026 Nov 9",
-      "doi": "10.1016/j.ajogmf.2026.102193",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This study examined cases of early-onset fetal growth restriction (FGR) presumed to result from uteroplacental insufficiency \u2014 reduced blood flow from the placenta \u2014 to determine how often unexpected chromosomal or congenital anomalies were actually the underlying cause. The abstract does not provide sample size, full methods, or quantitative results, limiting detailed appraisal; the multinational author team includes institutions from the Netherlands, UK, and New Zealand. The study's core finding appears to be that a meaningful proportion of early-onset FGR cases attributed to placental causes harbor undetected genetic or structural anomalies.",
-      "why_it_matters": "If early fetal growth restriction is frequently misattributed to placental failure when a genetic cause is actually present, this could change how pregnancies are monitored and counseled \u2014 with direct implications for pregnant women receiving this diagnosis.",
-      "caveats": "abstract only (no sample size, methods, or results reported in available text), observational design",
-      "fact_check_note": "The abstract provided contains no results, sample size, or methodology. Summary and findings are inferred from the title and partial abstract framing only. Full appraisal requires the complete paper.",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant perinatal topic; abstract lacks data to verify claims or score quality.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "When a Baby Isn't Growing as Expected, the Cause May Not Be What Doctors First Assume",
-          "hook": "New research suggests that early fetal growth restriction \u2014 often blamed on poor placental blood flow \u2014 may frequently have undetected genetic or chromosomal causes, raising questions about standard diagnostic workups.",
-          "pitch_angle": "Early fetal growth restriction is a scary diagnosis, and most explanations point to the placenta \u2014 but this multinational study indicates that underlying genetic anomalies are more common than assumed, suggesting pregnant women in this situation may benefit from more thorough genetic testing."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42998586",
-      "headline": "Living close to someone with borderline personality disorder more than doubles your own risk of a psychiatric diagnosis",
-      "journal": "Comprehensive Psychiatry",
-      "pubdate": "2026 Nov 7",
-      "doi": "10.1016/j.comppsych.2026.152755",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Swedish researchers used national registry data to compare psychiatric outcomes in first-degree relatives and spouses of over 24,769 people diagnosed with borderline personality disorder (BPD) versus matched controls without BPD. Over five years of follow-up, next-of-kin of people with BPD were more than twice as likely to receive a psychiatric diagnosis (HR 2.08) and had significantly higher rates of psychiatric care use and psychotropic medication prescriptions. The study did not disaggregate results by sex, though BPD is diagnosed predominantly in women, making this finding particularly relevant to their families and partners.",
-      "why_it_matters": "Women are disproportionately diagnosed with BPD, meaning their family members and partners \u2014 many of them women themselves \u2014 may carry a largely unrecognized mental health burden that warrants targeted support.",
-      "caveats": "observational design, no sex-disaggregated data, single-center",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large national cohort, strong effect size, women's mental health relevance; no sex-disaggregated data limits specificity.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Loving Someone With BPD Can Double Your Risk of a Mental Health Diagnosis \u2014 Here's What Families Need to Know",
-          "hook": "A sweeping Swedish study found that simply being a close family member or partner of someone with borderline personality disorder more than doubles your risk of developing your own psychiatric condition.",
-          "pitch_angle": "Using data from over 100,000 people, researchers found that next-of-kin of people with BPD face dramatically elevated rates of psychiatric disorders, medication use, and hospitalization \u2014 a mental health ripple effect that has gone largely unaddressed. Because BPD is diagnosed predominantly in women, this shines a light on the hidden toll on their families and the need for caregiver-focused mental health support."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "If Someone You Love Has BPD, Your Mental Health May Be at Risk Too",
-          "hook": "New research suggests the psychiatric burden of borderline personality disorder doesn't stop with the person diagnosed \u2014 it radiates outward to everyone closest to them.",
-          "pitch_angle": "A large nationwide study found families and partners of people with BPD are twice as likely to end up with a psychiatric diagnosis themselves and significantly more likely to need psychiatric care or medication. Experts say this underscores a critical gap: support systems for the loved ones of people with BPD are rarely offered, let alone covered by insurance."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43008519",
-      "headline": "Even 'low-risk' pregnant women can quietly struggle with bonding \u2014 a first-trimester questionnaire can spot who needs support",
-      "journal": "Midwifery",
-      "pubdate": "2026 Nov 7",
-      "doi": "10.1016/j.midw.2026.105048",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 269 low-risk pregnant women in Denmark, assessing psychosocial risk in the first trimester using the validated Antenatal Risk Questionnaire (ANRQ) and then measuring maternal-fetal attachment at 37\u201338 weeks gestation using the Maternal Antenatal Attachment Scale. About 21% of women scored above the threshold indicating elevated psychosocial risk (ANRQ \u2265 23), and those women had significantly lower maternal antenatal attachment scores in late pregnancy after adjusting for age, parity, and education. The finding suggests that even women initially categorized as low-obstetric-risk may harbor psychosocial vulnerabilities that affect bonding and may benefit from early screening.",
-      "why_it_matters": "Because weaker prenatal bonding is linked to long-term effects on a child's emotional and behavioral development, early identification of psychosocial risk in pregnant women \u2014 even those considered low-risk \u2014 could meaningfully support mother-child outcomes.",
-      "caveats": "small sample (N=269), observational design, single-center, self-reported outcomes, Danish population (may not generalize broadly), short follow-up, no long-term bonding or child-outcome data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Perinatal mental health topic fit; small single-center sample and Danish-only population limit generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "A Simple First-Trimester Questionnaire Can Predict Which Moms May Struggle to Bond With Their Baby",
-          "hook": "Even pregnant women considered medically low-risk can quietly carry psychosocial burdens that affect how they bond with their baby \u2014 and a brief early-pregnancy screening tool may flag who needs support.",
-          "pitch_angle": "A Danish cohort study found that 1 in 5 low-risk pregnant women scored high on a psychosocial risk questionnaire in early pregnancy, and those women reported significantly weaker emotional connection to their baby by late pregnancy. The findings suggest prenatal care shouldn't skip the mental and emotional check-in just because a pregnancy looks uncomplicated on paper."
-        },
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Doctors Might Be Missing a Hidden Struggle in 'Low-Risk' Pregnancies That Affects Mom-Baby Bonding",
-          "hook": "New research suggests that the standard 'low-risk' label in pregnancy can mask real psychosocial stress \u2014 the kind that quietly erodes a mother's emotional connection to her baby.",
-          "pitch_angle": "A study of 269 Danish women found that one in five low-risk pregnancies involved elevated psychosocial strain detectable in the first trimester, which was linked to lower maternal-fetal bonding by the third trimester. It raises a bigger question about whether routine prenatal care is doing enough to screen for the emotional undercurrents of pregnancy."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42992968",
-      "headline": "New dads' sexual satisfaction \u2014 not moms' \u2014 is most linked to how confident both parents feel in those early months",
-      "journal": "Journal of Sex Research",
-      "pubdate": "2026 Nov 6",
-      "doi": "10.1080/00224499.2026.2754341",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Portugal studied 132 mixed-gender first-time parent couples at three months postpartum, using dyadic statistical models to examine how each partner's sexual satisfaction and sexual distress related to their own and their partner's sense of parenting competence. Greater sexual satisfaction was linked to men's own stronger sense of parenting competence, while higher sexual distress was associated with lower parenting competence for both partners; notably, men's sexual distress was also associated with women's lower parenting competence. After adjusting for contextual variables, only the associations tied to men's sexual satisfaction and distress remained statistically significant.",
-      "why_it_matters": "The finding suggests that in heterosexual couples, postpartum sexual well-being \u2014 particularly fathers' \u2014 may be more intertwined with both partners' confidence as parents than previously appreciated, with implications for how postpartum support is designed.",
-      "caveats": "small sample (N=132 couples), observational design, single-center, self-reported outcomes, single country (Portugal), short follow-up (one time point at 3 months)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive postpartum finding; observational, small sample, and Portugal-only limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "In New-Parent Couples, It's Dad's Sex Life \u2014 Not Mom's \u2014 That Shapes How Confident Both Feel as Parents",
-          "hook": "A new study finds that how satisfied new fathers feel sexually at three months postpartum is linked not only to their own sense of parenting competence \u2014 but to their partner's confidence too.",
-          "pitch_angle": "Research on postpartum sexual health almost always centers the birthing parent, but this study of first-time couples found men's sexual experiences had the stronger ripple effect on both partners' parenting confidence \u2014 a genuinely counterintuitive result that challenges where postpartum support is directed."
-        },
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Why New Dads' Bedroom Satisfaction Might Affect How Confident Both Parents Feel",
-          "hook": "Postpartum sexual distress in new fathers was linked to lower parenting confidence in both the father and his partner \u2014 a surprising connection researchers say points to the need for couple-centered postpartum care.",
-          "pitch_angle": "While most postpartum care focuses on the birthing parent's recovery, this study of 132 first-time-parent couples found that dad's sexual well-being had a broader effect on family adjustment than mom's \u2014 a practical hook for coverage on how new-parent relationships shape early parenting."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42994381",
-      "headline": "Brains in first-episode psychosis don't look 'older' than they should \u2014 and antipsychotics don't change that",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Nov 6",
-      "doi": "10.1016/j.schres.2026.10.020",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used structural MRI to measure 'brain age' in 61 antipsychotic-na\u00efve people experiencing first-episode psychosis (28 female, 33 male) and 27 healthy controls over 12 months. Participants were randomized to a second-generation antipsychotic (risperidone or paliperidone) or placebo alongside intensive psychosocial therapy. Contrary to prior associations between psychosis and accelerated brain aging, brains in the psychosis group did not appear older than those of controls at any time point, and neither antipsychotic treatment nor time changed that pattern.",
-      "why_it_matters": "For women newly diagnosed with psychosis, this suggests brain aging may not be an immediate concern at illness onset \u2014 though longer-term follow-up studies are still needed.",
-      "caveats": "small sample (N<100), single-center, short follow-up, industry funding [Janssen-Cilag \u2014 risperidone/paliperidone supply and early-stage grant], no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Women's mental health topic but small mixed-sex sample, no female-specific findings reported.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Psychosis Doesn't Instantly Age the Brain \u2014 New Study Challenges a Long-Held Belief",
-          "hook": "Scientists assumed psychosis accelerates brain aging from the very start \u2014 a new RCT suggests that may not be true.",
-          "pitch_angle": "A small but rigorously designed trial found no signs of premature brain aging at the onset of psychosis, and antipsychotic medication didn't appear to change that over the first year. The finding challenges a widely cited assumption and could reshape how clinicians and patients think about early treatment."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42995126",
-      "headline": "Non-RhD blood incompatibility in pregnancy is rising \u2014 and most people haven't heard of it",
-      "journal": "Seminars in Perinatology",
-      "pubdate": "2026 Nov 6",
-      "doi": "10.1016/j.semperi.2026.152327",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review examines the growing burden of non-RhD red blood cell alloimmunization \u2014 a condition where a pregnant woman's immune system attacks fetal blood cells \u2014 summarizing incidence data, clinical management, and gaps in research. While RhD incompatibility is well known and largely preventable with RhIg shots, the authors highlight that non-RhD antigens (of which over 50 exist) are becoming a relatively larger share of hemolytic disease of the fetus and newborn cases. No new primary data were collected; the review synthesizes existing literature to call attention to an underrecognized pregnancy complication.",
-      "why_it_matters": "As RhD disease becomes better controlled, non-RhD blood incompatibility is quietly emerging as an underappreciated threat to fetal health that pregnant women and their providers may not know to screen for.",
-      "caveats": "review article (no primary data), observational design",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Reproductive/perinatal health relevance; review design limits novelty and score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "There's a Pregnancy Blood Incompatibility Risk Beyond Rh Factor \u2014 And It's on the Rise",
-          "hook": "Most pregnant women know to ask about Rh factor, but a growing body of research points to dozens of other blood antigens that can silently threaten fetal health.",
-          "pitch_angle": "While the Rh shot has dramatically reduced one form of blood incompatibility in pregnancy, a new review finds that non-RhD alloimmunization is becoming a larger share of cases \u2014 and there's no equivalent prevention yet. This is an awareness angle for pregnant readers and their OBs about a lesser-known pregnancy risk."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42989990",
       "headline": "Most eligible kids never got a chance to join a risperidone safety trial \u2014 and doctors' own hesitation was a major reason why",
       "journal": "Journal of Clinical Psychopharmacology",
@@ -355,180 +1006,6 @@
       "run_date": "2026-11-11",
       "category": "Psychiatry",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42988151",
-      "headline": "Scientists find the exact brain circuit that makes you less active as you age \u2014 and switching it off restored youthful movement in older mice",
-      "journal": "Metabolism: Clinical and Experimental",
-      "pubdate": "2026 Nov 5",
-      "doi": "10.1016/j.metabol.2026.156823",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at the University of Aberdeen and collaborating institutions measured physical activity in UK adults aged 17\u201330 and 50\u201370 years old, then modeled the age-related activity decline in mice to investigate underlying brain mechanisms. They found that altered firing of serotonin neurons in the dorsal raphe nucleus, acting through 5-HT2C receptors in the ventral tegmental area, programs the decline in physical activity with age. Blocking this serotonin signal in older mice restored youthful physical activity levels and muscle strength, suggesting a targetable neurological mechanism for age-related inactivity.",
-      "why_it_matters": "Physical inactivity rises sharply for many women during midlife and menopause, and identifying a specific brain circuit behind this decline could eventually inform interventions beyond willpower or habit change.",
-      "caveats": "animal or cell study (key mechanistic findings are from mice), small human observational component (age-group comparison, UK participants only), no sex-disaggregated data reported, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive; human observational component included; mechanistic findings are mouse-only; no female-specific analysis.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Brain Has a Circuit That Makes You Less Active With Age \u2014 and Scientists Just Found the Off Switch",
-          "hook": "It turns out getting less active as you age isn't just a motivation problem \u2014 your brain's serotonin system may actually be wired to slow you down.",
-          "pitch_angle": "New research identifies a specific serotonin circuit in the brain that programs the age-related decline in physical activity, and in mice, blocking this signal restored both movement levels and muscle strength in older animals; though the key findings are from animal models, the study included a human observational component and may help explain why staying active gets genuinely harder \u2014 not just mentally, but neurologically \u2014 as we get older."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Why Getting Off the Couch Gets Harder With Age \u2014 It's Not Just in Your Head (Well, It Kind of Is)",
-          "hook": "Scientists have pinpointed a brain serotonin circuit that actively suppresses physical activity as we age \u2014 and reversing it in older mice made them move like young ones again.",
-          "pitch_angle": "A study from the University of Aberdeen found that shifts in serotonin neuron activity in the brain's dorsal raphe region drive the decline in physical activity that comes with aging, and in animal models, genetically blocking that signal restored youthful movement and strength; while human trials are still needed, the finding reframes midlife inactivity as a neurological phenomenon, not a personal failing."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42988689",
-      "headline": "Annual flu shot cuts hospitalizations and death risk in people with diabetes \u2014 but millions are still skipping it",
-      "journal": "Endocrinologia, diabetes y nutricion",
-      "pubdate": "2026 Nov 5",
-      "doi": "10.1016/j.endien.2026.501845",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review, targeted at clinical practice in Spain, synthesized recent evidence on influenza vaccination in people with diabetes mellitus and examined barriers to uptake. Evidence reviewed indicates annual flu vaccination in people with diabetes reduces hospitalizations, cardiovascular events, and mortality, with the greatest benefit seen in those aged 60 or older or with comorbidities. The review also found that higher-immunogenicity formulations (high-dose or adjuvanted vaccines) may confer additional protection in this population.",
-      "why_it_matters": "Women with diabetes \u2014 a population that skews older and faces elevated cardiovascular risk \u2014 may be among those most likely to benefit from prioritizing annual flu vaccination, particularly with higher-immunogenicity formulations.",
-      "caveats": "observational design, narrative review (not systematic), single-center, industry funding [Pfizer, Sanofi, MSD, GSK, AstraZeneca, Moderna, Takeda \u2014 one author], Spain-specific clinical context, no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Clinically relevant for women with diabetes; narrative review limits strength.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "If You Have Diabetes, Getting a Flu Shot Every Year Could Protect Your Heart",
-          "hook": "A new review finds that annual flu vaccination meaningfully lowers the risk of hospitalization, cardiovascular events, and death in people with diabetes \u2014 yet coverage remains far below recommended levels.",
-          "pitch_angle": "For the estimated 15 million American women living with diabetes, the annual flu shot may do more than prevent a week in bed \u2014 evidence suggests it could reduce serious heart complications, with the strongest benefit in women over 60 who choose higher-dose formulas."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42986426",
-      "headline": "Second-generation migrant teens face higher repeat suicide risk than first-generation peers \u2014 even after accounting for poverty and trauma",
-      "journal": "European Child & Adolescent Psychiatry",
-      "pubdate": "2026 Nov 5",
-      "doi": "10.1007/s00787-026-03167-4",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This 12-month cohort study followed 1,281 adolescents aged 8\u201317 who presented to a psychiatric emergency department in Madrid with suicidal ideation or behavior, comparing outcomes across non-migrant, first-generation, and second-generation migrant groups. Using Cox regression models adjusted for sociodemographic, psychosocial, and clinical factors including prior suicidal behavior, researchers found that second-generation \u2014 but not first-generation \u2014 migrant status independently predicted repeat suicidal behavior during follow-up. Both migrant groups presented with greater psychosocial adversity and more severe self-harm methods at the initial visit, and first-generation migrants were less likely to have had prior outpatient mental health care.",
-      "why_it_matters": "The counterintuitive finding that second-generation migrants \u2014 who may be more culturally integrated \u2014 carry higher repeat suicide risk than first-generation peers highlights a hidden vulnerability that pediatric and mental health providers may be overlooking in this population.",
-      "caveats": "observational design, single-center, retrospective review, study population based in Spain (Madrid), no sex-disaggregated data reported in abstract",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive finding, large N, but no sex-disaggregated data and single-center Spain.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "Why Second-Generation Immigrant Teens May Be at Higher Suicide Risk Than Their Foreign-Born Peers",
-          "hook": "A new study found that teens born to immigrant parents \u2014 not the immigrants themselves \u2014 were more likely to attempt suicide again after an ER visit, even when researchers accounted for poverty, trauma, and family conflict.",
-          "pitch_angle": "The 12-month Spanish cohort study of over 1,200 adolescents challenges the assumption that cultural integration reduces mental health risk, suggesting that second-generation youth may face a unique identity-related stress that goes undetected in clinical settings. For parents, educators, and clinicians, the finding underscores the need to look beyond first-generation status when assessing suicide risk in teens from migrant families."
-        },
-        {
-          "publication_type": "The Cut",
-          "headline": "The 'Integrated' Immigrant Kid Is Actually at Greater Suicide Risk, Research Suggests",
-          "hook": "A large study from a Madrid hospital found that teens whose parents immigrated \u2014 not the teens who immigrated themselves \u2014 were most likely to repeat a suicide attempt within a year.",
-          "pitch_angle": "The finding upends a common assumption that acculturation is protective, pointing instead to a cultural 'caught between worlds' tension that may compound mental health crises in second-generation youth. It raises broader questions about how schools, communities, and health systems are failing to see \u2014 or support \u2014 this specific group."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43002920",
-      "headline": "Brain scans show first-episode psychosis shrinks a key sensory relay region \u2014 but it doesn't predict symptom severity",
-      "journal": "Psychiatry Research: Neuroimaging",
-      "pubdate": "2026 Nov 5",
-      "doi": "10.1016/j.pscychresns.2026.112384",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used 3D MRI brain scans to compare volumes of salience network regions \u2014 including the thalamus, anterior insula, anterior cingulate cortex, and striatum \u2014 in 51 first-episode psychosis patients and 48 healthy controls in Turkey. After adjusting for age, sex, and brain size, FEP patients showed significantly smaller bilateral thalamic volumes and reduced right anterior insula volume. Counterintuitively, none of these structural differences correlated with how severe patients' psychotic symptoms were.",
-      "why_it_matters": "Thalamic shrinkage in early psychosis that doesn't track with symptom severity suggests brain changes may emerge before or independently of clinical presentation \u2014 a potential early-detection clue relevant to younger women at risk.",
-      "caveats": "small sample (N<100), single-center, cross-sectional design, no sex-disaggregated data, Turkish study population",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Small cross-sectional neuroimaging study; no sex-disaggregated data; limited generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Brain Changes in Early Psychosis Don't Line Up With Symptoms \u2014 Here's Why That's Surprising",
-          "hook": "New MRI research found that people with first-episode psychosis have measurably smaller brain regions tied to sensory filtering \u2014 but those changes had nothing to do with how severe their symptoms were.",
-          "pitch_angle": "The finding challenges the intuitive assumption that visible brain differences would predict clinical severity, suggesting that structural changes in psychosis may develop on their own timeline. For women, who are more likely than men to experience a later onset of psychosis, understanding these pre-symptom brain markers could eventually reshape how early detection works."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42987472",
-      "headline": "Scientists built a better lab model of a deadly uterine cancer \u2014 and it responds to chemo differently than the standard model",
-      "journal": "Gynecologic oncology",
-      "pubdate": "2026 Nov 5",
-      "doi": "10.1016/j.ygyno.2026.10.023",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed an orthotopic (uterine) mouse model of uterine leiomyosarcoma (uLMS) \u2014 a rare, aggressive uterine cancer \u2014 by surgically implanting human tumor cells directly into the uterine myometrium of immunocompromised mice, then comparing tumor growth, metastasis, and chemotherapy response to the standard subcutaneous model. The orthotopic model showed enhanced tumor growth and metastasis more closely mirroring how the disease behaves in patients, including the spread seen in roughly one-third of uLMS patients at diagnosis. The orthotopic tumors also demonstrated greater sensitivity to doxorubicin chemotherapy compared to subcutaneous tumors, suggesting prior lab models may have underestimated treatment response.",
-      "why_it_matters": "A more realistic preclinical model of this aggressive uterine cancer could accelerate the development of effective treatments for a disease that currently has very limited therapeutic options.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Women-specific cancer topic; animal study only limits clinical relevance score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "Scientists Just Built a Better Lab Model of a Deadly Uterine Cancer \u2014 And It Could Change How Treatments Are Tested",
-          "hook": "A new mouse model of uterine leiomyosarcoma mimics how the disease actually spreads in women \u2014 something standard lab models have long failed to do.",
-          "pitch_angle": "Uterine leiomyosarcoma is rare but deadly, and drug testing has been hampered by lab models that don't replicate how the tumor spreads; this new orthotopic model suggests prior research may have been missing something important about how the cancer responds to chemotherapy. It's an early but meaningful step toward better treatments for a cancer with grim survival odds."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42985905",
-      "headline": "A new formula tries to measure whether outpatient uterine exams are actually worth the discomfort",
-      "journal": "Facts, Views & Vision in ObGyn",
-      "pubdate": "2026 Nov 5",
-      "doi": "10.52054/FVVO.2026.454",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A UK gynecologist proposes a new quality metric called the 'Clark ratio' \u2014 patient acceptability divided by procedural failure rate \u2014 to better evaluate outpatient hysteroscopy performance. The proposal is conceptual, based on a narrative review of existing trial data rather than a new patient cohort. The author argues that reporting only success rates or only patient tolerance gives an incomplete picture of how well the procedure is conducted.",
-      "why_it_matters": "For women facing hysteroscopy without anesthesia, a standardized way to measure both pain tolerance and procedure success could eventually help clinics improve their care quality.",
-      "caveats": "no primary data, conceptual/opinion piece, single-author, single-center perspective, potential conflict of interest (author is editor-in-chief of publishing journal and co-author of guideline cited), no patient cohort studied",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Women's procedure topic but conceptual opinion piece with no new patient data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Doctors Want a New Way to Grade Whether Your In-Office Uterine Exam Was Actually Okay",
-          "hook": "A UK gynecologist says measuring only whether a hysteroscopy 'worked' ignores half the picture \u2014 how much it hurt.",
-          "pitch_angle": "A proposed metric called the 'Clark ratio' would weigh patient comfort against procedural failure, pushing clinics to care as much about experience as outcome. It's still theoretical, but it reflects a growing conversation about pain management in gynecological procedures."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -886,33 +1363,6 @@
       "status": "new"
     },
     {
-      "pmid": "43010641",
-      "headline": "New dads see themselves as 'shade trees' and 'teammates' \u2014 and their mindset may shape how long mothers breastfeed",
-      "journal": "Breastfeeding Medicine",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1177/15568253261505338",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Turkish researchers conducted a qualitative study using metaphor analysis with 94 first-time fathers (of infants aged 0\u20132 months who were breastfeeding at enrollment) to explore how fathers subjectively experience their breastfeeding support role. Fathers completed the prompt 'Supporting my wife with breastfeeding is like \u2026 because \u2026' generating 57 distinct metaphors, which were grouped into four themes: holistic physical and emotional support, the shared journey of breastfeeding, new life and bonding, and emotional engagement. Common metaphors included task, success, sharing, shade, goal, and journey, suggesting fathers largely view breastfeeding support as an active, positive partnership role.",
-      "why_it_matters": "Understanding how fathers conceptualize their breastfeeding support role could help postpartum care providers design more effective partner-inclusive interventions to improve breastfeeding duration and maternal self-efficacy.",
-      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, qualitative study only, single country (Turkey) \u2014 cultural generalizability limited",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Postpartum/breastfeeding topic fits; qualitative design and small sample limit generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention",
-          "headline": "What New Dads Really Think About Breastfeeding \u2014 And Why It Matters for Moms",
-          "hook": "When fathers described supporting breastfeeding, they reached for words like 'shade tree,' 'teammate,' and 'journey' \u2014 suggesting they're more emotionally invested than we might assume.",
-          "pitch_angle": "A qualitative study of 94 first-time fathers found they largely view breastfeeding support as an active, bonding-rich role; since paternal involvement is associated with longer breastfeeding duration, understanding and tapping into this mindset could be a practical lever for postpartum care."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "43006233",
       "headline": "Your sprouted wheat bread may harbor hidden pathogens that surface washing can't reach",
       "journal": "Journal of the Science of Food and Agriculture",
@@ -932,93 +1382,6 @@
           "headline": "Sprouted Bread Is Everywhere Right Now \u2014 But Food Scientists Say It Carries a Hidden Safety Risk",
           "hook": "A new review finds that the warm, moist conditions required to sprout wheat can allow dangerous bacteria like Salmonella and E. coli to embed inside the grain where washing can't reach them.",
           "pitch_angle": "As sprouted grain products become a staple in health-forward diets, food scientists warn that conventional surface cleaning may be insufficient against internalized pathogens \u2014 and that multi-step preservation methods are needed to make these products reliably safe."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43009067",
-      "headline": "Motor impulsivity \u2014 not just depression severity \u2014 links to both self-harm and suicide attempts in teens",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1016/j.jad.2026.122725",
-      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a mixed graphical model to map conditional associations among impulsivity dimensions, depression, anxiety, nonsuicidal self-injury (NSSI), and suicidal ideation and attempts in 518 treatment-naive adolescents with first-episode depression at a single Chinese hospital. The sample included adolescents; sex breakdown is not reported in the abstract. Motor impulsivity \u2014 the tendency to act without thinking in the moment \u2014 showed the broadest cross-domain links, associating with anxiety, past-month NSSI, and lifetime suicide attempt history, suggesting it may be a key clinical target distinct from overall depression severity.",
-      "why_it_matters": "Because adolescent girls are disproportionately affected by self-harm and depression, findings that identify specific impulsivity dimensions as distinct risk markers could eventually help clinicians prioritize which teens need the most urgent follow-up.",
-      "caveats": "observational design, single-center, cross-sectional design, no sex-disaggregated data, single-item measures for some constructs, study population based in China",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Adolescent mental health relevance but no sex-disaggregated data and single-center.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "There's a Specific Type of Impulsivity That Predicts Teen Self-Harm \u2014 and It's Not What Experts Expected",
-          "hook": "A new study found that one dimension of impulsivity \u2014 acting without thinking in the moment \u2014 was more strongly tied to teen self-harm and suicide attempts than depression severity alone.",
-          "pitch_angle": "Researchers mapped the complex relationships between impulsivity, self-harm, and suicidal thinking in depressed teens, finding that 'motor impulsivity' stood out as a cross-cutting risk marker. The finding suggests that mental health screenings focused only on mood symptoms may miss a critical warning sign \u2014 especially relevant as rates of self-harm rise among adolescent girls."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43009099",
-      "headline": "People with first-episode psychosis and bipolar disorder both struggle to chase rewards \u2014 but in different ways",
-      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1016/j.bpsc.2026.10.016",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a computational effort-reward task (EEfRT) to compare motivation and decision-making in people with first-episode psychosis (FEP, n=44), first-episode bipolar disorder (FEBD, n=46), and healthy controls (n=41) at Dokuz Eylul University in Turkey. Both patient groups were less likely to choose harder tasks for higher rewards as reward probability and magnitude increased, with psychosis showing more pronounced alterations. The findings suggest disrupted reward-effort computation may be a shared \u2014 but not identical \u2014 feature of psychosis and bipolar disorder from their earliest stages.",
-      "why_it_matters": "Understanding motivation deficits in early-stage bipolar disorder and psychosis may help identify young women who could benefit from targeted intervention before illness becomes entrenched.",
-      "caveats": "small sample (N<100), single-center, no sex-disaggregated data, observational design, Turkish study population",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Psychiatric topic with no sex-disaggregated data; small mixed-sex sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Why People With Bipolar Disorder Struggle to Push Through \u2014 Even When the Reward Is Worth It",
-          "hook": "New research suggests the motivation gap in bipolar disorder starts at the very first episode \u2014 and it's not just about willpower.",
-          "pitch_angle": "A computational brain study found that people newly diagnosed with bipolar disorder or psychosis are less likely to put in effort for bigger rewards, suggesting a shared glitch in how their brains weigh risk and payoff. The finding is early-stage but could point toward new ways to address the low motivation that makes recovery so hard."
-        }
-      ],
-      "run_date": "2026-11-11",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43001460",
-      "headline": "A trendy new creatine formula works no better than the cheap classic \u2014 especially for women",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "pubdate": "2026 Dec 31",
-      "doi": "10.1080/15502783.2026.2745618",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at the University of North Carolina (POWHER Institute, which focuses on women's health) conducted a randomized, double-blind, crossover study in 17 recreationally active healthy adults (9 females, 8 males; mean age 22 years), comparing a single 5g dose of a novel creatine monohydrate formulation (OptiCreatine) versus standard creatine monohydrate on blood creatine levels and pharmacokinetics over 5 hours. No differences were found between formulations in peak concentration, time to peak, absorption rate, elimination rate, or area under the curve in either the full sample or when females were analyzed separately. GI tolerability was similarly low-symptom for both products.",
-      "why_it_matters": "As creatine grows in popularity among women for muscle health and cognitive benefits, this study suggests that pricier novel formulations offer no absorption advantage over standard creatine monohydrate \u2014 potentially saving women money.",
-      "caveats": "small sample (N<100), single-center, short follow-up, single-dose acute design only",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "RCT with female-specific analysis; counterintuitive consumer finding; clear wellness hook for women.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Save Your Money: That Fancy New Creatine Formula Isn't Better Than the Original",
-          "hook": "A clinical study that included women found a hyped new creatine formulation performed no differently in the body than plain creatine monohydrate.",
-          "pitch_angle": "With creatine exploding in popularity among women for muscle, energy, and brain benefits, researchers found that a novel marketed formulation produced identical blood levels and absorption to standard creatine monohydrate \u2014 suggesting women don't need to pay a premium for specialty versions."
-        },
-        {
-          "publication_type": "Well+Good",
-          "headline": "Creatine Is Having a Moment \u2014 But Do You Really Need the Fancy New Kind?",
-          "hook": "A small but rigorous crossover study found that a next-generation creatine formula was absorbed exactly the same as the classic version, even when researchers looked at women separately.",
-          "pitch_angle": "As supplement brands race to market 'upgraded' creatine products to wellness-curious women, early evidence suggests the original monohydrate form holds its own on every pharmacokinetic measure \u2014 a useful reality check before spending more."
         }
       ],
       "run_date": "2026-11-11",
