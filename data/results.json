@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-11-15T16:59:38.797133+00:00",
-  "total_studies": 1312,
+  "last_updated": "2026-11-16T20:12:59.168224+00:00",
+  "total_studies": 1325,
   "new_this_run": 13,
   "studies": [
     {
       "pmid": "43002839",
-      "headline": "People with first-episode psychosis and healthy controls share the same stable immune 'profiles' \u2014 and those profiles track with LDL cholesterol levels",
+      "headline": "Immune system 'fingerprints' that form in young adulthood stay remarkably stable over time \u2014 and may predict cardiovascular risk in people with psychosis",
       "journal": "Schizophrenia Research",
       "pubdate": "2026 Nov 9",
       "doi": "10.1016/j.schres.2026.10.019",
-      "groundbreaking": "Counterintuitive finding",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Finnish researchers measured 38 immune mediators in blood samples from 131 young adults with first-episode psychosis and 130 healthy controls at baseline and one-year follow-up, using latent profile analysis to identify immune clusters. Three stable immune profiles \u2014 low, medium, and high mediator concentrations \u2014 were found in both patients and controls, and psychosis status itself was not associated with which profile a person fell into. In the discovery sample, individuals in the 'high' immune mediator group had higher LDL cholesterol levels, and dendritic cell gene expression patterns aligned with immune profile membership.",
-      "why_it_matters": "The finding that immune inflammation profiles are stable over time and linked to LDL cholesterol \u2014 independent of psychosis diagnosis \u2014 suggests cardiovascular risk monitoring may be important for anyone with a high-inflammation immune profile, not just those with psychiatric diagnoses.",
-      "caveats": "no sex-disaggregated data, single-center (Finnish population), moderate sample size, LDL association found only in discovery sample not replicated",
+      "summary": "Finnish researchers studied 131 young adults with first-episode psychosis (FEP) and 130 healthy controls at baseline and one-year follow-up, measuring 38 circulating immune mediators and assessing dendritic cell transcriptomes and cardiovascular risk markers. Immune mediator profiles clustered into three stable groups (low, medium, high) that remained highly consistent over one year, and were not specific to FEP status. In the discovery sample, membership in the high-mediator cluster was associated with elevated LDL cholesterol, suggesting immune profiles may flag cardiovascular risk independent of psychiatric diagnosis.",
+      "why_it_matters": "Because women with psychotic disorders face disproportionate cardiovascular risk and are often undertreated for it, evidence that stable immune profiles could serve as early cardiovascular risk markers is particularly relevant to their long-term health.",
+      "caveats": "observational design, majority-male sample (82 of 131 patients were male), no sex-disaggregated data, single-center region (Finland), LDL association found in discovery sample only",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Counterintuitive finding; human longitudinal design; no sex-disaggregated data; limited direct women's health hook.",
+      "relevance_score_reason": "Interesting cardiovascular-immune finding in FEP; majority-male, no female-specific analysis limits women's health relevance.",
       "pitch_angles": [
         {
-          "publication_type": "General health / Health.com",
-          "headline": "Your Immune System May Have a Stable 'Set Point' \u2014 and It Could Signal Heart Risk",
-          "hook": "A new study found that people's immune inflammation profiles stay remarkably consistent over a year and are linked to LDL cholesterol levels \u2014 regardless of whether they have a psychiatric diagnosis.",
-          "pitch_angle": "Finnish researchers tracking immune markers in young adults with and without first-episode psychosis found that inflammation profiles cluster into distinct types that are stable over time and associated with LDL cholesterol, suggesting that chronic low-grade inflammation may be an independent cardiovascular risk signal worth watching \u2014 a finding with potential relevance for women, who are often underscreened for heart disease."
+          "publication_type": "Prevention / General health",
+          "headline": "Your Immune System May Be Sending Early Warnings About Heart Disease Risk \u2014 Even in Your 20s",
+          "hook": "A Finnish study found that immune 'profiles' established early in life are remarkably stable and may be linked to LDL cholesterol \u2014 a potential early window for cardiovascular intervention.",
+          "pitch_angle": "Researchers tracking young adults with and without psychosis found that immune marker patterns cluster into distinct profiles that barely shift over a year, and the high-inflammation profile was associated with higher LDL. For women with serious mental illness \u2014 who face elevated but often overlooked cardiovascular risk \u2014 this early biological signal could eventually help identify who needs preventive care sooner."
         }
       ],
-      "run_date": "2026-11-15",
+      "run_date": "2026-11-16",
       "category": "Psychiatry",
       "chunk": "1/2",
       "status": "new"
@@ -38,56 +38,983 @@
       "doi": "10.1080/13697137.2026.2750101",
       "groundbreaking": "Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a scoping review of 90 perimenopause studies published between 2005 and June 2026 from low- and middle-income countries (LMICs), evaluating how consistently they classified reproductive stage. They found that nearly half of studies (48.9%) relied solely on menstrual history without using any recognized staging framework such as STRAW +10, and only 7.8% of studies were longitudinal. The result is a fragmented evidence base that makes it difficult to understand perimenopause across diverse global populations.",
-      "why_it_matters": "Because most perimenopause research comes from high-income countries, the experiences of the majority of the world's midlife women remain poorly understood and underrepresented in clinical guidelines.",
-      "caveats": "observational design, secondary analysis",
+      "summary": "Researchers conducted a scoping review of 90 studies published between 2005 and June 2026 that examined perimenopause in low- and middle-income countries (LMICs), assessing how consistently standardized reproductive-staging frameworks were applied. Only 20% of studies used the internationally recognized STRAW +10 framework, while nearly half relied solely on menstrual history without referencing any recognized staging system. Most studies were cross-sectional, and only 4.4% were nationally representative, leaving large gaps in globally comparable perimenopause data for midlife women in LMICs.",
+      "why_it_matters": "Without standardized research methods, the perimenopause experiences of billions of women in lower-income countries remain poorly understood and largely absent from global health guidelines.",
+      "caveats": "observational design, secondary analysis, heterogeneous study pool, no primary data collected",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Menopause topic fit; scoping review design limits clinical specificity.",
+      "relevance_score_reason": "Menopause topic fit strong; scoping review design limits direct clinical or lifestyle translation.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "Most Perimenopause Research Leaves Out the Majority of the World's Women",
-          "hook": "A sweeping review finds that nearly half of perimenopause studies in lower-income countries don't use standard scientific staging \u2014 meaning we know far less than we think about how menopause transition affects women globally.",
-          "pitch_angle": "Researchers analyzed 90 studies across low- and middle-income countries and found a patchwork of inconsistent methods that make findings nearly impossible to compare or apply. For readers curious about whether perimenopause science actually applies to them, this is a wake-up call about who gets counted in the research."
+          "publication_type": "Prevention",
+          "headline": "Why Doctors Still Don't Understand Menopause for Billions of Women Around the World",
+          "hook": "Nearly half of studies on perimenopause in lower-income countries don't use a standard definition \u2014 meaning we can't even reliably compare what midlife women are experiencing globally.",
+          "pitch_angle": "A scoping review of 90 international studies found massive inconsistency in how perimenopause is defined and measured in LMICs, suggesting that most women globally are navigating midlife health changes with almost no evidence base tailored to them."
         },
         {
-          "publication_type": "The Cut",
-          "headline": "The Menopause Research Gap Is Even Bigger Than We Thought",
-          "hook": "Science still can't answer basic questions about perimenopause for most of the world's women \u2014 and a new review explains exactly why.",
-          "pitch_angle": "A scoping review reveals that perimenopause research in lower-income countries is sparse, short-term, and methodologically inconsistent, leaving billions of women without evidence-based guidance on one of life's most significant hormonal transitions."
+          "publication_type": "Well+Good",
+          "headline": "The Menopause Research Gap Is Even Bigger Than You Think",
+          "hook": "While perimenopause wellness content explodes in the US, a new review reveals that the science underpinning midlife health for most of the world's women is startlingly thin.",
+          "pitch_angle": "A new scoping review found that perimenopause research in lower-income countries is not only scarce but methodologically inconsistent \u2014 raising important questions about whose experiences shape the global conversation around menopause."
         }
       ],
-      "run_date": "2026-11-15",
+      "run_date": "2026-11-16",
       "category": "Womens Health & Reproduction",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "43003257",
-      "headline": "Babies diagnosed with growth restriction from placenta problems may actually have chromosomal or genetic anomalies instead",
+      "headline": "Early fetal growth restriction blamed on placental failure may actually signal hidden chromosomal or congenital anomalies, study suggests",
       "journal": "American Journal of Obstetrics & Gynecology MFM",
       "pubdate": "2026 Nov 9",
       "doi": "10.1016/j.ajogmf.2026.102193",
       "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers examined cases of early-onset fetal growth restriction (FGR) presumed to be caused by uteroplacental insufficiency and found that a meaningful subset of these pregnancies involved unexpected congenital or chromosomal anomalies rather than placental problems. The study draws on a multinational cohort (Netherlands, UK, New Zealand) of pregnant women diagnosed with early-onset FGR. The finding suggests that assuming a placental cause may lead clinicians to miss underlying fetal genetic conditions, with implications for counseling and management.",
-      "why_it_matters": "For pregnant women told their baby is 'too small due to placenta issues,' this research suggests that underlying chromosomal or genetic causes may be missed without further investigation.",
-      "caveats": "observational design, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Reproductive health finding in pregnant women; counterintuitive diagnostic angle; multinational cohort.",
+      "summary": "Researchers examined cases of early-onset fetal growth restriction (FGR) presumed to be caused by uteroplacental insufficiency to explore how often unexpected congenital or chromosomal anomalies were actually present. The study drew on a multinational clinical dataset (specific N and full participant details not available in the abstract). Findings suggest that a clinically significant subset of early-onset FGR cases presumed to have a placental cause may instead involve chromosomal or structural anomalies, with implications for how these pregnancies are investigated and counselled.",
+      "why_it_matters": "For pregnant women diagnosed with early-onset fetal growth restriction, understanding that the underlying cause may be chromosomal rather than placental could change the diagnostic workup, prognosis discussion, and clinical management they receive.",
+      "caveats": "abstract only \u2014 full methods, sample size, and design not available for verification; secondary analysis possible; multicenter multinational (Netherlands, UK, New Zealand)",
+      "fact_check_note": "Abstract provided no sample size, participant demographics, or detailed methods; summary reflects only what could be verified from available text.",
+      "relevance_score": 6,
+      "relevance_score_reason": "High-relevance pregnancy complication topic; insufficient abstract detail limits full quality assessment.",
       "pitch_angles": [
         {
-          "publication_type": "Women's Health Magazine / Health.com",
-          "headline": "Your Baby's Growth Problem May Not Be What Doctors Think It Is",
-          "hook": "When a baby measures small in the womb, doctors often blame the placenta \u2014 but new research suggests the real cause could be genetic.",
-          "pitch_angle": "A multinational study found that early-onset fetal growth restriction presumed to stem from placental failure sometimes involves unexpected chromosomal or congenital anomalies instead, raising questions about standard diagnostic assumptions. For pregnant women navigating a growth-restriction diagnosis, this finding underscores the importance of thorough genetic workup before attributing the cause to placental insufficiency."
+          "publication_type": "Prevention",
+          "headline": "When a Baby's Slow Growth Isn't What Doctors First Think",
+          "hook": "Early fetal growth restriction is typically blamed on placental problems \u2014 but a new study suggests chromosomal or structural anomalies may be hiding behind that diagnosis more often than assumed.",
+          "pitch_angle": "Research into early-onset fetal growth restriction is challenging long-held assumptions about its cause, finding that some cases presumed to reflect placental failure may actually involve chromosomal anomalies. For pregnant women navigating this diagnosis, the finding highlights how important thorough investigation \u2014 not just placental monitoring \u2014 may be."
         }
       ],
-      "run_date": "2026-11-15",
+      "run_date": "2026-11-16",
       "category": "Womens Health & Reproduction",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43018233",
+      "headline": "A slow-release birth control pill may mean steadier hormones and better bleeding control \u2014 with possible PCOS perks",
+      "journal": "Expert Opinion on Drug Metabolism & Toxicology",
+      "pubdate": "2026 Nov 16",
+      "doi": "10.1080/17425255.2026.2764080",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a structured review of MEDLINE and regulatory sources examining the pharmacokinetics and clinical effects of a prolonged-release oral contraceptive containing dienogest 2 mg and ethinylestradiol 0.02 mg. Compared with standard immediate-release formulations, the prolonged-release version produces lower peak hormone levels and reduced intra-day hormonal swings while maintaining equivalent overall exposure. Evidence suggests improved bleeding control over immediate-release versions, and antiandrogenic effects that may benefit women with PCOS and hirsutism, though thromboembolic risk remains uncertain.",
+      "why_it_matters": "Women seeking hormonal contraception \u2014 especially those with PCOS or troublesome bleeding patterns \u2014 may eventually have access to a formulation designed to deliver more stable hormone levels throughout the day.",
+      "caveats": "review article (not primary clinical trial), short follow-up for safety data, thromboembolic risk uncharacterized, single-center authors across Italy and Brazil",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Contraception and PCOS relevance strong; review design limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "Could a Slow-Release Birth Control Pill Finally Fix Your Spotting Problem?",
+          "hook": "A new formulation of the pill is engineered to release hormones more gradually \u2014 and early evidence suggests it may mean fewer breakthrough bleeding days.",
+          "pitch_angle": "Researchers reviewed data on a prolonged-release contraceptive pill that keeps hormone levels steadier across the day, potentially reducing irregular bleeding compared to standard pills. For women with PCOS, the pill's antiandrogenic properties may also help with unwanted hair growth \u2014 adding a wellness dimension beyond contraception."
+        },
+        {
+          "publication_type": "Well+Good",
+          "headline": "The Next Evolution of the Birth Control Pill Is About Smoother Hormone Delivery",
+          "hook": "Drug-delivery technology \u2014 not a new hormone \u2014 is the innovation behind a contraceptive that aims to flatten the hormonal peaks and valleys of a typical pill day.",
+          "pitch_angle": "Rather than changing the hormones themselves, researchers are exploring how slowing their release could reduce side effects tied to hormonal fluctuation, including spotting and potentially androgen-related symptoms in PCOS. It's a quieter kind of innovation that could matter a lot to women who've struggled with current formulations."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43036365",
+      "headline": "Being married and out of school nearly doubles adolescent pregnancy risk in Zimbabwe's most affected province",
+      "journal": "African Journal of Reproductive Health",
+      "pubdate": "2026 Nov 16",
+      "doi": "10.29063/ajrh2026/v30i21.5",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a secondary analysis of data from 309 female adolescents aged 10\u201319 in Mashonaland Central Province, Zimbabwe, drawn from a 2023 assessment. Among sexually active 15\u201319-year-olds, 87% had experienced pregnancy; married girls had a 93% pregnancy rate versus 58% among single peers. Emotional stress, isolation, and healthcare user fees emerged as key barriers, while being out of school, age, religion, and caregiver gender also shaped outcomes.",
+      "why_it_matters": "This study highlights how school attendance and marital status function as structural determinants of adolescent pregnancy, underscoring why keeping girls in school is a reproductive health intervention.",
+      "caveats": "secondary analysis, single-center, observational design, narrow to single province in Zimbabwe",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Reproductive health topic but highly region-specific; secondary analysis limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Why Keeping Girls in School Is One of the Most Powerful Reproductive Health Interventions",
+          "hook": "In Zimbabwe's hardest-hit province, married, out-of-school girls faced nearly double the pregnancy rate of their single, enrolled peers.",
+          "pitch_angle": "A secondary analysis of 309 Zimbabwean adolescents found that school dropout and early marriage were the strongest drivers of first pregnancy \u2014 framing education access as a frontline reproductive health tool with global policy relevance."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43037620",
+      "headline": "Common first-trimester screening markers can't reliably predict which babies will end up in the NICU, large study finds",
+      "journal": "Journal of Neonatal-Perinatal Medicine",
+      "pubdate": "2026 Nov 16",
+      "doi": "10.1177/19345798261509171",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a prospective cohort study of 1,229 singleton pregnancies (11\u201313+6 weeks gestation) at a single centre in India, evaluating whether first-trimester markers \u2014 PAPP-A, free \u03b2-hCG, nuchal translucency, and maternal age \u2014 could predict adverse neonatal outcomes including preterm birth, low birth weight, or NICU admission. Composite adverse outcomes occurred in 38.2% of pregnancies; while lower PAPP-A was independently associated with worse outcomes, the combined model's discrimination was limited (AUC 0.610). Neither PAPP-A alone nor the combined model provided reliable individual-level risk prediction, and decision-curve analysis found no clear clinical benefit.",
+      "why_it_matters": "For pregnant women undergoing routine first-trimester screening, this study suggests that standard markers cannot reliably identify which individual pregnancies will face serious neonatal complications \u2014 pointing to a need for better integrated prediction tools.",
+      "caveats": "single-center, India (AIIMS Hyderabad \u2014 results may not generalise to other populations or healthcare settings), high composite outcome rate (38.2%) may reflect population-specific risk factors, self-reported outcomes not flagged but institutional data used",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive finding on widely used screening; large N, prospective design, strong perinatal relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "Those First-Trimester Blood Tests Can't Tell You as Much as You Think",
+          "hook": "PAPP-A is one of the most common early pregnancy blood tests \u2014 but a new study of over 1,200 pregnancies found it can't reliably predict which babies will face serious complications.",
+          "pitch_angle": "Despite being independently linked to worse neonatal outcomes, PAPP-A and standard first-trimester markers failed to predict individual risk well enough to guide clinical decisions. The finding is a reminder that routine screening tools have real limits \u2014 and that better integrated risk models are urgently needed."
+        },
+        {
+          "publication_type": "Health.com",
+          "headline": "Your First-Trimester Screening Results May Not Predict Neonatal Complications \u2014 Here's What Experts Say",
+          "hook": "A large prospective study found that widely used first-trimester markers, including PAPP-A, couldn't reliably identify which pregnancies would result in NICU admission or low birth weight.",
+          "pitch_angle": "While lower PAPP-A was associated with worse outcomes on a population level, the predictive accuracy at the individual level was too low to be clinically useful \u2014 a finding that challenges assumptions many pregnant women and their providers may hold about what routine screening can tell them."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43033913",
+      "headline": "Extra body fat may protect cancer patients from death \u2014 but the science is messier than headlines suggest",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Nov 14",
+      "doi": "10.1016/j.clnesp.2026.105249",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a scoping review of 47 observational studies examining whether the 'obesity paradox' in cancer \u2014 where higher body fat appears linked to better survival \u2014 holds up when muscle mass is properly accounted for. Studies spanned multiple cancer types and adipose tissue measures including BMI, subcutaneous, and visceral fat. While survival benefits associated with higher adiposity were found across all fat measures, only 49% of studies that assessed skeletal muscle actually adjusted their analyses for it, leaving the independent role of fat in survival unclear.",
+      "why_it_matters": "For women navigating cancer treatment and body image concerns, this review suggests the 'obesity paradox' may partly reflect gaps in how researchers measure body composition rather than a true protective effect of fat.",
+      "caveats": "observational design, secondary analysis, no sex-disaggregated data, single-region authorship (Australia)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Cancer + body composition relevant to women; weakened by no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Why 'Fat Protects Against Cancer Death' Headlines Are Probably Wrong",
+          "hook": "A major review found that most studies behind the viral 'obesity paradox' in cancer failed to account for muscle mass \u2014 a critical flaw.",
+          "pitch_angle": "Researchers analyzed 47 studies on body fat and cancer survival and found that nearly half didn't properly adjust for muscle mass, the factor that may actually drive the survival benefit. For women worried about weight during cancer treatment, the takeaway is that body composition \u2014 not just the number on the scale \u2014 is what matters most."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43033759",
+      "headline": "A simple blood marker after the first chemo cycle could flag women with a rare pregnancy-related cancer who need a stronger treatment plan",
+      "journal": "Gynecologic oncology",
+      "pubdate": "2026 Nov 14",
+      "doi": "10.1016/j.ygyno.2026.11.006",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective study of 299 patients with low-risk gestational trophoblastic neoplasia (GTN), a rare pregnancy-related cancer, examining whether the ratio of \u03b2-hCG levels before the second versus first chemotherapy cycle (C2/C1) could predict resistance to first-line single-agent chemotherapy. Using a threshold of 0.38, patients with a poor first-cycle response had chemoresistance rates of 43.8\u201344.7% versus 8.5\u20139.5% in favorable responders across development and validation cohorts. The dynamic model incorporating the C2/C1 ratio outperformed standard clinical staging, with AUCs of 0.867 and 0.844 in development and validation cohorts respectively.",
+      "why_it_matters": "Early identification of women with GTN who are unlikely to respond to standard single-agent chemotherapy could allow faster escalation to more effective treatment, potentially reducing the total treatment burden.",
+      "caveats": "retrospective design, single-center, requires prospective multicenter validation, China-based cohort",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Women-only population, gynecologic oncology topic, clean predictive model with validation cohort.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "A Routine Blood Test After One Round of Chemo Could Predict Treatment Failure in a Rare Women's Cancer",
+          "hook": "For women with a rare cancer that develops after pregnancy, a single blood marker ratio after the first chemotherapy cycle may signal whether their treatment is working \u2014 before weeks of ineffective therapy pile up.",
+          "pitch_angle": "A new study found that tracking how much a pregnancy hormone (\u03b2-hCG) drops after the first chemo cycle accurately identified which low-risk gestational trophoblastic neoplasia patients would resist standard treatment, with the approach outperforming existing scoring systems \u2014 though larger prospective trials are needed."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43033128",
+      "headline": "Scientists want to sneak more fiber into white bread \u2014 and your gut microbiome might not know the difference",
+      "journal": "Nutrition Bulletin",
+      "pubdate": "2026 Nov 14",
+      "doi": "10.1111/nbu.70074",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This paper is the outcome of a UK expert discussion meeting examining strategies to increase dietary fiber content in white bread and other bakery products through wheat breeding and food technology. The authors \u2014 representing research institutions, the British Nutrition Foundation, and industry partners \u2014 reviewed current fiber intake gaps (most UK adults consume far less than the recommended 30g/day) and identified white bread as an accessible, affordable vehicle for closing that gap. The paper makes recommendations for research and wheat breeding programs to develop higher-fiber white flour varieties.",
+      "why_it_matters": "Since women are disproportionately at risk for low-fiber-related conditions like cardiovascular disease and colorectal cancer, strategies to passively increase fiber intake through staple foods could benefit those who struggle to meet fiber targets through diet alone.",
+      "caveats": "no sex-disaggregated data, no primary human trial data, UK-specific food system context, includes industry co-authors (Allied Bakeries, Warburtons, UK Flour Millers)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Useful nutrition angle but expert opinion/discussion paper with no primary trial data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Woman's World",
+          "headline": "Could Your White Bread Soon Have as Much Fiber as Whole Wheat? Scientists Are Working on It",
+          "hook": "UK researchers are pushing to develop white bread that delivers meaningful fiber \u2014 without the texture or taste of whole grain \u2014 as a way to close the fiber gap for the majority of people who simply won't switch breads.",
+          "pitch_angle": "Most adults \u2014 including most women \u2014 fall far short of daily fiber targets, and research consistently links higher fiber intake to lower risks of heart disease, type 2 diabetes, and certain cancers. This expert consensus paper argues that upgrading white bread through plant breeding, rather than waiting for behavior change, could be one of the most practical public health interventions available."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43023844",
+      "headline": "Nearly half of rare endocrine tumor patients wait over a year for a diagnosis \u2014 and most rate their doctor's knowledge as poor",
+      "journal": "Endocrine Connections",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1530/EC-26-0563",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "An online survey of 133 European patients with Multiple Endocrine Neoplasia (MEN) syndromes \u2014 rare hereditary endocrine tumor conditions \u2014 collected data on diagnostic journeys, information quality, and care access between November 2023 and September 2025. Nearly half of respondents (48.9%) waited more than 12 months from first symptom to diagnosis, and over a quarter waited more than five years; only 42.1% rated their disease information as good or excellent, and fewer than half rated their physician's MEN knowledge favorably. Patients with the longest diagnostic delays reported the worst physical health outcomes and prioritized research and early diagnosis as unmet needs.",
+      "why_it_matters": "Women with unexplained hormonal or endocrine symptoms may face years of diagnostic delay for rare hereditary conditions, underscoring the importance of specialist referral and patient-led advocacy in navigating complex endocrine disease.",
+      "caveats": "small sample (N=133), observational design, self-reported outcomes, single-region (European), no sex-disaggregated data reported, descriptive statistics only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Endocrine relevance for women; small self-reported sample, no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Patients With a Rare Hormone Tumor Syndrome Waited Years for a Diagnosis \u2014 and Many Found Better Information From Patient Groups Than Their Doctors",
+          "hook": "A new European survey found that most patients with a hereditary endocrine tumor syndrome had to wait over a year \u2014 sometimes over five \u2014 to get a correct diagnosis, and they trusted advocacy groups more than their physicians for reliable information.",
+          "pitch_angle": "The survey of 133 MEN patients highlights a systemic gap in rare endocrine disease recognition that likely affects women disproportionately given overlapping hormonal symptoms. The finding that 72% turned to patient advocacy groups for information \u2014 over their own doctors \u2014 speaks to a broader crisis of trust and expertise in specialist care."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43019559",
+      "headline": "A common antidepressant may trigger teeth-grinding as a previously unreported side effect",
+      "journal": "Journal of Clinical Psychopharmacology",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1097/JCP.0000000000002293",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This is a single case report describing probable bruxism (teeth-grinding) associated with vortioxetine, an antidepressant increasingly prescribed for major depressive disorder, submitted by clinicians at Memorial Healthcare System in Florida. No abstract text beyond the title and authorship was available for this case report. It is described as the first reported case of this association.",
+      "why_it_matters": "Women are prescribed antidepressants at higher rates than men, and bruxism can cause significant dental damage and jaw pain, making awareness of this potential side effect clinically relevant.",
+      "caveats": "small sample (N<100), single case report, no abstract available for full verification, single-center",
+      "fact_check_note": "No abstract text was available beyond title and authorship; summary is based solely on the title and limited metadata. All claims should be verified against the full text before publication.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Single case report; limited verifiable data; niche side-effect finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Allure",
+          "headline": "Could Your Antidepressant Be Causing You to Grind Your Teeth?",
+          "hook": "A new case report suggests vortioxetine \u2014 a newer antidepressant \u2014 may be linked to bruxism, a side effect not previously documented for this drug.",
+          "pitch_angle": "Teeth-grinding is already linked to SSRIs, and now a case report flags a possible connection with a newer antidepressant class as well. For women, who take antidepressants at higher rates, knowing what dental and jaw symptoms to watch for matters."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43025468",
+      "headline": "First-trimester gestational diabetes risk scores aren't ready to replace standard testing, review cautions",
+      "journal": "Diabetes Research and Clinical Practice",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1016/j.diabres.2026.113667",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a non-systematic critical review of published studies, clinical trials, and guidelines examining whether first-trimester gestational diabetes mellitus (GDM) prediction models can meaningfully improve clinical outcomes rather than simply flag a later abnormal glucose test. One key trial of nutrition support in 519 model-selected pregnant women did not significantly reduce GDM rates, and direct trials of full prediction-guided care pathways remain scarce. The authors conclude that current first-trimester scores lack sufficient validation, locally calibrated beneficial actions, and outcome evidence to replace recommended diagnostic testing.",
+      "why_it_matters": "As first-trimester GDM prediction tools are increasingly marketed and discussed, this review suggests pregnant women and their clinicians should know the evidence for acting on those scores early is still far weaker than the technology implies.",
+      "caveats": "non-systematic review, single-center authors (Romania), transportability of prediction models not established, no primary data collected",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive pregnancy health finding; review design and regional single-center authorship limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Early Gestational Diabetes Prediction Tests Sound Promising \u2014 But Experts Say the Evidence Isn't There Yet",
+          "hook": "Despite growing buzz around first-trimester tools to predict gestational diabetes, a new review finds that acting on these scores early hasn't actually been shown to reduce the condition.",
+          "pitch_angle": "Researchers reviewed trials and guidelines and found that nutrition interventions targeting women flagged as high-risk in the first trimester did not significantly lower GDM rates \u2014 and the standard second-trimester glucose test remains the clinical benchmark. For pregnant women intrigued by early screening options, the message is that more research is needed before these tools change their care."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43031428",
+      "headline": "The nitrate in your vegetables is actually good for you \u2014 regulators may have had it backwards",
+      "journal": "Critical Reviews in Food Science and Nutrition",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1080/10408398.2026.2749335",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This comprehensive review by researchers from the UK, Sweden, Canada, and Australia examined evidence on inorganic nitrate across environmental, agricultural, nutritional, and physiological contexts. The authors argue that while nitrate from industrial pollution and drinking water raises legitimate health concerns, dietary nitrate from vegetables converts to nitric oxide in the body and may confer meaningful cardiovascular and prebiotic benefits. They propose a new regulatory framework that distinguishes between harmful environmental nitrate exposure and beneficial dietary nitrate from vegetables.",
+      "why_it_matters": "Women following vegetable-rich diets may actually be gaining cardiovascular and gut-health benefits from nitrates \u2014 not harm \u2014 suggesting current food-safety messaging around nitrates may be misleading.",
+      "caveats": "observational design, no sex-disaggregated data, review article (not primary human trial)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive nutrition finding with wellness hook; review design and no female-specific data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Wait \u2014 Is the Nitrate in Your Leafy Greens Actually Good for Your Heart?",
+          "hook": "Scientists say regulators may have lumped healthy vegetable nitrates together with harmful industrial ones \u2014 and that confusion could be steering women away from some of the most heart-protective foods.",
+          "pitch_angle": "Nitrates have long had a bad reputation linked to processed meats and contaminated water, but this major review argues that the nitrates in spinach, beets, and arugula behave completely differently in the body \u2014 converting to nitric oxide that supports blood pressure and gut health. The finding reframes a confusing dietary message that has persisted for decades."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43024973",
+      "headline": "Metabolic syndrome nearly triples in people experiencing their first episode of psychosis over just two years",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1016/j.schres.2026.11.004",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This observational longitudinal study recruited 456 adults with first-episode psychosis (FEP) in Spain (mean age ~31; 66% male) through a structured early-intervention program, assessing metabolic syndrome (MetS) every six months over two years. MetS prevalence rose from 7.4% at baseline to 17.1% at 24 months. Older age, male sex, heavy tobacco use, negative psychiatric symptoms, and a history of childhood sexual abuse were positively associated with MetS, while higher functioning and socioeconomic status were protective; cannabis use was unexpectedly associated with lower MetS odds.",
+      "why_it_matters": "Women with psychosis \u2014 a population with already elevated cardiovascular risk \u2014 may benefit from early metabolic monitoring, particularly given that childhood sexual abuse history (more prevalent in women) emerged as a risk factor.",
+      "caveats": "observational design, single-center region (Spain), majority-male sample (66% male), no sex-disaggregated data",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant cardiovascular/metabolic finding in psychiatric population but majority-male and no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Prevention",
+          "headline": "Within Two Years of a First Psychosis Episode, Metabolic Syndrome Risk More Than Doubles",
+          "hook": "A new study found that metabolic syndrome \u2014 a cluster of heart disease risk factors \u2014 jumped from 7% to 17% in people within two years of their first psychotic episode.",
+          "pitch_angle": "Spanish researchers tracking over 450 patients found rapid metabolic deterioration early in psychosis, with childhood sexual abuse history among the risk factors \u2014 a finding with particular relevance for women. The results suggest a critical window for metabolic intervention that is currently often missed."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43025662",
+      "headline": "ECT for first-ever depression may be warranted earlier than doctors typically wait \u2014 but evidence is thin",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1016/j.jad.2026.122744",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a narrative review of published evidence on electroconvulsive therapy (ECT) used early \u2014 before or instead of antidepressants \u2014 in patients experiencing their first-ever major depressive episode. Seventeen reports representing an estimated 13 underlying cohorts were identified, with the direct evidence dominated by small, uncontrolled, frequently neuroimaging-centered studies. The review found that while ECT should not be routine first-line treatment, first-episode status alone should not automatically delay ECT when severe suicidality, psychosis, catatonia, or medical deterioration is present.",
+      "why_it_matters": "Women are diagnosed with depression at roughly twice the rate of men, and the question of when ECT is appropriate could affect treatment decisions for millions of women experiencing a first severe depressive episode.",
+      "caveats": "observational design, small sample (N<100 in underlying cohorts), narrative review only, no sex-disaggregated data, industry funding [LivaNova, Johnson & Johnson, Neumora Therapeutics, Alto Neuroscience, COMPASS Pathways]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Women's mental health topic fit; weak study design, no female-specific analysis.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Doctors Have Long Waited to Try ECT for Severe Depression \u2014 New Review Says That Delay May Be Costing Some Patients",
+          "hook": "Electroconvulsive therapy is typically a last resort, but a new review suggests that for some people in the grip of a first severe depressive episode, waiting through multiple failed medications may not always be the right call.",
+          "pitch_angle": "Researchers found almost no rigorous trials testing ECT early in a first depression \u2014 meaning the 'try everything else first' rule is based more on convention than evidence. For women, who are disproportionately affected by severe depression, this gap in research has real stakes."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43026434",
+      "headline": "LGBTQ+ people with physical disabilities describe using kink and adaptive sexual practices to reclaim pleasure on their own terms",
+      "journal": "Archives of Sexual Behavior",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1007/s10508-026-03555-6",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a qualitative content analysis of publicly available TikTok and X (formerly Twitter) posts, analyzing a purposive subsample of 83 posts from a larger dataset of 878, to examine how LGBTQ+ individuals with physical disabilities describe their sexual experiences. Three themes emerged: structural barriers limiting sexual access (ableism, chronic pain), adaptive sexual scripts using tools and communication, and negotiated embodiment in which pain and pleasure were actively managed. Kink was described by participants as offering a form of chosen, controlled sensation that provided agency unavailable elsewhere in their lives.",
+      "why_it_matters": "LGBTQ+ women and nonbinary people with physical disabilities are rarely centered in sexual health research, and these findings challenge assumptions that disability is incompatible with active, agentic sexual lives.",
+      "caveats": "small sample (N<100), qualitative design, self-reported outcomes, social media data only, no sex-disaggregated data, no IRB review",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Underrepresented population, sexual health angle, but small qualitative sample and no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / The Cut",
+          "headline": "Disabled LGBTQ+ People Are Rewriting the Rules of Sex \u2014 and Kink Is Playing a Surprising Role",
+          "hook": "New research finds that LGBTQ+ people with physical disabilities aren't just navigating sex despite their disabilities \u2014 many are actively redesigning it, with kink emerging as an unexpected tool for reclaiming bodily agency.",
+          "pitch_angle": "A qualitative analysis of social media posts challenges the medical framing of disabled people as asexual or risk-focused, revealing rich adaptive sexual practices. For LGBTQ+ women and nonbinary people with disabilities, these findings validate experiences that rarely appear in health research or media."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43025247",
+      "headline": "Aboriginal-led pregnancy care model cuts child protection involvement by centering cultural practices and community control",
+      "journal": "Women and Birth",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1016/j.wombi.2026.102431",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used community-based participatory action research \u2014 including a yarning circle with six midwives and specialist perinatal workers \u2014 to describe how Waminda, an Aboriginal women-led community-controlled health organisation in New South Wales, Australia, supports First Nations pregnant women facing multiple life stressors. The model provides continuity of midwifery care, an Aboriginal majority workforce, and wraparound culturally grounded support designed to resist systemic coercion and reduce child protection system involvement. Findings suggest this decolonised care model promotes family integrity, increases healthcare engagement, and may have lifelong and intergenerational wellbeing benefits.",
+      "why_it_matters": "Community-controlled, culturally grounded perinatal care may offer a protective pathway for Indigenous pregnant women who are disproportionately affected by life stressors and child protection system involvement.",
+      "caveats": "small sample (N<100), qualitative design, single-center, single community/region (Aboriginal community in New South Wales, Australia), author affiliation with the organisation studied",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong perinatal and Indigenous women's health relevance; qualitative, small sample, region-specific limits generalisability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "This Aboriginal Women-Led Clinic Is Rethinking What Pregnancy Care Can Look Like",
+          "hook": "A community-controlled health model in Australia is showing that when Indigenous women lead their own perinatal care, families thrive \u2014 and systemic interventions decrease.",
+          "pitch_angle": "Waminda's wraparound, culturally grounded pregnancy support model challenges mainstream obstetric care by centering women's agency and community governance rather than clinical surveillance. The model's approach to resisting coercive systems while improving health engagement offers a compelling lens on what truly equitable perinatal care could look like globally."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43026424",
+      "headline": "Air pollution may be quietly damaging your gallbladder through changes in blood fats, a large study of nearly 400,000 people suggests",
+      "journal": "Metabolomics",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1007/s11306-026-02561-y",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed data from 398,697 UK Biobank participants, linking annual air pollutant concentrations (PM2.5, PM10, NO2, NOx) to 251 plasma metabolites and incident cholecystitis (gallbladder inflammation). Metabolic signatures for each pollutant were associated with a 12\u201319% higher risk of cholecystitis compared to individual pollutants alone. Mediation analyses suggested lipid and fatty acid pathways \u2014 including VLDL lipids, HDL lipids, and omega-3 fatty acids \u2014 may partially explain how air pollution drives gallbladder inflammation.",
+      "why_it_matters": "Women are already at higher risk for gallbladder disease than men, and this large study raises the possibility that everyday air pollution may be an underappreciated contributor to that risk through measurable changes in blood lipids.",
+      "caveats": "observational design, no sex-disaggregated data, self-reported outcomes, UK-based cohort (may not generalize fully)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large prospective cohort, counterintuitive pollution-gallbladder link, women at higher baseline risk; no sex-disaggregated data reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Air Pollution Could Be Hurting Your Gallbladder \u2014 And Your Blood Fats May Be the Missing Link",
+          "hook": "A study of nearly 400,000 people found that people living in more polluted areas had meaningfully higher rates of gallbladder inflammation \u2014 and the culprit may be pollution-driven changes in cholesterol and omega-3 levels.",
+          "pitch_angle": "Gallbladder disease affects women at twice the rate of men, and this research suggests air quality \u2014 not just diet \u2014 may be shifting the blood fats that set the stage for inflammation; it's a fresh angle on why environmental health is a women's health issue."
+        },
+        {
+          "publication_type": "Prevention / First for Women",
+          "headline": "Could the Air You Breathe Be Behind Your Gallbladder Problems?",
+          "hook": "Researchers found that long-term exposure to air pollution was associated with significantly higher risk of gallbladder inflammation, possibly by disrupting the same fats your doctor checks at your annual physical.",
+          "pitch_angle": "The study identified VLDL lipids, HDL cholesterol, and omega-3 fatty acids as potential biological bridges between dirty air and gallbladder disease \u2014 a finding that adds weight to the argument that managing heart-healthy fats may matter beyond cardiovascular risk."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43025813",
+      "headline": "Iron deficiency in infancy is linked to subtle memory gaps months later \u2014 even before anemia sets in",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1016/j.ajcnut.2026.101630",
+      "groundbreaking": "First-in-class human study / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed data from 406 infants aged 6\u20139 months enrolled in a randomized egg-provision trial in rural Malawi, using eye-tracking technology to assess attention, memory, and social engagement six months later. At baseline, 45.6% of infants had anemia and 84.2% had iron deficiency. Iron-specific biomarkers \u2014 but not categorical anemia status \u2014 were associated with modest differences in memory measures, though only one association remained significant after correction for multiple comparisons.",
+      "why_it_matters": "For mothers and maternal health advocates, this study suggests that iron status in the first year of life \u2014 even before clinical anemia is diagnosed \u2014 may have subtle effects on early cognitive development.",
+      "caveats": "observational design, small-to-moderate sample (N=406 subgroup), single-center, high-burden rural Malawi setting limits generalizability, small effect sizes, most associations did not survive multiplicity correction",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Infant iron and cognition relevant to maternal health readers; limited generalizability and small effects.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "Your Baby Could Be Iron-Deficient Long Before Anemia Shows Up \u2014 and It May Affect Their Memory",
+          "hook": "New eye-tracking research found that iron biomarkers in infants as young as 6 months were associated with memory differences six months later \u2014 before classic anemia was even detectable.",
+          "pitch_angle": "A study of over 400 infants used sophisticated eye-tracking tools to detect subtle memory differences linked to low iron stores in the first year of life. The findings suggest that waiting for a clinical anemia diagnosis may mean missing an earlier window when iron status is already affecting a baby's developing brain \u2014 a concern for any parent monitoring infant nutrition."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43025549",
+      "headline": "Eating a carb-rich drink before surgery cuts hospital stays by more than a day and tamps down inflammation",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.1016/j.clnesp.2026.105248",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This systematic review and meta-analysis included 12 randomized controlled trials with 762 adult patients undergoing elective colorectal surgery, comparing preoperative oral carbohydrate loading against conventional fasting or placebo. Carbohydrate loading was associated with significantly lower postoperative C-reactive protein levels (a marker of inflammation) and a hospital stay that was about 1.6 days shorter on average. No significant differences were found in postoperative blood glucose levels or time to first bowel movement.",
+      "why_it_matters": "Colorectal cancer is among the most common cancers diagnosed in women, and this finding suggests a simple pre-surgery dietary practice may meaningfully speed recovery and reduce inflammatory burden.",
+      "caveats": "small pooled sample (N=762), substantial heterogeneity noted by authors, no sex-disaggregated data, short follow-up, single surgical context",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Surgical recovery relevant to women with colorectal cancer; no female-specific data reported.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Sipping a Carb Drink Before Colorectal Surgery Could Help You Leave the Hospital Sooner",
+          "hook": "A meta-analysis of 12 trials found that patients who drank a carbohydrate-rich beverage before elective colorectal surgery left the hospital nearly two days earlier than those who fasted.",
+          "pitch_angle": "Pre-surgery fasting has long been standard protocol, but new pooled evidence suggests that swapping that fast for a carbohydrate-loading drink reduces post-surgical inflammation and shortens recovery time. For women facing colorectal surgery \u2014 one of the most common cancer surgeries \u2014 this research points to a low-barrier tweak that surgical teams are increasingly incorporating into recovery protocols."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43036172",
+      "headline": "A genome-guardian protein may protect sperm stem cells from 'jumping DNA' that threatens fertility, lab study suggests",
+      "journal": "Asian Journal of Andrology",
+      "pubdate": "2026 Nov 13",
+      "doi": "10.4103/aja202636",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using human embryonic stem cells, human fetal testis samples, and adult testis samples, researchers investigated the role of SAMHD1 \u2014 a protein known to suppress retroviruses \u2014 in protecting developing sperm stem cells from LINE-1 retrotransposons, 'jumping' genetic elements that make up roughly 17% of the human genome and can disrupt genomic stability. The study found that SAMHD1 promotes degradation of LINE-1 elements via an autophagy pathway, and that knocking down SAMHD1 significantly impaired the differentiation of spermatogonial stem cell-like cells in vitro. SAMHD1 expression was confirmed in both fetal and adult human testicular germ cells, suggesting it plays a guardian role during human germline development.",
+      "why_it_matters": "Understanding how genome-destabilising elements are suppressed during sperm development could eventually offer new insights into causes of male-factor infertility \u2014 a contributor in roughly half of all cases of couples struggling to conceive.",
+      "caveats": "cell and tissue study (human cell lines and ex vivo tissue \u2014 no in vivo human outcomes), small tissue sample numbers not reported for histological analysis, male germline only (no female reproductive relevance), no sex-disaggregated data applicable",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Fertility-adjacent topic but cell/tissue study only; no female subjects; limited direct women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Scientists Discover a 'Genome Guardian' That May Protect Sperm From Genetic Chaos",
+          "hook": "A protein best known for fighting viruses may also be guarding sperm stem cells against rogue DNA elements that can derail development \u2014 a finding with potential implications for understanding male infertility.",
+          "pitch_angle": "Early lab research suggests SAMHD1 acts as a checkpoint against LINE-1 retrotransposons \u2014 'jumping' genetic sequences that threaten the stability of developing sperm cells. While this is early-stage cell research, it opens a new window into the molecular roots of male-factor infertility, which affects roughly half of couples facing fertility challenges."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43020950",
+      "headline": "A bone disease so rare it strikes fewer than 1 in a million people responds to two different treatments \u2014 but age determines which one is safer",
+      "journal": "Osteoporosis International",
+      "pubdate": "2026 Nov 12",
+      "doi": "10.1007/s00198-026-08299-6",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers described two Chinese patients with Juvenile Paget's disease (JPD), an ultra-rare genetic skeletal disorder caused by loss-of-function mutations in TNFRSF11B; one patient was a 3-year-old boy and the other a 35-year-old woman (N=2). Both carried novel homozygous gene variants not previously reported. Denosumab in the adult woman suppressed bone turnover markers, reduced pain, and increased lumbar spine bone mineral density by 17.5% at 6 months, while zoledronic acid in the child reduced bone turnover rapidly but caused hungry bone syndrome.",
+      "why_it_matters": "For the rare woman living with this ultra-rare skeletal disorder, the case of the 35-year-old patient suggests denosumab may offer meaningful bone density gains and symptom relief, though evidence remains extremely limited.",
+      "caveats": "small sample (N<100), single-center, observational design, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Women's bone disease angle, but ultra-rare disease and N=2 case series severely limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Good Housekeeping",
+          "headline": "This Bone Disease Is So Rare Doctors Often Miss It \u2014 But A Common Osteoporosis Drug May Help",
+          "hook": "A 35-year-old woman with a severe, misunderstood bone disease gained nearly 18% bone density in just six months on a drug already used for osteoporosis.",
+          "pitch_angle": "Juvenile Paget's disease affects the skeleton so aggressively it can cause deformity and hearing loss by adulthood; this case report suggests the osteoporosis drug denosumab may offer real relief for adult women, raising awareness of a diagnosis that is often delayed for years."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43019971",
+      "headline": "High-protein diets probably won't wreck your kidneys \u2014 unless you already have kidney disease",
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "pubdate": "2026 Nov 12",
+      "doi": "10.1016/j.nut.2026.113448",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative mini-review examined evidence from observational studies, RCTs, systematic reviews, and meta-analyses on the relationship between high-protein diets and kidney function in adults with and without chronic kidney disease (CKD). The authors found that while observational data link higher protein intake to faster kidney function decline in people with pre-existing CKD or cardiometabolic risk factors, RCTs have generally not shown clinically meaningful kidney deterioration in healthy individuals over short-to-medium follow-up. Emerging evidence suggests plant-based and fish-derived proteins may be safer for kidney health than red and processed meat.",
+      "why_it_matters": "With high-protein diets dominating women's weight-loss and fitness culture, this review suggests healthy women without kidney disease are unlikely to face kidney harm \u2014 but protein source and individual health status matter significantly.",
+      "caveats": "narrative review (not systematic), heterogeneous evidence base, short follow-up in most RCTs, no sex-disaggregated data, two-author review from single institution",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "High lifestyle relevance for women; weakened by narrative review design and no sex-disaggregated data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "Is Your High-Protein Diet Hurting Your Kidneys? Here's What the Science Actually Says",
+          "hook": "A new review finds that for healthy people, high-protein diets are unlikely to cause kidney damage \u2014 but the type of protein you eat may matter more than the amount.",
+          "pitch_angle": "Despite persistent fears, clinical trials have generally not shown that high-protein diets harm kidney function in otherwise healthy adults, according to a new review. The bigger nuance: plant-based and fish proteins appear safer than red and processed meat, and anyone with pre-existing kidney issues or metabolic conditions should still approach high-protein eating carefully."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43013874",
+      "headline": "Wealthier Australian women are significantly more likely to get the most accurate prenatal genetic screening test \u2014 even at the same hospitals",
+      "journal": "Prenatal diagnosis",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1002/pd.70303",
+      "groundbreaking": "Relevant women's health finding / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective multicentre cohort study of 102,729 women who gave birth at 11 public hospitals in Melbourne, Australia between 2022\u20132024, examining uptake of prenatal aneuploidy screening and which test modality women chose. Among the 82.6% who underwent screening, non-invasive prenatal testing (NIPT) was the dominant modality at 80.6%, but NIPT uptake ranged from 75.3% in the most disadvantaged areas to 88.9% in the most advantaged \u2014 a gap that persisted after adjustment for clinical and demographic factors. Women who declined screening altogether were more likely to be younger, multiparous, or migrants from specific regions.",
+      "why_it_matters": "In a country where NIPT is recommended but self-funded, socioeconomic status strongly shapes access to the most accurate prenatal screening \u2014 suggesting that out-of-pocket costs create a two-tiered system even within public healthcare.",
+      "caveats": "retrospective design, single country (Australia), region-specific funding policy context, observational design",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large N (102,729), reproductive health equity angle, clean multicentre design with strong women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Your Zip Code \u2014 Not Your Doctor \u2014 May Determine Which Prenatal Test You Get",
+          "hook": "Even at the same public hospitals, wealthier Australian women were significantly more likely to access the most accurate prenatal genetic screening test \u2014 because it isn't covered by insurance.",
+          "pitch_angle": "A large study of over 100,000 pregnancies found that NIPT, the gold-standard prenatal chromosomal screening test, was strongly tied to socioeconomic advantage \u2014 raising urgent questions about healthcare equity that resonate well beyond Australia's borders."
+        },
+        {
+          "publication_type": "Health.com",
+          "headline": "The Most Accurate Prenatal Screening Test Isn't Equally Available to All Pregnant Women",
+          "hook": "A study of more than 100,000 Australian pregnancies found that women in wealthier areas were nearly 14 percentage points more likely to receive NIPT \u2014 the most accurate chromosomal screening test \u2014 than those in the most disadvantaged regions.",
+          "pitch_angle": "Because NIPT is recommended but self-funded in Australia, out-of-pocket cost created measurable screening gaps even within the public health system, with younger mothers, migrants, and lower-income women least likely to access it \u2014 a pattern with clear parallels to insurance-dependent healthcare systems globally."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43033579",
+      "headline": "A tiny RNA molecule found reduced in preeclamptic placentas may be key to healthy placental development, cell study suggests",
+      "journal": "Placenta",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1016/j.placenta.2026.11.006",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Yale researchers used a human first-trimester trophoblast cell line to investigate the role of microRNA Let-7b-5p \u2014 which is reduced in preeclamptic placentas \u2014 in normal placental function. Introducing a Let-7b-5p mimic increased cell migration via TLR7 and TLR8 activation and suppressed production of sFlt-1, an anti-angiogenic protein elevated in preeclampsia, through a TLR7-dependent pathway. Inhibiting Let-7b-5p had the opposite effect, reducing migration, elevating sFlt-1, and impairing trophoblast interactions with endometrial endothelial cells \u2014 collectively resembling a preeclampsia-like phenotype.",
+      "why_it_matters": "Understanding the molecular signaling that goes wrong in preeclamptic placentas could eventually point toward new targets for preventing or treating one of pregnancy's most dangerous complications.",
+      "caveats": "animal or cell study, single cell line used (Sw.71), no human tissue validation beyond inference from prior literature",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Preeclampsia relevance high, but cell-only study significantly limits clinical translation.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists May Have Found a Molecular Switch That Goes Wrong in Preeclampsia",
+          "hook": "A Yale lab study suggests a tiny RNA molecule \u2014 found at reduced levels in preeclamptic placentas \u2014 plays a surprisingly central role in keeping placental cells healthy during early pregnancy.",
+          "pitch_angle": "Early cell research found that disrupting Let-7b-5p mimicked key features of preeclampsia at the cellular level, raising the possibility that this microRNA pathway could one day be a target for reducing the risk of this dangerous pregnancy complication \u2014 though the finding is very early-stage."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43013116",
+      "headline": "Pea protein and whey protein reshape gut bacteria in surprisingly different ways \u2014 and processing method matters too",
+      "journal": "European Journal of Nutrition",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1007/s00394-026-04143-z",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a randomized, double-blind, 3-arm parallel trial, Swedish researchers assigned healthy adults to four weeks of supplementation with pea protein concentrate (PPC), pea protein isolate (PPI), or whey protein isolate (WPI) at 0.5g/kg body mass per day. Stool, blood, and urine samples were collected at baseline, mid-, and post-intervention to assess gut microbiota and metabolic markers. Both pea protein forms significantly reduced gut microbial diversity (alpha-diversity) while increasing between-person variation (beta-diversity), and each selectively boosted distinct beneficial bacterial species \u2014 with PPC raising Bifidobacterium longum and PPI raising Lactobacillus crispatus \u2014 effects not seen with whey.",
+      "why_it_matters": "For women considering plant-based protein powders, this early evidence suggests that how pea protein is processed \u2014 not just the source \u2014 may meaningfully shape which beneficial gut bacteria are supported.",
+      "caveats": "no sex-disaggregated data, short follow-up, healthy adults only (findings may not generalize to clinical populations), functional significance of microbiota changes not yet established",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "RCT design, plant-protein trend, gut health hook for women; no sex-disaggregated data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Shape",
+          "headline": "Your Pea Protein Powder Is Feeding Your Gut Bacteria \u2014 But Which Bugs Depends on How It Was Made",
+          "hook": "A randomized trial found that pea protein concentrate and pea protein isolate \u2014 both labeled 'pea protein' \u2014 fed completely different beneficial gut bacteria, suggesting the processing method on your supplement label actually matters.",
+          "pitch_angle": "As women increasingly swap whey for plant-based proteins, this clinical study reveals that not all pea proteins behave the same way in the gut \u2014 with the concentrate form boosting Bifidobacterium and the isolate form favoring Lactobacillus crispatus, a species associated with vaginal and gut health. The finding adds nuance to the booming plant-protein conversation and raises new questions about which form is best for different health goals."
+        },
+        {
+          "publication_type": "Prevention / Health.com",
+          "headline": "Is Pea Protein Actually Better for Your Gut Than Whey? A New Trial Has Some Answers",
+          "hook": "A four-week randomized study found that pea protein \u2014 but not whey \u2014 selectively increased beneficial gut bacteria, with the specific species depending on how the protein was processed.",
+          "pitch_angle": "With plant-based diets on the rise, researchers wanted to know whether switching from animal to plant protein actually changes the gut microbiome \u2014 and the answer appears to be yes, though the details are more complicated than the label suggests. For health-conscious women navigating a crowded protein supplement market, this study offers early but meaningful evidence that the type of pea protein product you choose may matter beyond just macros."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43013247",
+      "headline": "A rare fatal brain disease was mistaken for grief and Parkinson's for years \u2014 here's what finally caught it",
+      "journal": "Neuropsychiatrie",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1007/s40211-026-00600-7",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Clinicians in Turkey report a case of a 60-year-old man whose sporadic Creutzfeldt-Jakob disease (sCJD) went undiagnosed for years because his psychiatric and motor symptoms were attributed to grief after a bereavement and to a longstanding Parkinson's disease diagnosis. His condition unexpectedly worsened after antidepressant and antipsychotic treatment was started, and diagnosis was ultimately confirmed by EEG, MRI, and a positive CSF RT-QuIC assay. The case highlights how psychiatric presentations of rare prion disease can be masked by emotionally or neurologically plausible alternative diagnoses.",
+      "why_it_matters": "Women are more likely than men to receive psychiatric diagnoses when presenting with neurological symptoms, making awareness of organic causes for rapidly worsening psychiatric conditions especially relevant for their care.",
+      "caveats": "single case report (N=1), single-center, male patient \u2014 findings may not apply to women",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Single male case report; indirect relevance to women via diagnostic bias context.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "His 'Grief and Parkinson's' Symptoms Were Actually a Rare Fatal Brain Disease \u2014 Doctors Missed It for Years",
+          "hook": "A new case report reveals how a rapidly progressing prion disease was hidden behind a bereavement reaction and an existing Parkinson's diagnosis for years before the true cause was found.",
+          "pitch_angle": "The case underscores how psychiatric symptoms \u2014 depression, psychosis, cognitive decline \u2014 can be the first signs of serious neurological disease, not just emotional or age-related change. For women, who are statistically more likely to have neurological symptoms attributed to psychiatric or emotional causes, this is a reminder that rapidly worsening mental health changes in midlife or later deserve thorough medical workup."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43013200",
+      "headline": "A common pregnancy liver condition may alter how umbilical arteries respond to key medications, ex vivo study finds",
+      "journal": "Reproductive Sciences",
+      "pubdate": "2026 Nov 11",
+      "doi": "10.1007/s43032-026-02258-6",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Turkish researchers isolated umbilical arteries and myometrial tissue immediately after delivery from 7 women with intrahepatic cholestasis of pregnancy (ICP) and 8 healthy pregnant women, testing smooth muscle responses to nifedipine (a calcium channel blocker) and NS11021 (a potassium channel opener) in isolated organ baths. In the cholestasis group, umbilical artery sensitivity to nifedipine was reduced and responses to NS11021 were diminished in both maximum effect and sensitivity, while myometrial responses were largely unchanged. Histological examination also found increased apoptosis in umbilical artery and myometrial tissue from the ICP group, suggesting the condition may cause vascular changes that could contribute to fetal complications.",
+      "why_it_matters": "For pregnant women with intrahepatic cholestasis \u2014 which raises the risk of fetal complications \u2014 these early findings suggest the condition may alter how blood vessels in the umbilical cord respond to medications, potentially informing future research on ICP management.",
+      "caveats": "small sample (N<100 \u2014 only 15 tissue donors total), ex vivo tissue study (not in vivo clinical outcomes), single-center (Turkey), no sex-disaggregated data applicable (all female tissue donors by study design)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant pregnancy complication; very small ex vivo sample severely limits generalisability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "A Pregnancy Liver Condition May Change How Blood Vessels in the Umbilical Cord Respond to Medication",
+          "hook": "New lab research suggests intrahepatic cholestasis of pregnancy \u2014 a condition causing severe itching in late pregnancy \u2014 may reduce how well key medications relax blood vessels in the umbilical cord.",
+          "pitch_angle": "Using tissue taken from women with and without ICP after delivery, researchers found that umbilical arteries from cholestatic pregnancies were less responsive to medications that normally relax smooth muscle \u2014 a finding that may help explain some of the fetal risks associated with this condition. While far from clinical application, the research adds to growing understanding of why ICP can be dangerous for babies."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Womens Health & Reproduction",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43010641",
+      "headline": "New fathers describe breastfeeding support as a 'shared journey' \u2014 and their involvement may help mothers stick with it longer",
+      "journal": "Breastfeeding Medicine",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1177/15568253261505338",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Turkish researchers conducted a qualitative study using metaphor analysis with 94 first-time fathers (from an initial 102) whose infants aged 0\u20132 months were breastfeeding at the time of data collection. Fathers completed a sentence-completion exercise and 57 distinct metaphors emerged, organized into four themes including holistic support, bonding, and emotional engagement. Findings suggest fathers conceptualize their role as integral to breastfeeding success and that their active involvement may reinforce maternal breastfeeding duration and self-efficacy.",
+      "why_it_matters": "For postpartum mothers struggling with breastfeeding, understanding how to actively engage partners may be a practical, underutilized tool for improving breastfeeding outcomes.",
+      "caveats": "small sample (N<100 analyzed), single-center, qualitative design, self-reported outcomes, single country (T\u00fcrkiye) \u2014 cultural context may limit generalizability to US populations",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Postpartum/breastfeeding topic fits well; qualitative design and regional context limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Good Housekeeping / First for Women",
+          "headline": "New Dads Who See Breastfeeding as a Team Sport Help Moms Nurse Longer, Research Finds",
+          "hook": "When first-time fathers were asked to describe supporting breastfeeding in their own words, their answers revealed a surprisingly emotional investment \u2014 and research suggests that involvement translates into real benefits for nursing mothers.",
+          "pitch_angle": "A qualitative study asked new dads to complete the sentence 'Supporting my wife with breastfeeding is like\u2026' \u2014 and the richness of their responses challenged the idea that breastfeeding is a solo endeavor. The findings point to concrete ways postpartum care providers and birth educators could better engage partners to support nursing mothers."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43009067",
+      "headline": "In depressed teens, it's a specific type of impulsivity \u2014 not depression severity \u2014 that's most linked to self-harm and suicide risk",
+      "journal": "Journal of Affective Disorders",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1016/j.jad.2026.122725",
+      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers enrolled 518 adolescents with first-episode, treatment-naive depression at a single clinic in Chongqing, China, and used a network analysis to map relationships among impulsivity dimensions, nonsuicidal self-injury (NSSI), and suicidal ideation and attempts. Motor impulsivity \u2014 acting on the spur of the moment \u2014 showed the broadest associations across domains, linking to anxiety symptoms, past-month NSSI, and lifetime suicide attempt history. The study also found that past-month NSSI and lifetime suicide attempts were related but distinct, suggesting clinicians should ask about each separately rather than treating them as interchangeable.",
+      "why_it_matters": "Adolescent girls are significantly more likely than boys to engage in nonsuicidal self-injury, and identifying motor impulsivity as a key cross-domain risk factor could help clinicians better target early interventions in this high-risk group.",
+      "caveats": "observational design, single-center, cross-sectional design, no sex-disaggregated data, single-item measures for some constructs, study population based in China (generalizability to Western adolescents uncertain)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Adolescent mental health relevance; decent sample size; no sex-disaggregated data limits women's health applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Health.com",
+          "headline": "Doctors Are Asking Teens the Wrong Questions About Self-Harm Risk \u2014 New Research Points to a Specific Personality Trait That Matters More",
+          "hook": "A new study of over 500 depressed adolescents found that one specific type of impulsivity \u2014 acting before thinking \u2014 was more closely tied to self-harm and suicide risk than depression severity alone.",
+          "pitch_angle": "Researchers found that 'motor impulsivity' \u2014 the tendency to act on impulse in the moment \u2014 was the strongest cross-domain predictor of self-harm and suicidal behavior in depressed teens, and that past self-injury and past suicide attempts need to be assessed separately. For parents and clinicians caring for teen girls, who self-harm at higher rates than boys, this reframing of what to screen for could be meaningful."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43009099",
+      "headline": "People with first-episode psychosis and bipolar disorder both struggle to work harder for bigger rewards \u2014 even when stable",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1016/j.bpsc.2026.10.016",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers compared effort-cost decision-making in 44 people with first-episode psychosis, 46 with first-episode bipolar disorder, and 41 healthy controls using a validated reward task. Both patient groups were less likely to choose harder tasks for higher rewards as reward probability and magnitude increased, even when clinically stable. Motivational deficits appeared to reflect a shared transdiagnostic impairment, with more pronounced alterations in first-episode psychosis.",
+      "why_it_matters": "Since bipolar disorder disproportionately affects women, finding that motivational deficits emerge early and persist during clinical stability could inform how clinicians assess and support women in the early stages of the illness.",
+      "caveats": "small sample (N<100 per group), single-center, no sex-disaggregated data reported, Turkish clinical population may limit generalizability",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to mental health; no female-specific analysis and small groups limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Even When They Feel Stable, People With Bipolar Disorder Have Trouble Pushing Through for Rewards",
+          "hook": "New research found that motivational deficits in both bipolar disorder and psychosis appear in the earliest stages of illness \u2014 even when patients aren't in crisis.",
+          "pitch_angle": "A study comparing people newly diagnosed with bipolar disorder or psychosis to healthy peers found both groups struggled equally to put in extra effort for bigger payoffs, suggesting motivation problems are a core early feature of these conditions. Because bipolar disorder is more commonly diagnosed in women, understanding this under-recognized symptom could change how the illness is managed from the start."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43017290",
+      "headline": "Having anxiety alongside depression may not worsen antidepressant outcomes, contrary to long-held clinical belief",
+      "journal": "Depression and Anxiety",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1155/da/3138685",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a multicenter, single-blind study across five hospitals in Taiwan, enrolling 302 adults with major depressive disorder (MDD) treated with escitalopram or paroxetine over 8 weeks. Of those, 193 met criteria for anxious depression and 109 for nonanxious depression. Remission rates (40.4% vs. 43.1%) and response rates (62.2% vs. 56.9%) did not differ significantly between groups, suggesting anxious depression did not predict poorer antidepressant outcomes in this cohort.",
+      "why_it_matters": "Women are disproportionately diagnosed with both anxiety and depression, so findings that challenge the assumption that co-occurring anxiety worsens treatment response could inform how clinicians approach this common presentation.",
+      "caveats": "observational design, single-center region (Taiwan only \u2014 Asian outpatient population), short follow-up, no sex-disaggregated data, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive psych finding but no female-specific analysis and narrow regional population.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "Doctors Have Long Assumed Anxiety Makes Depression Harder to Treat \u2014 This Study Says Otherwise",
+          "hook": "A widely held clinical assumption \u2014 that depression mixed with anxiety is harder to treat \u2014 may not hold up.",
+          "pitch_angle": "A Taiwanese multicenter study found that patients with both anxiety and depression responded to antidepressants just as well as those with depression alone. For the many women managing both conditions, this challenges the expectation that their treatment road will necessarily be harder."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43025244",
+      "headline": "Stress doesn't strengthen all memories equally \u2014 only the surprising ones get the boost",
+      "journal": "Psychoneuroendocrinology",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1016/j.psyneuen.2026.108082",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers exposed 206 healthy participants to a standardized psychosocial stressor or a control condition, then tested memory for images that varied in how unexpected they were. Prior research assumed stress uniformly strengthens memory for nearby events, but this study found that stress selectively enhanced memory only for stimuli that triggered large prediction errors \u2014 i.e., genuinely surprising moments. The effect was most robust for information encoded after the stressful event, suggesting stress amplifies encoding and consolidation of the unexpected.",
+      "why_it_matters": "Understanding that stress locks in surprising memories more than routine ones may help explain why traumatic or emotionally charged unexpected events are so vividly and persistently recalled.",
+      "caveats": "no sex-disaggregated data reported, laboratory stressor may not reflect real-world stress, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting stress-memory finding; no female-specific analysis limits women's health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Why Your Brain Remembers the Shocking Parts of a Bad Day \u2014 But Not the Rest",
+          "hook": "New research suggests stress doesn't just sharpen your memory across the board \u2014 it specifically locks in the moments that caught you off guard.",
+          "pitch_angle": "A study of 206 people found that acute stress only enhanced memory for unexpected events, not routine ones, overturning the assumption that stress uniformly strengthens nearby memories. For anyone processing a stressful experience, this reframes why certain jarring details stick while others fade."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43010688",
+      "headline": "Tirzepatide and semaglutide appear equally effective at protecting the heart in obese adults with cardiovascular disease \u2014 but tirzepatide is newer and far less studied",
+      "journal": "Diabetes, Obesity & Metabolism",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1111/dom.71550",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used national U.S. insurance claims data (Komodo Health) to emulate a clinical trial comparing semaglutide and tirzepatide in adults with overweight or obesity and established atherosclerotic cardiovascular disease but no diabetes. The study found no statistically significant difference in major adverse cardiovascular events (MACE) between the two drugs (HR=1.21, 95% CI: 0.99\u20131.51). Results were consistent across sensitivity analyses, though the confidence interval slightly favored semaglutide and the study was not powered to establish equivalence.",
+      "why_it_matters": "As tirzepatide rapidly gains popularity among women using GLP-1 medications for weight loss, this early comparative evidence suggests its cardiovascular profile may be similar to the better-studied semaglutide \u2014 though the confidence interval leaves room for a real difference.",
+      "caveats": "observational design, no sex-disaggregated data, secondary analysis, short follow-up, claims-based outcomes",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Highly relevant GLP-1 drug comparison topic with strong women's wellness hook; no sex-disaggregated data and observational design limit strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health Magazine / Shape",
+          "headline": "Ozempic vs. Mounjaro for Heart Health: A New Study Says They May Be Equally Protective",
+          "hook": "A large real-world study found no significant difference in heart attack, stroke, or other serious cardiovascular events between people taking semaglutide (Ozempic/Wegovy) and tirzepatide (Mounjaro/Zepbound).",
+          "pitch_angle": "With millions of women now using GLP-1 medications, the question of which drug is better for the heart is urgent \u2014 and this target trial emulation suggests tirzepatide may hold its own against the more established semaglutide, though experts caution the evidence is still early."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Endocrinology & Metabolism",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43037389",
+      "headline": "Women in alcohol treatment are more likely to attend support groups than men \u2014 but racial gaps are widening",
+      "journal": "Journal of Studies on Alcohol and Drugs",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.15288/jsad.26-00104",
+      "groundbreaking": "Relevant women's health finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed treatment discharge records from nearly 2.8 million U.S. adults across 2015\u20132022 to examine racial and ethnic differences in weekly mutual-help group (e.g., AA) attendance during alcohol treatment. Latinx/Hispanic, Black, and American Indian/Alaska Native patients showed significantly lower adjusted odds of weekly attendance compared to White patients, while Asian/Pacific Islander patients showed higher odds; women overall had higher adjusted odds of weekly attendance than men across all settings. Weekly mutual-help group attendance also declined steeply over the study period across all groups.",
+      "why_it_matters": "Because mutual-help group attendance is linked to better treatment outcomes, the finding that women are more likely to attend \u2014 but that racial disparities persist across genders \u2014 points to a critical gap in equitable alcohol recovery support for women of color specifically.",
+      "caveats": "observational design, self-reported or administratively recorded attendance, secondary analysis of administrative data, no data on attendance quality or type of mutual-help group",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large U.S. cohort, sex-disaggregated data, clear women's health and equity hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Women Are More Likely to Show Up to Recovery Support Groups \u2014 But Race Still Shapes Who Gets Help",
+          "hook": "An analysis of nearly 2.8 million alcohol treatment records found women consistently attend mutual-help groups at higher rates than men \u2014 yet women of color face persistent barriers that the data can't fully explain.",
+          "pitch_angle": "The large U.S. study found that while women overall were more likely to attend weekly support groups during alcohol treatment, Latinx/Hispanic, Black, and American Indian/Alaska Native patients of all genders were significantly less likely to attend than White patients. The findings raise urgent questions about whether mainstream recovery culture and mutual-help models are designed with women of color in mind."
+        },
+        {
+          "publication_type": "Prevention",
+          "headline": "Nearly 3 Million Treatment Records Reveal Who's Really Going to AA \u2014 and Who Isn't",
+          "hook": "A sweeping new study found that women in alcohol treatment are more likely to attend support groups than men, but deep racial and ethnic gaps mean many women are still missing out on one of recovery's most effective tools.",
+          "pitch_angle": "Using federal treatment data from 2015 to 2022, researchers found that Latinx/Hispanic, Black, and Native American patients were significantly less likely to attend mutual-help meetings weekly \u2014 a gap that matters because group attendance is linked to better recovery outcomes. The findings suggest that culturally tailored approaches to group facilitation could make a meaningful difference for women in underserved communities."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "43001460",
+      "headline": "Fancy new creatine formula works no better than the cheap classic \u2014 but women were finally included in the test",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "pubdate": "2026 Dec 31",
+      "doi": "10.1080/15502783.2026.2745618",
+      "groundbreaking": "Relevant women's health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers compared a novel creatine monohydrate formulation (OptiCreatine) to standard creatine monohydrate in 17 healthy, recreationally active adults (age ~22; 9 female, 8 male) using a randomized, double-blind, crossover design. Participants took a single 5g dose and had blood drawn at eight time points over five hours. The two formulations produced identical blood creatine levels, absorption rates, and GI tolerability \u2014 with no sex-by-treatment interactions detected.",
+      "why_it_matters": "For women interested in creatine supplementation, this suggests the standard, widely available form works just as well as pricier novel options \u2014 and notably, female-specific results were reported separately.",
+      "caveats": "small sample (N<100), short follow-up, single-dose acute design only, industry funding [Create, NeoLife \u2014 senior author discloses advisory role]",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Women included with sex-disaggregated data; small sample and industry conflict limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Shape",
+          "headline": "You Probably Don't Need That Expensive New Creatine Formula \u2014 Here's What the Research Actually Says",
+          "hook": "A head-to-head study found a trendy new creatine formulation performed no better than basic creatine monohydrate \u2014 and for once, women's data was reported separately.",
+          "pitch_angle": "As creatine surges in popularity among women for muscle, brain, and energy benefits, supplement companies are selling 'upgraded' versions at premium prices. This small but carefully designed study suggests the classic, affordable form works just as well \u2014 a rare finding that includes female-specific pharmacokinetic data."
+        }
+      ],
+      "run_date": "2026-11-16",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -151,60 +1078,6 @@
       "status": "new"
     },
     {
-      "pmid": "43033913",
-      "headline": "The 'obesity paradox' in cancer survival may be a measurement problem, not a real effect",
-      "journal": "Clinical Nutrition ESPEN",
-      "pubdate": "2026 Nov 14",
-      "doi": "10.1016/j.clnesp.2026.105249",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a scoping review of 47 studies examining whether body composition explains why obesity sometimes appears linked to better cancer survival. Across studies, improved survival was associated with higher BMI and increased adipose tissue, but only 49% of studies that measured skeletal muscle actually adjusted for it in their analyses. The review found that methodological gaps \u2014 particularly the failure to account for muscle mass \u2014 make it impossible to draw firm conclusions about whether fat tissue itself is protective.",
-      "why_it_matters": "For women with cancer, this suggests that BMI-based survival statistics may be misleading and that muscle mass \u2014 not fat \u2014 could be the more important factor to monitor.",
-      "caveats": "observational design, secondary analysis, no sex-disaggregated data, single country (Australia-led but multinational literature)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant cancer-nutrition finding but no female-specific analysis and no primary data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "Why the 'Obesity Protects Against Cancer' Headline Keeps Getting It Wrong",
-          "hook": "Studies suggesting heavier people survive cancer better may be flawed \u2014 and the real answer could be muscle.",
-          "pitch_angle": "A new review of 47 studies found that most failed to account for muscle mass when reporting that higher body fat was linked to better cancer survival, casting doubt on the so-called obesity paradox. For women navigating cancer treatment, the findings suggest that body composition \u2014 not just weight \u2014 deserves far more attention from their care teams."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43033759",
-      "headline": "A simple blood test ratio after the first chemo cycle could predict which women with a rare pregnancy-related cancer will stop responding to treatment",
-      "journal": "Gynecologic Oncology",
-      "pubdate": "2026 Nov 14",
-      "doi": "10.1016/j.ygyno.2026.11.006",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers retrospectively analyzed 299 patients with low-risk gestational trophoblastic neoplasia (GTN) \u2014 a rare cancer that can follow pregnancy \u2014 to test whether the ratio of \u03b2-hCG levels before cycle 2 versus cycle 1 of chemotherapy could predict drug resistance. A C2/C1 \u03b2-hCG ratio above 0.38 identified poor responders with strong discriminatory accuracy (AUC 0.867 in development, 0.844 in validation cohort), and patients who crossed this threshold had chemoresistance rates of roughly 44% compared with about 9% in favorable responders. The finding suggests early \u03b2-hCG dynamics could flag women who need more aggressive treatment before resistance becomes entrenched.",
-      "why_it_matters": "For women diagnosed with this rare but treatable pregnancy-related cancer, an early signal from a routine blood marker could help oncologists escalate therapy sooner and avoid prolonged ineffective treatment.",
-      "caveats": "observational design, single-center, retrospective, requires prospective multicenter validation",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Women-specific cancer, clean predictive model, human data; retrospective single-center limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / Prevention",
-          "headline": "A Routine Blood Test After the First Round of Chemo Could Predict Treatment Failure in a Rare Pregnancy-Related Cancer",
-          "hook": "Researchers found that tracking a pregnancy hormone's rate of decline after just one chemotherapy cycle could identify \u2014 with striking accuracy \u2014 which women are unlikely to respond to standard treatment for a rare cancer that develops after pregnancy.",
-          "pitch_angle": "In a study of 299 women with gestational trophoblastic neoplasia, those whose \u03b2-hCG levels didn't drop fast enough after cycle one had a roughly fivefold higher rate of drug resistance. If validated, this early-warning ratio could spare women weeks of ineffective chemotherapy and prompt faster escalation to more effective regimens."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "43034093",
       "headline": "Doctors in abortion-ban states say they're burning out, leaving, and watching labor units close \u2014 and it's already reshaping women's access to care",
       "journal": "Women's Health Issues",
@@ -230,228 +1103,6 @@
           "headline": "If You Live in a State With an Abortion Ban, Finding an OB-GYN Is About to Get Harder",
           "hook": "New research documents a wave of physician departures and labor unit closures in states with strict abortion laws \u2014 with consequences for all pregnant women, not just those seeking abortions.",
           "pitch_angle": "Physicians across emergency medicine, obstetrics, oncology, and fertility medicine in Alabama, Idaho, Oklahoma, and Tennessee report impossible liability pressures, ethical distress, and colleagues heading for the exit. For readers in these states, the study suggests that access to routine pregnancy and reproductive care \u2014 not just abortion \u2014 is already narrowing."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Womens Health & Reproduction",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43023844",
-      "headline": "Nearly half of rare endocrine tumor patients wait over a year for a diagnosis \u2014 and many never get clear information",
-      "journal": "Endocrine Connections",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1530/EC-26-0563",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "An online survey of 133 European patients with Multiple Endocrine Neoplasia (MEN) \u2014 a rare hereditary syndrome causing tumors across multiple hormone-producing glands \u2014 examined diagnostic timelines, information quality, and care access. Nearly half (48.9%) waited more than 12 months from first symptoms to diagnosis, and over a quarter waited more than five years; only 42.1% rated disease information as good or excellent. Patients with the longest delays reported the worst physical health outcomes and prioritized early diagnosis and research above all other needs.",
-      "why_it_matters": "MEN syndromes disproportionately affect women through pituitary and parathyroid tumors, and these findings highlight how diagnostic delays compound long-term health outcomes in a population already navigating a complex, multisystem condition.",
-      "caveats": "small sample (N<100 per subgroup), observational design, self-reported outcomes, single-region (European), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Rare endocrine condition with women's relevance, but small sample and no sex-disaggregated data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "This Rare Hormonal Cancer Syndrome Takes Years to Diagnose \u2014 Patients Are Suffering in the Gap",
-          "hook": "More than a quarter of people with a hereditary endocrine tumor syndrome waited over five years for a correct diagnosis \u2014 and their health reflected it.",
-          "pitch_angle": "A European patient survey found that people with Multiple Endocrine Neoplasia faced major gaps in diagnostic speed and information quality, often turning to advocacy groups instead of doctors for answers. For women, who are frequently dismissed during symptom evaluation, the findings underscore how rare hormonal conditions can go unrecognized for years."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43019559",
-      "headline": "An antidepressant called vortioxetine may cause teeth-grinding \u2014 and this is the first reported case",
-      "journal": "Journal of Clinical Psychopharmacology",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1097/JCP.0000000000002293",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Clinicians at a Florida hospital reported a probable case of bruxism (involuntary teeth-grinding) associated with use of vortioxetine, a newer antidepressant, describing it as the first published report of this side effect for this drug. No abstract text beyond the title and authorship was available to confirm clinical details, participant characteristics, or resolution of symptoms. The case report was published as a brief communication in the Journal of Clinical Psychopharmacology.",
-      "why_it_matters": "Women are prescribed antidepressants at higher rates than men, so awareness of an emerging side effect \u2014 jaw pain and dental damage from bruxism \u2014 associated with a commonly used newer antidepressant is clinically relevant for women managing depression.",
-      "caveats": "small sample (N<100), single-center, observational design, abstract unavailable \u2014 clinical details unverifiable",
-      "fact_check_note": "Full abstract was not available; summary is based solely on title, authorship, and journal metadata. Clinical claims cannot be verified against abstract text.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Single case report; limited verifiable data; antidepressant side-effect angle has women's health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Allure",
-          "headline": "Could Your Antidepressant Be Causing You to Grind Your Teeth at Night?",
-          "hook": "Doctors are flagging a possible new side effect of vortioxetine \u2014 jaw-clenching bruxism \u2014 in what may be the first reported case tied to this popular antidepressant.",
-          "pitch_angle": "A case report from a Florida hospital suggests the antidepressant vortioxetine may cause bruxism, a condition that can damage teeth and disrupt sleep \u2014 a finding worth knowing for the millions of women who take antidepressants, since this side effect has not previously been linked to this drug."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43025468",
-      "headline": "First-trimester gestational diabetes prediction scores aren't ready to replace standard testing \u2014 here's what the evidence actually shows",
-      "journal": "Diabetes Research and Clinical Practice",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1016/j.diabres.2026.113667",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a critical narrative review of published evidence on first-trimester prediction models for gestational diabetes mellitus (GDM), examining whether early risk scores improve clinical decisions or simply predict a later abnormal glucose test. Despite growing enthusiasm for early GDM prediction tools, the review found that transportability, calibration, and demonstrable clinical benefit are not consistently established \u2014 and a trial of nutrition support in 519 model-selected women failed to significantly reduce GDM rates. The authors conclude that first-trimester prediction scores should not replace standard diagnostic testing until direct trials measuring maternal and neonatal outcomes are completed.",
-      "why_it_matters": "For pregnant women and their providers, this finding suggests that widely promoted early GDM prediction tools may not yet translate into better pregnancy outcomes \u2014 an important check on clinical enthusiasm for these approaches.",
-      "caveats": "observational design, non-systematic review, selection limitations reported by authors, no original primary data",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Reproductive health, counterintuitive finding, directly relevant to saved pitch on GDM prediction; review design limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "Early Pregnancy Tests That Predict Gestational Diabetes Sound Promising \u2014 But Experts Say They're Not Ready Yet",
-          "hook": "Despite the buzz around first-trimester gestational diabetes prediction tools, a new critical review finds the evidence for acting on those scores is still too thin.",
-          "pitch_angle": "A rigorous review found that early GDM risk scores don't consistently improve pregnancy outcomes \u2014 and one nutrition trial in over 500 model-selected women failed to reduce GDM rates at all. For pregnant women being offered early screening tools, the message is clear: standard glucose testing still can't be replaced, and the promise of prediction hasn't caught up with the science."
-        },
-        {
-          "publication_type": "Prevention",
-          "headline": "Your OB Might Soon Predict Gestational Diabetes in the First Trimester \u2014 But Should They?",
-          "hook": "New analysis suggests that early gestational diabetes prediction models are ahead of the evidence needed to act on them safely.",
-          "pitch_angle": "While first-trimester GDM risk scores are gaining traction, a critical review found that most haven't been validated across diverse populations and that acting on them \u2014 including targeted nutrition support \u2014 hasn't yet been shown to reduce GDM. For women trying to manage pregnancy health proactively, this study is a reminder that earlier isn't always better without proven follow-through."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43031428",
-      "headline": "Nitrate in vegetables may actually be good for you \u2014 even as regulators warn about it in water",
-      "journal": "Critical Reviews in Food Science and Nutrition",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1080/10408398.2026.2749335",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at institutions including the University of Plymouth and Karolinska Institute conducted a comprehensive narrative review examining dietary nitrate across environmental, agricultural, nutritional, and physiological dimensions. The review synthesizes evidence showing that while industrial nitrogen use has raised legitimate concerns about nitrate accumulation in drinking water and processed foods, dietary nitrate from vegetables appears to convert to beneficial nitric oxide in the body and may exert prebiotic effects. The authors propose a new integrated regulatory framework that distinguishes between harmful nitrate sources (contaminated water, processed meats) and health-promoting ones (vegetables), resolving what they call the 'nitrate paradox.'",
-      "why_it_matters": "Women who eat nitrate-rich vegetables like spinach, arugula, and beets for cardiovascular and exercise benefits can be reassured that the nitrate in those foods appears physiologically distinct from the nitrate in contaminated water or processed meats.",
-      "caveats": "observational design, review study (not primary data), no sex-disaggregated data",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive nutrition finding with wellness hook; review design and no female-specific data limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "The Nitrate in Your Salad Is Not the Same as the Nitrate in Processed Meat \u2014 Here's Why That Matters",
-          "hook": "Regulators have long warned about nitrate as a health hazard, but a sweeping new review suggests the nitrate in vegetables like beets, spinach, and arugula may actually be good for your heart and gut.",
-          "pitch_angle": "Scientists are calling it the 'nitrate paradox': the same compound flagged as dangerous in drinking water and processed foods appears to convert into beneficial nitric oxide when it comes from vegetables. The review suggests current blanket warnings about nitrate may be misleading health-conscious eaters into avoiding foods that could benefit them."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43024973",
-      "headline": "Childhood sexual abuse predicts metabolic syndrome in first-episode psychosis \u2014 and cannabis use showed the opposite effect",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1016/j.schres.2026.11.004",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tracked 456 adults with first-episode psychosis (66% male, mean age ~31) in Spain over two years, measuring metabolic syndrome every six months. Metabolic syndrome prevalence nearly tripled from 7.4% at baseline to 17.1% at 24 months. History of childhood sexual abuse, heavy smoking, older age, and male sex were associated with higher odds of metabolic syndrome, while cannabis use was unexpectedly associated with lower odds.",
-      "why_it_matters": "Because women with psychosis are disproportionately more likely to have experienced childhood sexual abuse, this finding suggests trauma history may be a clinically important \u2014 and underrecognized \u2014 metabolic risk factor in this population.",
-      "caveats": "observational design, single-center, majority-male sample (66% male), no sex-disaggregated data, Spain-specific cohort",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant trauma and women's mental health angle; majority-male sample limits women-specific conclusions.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "A History of Childhood Sexual Abuse May Raise Metabolic Risk in People with Psychosis",
-          "hook": "A two-year study found that trauma history was one of the strongest predictors of developing metabolic syndrome in people experiencing their first psychotic episode.",
-          "pitch_angle": "New longitudinal research suggests childhood sexual abuse \u2014 which affects women at higher rates \u2014 is associated with worsening metabolic health in psychosis, spotlighting why trauma-informed care may need to include physical health monitoring alongside mental health treatment."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43025662",
-      "headline": "ECT for depression doesn't have to come last \u2014 a new review challenges the 'try everything else first' rule",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1016/j.jad.2026.122744",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a focused narrative review of 17 reports covering an estimated 13 cohorts to examine whether using electroconvulsive therapy (ECT) earlier \u2014 rather than after multiple failed medication trials \u2014 improves outcomes in people experiencing their first lifetime major depressive episode. Direct first-episode evidence was limited to small, uncontrolled, often neuroimaging-centered studies, with one small randomized trial that did not report first-episode outcomes separately. The review concluded that while ECT should not be routine first-line treatment, first-episode status alone should not automatically delay ECT when severe suicidality, psychosis, catatonia, or medical deterioration is present.",
-      "why_it_matters": "Women are diagnosed with major depression at roughly twice the rate of men, making treatment-sequencing decisions in severe depression a highly relevant women's health issue.",
-      "caveats": "narrative review, no sex-disaggregated data, industry funding [LivaNova, Johnson & Johnson, Neumora Therapeutics, Alto Neuroscience, COMPASS Pathways], evidence base dominated by small uncontrolled studies, short follow-up in underlying studies",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Clinically important depression treatment angle; narrative review limits strength; no female-specific data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "Should Doctors Consider ECT Much Earlier for Severe Depression? A New Review Says Maybe",
-          "hook": "A new analysis challenges the standard practice of making severely depressed patients exhaust multiple medication options before they're offered electroconvulsive therapy.",
-          "pitch_angle": "Researchers found that existing guidelines already recognize ECT as an early option for the most severe cases, but clinical culture often delays it unnecessarily \u2014 a finding with real stakes for the millions of women living with severe depression."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43026434",
-      "headline": "LGBTQ+ people with physical disabilities are reframing kink as a tool for bodily agency \u2014 and their own social media posts tell the story",
-      "journal": "Archives of Sexual Behavior",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1007/s10508-026-03555-6",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed 83 publicly available TikTok and X (formerly Twitter) posts drawn from a larger dataset of 878, using qualitative content analysis to explore how LGBTQ+ individuals with physical disabilities describe their sexual experiences. Three themes emerged: structural barriers limiting sexual access (ableism, chronic pain), adaptive sexual practices using tools and communication, and negotiated embodiment in which pain and pleasure were actively managed. Notably, participants described kink as a form of controlled sensation that provided a sense of agency not available elsewhere in their lives.",
-      "why_it_matters": "For disabled LGBTQ+ women, whose sexuality is often framed through deficit or risk in clinical and media contexts, findings suggesting they actively construct pleasurable and agentic sexual lives offer a meaningfully different \u2014 and underreported \u2014 perspective.",
-      "caveats": "small sample (N<100), observational design, self-reported outcomes, no sex-disaggregated data, social media data may not be representative",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Qualitative sexual health finding; small social media sample; no sex-disaggregated data limits women's health specificity.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "Disabled LGBTQ+ People Are Using Kink to Reclaim Control Over Their Own Bodies",
-          "hook": "New research finds that LGBTQ+ people with physical disabilities describe kink not as taboo but as one of the few spaces where they feel genuine bodily agency.",
-          "pitch_angle": "A qualitative study of social media posts found that disabled LGBTQ+ individuals are actively adapting their sexual lives \u2014 using tools, communication, and chosen sensation \u2014 in ways that push back against medical narratives that treat their sexuality as a problem to manage rather than a pleasure to support."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43025247",
-      "headline": "An Aboriginal women-led perinatal program cut child protection system involvement by supporting pregnant women on their own terms",
-      "journal": "Women and Birth: Journal of the Australian College of Midwives",
-      "pubdate": "2026 Nov 13",
-      "doi": "10.1016/j.wombi.2026.102431",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used community-based participatory action research \u2014 including a yarning circle with six midwives and specialist perinatal workers \u2014 to describe the model of care at Waminda, an Aboriginal women-led community-controlled health organization in New South Wales, Australia. The study focused on how Waminda supports First Nations women who report multiple life stressors during pregnancy, aiming to reduce child protection system involvement. The model integrates continuity of midwifery care, culturally grounded wraparound support, and community governance that resists systemic coercion.",
-      "why_it_matters": "This model offers a rare documented example of decolonized, community-controlled perinatal care that actively works to keep Indigenous families together rather than funneling them into child protection systems.",
-      "caveats": "small sample (N<100), qualitative design, single-center, Australia-specific Indigenous context",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Perinatal women's health; qualitative/small sample; Australia-specific Indigenous context limits US pitch generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / The Cut",
-          "headline": "This Indigenous-Led Pregnancy Program Is Rewriting What 'Support' Looks Like for Pregnant Women",
-          "hook": "Instead of surveilling pregnant women who are struggling, one Aboriginal women-led organization wraps them in culturally grounded care \u2014 and aims to keep families together.",
-          "pitch_angle": "Waminda's community-controlled model challenges the dominant healthcare approach of escalating oversight for at-risk pregnant women, replacing it with continuous midwifery care and Indigenous cultural practices. For readers interested in reproductive justice and health equity, this qualitative study documents what it looks like to build perinatal care around trust rather than compliance."
         }
       ],
       "run_date": "2026-11-15",
@@ -514,120 +1165,6 @@
       "status": "new"
     },
     {
-      "pmid": "43018233",
-      "headline": "A new slow-release birth control pill delivers hormones more steadily \u2014 and may mean fewer breakthrough bleeding days",
-      "journal": "Expert Opinion on Drug Metabolism & Toxicology",
-      "pubdate": "2026 Nov 12",
-      "doi": "10.1080/17425255.2026.2764080",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a structured literature review of a novel prolonged-release combined oral contraceptive containing dienogest 2 mg and ethinylestradiol 0.02 mg, examining how its pharmacokinetic profile differs from standard immediate-release pills and what that means clinically. Compared to immediate-release formulations, the slow-release version produces lower peak hormone levels and reduced hormonal fluctuations throughout the day while maintaining comparable overall hormone exposure and contraceptive efficacy. Early clinical evidence suggests improved bleeding control and antiandrogenic effects that may benefit acne and hirsutism, though thromboembolic risk and long-term safety data remain uncertain.",
-      "why_it_matters": "More stable hormonal delivery could offer women \u2014 particularly those with PCOS-related acne or hirsutism \u2014 a contraceptive option with fewer hormonal peaks and potentially better tolerability, though long-term safety comparisons are still needed.",
-      "caveats": "secondary analysis, observational design, short follow-up, no head-to-head RCT data, thromboembolic risk uncharacterized",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Contraception + PCOS relevance, novel formulation, clear women's wellness hook; review limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Women's Health Magazine",
-          "headline": "Could a Slow-Release Birth Control Pill Finally Fix Your Hormonal Rollercoaster?",
-          "hook": "A new pill formulation delivers contraceptive hormones more gradually \u2014 and early evidence suggests fewer bleeding surprises and clearer skin.",
-          "pitch_angle": "A new extended-release version of the pill keeps hormone levels steadier throughout the day than standard formulations, with early data showing improved bleeding control and acne benefits \u2014 especially relevant for women with PCOS. It's not widely available yet, and long-term safety data are still coming, but it signals a new direction in personalized contraception."
-        },
-        {
-          "publication_type": "Allure",
-          "headline": "Your Birth Control Pill Might Be Causing Hormone Spikes \u2014 A New Formula Is Designed to Change That",
-          "hook": "A slow-release version of the combined pill flattens out the hormonal peaks that may contribute to acne and irregular bleeding.",
-          "pitch_angle": "A new prolonged-release contraceptive pill delivers dienogest and ethinylestradiol more gradually, reducing intra-day hormone swings that standard pills produce \u2014 with early signs of better skin and bleeding outcomes. For women who've struggled with acne or spotting on the pill, the research suggests delivery method, not just hormone type, matters."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43020950",
-      "headline": "Ultra-rare bone disease strikes a 35-year-old woman \u2014 and denosumab boosted her spinal density by 17% in six months",
-      "journal": "Osteoporosis International",
-      "pubdate": "2026 Nov 12",
-      "doi": "10.1007/s00198-026-08299-6",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers described two Chinese patients with Juvenile Paget's disease (JPD), an ultra-rare genetic bone disorder caused by loss-of-function variants in TNFRSF11B \u2014 a 3-year-old boy and a 35-year-old woman (N=2). The woman presented with progressive skeletal deformity, scoliosis, profound hearing loss, and low lumbar bone mineral density. Treatment with denosumab suppressed bone turnover markers, reduced pain, improved mobility, and increased lumbar spine BMD by 17.5% at six months.",
-      "why_it_matters": "This case suggests denosumab may be an effective option for adult women with this rare but severely disabling bone disease, expanding understanding of how the condition presents across the lifespan.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Rare condition, tiny N; bone health and denosumab angle has women's health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Good Housekeeping",
-          "headline": "A Rare Bone Disease Was Destroying Her Skeleton \u2014 Then One Drug Changed Everything",
-          "hook": "A 35-year-old woman with an ultra-rare genetic bone disorder saw her spinal density jump 17% in just six months on a drug already used for osteoporosis.",
-          "pitch_angle": "Juvenile Paget's disease is so rare most doctors never see it, but this case shows it can reach adulthood in women \u2014 and that a bone-loss drug more commonly prescribed for menopause-related osteoporosis may offer meaningful relief."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Endocrinology & Metabolism",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43013874",
-      "headline": "Wealthier Australian women are far more likely to get the most accurate prenatal genetic test \u2014 even when all hospitals offer it",
-      "journal": "Prenatal Diagnosis",
-      "pubdate": "2026 Nov 11",
-      "doi": "10.1002/pd.70303",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective multicentre study of 102,729 women who gave birth at \u226520 weeks across 11 public hospitals in Melbourne, Australia from 2022\u20132024, examining uptake of prenatal aneuploidy screening by sociodemographic characteristics. Among the 66,343 women who had screening, non-invasive prenatal testing (NIPT) was the dominant modality (80.6%), but uptake ranged from 75.3% in the most disadvantaged areas to 88.9% in the most advantaged \u2014 a gap that persisted after statistical adjustment. Women who declined screening altogether were more likely to be younger, multiparous, or migrants from specific regions.",
-      "why_it_matters": "Even in a publicly funded healthcare system, economic and demographic factors shape which pregnant women access the most accurate chromosomal screening \u2014 a disparity with real consequences for prenatal decision-making.",
-      "caveats": "observational design, single-center, self-reported outcomes",
-      "fact_check_note": "Study is multicentre (11 hospitals), not single-center \u2014 caveat corrected: observational design, retrospective, Australian population (findings may not generalize to other health systems).",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large cohort (N>100k), reproductive health, clear equity hook for pregnant women.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / Well+Good",
-          "headline": "Your Zip Code May Determine Whether You Get the Best Prenatal Genetic Test",
-          "hook": "A study of more than 100,000 pregnancies found that women in wealthier neighborhoods were significantly more likely to receive the most accurate chromosomal screening \u2014 even at public hospitals.",
-          "pitch_angle": "Australian researchers found a 13-percentage-point gap in NIPT uptake between the most and least advantaged areas, suggesting that cost and social factors shape access to gold-standard prenatal testing even in countries with universal health coverage. For pregnant women navigating screening options, this research highlights why asking your provider about all available options matters."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43033579",
-      "headline": "A tiny RNA molecule may hold a key to why some placentas fail \u2014 and preeclampsia develops",
-      "journal": "Placenta",
-      "pubdate": "2026 Nov 11",
-      "doi": "10.1016/j.placenta.2026.11.006",
-      "groundbreaking": "First-in-class human study / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at Yale used a human first-trimester trophoblast cell line (Sw.71) to study how a microRNA called Let-7b-5p \u2014 which is reduced in preeclampsia \u2014 normally regulates placental cell behavior. They found that Let-7b-5p promotes trophoblast migration and healthy endothelial interactions via two immune receptors (TLR7 and TLR8), while also suppressing sFlt-1, an anti-angiogenic protein elevated in preeclampsia. When Let-7b-5p was blocked, cells behaved in ways that mirror the dysfunctional placental phenotype seen in preeclampsia.",
-      "why_it_matters": "Understanding how this microRNA pathway shapes early placental development could eventually point toward new ways to identify women at risk for preeclampsia before symptoms appear.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Reproductive health topic but cell-line only; no human subjects data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Health.com",
-          "headline": "Scientists Found a Tiny RNA That May Help Explain Why Preeclampsia Happens",
-          "hook": "A microRNA that goes missing in preeclamptic placentas appears to be a key regulator of healthy placental development \u2014 and its absence may trigger a dangerous cascade.",
-          "pitch_angle": "Yale lab research suggests that a molecule called Let-7b-5p acts as a kind of placental traffic controller, keeping cells migrating properly and blood-vessel growth on track. When it disappears \u2014 as it does in preeclampsia \u2014 the system breaks down, offering a potential early-warning target for a condition that still has no reliable prevention."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Womens Health & Reproduction",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "43025389",
       "headline": "Twelve weeks of acupuncture measurably improved memory and brain activity in older adults with early cognitive decline",
       "journal": "Complementary Therapies in Clinical Practice",
@@ -655,114 +1192,6 @@
       "status": "new"
     },
     {
-      "pmid": "43010641",
-      "headline": "New dads think of breastfeeding support as a 'shared journey' \u2014 and that mindset may help moms nurse longer",
-      "journal": "Breastfeeding Medicine",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1177/15568253261505338",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used metaphor analysis to explore how 94 first-time fathers in Turkey conceptualized their role in breastfeeding support, collecting written responses from fathers of exclusively or partially breastfed infants aged 0\u20132 months. Fathers generated 57 distinct metaphors organized into four themes: holistic support, the breastfeeding journey, bonding, and emotional engagement. Findings suggest that fathers who actively engage in breastfeeding support see it as a collaborative, goal-oriented endeavor \u2014 a framing associated with stronger parenting identity and potentially longer breastfeeding duration.",
-      "why_it_matters": "Understanding how fathers emotionally frame breastfeeding support could help postpartum care providers design more effective family-centered interventions that improve breastfeeding outcomes for new mothers.",
-      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, single country (Turkey \u2014 findings may not generalize across cultures)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Postpartum/breastfeeding topic fits; qualitative design and small Turkish sample limit generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "Parents / Good Housekeeping",
-          "headline": "What New Dads Actually Think About Breastfeeding Support \u2014 And Why It Matters for Moms",
-          "hook": "First-time fathers describe supporting breastfeeding like being a 'shade tree' or sharing a 'goal' \u2014 and that emotional investment may be key to helping moms nurse longer.",
-          "pitch_angle": "A new qualitative study found that fathers who see breastfeeding support as a shared journey \u2014 not a mom-only task \u2014 develop a stronger parenting identity. For new mothers struggling to maintain breastfeeding, having a partner who's genuinely emotionally engaged may make a real difference."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43009067",
-      "headline": "In teens with untreated depression, 'motor impulsivity' \u2014 not emotional impulsivity \u2014 is the trait most linked to self-harm and suicide risk",
-      "journal": "Journal of Affective Disorders",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1016/j.jad.2026.122725",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a mixed graphical model to map conditional associations among impulsivity dimensions, self-harm, and suicide-related indicators in 518 adolescents with first-episode, treatment-naive depression at a single clinic in Chongqing, China. Among three impulsivity subtypes measured by the Barratt Impulsiveness Scale, motor impulsivity \u2014 acting without thinking in the moment \u2014 showed the broadest cross-domain links, associating with both past-month nonsuicidal self-injury and lifetime suicide attempt history. Past-month self-injury and lifetime suicide attempts were related but statistically distinct constructs, suggesting clinicians should assess them separately.",
-      "why_it_matters": "Understanding which specific impulsivity trait drives self-harm risk in depressed adolescents \u2014 a population that includes a disproportionate share of teenage girls \u2014 could help clinicians identify who needs more urgent intervention sooner.",
-      "caveats": "observational design, single-center, no sex-disaggregated data, short follow-up, single-item measures for some constructs",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Adolescent mental health relevance, but no sex-disaggregated data and single-center Chinese sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "The Type of Impulsivity Most Linked to Teen Self-Harm Isn't What Experts Expected",
-          "hook": "It's not emotional reactivity but acting-without-thinking impulsivity that most strongly connects to self-harm and suicide risk in depressed teens, a new study finds.",
-          "pitch_angle": "A network analysis of 518 treatment-naive depressed adolescents found that motor impulsivity \u2014 the tendency to act before thinking \u2014 had broader links to self-harm and suicide attempts than emotional or non-planning impulsivity, challenging assumptions about which teens are highest-risk and what to screen for first."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43009099",
-      "headline": "People with first-episode psychosis and bipolar disorder both struggle to work for rewards \u2014 even when stable",
-      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1016/j.bpsc.2026.10.016",
-      "groundbreaking": "Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Turkey compared effort-based decision-making in 44 people with first-episode psychosis, 46 with first-episode bipolar disorder, and 41 healthy controls using a validated task requiring participants to choose between easy and hard tasks for varying rewards. Both patient groups were less likely to choose harder tasks for greater rewards compared to controls, with more pronounced deficits in the psychosis group. These motivational impairments were present even when patients were clinically stable, suggesting a shared early-stage mechanism across the two disorders.",
-      "why_it_matters": "Since bipolar disorder disproportionately affects women and often goes unrecognized in its early stages, evidence of measurable motivational deficits at first episode \u2014 even during stability \u2014 could inform earlier identification and support.",
-      "caveats": "small sample (N<100 per group), single-center, observational design, no sex-disaggregated data, narrow regional population (Turkey)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Relevant psychiatric condition; small samples, no sex-disaggregated data, single-center limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com",
-          "headline": "Even When Bipolar Disorder Is Under Control, the Brain's Motivation System May Still Be Struggling",
-          "hook": "New research finds that motivational deficits in bipolar disorder appear from the very first episode \u2014 and persist even when symptoms are stable.",
-          "pitch_angle": "A study comparing people with first-episode bipolar disorder and psychosis found both groups were less likely to put in effort for rewards, even when clinically stable. For the many women living with bipolar disorder, this suggests motivation challenges aren't just mood-related \u2014 they may reflect something deeper in how the brain processes effort and reward."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43017290",
-      "headline": "Having anxiety alongside depression may not actually make antidepressants less likely to work, a multicenter study suggests",
-      "journal": "Depression and Anxiety",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1155/da/3138685",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a multicenter, single-blind study across five hospitals in Taiwan, 302 adults with major depressive disorder (mean age not specified; 193 classified as having anxious depression) were treated with escitalopram or paroxetine for 8 weeks. Contrary to prior research suggesting anxious depression predicts worse outcomes, remission rates (40.4% vs. 43.1%) and response rates (62.2% vs. 56.9%) did not differ significantly between anxious and nonanxious depression groups. The anxious depression group showed a slightly greater absolute reduction in depression scores, though proportional change did not differ.",
-      "why_it_matters": "Because women are diagnosed with both depression and anxiety disorders at higher rates than men, findings suggesting that co-occurring anxiety may not meaningfully blunt antidepressant response could shift clinical expectations and reduce therapeutic nihilism in treating this common presentation.",
-      "caveats": "observational design, no sex-disaggregated data, single-blind design, older data (collected 2006\u20132009), Taiwan-specific population may limit generalizability, relatively small sample for subgroup analysis",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive finding overturning prior belief; human sample N\u2265100; no sex-disaggregated data; older dataset.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Health.com",
-          "headline": "If You Have Anxiety and Depression, Antidepressants May Work Just as Well for You",
-          "hook": "Long-held clinical wisdom said anxiety makes depression harder to treat \u2014 but a new multicenter study found remission rates were virtually identical whether or not patients had anxious depression.",
-          "pitch_angle": "A study of 302 adults found that having anxiety alongside depression did not significantly reduce how well escitalopram or paroxetine worked, challenging the common assumption that 'anxious depression' is a harder-to-treat subtype and potentially offering reassurance to the many women managing both conditions simultaneously."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "43023517",
       "headline": "AI tools are transforming diabetes care \u2014 but most aren't ready for real-world patients yet",
       "journal": "Current Diabetes Reviews",
@@ -786,33 +1215,6 @@
       ],
       "run_date": "2026-11-15",
       "category": "Endocrinology & Metabolism",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43025244",
-      "headline": "Stress doesn't strengthen all memories equally \u2014 only the ones that surprised you",
-      "journal": "Psychoneuroendocrinology",
-      "pubdate": "2026 Nov 10",
-      "doi": "10.1016/j.psyneuen.2026.108082",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers exposed 206 healthy adults to a standardized psychosocial stressor or a control condition and tested memory for images that varied in how unexpected they were. The key finding: acute stress enhanced memory specifically for images that violated expectations (high prediction error), not for all nearby information as previously assumed. The effect was most robust for information encoded after the stressor, suggesting stress selectively amplifies surprising memories rather than uniformly boosting everything experienced around a stressful event.",
-      "why_it_matters": "Understanding that stress sharpens memory for surprising events \u2014 not all events \u2014 has implications for how women process and retain distressing or traumatic experiences in everyday life.",
-      "caveats": "no sex-disaggregated data, observational design, single-center, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Interesting stress-memory finding; no female-specific analysis limits women's health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Why Your Brain Remembers the Most Shocking Parts of a Stressful Day \u2014 and Forgets the Rest",
-          "hook": "New research suggests stress doesn't lock in every memory from a bad day \u2014 only the ones that caught you off guard.",
-          "pitch_angle": "A study of 206 adults found that stress selectively strengthens memory for unexpected events, not everything experienced around a stressful moment. This reframes how we think about stress and memory, with wellness implications for anyone trying to understand why certain difficult moments linger."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Psychiatry",
       "chunk": "2/2",
       "status": "new"
     },
@@ -895,33 +1297,6 @@
       "run_date": "2026-11-15",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "43001460",
-      "headline": "That pricier 'advanced' creatine supplement absorbs no better than the basic version \u2014 even in women",
-      "journal": "Journal of the International Society of Sports Nutrition",
-      "pubdate": "2026 Dec 31",
-      "doi": "10.1080/15502783.2026.2745618",
-      "groundbreaking": "Counterintuitive finding / Relevant women's health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a randomized, double-blind crossover study, 17 healthy recreationally active adults (9 female, 8 male; mean age 22) consumed a single 5g dose of a novel creatine monohydrate formulation (OptiCreatine) or standard creatine monohydrate on two separate visits, with blood drawn at multiple timepoints over 5 hours. No significant differences were found in any pharmacokinetic parameter \u2014 peak concentration, time to peak, absorption rate, or area under the curve \u2014 between the two formulations, with no sex-by-treatment interactions. Gastrointestinal tolerability was similarly low-symptom for both products.",
-      "why_it_matters": "As creatine supplements surge in popularity among women for fitness, bone health, and cognitive benefits, this finding suggests women may not need to pay a premium for 'optimized' creatine formulations over standard creatine monohydrate.",
-      "caveats": "small sample (N<100), single-center, short follow-up, industry funding [ASR serves as scientific advisor for companies selling creatine: Create, NeoLife], acute single-dose design only",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Counterintuitive consumer finding; female participants included with sex-disaggregated analysis; industry conflict noted.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Shape",
-          "headline": "Save Your Money: The Fancy New Creatine Formula Works No Better Than the Cheap One",
-          "hook": "A new study found that a novel 'optimized' creatine formula absorbed into the bloodstream at exactly the same rate as basic creatine monohydrate \u2014 in both men and women.",
-          "pitch_angle": "With creatine becoming a staple in women's wellness routines, brands are marketing premium reformulations as superior \u2014 but early evidence suggests the standard version performs identically. The study specifically analyzed women separately, finding no difference, which is a rare and welcome detail in sports nutrition research."
-        }
-      ],
-      "run_date": "2026-11-15",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
       "status": "new"
     },
     {
